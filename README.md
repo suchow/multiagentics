@@ -154,6 +154,7 @@
 - **[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://arxiv.org/abs/2411.04468)**: Fourney et al. present a modular orchestrator-led multi-agent system for open-ended web and file-based tasks (2024).
 - **[Generative Agent Simulations of 1,000 People](https://arxiv.org/abs/2411.10109)**: Park et al. build agents from qualitative interviews with 1,052 real individuals and measure how accurately they reproduce survey responses and behaviors (2024).
 - **[MultiAgentBench: Evaluating the Collaboration and Competition of LLM Agents](https://arxiv.org/abs/2503.01935)**: Zhu et al. introduce a benchmark with milestone-based metrics across collaborative and competitive scenarios and coordination topologies (2025).
+- **[Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)**: Kim et al. compare single-agent and multi-agent architectures across tasks. They find that coordination can improve or degrade performance depending on task structure (2025).
 - **[How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)**: Anthropic's engineering write-up describes an orchestrator-worker architecture in which a lead agent spawns subagents for parallel research (2025).
 
 ## Researchers & labs
