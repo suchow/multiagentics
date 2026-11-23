@@ -23,7 +23,7 @@
 ## Foundations & surveys
 
 - **[An Introduction to MultiAgent Systems (2nd ed.)](https://www.wiley.com/en-us/An+Introduction+to+MultiAgent+Systems,+2nd+Edition-p-9780470519462)**: Michael Wooldridge's standard textbook on classical multi-agent systems, covering agent architectures, interaction, and game-theoretic foundations (Wiley, 2009).
-- **[Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations](https://www.masfoundations.org/mas.pdf)**: Shoham and Leyton-Brown's graduate textbook on the formal foundations of multi-agent systems, available as a free PDF (Cambridge University Press, 2009).
+- **[Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations](https://www.masfoundations.org/)**: Shoham and Leyton-Brown's graduate textbook on the formal foundations of multi-agent systems, available as a free PDF (Cambridge University Press, 2009).
 - **[Open Problems in Cooperative AI](https://arxiv.org/abs/2012.08630)**: Dafoe et al. set out a research agenda for building AI that can cooperate with humans and other agents (2020).
 - **[Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/abs/2402.01680)**: Guo et al. survey LLM-based multi-agent systems across agent profiling, communication, and capability growth (2024).
 - **[LLM Multi-Agent Systems: Challenges and Open Problems](https://arxiv.org/abs/2402.03578)**: Han et al. catalog open problems in LLM multi-agent systems, including task allocation, reasoning, context, and memory (2024).
