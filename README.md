@@ -139,9 +139,12 @@
 
 ## Key papers
 
+- **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
+- **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 - **[Melting Pot](https://arxiv.org/abs/2107.06857)**: Leibo et al. introduce a multi-agent reinforcement learning evaluation suite of test scenarios measuring generalization to novel social situations (2021).
 - **[CICERO: Human-level play in the game of Diplomacy](https://www.science.org/doi/10.1126/science.ade9097)**: Meta's FAIR team report an agent combining a language model with planning and reasoning that reached human-level play in Diplomacy (Science, 2022).
 - **[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)**: Park et al. populate a sandbox town with LLM agents that remember, reflect, and plan to produce believable individual and emergent social behavior (2023).
+- **[SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667)**: Zhou et al. introduce an environment for evaluating social interactions among language agents (2023).
 - **[CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760)**: Li et al. propose a role-playing framework using inception prompting to drive autonomous cooperation between two LLM agents (2023).
 - **[Improving Factuality and Reasoning via Multiagent Debate](https://arxiv.org/abs/2305.14325)**: Du et al. show that having multiple LLM instances debate over several rounds improves factuality and reasoning (2023).
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
