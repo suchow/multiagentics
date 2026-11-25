@@ -66,6 +66,9 @@
 
 ## Communication protocols & standards
 
+- **[Agent Communication Languages: Rethinking the Principles](https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/computer-acl-98.pdf)**: Munindar P. Singh argues for communication semantics grounded in public social interaction and commitments (Computer, 1998).
+- **[Verifiable Semantics for Agent Communication Languages](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/icmas98.pdf)**: Michael Wooldridge defines a formal framework for determining whether an independent observer can verify semantic conformance in specified agent communication systems (ICMAS, 1998).
+
 - **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)**: An open standard, originally from Anthropic and now contributed to the Linux Foundation's Agentic AI Foundation, that connects AI applications to external data sources, tools, and prompts.
 - **[Agent2Agent (A2A)](https://a2a-protocol.org/)**: An open protocol, originally developed by Google and now hosted by the Linux Foundation, that lets independent AI agents discover one another and exchange tasks and messages across vendors and frameworks.
 - **[AGNTCY / Internet of Agents](https://docs.agntcy.org/)**: A Linux Foundation project, initially open-sourced by Cisco, providing infrastructure for agent discovery, identity, messaging, and observability across multi-agent systems.
@@ -96,6 +99,9 @@
 - **[AgentSims](https://github.com/py499372727/AgentSims)**: A sandbox infrastructure for evaluating LLM agents through task-based simulations in an interactive town environment.
 
 ## Benchmarks & evaluation
+
+- **[Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems](https://aclanthology.org/2026.acl-long.912/)**: Chen et al. introduce TraceElephant to evaluate failure attribution using complete execution traces, including agent inputs and context (ACL, 2026).
+- **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ab16cc8f472cf94b282dbff7b99f5f8e-Abstract-Datasets_and_Benchmarks_Track.html)**: Kang et al. introduce VIKI-Bench for visually grounded cooperation across robot embodiments. They evaluate agent activation, task planning, and trajectory perception (NeurIPS, 2025).
 
 - **[LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models](https://aclanthology.org/2025.findings-naacl.448/)**: Agashe et al. evaluate agent behavior in four pure coordination games and use 198 questions to examine environment comprehension, partner reasoning, and joint planning (Findings of NAACL, 2025).
 
