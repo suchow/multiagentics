@@ -110,6 +110,10 @@
 
 ## Cooperative AI, coordination & game theory
 
+- **[Optimal Auction Design](https://pubsonline.informs.org/doi/10.1287/moor.6.1.58)**: Roger B. Myerson studies mechanism design for allocating a scarce resource among agents with private valuations (1981).
+- **[Incentives in Teams](https://ranger.uta.edu/~weems/NOTES6319/PAPERSTWO/groves.pdf)**: Theodore Groves studies compensation rules for aligning decentralized organizational decisions and information reporting with a common objective (1973).
+- **[A Difficulty in the Concept of Social Welfare](https://www.journals.uchicago.edu/doi/abs/10.1086/256963?journalCode=jpe)**: Kenneth J. Arrow establishes limits on aggregating individual rankings into a collective preference under specified conditions (1950).
+
 - **[Teamwork](https://www.sri.com/publication/teamwork/)**: Cohen and Levesque formalize shared commitments and mental states in teamwork, including communication about failures and misunderstandings (1991).
 - **[Collaborative plans for complex group action](https://jmvidal.cse.sc.edu/library/grosz96a.pdf)**: Grosz and Kraus develop SharedPlans for coordinating complex activities with partial plans, commitments, and delegated actions (1996).
 - **[Human Computation](https://www.sigecom.org/exchanges/volume_10/3/LAW.pdf)**: Law and von Ahn survey task allocation, incentives, output aggregation, and joint human–machine problem solving; the link is their book announcement (2011).
@@ -126,6 +130,10 @@
 - **[GovSim / Cooperate or Collapse](https://arxiv.org/abs/2404.16698)**: A simulation platform and paper studying whether societies of LLM agents can sustainably manage shared common-pool resources.
 
 ## Safety, security & failure modes
+
+- **[Secret Collusion among AI Agents: Multi-Agent Deception via Steganography](https://proceedings.neurips.cc/paper_files/paper/2024/hash/861f7dad098aec1c3560fb7add468d41-Abstract-Conference.html)**: Motwani et al. formalize covert coordination through steganographic communication and study limitations of oversight countermeasures (NeurIPS, 2024).
+- **[The Best-Laid SCHEMEs: Coordinated Sabotage and Monitoring in Multi-Agent Systems](https://arxiv.org/abs/2605.29178)**: Radev, Haas, Arnav, and Bernabeu-Pérez introduce SCHEME, a benchmark pairing legitimate coding tasks with instructed malicious side tasks requiring coordination among agents (2026).
+- **[TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems](https://aclanthology.org/2026.acl-long.1442/)**: Kavathekar et al. evaluate adversarial attacks and benign task performance across AutoGen and CrewAI configurations (ACL, 2026).
 
 - **[ORBIT: A Framework for Multi-Agent Safety and Security Evaluations](https://arxiv.org/abs/2609.33102)**: Hagag, Anderson, Chakraborty, and Schroeder de Witt introduce an Inspect-based framework for comparing attacks, defenses, and multi-agent architectures across several scenario families (2026 preprint).
 - **[ConVerse: Benchmarking Contextual Safety in Agent-to-Agent Conversations](https://aclanthology.org/2026.findings-eacl.170/)**: Gomaa, Salem, and Abdelnabi evaluate privacy leakage and security failures in multi-turn conversations between personal assistants and external service agents (Findings of EACL, 2026).
