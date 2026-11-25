@@ -224,6 +224,10 @@
 
 ## Key papers
 
+- **[Particle Swarm Optimization](https://faculty.washington.edu/paymana/swarm/kennedy95-ijcnn.pdf)**: Kennedy and Eberhart introduce a population-based method for nonlinear function optimization, an adjacent foundation for collective search (ICNN, 1995).
+- **[Human-level performance in 3D multiplayer games with population-based reinforcement learning](https://discovery.ucl.ac.uk/id/eprint/10076318/)**: Jaderberg et al. train populations for Capture the Flag and evaluate agents with unfamiliar teammates and opponents, including human players (Science, 2019).
+- **[The Hanabi Challenge: A New Frontier for AI Research](https://research.google/pubs/the-hanabi-challenge-a-new-frontier-for-ai-research/)**: Bard et al. establish Hanabi as an imperfect-information cooperation challenge, release its learning environment, and propose evaluation protocols for agent teams (Artificial Intelligence, 2020).
+
 - **[Multiagent Planning with Factored MDPs](https://proceedings.neurips.cc/paper_files/paper/2001/file/7af6266cc52234b5aa339b16695f7fc4-Paper.pdf)**: Guestrin, Koller, and Parr use factored value functions and coordination-graph message passing to select cooperative joint actions under an approximate value function (NeurIPS, 2001).
 - **[Dynamic Programming for Partially Observable Stochastic Games](https://cdn.aaai.org/AAAI/2004/AAAI04-112.pdf)**: Hansen, Bernstein, and Zilberstein combine dynamic programming with elimination of dominated strategies for finite-horizon partially observable games, including optimal solution computation for the common-payoff case (AAAI, 2004).
 
