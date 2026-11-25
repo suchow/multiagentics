@@ -203,6 +203,11 @@
 
 ## Key papers
 
+- **[Labeling Images with a Computer Game](https://www.cs.cmu.edu/~biglou/ESP.pdf)**: Luis von Ahn and Laura Dabbish introduce the ESP Game, in which paired human players’ matching descriptions produce image labels (CHI, 2004).
+- **[reCAPTCHA: Human-Based Character Recognition via Web Security Measures](https://www.cs.cmu.edu/~biglou/reCAPTCHA_Science.pdf)**: Von Ahn, Maurer, McMillen, Abraham, and Blum combine control questions, repeated human responses, and OCR outputs to transcribe scanned words during security checks (Science, 2008).
+- **[Mean Field Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v80/yang18d.html)**: Yang et al. approximate population interactions through average neighboring behavior and develop mean-field Q-learning and actor-critic algorithms (ICML, 2018).
+- **[Learning with Opponent-Learning Awareness](https://ifaamas.org/Proceedings/aamas2018/pdfs/p122.pdf)**: Foerster et al. introduce LOLA, which accounts for how an agent’s policy influences other agents’ learning updates, with experiments on repeated games and a gridworld social dilemma (AAMAS, 2018).
+
 - **[Bagging Predictors](https://link.springer.com/article/10.1007/BF00058655)**: Leo Breiman combines predictors trained on bootstrap samples through averaging or plurality voting, an adjacent foundation for aggregation of multiple predictions (1996).
 - **[A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting](https://www.schapire.net/papers/FreundSc95.pdf)**: Freund and Schapire develop multiplicative-weight allocation under bounded losses and AdaBoost for combining weak learners, an adjacent ensemble-learning foundation (1997).
 - **[From One to Many: Planning for Loosely Coupled Multi-Agent Systems](https://cdn.aaai.org/ICAPS/2008/ICAPS08-004.pdf)**: Brafman and Domshlak formalize how agent coupling affects cooperative planning complexity and develop planning methods that exploit limited interactions under their STRIPS-based model (ICAPS, 2008).
