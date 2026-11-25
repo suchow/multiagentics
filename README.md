@@ -149,6 +149,9 @@
 
 ## Cooperative AI, coordination & game theory
 
+- **[The Evolution of Cooperation](https://websites.umich.edu/axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf)**: Axelrod and Hamilton study conditions for reciprocal cooperation through iterated prisoner’s-dilemma strategies and evolutionary analysis (Science, 1981).
+- **[Five Rules for the Evolution of Cooperation](https://pmc.ncbi.nlm.nih.gov/articles/PMC3279745/)**: Martin A. Nowak synthesizes kin selection, direct reciprocity, indirect reciprocity, network reciprocity, and group selection through model-specific cooperation conditions (Science, 2006).
+
 - **[Non-Cooperative Games](https://cs.uwaterloo.ca/~klarson/teaching/F04-886/papers/nash51.pdf)**: John Nash defines equilibrium for finite non-cooperative games and proves its existence (1951).
 - **[Subjectivity and Correlation in Randomized Strategies](https://cris.huji.ac.il/en/publications/subjectivity-and-correlation-in-randomized-strategies/)**: Robert J. Aumann introduces correlated equilibrium, in which agents can condition decisions on correlated signals (1974).
 - **[A Simple Adaptive Procedure Leading to Correlated Equilibrium](https://ma.huji.ac.il/hart/papers/adapt.pdf)**: Hart and Mas-Colell introduce regret matching and prove convergence of empirical play to the correlated-equilibrium set under their finite-game assumptions (2000).
@@ -211,6 +214,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning](https://proceedings.mlr.press/v97/jaques19a.html)**: Jaques et al. reward agents for counterfactually estimated influence on other agents’ actions and evaluate coordination and learned communication in social dilemmas (ICML, 2019).
+- **[Learning to Incentivize Other Learning Agents](https://proceedings.neurips.cc/paper/2020/hash/ad7ed5d47b9baceb12045a929e7e2f66-Abstract.html)**: Yang et al. learn incentive functions that transfer rewards between agents and account for their effects on recipients’ learning in general-sum Markov games (NeurIPS, 2020).
 
 - **[AgentAsk: Multi-Agent Systems Need to Ask](https://aclanthology.org/2026.acl-long.1294/)**: Lin et al. classify errors at inter-agent handoffs and train clarification interventions that balance accuracy, communication cost, and latency (ACL, 2026).
 
