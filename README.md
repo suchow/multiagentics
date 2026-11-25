@@ -94,6 +94,9 @@
 
 ## Benchmarks & evaluation
 
+- **[SILO-BENCH: A Scalable Environment for Evaluating Distributed Coordination in Multi-Agent LLM Systems](https://aclanthology.org/2026.acl-long.1354/)**: Zhang et al. evaluate role-free collaboration under distributed information through 30 algorithmic tasks with exact answers and three levels of communication complexity (ACL, 2026).
+- **[PAC-BENCH: Evaluating Multi-Agent Collaboration under Privacy Constraints](https://aclanthology.org/2026.findings-acl.1552/)**: Park et al. evaluate multi-agent collaboration under privacy constraints and analyze coordination failures involving disclosure, abstraction, and unsupported information (Findings of ACL, 2026).
+
 - **[PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks](https://proceedings.iclr.cc/paper_files/paper/2025/hash/a3cf318fbeec1126da21e9185ae9908c-Abstract-Conference.html)**: Chang et al. evaluate household human–robot collaboration through 100,000 simulated tasks with spatial, temporal, and heterogeneous capability constraints (ICLR, 2025).
 - **[LLM Agents for Coordinating Multi-User Information Gathering](https://aclanthology.org/2025.findings-acl.916/)**: Jhamtani, Andreas, and Van Durme introduce PeopleJoin, which evaluates teammate discovery, information gathering, and answer synthesis across synthetic organizations (Findings of ACL, 2025).
 
@@ -197,6 +200,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
+- **[Agreeing to Disagree](https://www.haverford.edu/sites/default/files/Aumann1976.pdf)**: Robert J. Aumann proves that two agents with a common prior and common knowledge of their posterior probabilities for the same event must assign it equal probabilities (1976).
 
 - **[The Distributed Constraint Satisfaction Problem: Formalization and Algorithms](https://jmvidal.cse.sc.edu/library/yokoo98a.pdf)**: Yokoo, Durfee, Ishida, and Kuwabara formalize distributed constraint satisfaction and develop asynchronous backtracking and weak-commitment search for coordinating consistent agent decisions (1998).
 - **[Adopt: Asynchronous Distributed Constraint Optimization with Quality Guarantees](https://robots.isi.edu/prl/modi2005adopt-asynchronous-distributed-constraint.pdf)**: Modi, Shen, Tambe, and Yokoo introduce asynchronous optimization with optimality and bounded-error guarantees under their distributed constraint optimization model (2005).
