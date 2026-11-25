@@ -207,6 +207,11 @@
 
 ## Key papers
 
+- **[Novel Type of Phase Transition in a System of Self-Driven Particles](https://www.uio.no/studier/emner/matnat/fys/FYS4715/h25/ch3-5_motion/src/vicsek1995.pdf)**: Vicsek et al. model collective motion through constant-speed particles that align with neighboring directions under noise (Physical Review Letters, 1995).
+- **[Effective Leadership and Decision-Making in Animal Groups on the Move](https://pdodds.w3.uvm.edu/teaching/courses/2009-08UVM-300/docs/others/everything/couzin2005a.pdf)**: Couzin, Krause, Franks, and Levin model how informed minorities can guide group movement without explicit signaling or identification of informed individuals (Nature, 2005).
+- **[MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928)**: Motwani et al. train role-specialized generation, verification, and refinement agents using rewards propagated through sampled reasoning trees. They evaluate the method on MATH, GSM8K, and CSQA (COLM, 2025).
+- **[Emergent social conventions and collective bias in LLM populations](https://www.lajello.com/papers/sciadv25emergent.pdf)**: Ashery, Aiello, and Baronchelli study shared naming conventions, collective bias, and convention changes driven by committed minorities in interacting LLM populations (Science Advances, 2025).
+
 - **[A Market-Oriented Programming Environment and its Application to Distributed Multicommodity Flow Problems](https://arxiv.org/abs/cs/9308102)**: Michael P. Wellman introduces WALRAS, a computational market environment for resource allocation through competitive price equilibria under specified economic assumptions (JAIR, 1993).
 - **[Sold!: Auction Methods for Multirobot Coordination](https://ai.stanford.edu/~gerkey/research/final_papers/tra01.pdf)**: Gerkey and Matarić implement MURDOCH’s dynamic auction-based task allocation and evaluate coordination among physical robots (2002).
 - **[Don’t lie to your friends: Learning what you know from collaborative self-play](https://proceedings.colm.cc/paper_files/paper/2025/hash/2ea07a4acbf7e38913062fd69a70805f-Abstract-Conference.html)**: Eisenstein et al. train small agent groups with shared rewards and different retrieval tools. They study transfer to single-agent tool use and selective answering (COLM, 2025 pre-proceedings).
