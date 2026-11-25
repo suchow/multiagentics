@@ -108,6 +108,10 @@
 
 ## Cooperative AI, coordination & game theory
 
+- **[Teamwork](https://www.sri.com/publication/teamwork/)**: Cohen and Levesque formalize shared commitments and mental states in teamwork, including communication about failures and misunderstandings (1991).
+- **[Collaborative plans for complex group action](https://jmvidal.cse.sc.edu/library/grosz96a.pdf)**: Grosz and Kraus develop SharedPlans for coordinating complex activities with partial plans, commitments, and delegated actions (1996).
+- **[Human Computation](https://www.sigecom.org/exchanges/volume_10/3/LAW.pdf)**: Law and von Ahn survey task allocation, incentives, output aggregation, and joint human–machine problem solving; the link is their book announcement (2011).
+
 - **[Groups of diverse problem solvers can outperform groups of high-ability problem solvers](https://pmc.ncbi.nlm.nih.gov/articles/PMC528939/)**: Hong and Page model how complementary representations and search heuristics can improve team problem solving under stated mathematical assumptions (PNAS, 2004).
 - **[Evidence for a Collective Intelligence Factor in the Performance of Human Groups](https://www.chabris.com/Woolley2010a.pdf)**: Woolley et al. study human-group performance across diverse tasks and its relationship to interaction patterns. Transfer of these findings to AI teams is unverified (Science, 2010).
 
@@ -144,6 +148,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Adaptive Mixtures of Local Experts](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf)**: Jacobs, Jordan, Nowlan, and Hinton introduce learned routing among specialist networks, an architectural foundation for specialization and aggregation (1991).
+- **[On the acceptability of arguments and its fundamental role in nonmonotonic reasoning, logic programming and n-person games](https://cse-robotics.engr.tamu.edu/dshell/cs631/papers/dung95acceptability.pdf)**: Phan Minh Dung introduces abstract argumentation frameworks for reasoning about attacks between arguments and the acceptability of sets of arguments (1995).
 
 - **[Markov games as a framework for multi-agent reinforcement learning](https://aima.eecs.berkeley.edu/~russell/classes/cs294/f21/papers/Littman_ICML94_Markov_Games.pdf)**: Michael L. Littman formulates multi-agent reinforcement learning through Markov games and presents minimax-Q for two-player zero-sum settings (ICML, 1994).
 - **[Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1705.08926)**: Foerster et al. introduce COMA, which uses a centralized critic and a counterfactual baseline for credit assignment among cooperative agents (2017 preprint; AAAI, 2018).
