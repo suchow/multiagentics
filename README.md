@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Actors: A Model of Concurrent Computation in Distributed Systems](https://mitpress.mit.edu/9780262511414/actors/)**: Gul Agha formalizes actor computation through a language and mathematical model for asynchronous interaction among independently executing components (MIT Press, 1986).
+
 - **[Handbook of Computational Social Choice](https://www.cambridge.org/core/books/handbook-of-computational-social-choice/8AF63E87F76A5FC974D5E73536C52BD6)**: Edited by Brandt, Conitzer, Endriss, Lang, and Procaccia, this reference covers voting, preference aggregation, allocation, and collective decision-making (Cambridge University Press, 2016).
 - **[Rules of Encounter: Designing Conventions for Automated Negotiation among Computers](https://mitpress.mit.edu/9780262181594/rules-of-encounter/)**: Rosenschein and Zlotkin study interaction protocols for autonomous agents with different goals through game-theoretic models of negotiation (MIT Press, 1994).
 - **[Strategic Negotiation in Multiagent Environments](https://mitpress.mit.edu/9780262112642/strategic-negotiation-in-multiagent-environments/)**: Sarit Kraus develops strategic negotiation methods for self-interested agents using game theory, economic models, and AI techniques (MIT Press, 2001).
@@ -91,6 +93,8 @@
 - **[AgentSims](https://github.com/py499372727/AgentSims)**: A sandbox infrastructure for evaluating LLM agents through task-based simulations in an interactive town environment.
 
 ## Benchmarks & evaluation
+
+- **[The Evaluation Substrate Matters: Benchmarking Multi-Agent Serving Substrates](https://arxiv.org/abs/2611.28671)**: Zheng et al. introduce MASSys to compare the same agent workloads across serving environments and loads using evidence on task quality, delivery, latency, cost, and failures (2026 preprint).
 
 - **[TeamBench: Evaluating Agent Coordination under Enforced Role Separation](https://arxiv.org/abs/2605.07073)**: Kim et al. evaluate coordination under operating system-enforced separation of Planner, Executor, and Verifier roles (2026 preprint).
 - **[AsynCodeBench: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering](https://arxiv.org/abs/2609.32662)**: Zhang et al. measure whether and when cross-agent coding dependencies are satisfied through executable checks across 19 repository tasks (2026 preprint).
@@ -186,6 +190,10 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[A Universal Modular ACTOR Formalism for Artificial Intelligence](https://ijcai.org/proceedings/1973/31)**: Hewitt, Bishop, and Steiger introduce computational actors that interact through messages (IJCAI, 1973).
+- **[Social Interaction Breaks Replicate Independence in Controlled-Clone LLM Agents](https://arxiv.org/abs/2611.29581)**: Zheng, Luo, and Luu use matched controlled-clone experiments to study how interaction changes response profiles and affects independence assumptions in multi-agent evaluation (2026 preprint).
+- **[From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent LLM Systems](https://arxiv.org/abs/2611.31063)**: Yu et al. introduce REPA and ErrPropBench-10 to model error propagation through agent workflows and evaluate targeted recovery (2026 preprint).
 
 - **[Intention Is Choice with Commitment](https://cs.stanford.edu/~epacuit/classes/lori-spr09/cohenlevesque-intention-aij90.pdf)**: Cohen and Levesque formalize relationships among beliefs, goals, actions, and persistent commitments, including conditions for abandoning intentions (1990).
 - **[Commitments and conventions: The foundation of coordination in multi-agent systems](https://maxapress.com/data/article/ker/preview/pdf/S0269888900000205.pdf)**: Nick R. Jennings models coordination through commitments and conventions for reassessing them as circumstances change (1993).
