@@ -169,6 +169,8 @@
 
 ## Safety, security & failure modes
 
+- **[Multi-Agent Systems Execute Arbitrary Malicious Code](https://arxiv.org/abs/2503.12188)**: Triedman, Jha, and Shmatikov demonstrate control-flow hijacking through untrusted content in tested multi-agent frameworks, including code execution and data exfiltration (2025).
+
 - **[Secret Collusion among AI Agents: Multi-Agent Deception via Steganography](https://proceedings.neurips.cc/paper_files/paper/2024/hash/861f7dad098aec1c3560fb7add468d41-Abstract-Conference.html)**: Motwani et al. formalize covert coordination through steganographic communication and study limitations of oversight countermeasures (NeurIPS, 2024).
 - **[The Best-Laid SCHEMEs: Coordinated Sabotage and Monitoring in Multi-Agent Systems](https://arxiv.org/abs/2605.29178)**: Radev, Haas, Arnav, and Bernabeu-Pérez introduce SCHEME, a benchmark pairing legitimate coding tasks with instructed malicious side tasks requiring coordination among agents (2026).
 - **[TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems](https://aclanthology.org/2026.acl-long.1442/)**: Kavathekar et al. evaluate adversarial attacks and benign task performance across AutoGen and CrewAI configurations (ACL, 2026).
@@ -204,6 +206,10 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[A Market-Oriented Programming Environment and its Application to Distributed Multicommodity Flow Problems](https://arxiv.org/abs/cs/9308102)**: Michael P. Wellman introduces WALRAS, a computational market environment for resource allocation through competitive price equilibria under specified economic assumptions (JAIR, 1993).
+- **[Sold!: Auction Methods for Multirobot Coordination](https://ai.stanford.edu/~gerkey/research/final_papers/tra01.pdf)**: Gerkey and Matarić implement MURDOCH’s dynamic auction-based task allocation and evaluate coordination among physical robots (2002).
+- **[Don’t lie to your friends: Learning what you know from collaborative self-play](https://proceedings.colm.cc/paper_files/paper/2025/hash/2ea07a4acbf7e38913062fd69a70805f-Abstract-Conference.html)**: Eisenstein et al. train small agent groups with shared rewards and different retrieval tools. They study transfer to single-agent tool use and selective answering (COLM, 2025 pre-proceedings).
 
 - **[An Analysis of Formal Inter-Agent Dialogues](https://www.sci.brooklyn.cuny.edu/~parsons/publications/conferences/aamas02c.pdf)**: Parsons, Wooldridge, and Amgoud define argument-exchange protocols and analyze how agent attitudes affect termination and complexity in formal-language dialogues (AAMAS, 2002).
 - **[Why Do Humans Reason? Arguments for an Argumentative Theory](https://www.dan.sperber.fr/wp-content/uploads/2011_mercier_why-do-humans-reason.pdf)**: Mercier and Sperber propose that producing and evaluating arguments is a central function of human reasoning. Transfer of this cognitive theory to AI teams is unverified (2011).
