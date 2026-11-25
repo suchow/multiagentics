@@ -103,6 +103,9 @@
 
 ## Benchmarks & evaluation
 
+- **[MACRO: A Benchmark for Clarification-Aware Multi-Agent Orchestration](https://aclanthology.org/2026.emnlp-main.2061/)**: Li et al. evaluate clarification, routing, and dependent-subtask coordination in travel requests using process-level milestones and standardized sub-agent interfaces (EMNLP, 2026).
+- **[The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models](https://aclanthology.org/2026.findings-eacl.27/)**: Hakimov et al. compare negotiation performance, computational cost, and reasoning-language consistency across three languages and three dialogue games (Findings of EACL, 2026).
+
 - **[Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems](https://aclanthology.org/2026.acl-long.912/)**: Chen et al. introduce TraceElephant to evaluate failure attribution using complete execution traces, including agent inputs and context (ACL, 2026).
 - **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ab16cc8f472cf94b282dbff7b99f5f8e-Abstract-Datasets_and_Benchmarks_Track.html)**: Kang et al. introduce VIKI-Bench for visually grounded cooperation across robot embodiments. They evaluate agent activation, task planning, and trajectory perception (NeurIPS, 2025).
 
@@ -157,6 +160,9 @@
 - **[OpenInference](https://github.com/Arize-ai/openinference)**: Specification and instrumentation libraries from Arize that complement OpenTelemetry to standardize tracing of AI applications.
 
 ## Cooperative AI, coordination & game theory
+
+- **[Potential Games](https://old.corelab.ntua.gr/courses/gametheory/old/1011/material/potentialgames.pdf)**: Monderer and Shapley characterize games whose unilateral payoff changes correspond to changes in a potential function, with equilibrium and improvement-path properties tied to that structure (1996).
+- **[Coalition Formation among Bounded Rational Agents](https://ijcai.org/proceedings/1995/87)**: Sandholm and Lesser model coalition formation when computation has a cost and analyze how algorithm performance affects coalition value and stability (IJCAI, 1995).
 
 - **[The Evolution of Cooperation](https://websites.umich.edu/axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf)**: Axelrod and Hamilton study conditions for reciprocal cooperation through iterated prisoner’s-dilemma strategies and evolutionary analysis (Science, 1981).
 - **[Five Rules for the Evolution of Cooperation](https://pmc.ncbi.nlm.nih.gov/articles/PMC3279745/)**: Martin A. Nowak synthesizes kin selection, direct reciprocity, indirect reciprocity, network reciprocity, and group selection through model-specific cooperation conditions (Science, 2006).
