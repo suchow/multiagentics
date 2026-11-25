@@ -79,6 +79,9 @@
 
 ## Environments & simulation
 
+- **[Google Research Football: A Novel Reinforcement Learning Environment](https://cdn.aaai.org/ojs/5878/5878-13-9103-1-10-20200513.pdf)**: Kurach et al. provide a football simulator with multiplayer and multi-agent support, full-game benchmarks, and simpler Football Academy scenarios (AAAI, 2020).
+- **[The Neural MMO Platform for Massively Multiagent Research](https://arxiv.org/abs/2110.07594)**: Suarez, Du, Zhu, Mordatch, and Isola describe the 2021 MMO-inspired platform combining large agent populations, long horizons, open-ended tasks, and modular game systems (2021).
+
 - **[How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis](https://arxiv.org/abs/2402.05863)**: Bianchi et al. introduce multi-turn ultimatum, trading, and price-negotiation games between language agents (2024).
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/abs/2502.08691)**: Piao et al. simulate large populations of language-model agents in social environments for experiments on collective behavior and policy interventions (2025 preprint).
 
@@ -220,6 +223,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Multiagent Planning with Factored MDPs](https://proceedings.neurips.cc/paper_files/paper/2001/file/7af6266cc52234b5aa339b16695f7fc4-Paper.pdf)**: Guestrin, Koller, and Parr use factored value functions and coordination-graph message passing to select cooperative joint actions under an approximate value function (NeurIPS, 2001).
+- **[Dynamic Programming for Partially Observable Stochastic Games](https://cdn.aaai.org/AAAI/2004/AAAI04-112.pdf)**: Hansen, Bernstein, and Zilberstein combine dynamic programming with elimination of dominated strategies for finite-horizon partially observable games, including optimal solution computation for the common-payoff case (AAAI, 2004).
 
 - **[Sharp Transition towards Shared Vocabularies in Multi-Agent Systems](https://www.codebiology.org/pdf/%5B3%5D%20Baronchelli%20et%20al%20%282006%29.pdf)**: Baronchelli, Felici, Loreto, Caglioti, and Steels study shared naming conventions produced by local language games without central control in a simplified agent model (2006).
 - **[Towards Open Ad Hoc Teamwork Using Graph-based Policy Learning](https://proceedings.mlr.press/v139/rahman21a.html)**: Rahman et al. learn teammate and joint-action value models for collaboration when agents with fixed policies enter and leave without advance notice (ICML, 2021).
