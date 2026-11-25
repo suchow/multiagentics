@@ -139,6 +139,11 @@
 
 ## Key papers
 
+- **[AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs](https://arxiv.org/abs/2609.31590)**: Shu et al. evaluate long-horizon collaboration among agents with asymmetric roles and abilities (2026).
+- **[Architectural Design, Not Only Model Intelligence, Governs Multi-Agent LLM Performance](https://arxiv.org/abs/2602.03128)**: Orogat, Rostam, and Mansour introduce MAFBench and compare multi-agent frameworks with the underlying language model held fixed (2026).
+- **[Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275)**: Lowe et al. introduce MADDPG, an actor-critic approach to centralized training and decentralized execution in cooperative and competitive environments (NeurIPS, 2017).
+- **[The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games](https://arxiv.org/abs/2103.01955)**: Yu et al. evaluate PPO-based methods as baselines for cooperative multi-agent reinforcement learning (2021 preprint; NeurIPS, 2022).
+
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 - **[Melting Pot](https://arxiv.org/abs/2107.06857)**: Leibo et al. introduce a multi-agent reinforcement learning evaluation suite of test scenarios measuring generalization to novel social situations (2021).
