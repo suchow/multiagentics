@@ -73,6 +73,9 @@
 
 ## Benchmarks & evaluation
 
+- **[CooperBench: Why Coding Agents Cannot be Your Teammates Yet](https://arxiv.org/abs/2601.13295)**: Khatua et al. evaluate coordination between coding agents assigned separate features that may conflict, using repository tasks with expert-written tests (2026).
+- **[Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](https://aclanthology.org/2025.emnlp-main.249/)**: Sun et al. evaluate communication and adaptation during collaborative task execution in an Overcooked environment (EMNLP, 2025).
+
 - **[MultiAgentBench / MARBLE](https://github.com/ulab-uiuc/MARBLE)**: An ACL 2025 benchmark and framework that evaluates the collaboration and competition of LLM agents across coordination topologies using milestone-based metrics.
 - **[REALM-Bench](https://github.com/genglongling/REALM-Bench)**: A benchmark for evaluating multi-agent systems on real-world, dynamic planning and scheduling tasks across multiple agent frameworks.
 - **[AgentBench](https://github.com/THUDM/AgentBench)**: An ICLR 2024 benchmark that evaluates LLMs as autonomous agents across eight distinct interactive environments.
@@ -138,6 +141,11 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[The Contract Net Protocol: High-Level Communication and Control in a Distributed Problem Solver](https://reidgsmith.com/The_Contract_Net_Protocol_Dec-1980.pdf)**: Reid G. Smith describes task allocation through announcements, bids, and awards among distributed problem solvers (1980).
+- **[The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty](https://mas.cs.umass.edu/Documents/Erman_Hearsay80.pdf)**: Erman, Hayes-Roth, Lesser, and Reddy describe a blackboard architecture for coordinating independent knowledge sources through shared intermediate results (1980).
+- **[BDI Agents: From Theory to Practice](https://cdn.aaai.org/ICMAS/1995/ICMAS95-042.pdf)**: Rao and Georgeff connect belief–desire–intention theory with practical agent implementations and an air-traffic-management application (ICMAS, 1995).
+- **[Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2410.02506)**: Zhang et al. introduce AgentPrune, which prunes message-passing graphs to reduce communication overhead in multi-agent systems (2024 preprint; ICLR, 2025).
 
 - **[AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs](https://arxiv.org/abs/2609.31590)**: Shu et al. evaluate long-horizon collaboration among agents with asymmetric roles and abilities (2026).
 - **[Architectural Design, Not Only Model Intelligence, Governs Multi-Agent LLM Performance](https://arxiv.org/abs/2602.03128)**: Orogat, Rostam, and Mansour introduce MAFBench and compare multi-agent frameworks with the underlying language model held fixed (2026).
