@@ -161,6 +161,9 @@
 
 ## Cooperative AI, coordination & game theory
 
+- **[Stochastic Games](https://bpb-us-w2.wpmucdn.com/sites.umassd.edu/dist/1/1807/files/2026/02/Stochastic-games-Shapley.pdf)**: Lloyd S. Shapley introduces games with jointly controlled probabilistic state transitions and establishes stationary optimal strategies for finite two-player zero-sum games with a positive stopping probability (PNAS, 1953).
+- **[Games with Incomplete Information Played by “Bayesian” Players, I–III. Part I. The Basic Model](https://gamef21.classes.ryansafner.com/readings/Harsanyi-1967.pdf)**: John C. Harsanyi models uncertainty about other players’ payoffs and information through player types and probabilistic beliefs (Management Science, 1967).
+
 - **[Potential Games](https://old.corelab.ntua.gr/courses/gametheory/old/1011/material/potentialgames.pdf)**: Monderer and Shapley characterize games whose unilateral payoff changes correspond to changes in a potential function, with equilibrium and improvement-path properties tied to that structure (1996).
 - **[Coalition Formation among Bounded Rational Agents](https://ijcai.org/proceedings/1995/87)**: Sandholm and Lesser model coalition formation when computation has a cost and analyze how algorithm performance affects coalition value and stability (IJCAI, 1995).
 
@@ -229,6 +232,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](https://proceedings.mlr.press/v306/liu26k.html)**: Liu et al. compare centralized and decentralized critics for training decentralized LLM teams across writing, coding, and game-playing tasks (ICML, 2026).
+- **[Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization](https://proceedings.colm.cc/paper_files/paper/2025/hash/80e354fdac2c7fbf439a51f4853edbac-Abstract-Conference.html)**: He et al. train role-free language agents using reassigned process rewards and synthesized preferences. They evaluate collaboration across interactive environments (COLM, 2025 pre-proceedings).
 
 - **[Particle Swarm Optimization](https://faculty.washington.edu/paymana/swarm/kennedy95-ijcnn.pdf)**: Kennedy and Eberhart introduce a population-based method for nonlinear function optimization, an adjacent foundation for collective search (ICNN, 1995).
 - **[Human-level performance in 3D multiplayer games with population-based reinforcement learning](https://discovery.ucl.ac.uk/id/eprint/10076318/)**: Jaderberg et al. train populations for Capture the Flag and evaluate agents with unfamiliar teammates and opponents, including human players (Science, 2019).
