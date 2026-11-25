@@ -195,6 +195,9 @@
 
 ## Safety, security & failure modes
 
+- **[On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents](https://proceedings.mlr.press/v267/huang25ay.html)**: Huang et al. inject faulty agent responses to compare collaboration structures and evaluate challenge and inspection mechanisms across four tasks (ICML, 2025).
+- **[Among Us: Measuring and Mitigating Malicious Contributions in Model Collaboration Systems](https://aclanthology.org/2026.acl-long.725/)**: Yang et al. evaluate malicious model contributions across four collaboration settings and ten datasets, then test supervisory mitigation strategies (ACL, 2026).
+
 - **[Multi-Agent Systems Execute Arbitrary Malicious Code](https://arxiv.org/abs/2503.12188)**: Triedman, Jha, and Shmatikov demonstrate control-flow hijacking through untrusted content in tested multi-agent frameworks, including code execution and data exfiltration (2025).
 
 - **[Secret Collusion among AI Agents: Multi-Agent Deception via Steganography](https://proceedings.neurips.cc/paper_files/paper/2024/hash/861f7dad098aec1c3560fb7add468d41-Abstract-Conference.html)**: Motwani et al. formalize covert coordination through steganographic communication and study limitations of oversight countermeasures (NeurIPS, 2024).
@@ -232,6 +235,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf)**: Lamport, Shostak, and Pease establish agreement protocols and fault-tolerance limits when participants may send conflicting information, under specified communication and authentication assumptions (1982).
+- **[Efficiency of Experimental Security Markets with Insider Information: An Application of Rational-Expectations Models](https://www.journals.uchicago.edu/doi/10.1086/261084)**: Plott and Sunder test information revelation in laboratory security markets containing informed insiders under repeated market conditions (Journal of Political Economy, 1982).
 
 - **[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](https://proceedings.mlr.press/v306/liu26k.html)**: Liu et al. compare centralized and decentralized critics for training decentralized LLM teams across writing, coding, and game-playing tasks (ICML, 2026).
 - **[Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization](https://proceedings.colm.cc/paper_files/paper/2025/hash/80e354fdac2c7fbf439a51f4853edbac-Abstract-Conference.html)**: He et al. train role-free language agents using reassigned process rewards and synthesized preferences. They evaluate collaboration across interactive environments (COLM, 2025 pre-proceedings).
