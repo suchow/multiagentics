@@ -207,6 +207,11 @@
 
 ## Key papers
 
+- **[Coordination of Groups of Mobile Autonomous Agents Using Nearest Neighbor Rules](https://www.mit.edu/~jadbabai/papers/JadLiMorseTAC_June03.pdf)**: Jadbabaie, Lin, and Morse prove heading convergence under local averaging and sufficiently frequent joint connectivity in noise-free agent models (2003).
+- **[Consensus Problems in Networks of Agents with Switching Topology and Time-Delays](https://www.cds.caltech.edu/~murray/papers/2003f_om04-tac.html)**: Olfati-Saber and Murray develop consensus protocols and convergence analysis for switching networks and communication delays under separate graph and timing assumptions (2004).
+- **[A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3323fe11e9595c09af38fe67567a9394-Abstract.html)**: Lanctot et al. introduce policy-space response oracles, combining learned responses to policy mixtures with empirical game-theoretic strategy selection (NeurIPS, 2017).
+- **[Emergent Tool Use From Multi-Agent Autocurricula](https://arxiv.org/abs/1909.07528)**: Baker et al. study how competing hide-and-seek teams develop successive strategies involving tools and coordination in a physics simulator (ICLR, 2020).
+
 - **[Novel Type of Phase Transition in a System of Self-Driven Particles](https://www.uio.no/studier/emner/matnat/fys/FYS4715/h25/ch3-5_motion/src/vicsek1995.pdf)**: Vicsek et al. model collective motion through constant-speed particles that align with neighboring directions under noise (Physical Review Letters, 1995).
 - **[Effective Leadership and Decision-Making in Animal Groups on the Move](https://pdodds.w3.uvm.edu/teaching/courses/2009-08UVM-300/docs/others/everything/couzin2005a.pdf)**: Couzin, Krause, Franks, and Levin model how informed minorities can guide group movement without explicit signaling or identification of informed individuals (Nature, 2005).
 - **[MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928)**: Motwani et al. train role-specialized generation, verification, and refinement agents using rewards propagated through sampled reasoning trees. They evaluate the method on MATH, GSM8K, and CSQA (COLM, 2025).
