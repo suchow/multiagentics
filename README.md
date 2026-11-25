@@ -205,6 +205,11 @@
 
 ## Key papers
 
+- **[An Analysis of Formal Inter-Agent Dialogues](https://www.sci.brooklyn.cuny.edu/~parsons/publications/conferences/aamas02c.pdf)**: Parsons, Wooldridge, and Amgoud define argument-exchange protocols and analyze how agent attitudes affect termination and complexity in formal-language dialogues (AAMAS, 2002).
+- **[Why Do Humans Reason? Arguments for an Argumentative Theory](https://www.dan.sperber.fr/wp-content/uploads/2011_mercier_why-do-humans-reason.pdf)**: Mercier and Sperber propose that producing and evaluating arguments is a central function of human reasoning. Transfer of this cognitive theory to AI teams is unverified (2011).
+- **[Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs](https://proceedings.mlr.press/v235/smit24a.html)**: Smit et al. compare debate and prompting strategies through accuracy, cost, and time. They examine sensitivity to protocol settings and agent agreement (ICML, 2024).
+- **[Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers](https://arxiv.org/abs/2502.20379)**: Lifshitz, McIlraith, and Du combine best-of-n sampling with multiple aspect-specific verifiers to evaluate candidate answers at inference time (COLM, 2025).
+
 - **[Agent-Oriented Programming](https://cse-robotics.engr.tamu.edu/dshell/cs631/papers/shoham93agent.pdf)**: Yoav Shoham defines agent programs through formally represented beliefs, decisions, capabilities, obligations, and typed communication, with an implemented interpreter (1993).
 - **[The Gaia Methodology for Agent-Oriented Analysis and Design](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/jaamas2000b.pdf)**: Wooldridge, Jennings, and Kinny model multiagent organizations through roles, responsibilities, permissions, and interaction protocols. This version assumes static relationships and capabilities and excludes true conflicts between component goals (2000).
 - **[Post-training for Efficient Communication via Convention Formation](https://arxiv.org/abs/2508.06482)**: Hua, Wang, and Artzi study post-training for communication conventions through reference-game and document-grounded interaction benchmarks (COLM, 2025).
@@ -284,7 +289,7 @@
 - **[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)**: Park et al. populate a sandbox town with LLM agents that remember, reflect, and plan to produce believable individual and emergent social behavior (2023).
 - **[SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667)**: Zhou et al. introduce an environment for evaluating social interactions among language agents (2023).
 - **[CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760)**: Li et al. propose a role-playing framework using inception prompting to drive autonomous cooperation between two LLM agents (2023).
-- **[Improving Factuality and Reasoning via Multiagent Debate](https://arxiv.org/abs/2305.14325)**: Du et al. show that having multiple LLM instances debate over several rounds improves factuality and reasoning (2023).
+- **[Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://proceedings.mlr.press/v235/du24e.html)**: Du et al. evaluate multiple LLM instances debating over several rounds on factuality and reasoning tasks (ICML, 2024).
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 - **[ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924)**: Qian et al. organize LLM agents into a virtual software company with chat-driven design, coding, testing, and documentation stages (2023).
 - **[MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)**: Hong et al. encode standardized operating procedures into an assembly-line multi-agent framework for software tasks (2023).
