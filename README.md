@@ -22,6 +22,10 @@
 
 ## Foundations & surveys
 
+- **[Handbook of Computational Social Choice](https://www.cambridge.org/core/books/handbook-of-computational-social-choice/8AF63E87F76A5FC974D5E73536C52BD6)**: Edited by Brandt, Conitzer, Endriss, Lang, and Procaccia, this reference covers voting, preference aggregation, allocation, and collective decision-making (Cambridge University Press, 2016).
+- **[Rules of Encounter: Designing Conventions for Automated Negotiation among Computers](https://mitpress.mit.edu/9780262181594/rules-of-encounter/)**: Rosenschein and Zlotkin study interaction protocols for autonomous agents with different goals through game-theoretic models of negotiation (MIT Press, 1994).
+- **[Strategic Negotiation in Multiagent Environments](https://mitpress.mit.edu/9780262112642/strategic-negotiation-in-multiagent-environments/)**: Sarit Kraus develops strategic negotiation methods for self-interested agents using game theory, economic models, and AI techniques (MIT Press, 2001).
+
 - **[A Concise Introduction to Decentralized POMDPs](https://www.fransoliehoek.net/pub-html/htmlfiles/b2hd-OliehoekAmato16book.html)**: Frans A. Oliehoek and Christopher Amato introduce cooperative planning with decentralized observations and survey exact and approximate solution methods (Springer, 2016).
 
 - **[The Society of Mind](https://www.simonandschuster.com/books/Society-Of-Mind/Marvin-Minsky/9780671657130)**: Marvin Minsky presents intelligence as the interaction of simpler mental agents, a conceptual foundation for specialist-agent architectures (1986; linked paperback edition, 1988).
@@ -66,6 +70,9 @@
 - **[KQML](https://research.cs.umbc.edu/kqml/)**: The UMBC resource hub for the Knowledge Query and Manipulation Language, an early-1990s DARPA-sponsored language and protocol for knowledge exchange among software agents.
 
 ## Environments & simulation
+
+- **[How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis](https://arxiv.org/abs/2402.05863)**: Bianchi et al. introduce multi-turn ultimatum, trading, and price-negotiation games between language agents (2024).
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/abs/2502.08691)**: Piao et al. simulate large populations of language-model agents in social environments for experiments on collective behavior and policy interventions (2025 preprint).
 
 - **[Overcooked-AI](https://github.com/HumanCompatibleAI/overcooked_ai)**: A cooperative cooking environment from Carroll et al. for studying coordination with human partners and unfamiliar policies (NeurIPS, 2019).
 - **[SMACv2](https://github.com/oxwhirl/smacv2)**: Ellis et al. provide procedurally generated StarCraft II micromanagement scenarios for evaluating decentralized cooperative policies under partial observability (NeurIPS, 2023).
@@ -176,6 +183,8 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents](https://aclanthology.org/2024.acl-long.698/)**: Wang et al. train language agents through behavior cloning and self-reinforcement on filtered social interactions, with human and model-based evaluation (ACL, 2024).
 
 - **[Stay Focused: Problem Drift in Multi-Agent Debate](https://aclanthology.org/2026.findings-eacl.268/)**: Becker et al. study how debates depart from the initial problem and evaluate methods to detect and mitigate that drift (Findings of EACL, 2026).
 
