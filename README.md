@@ -92,6 +92,9 @@
 
 ## Benchmarks & evaluation
 
+- **[TeamBench: Evaluating Agent Coordination under Enforced Role Separation](https://arxiv.org/abs/2605.07073)**: Kim et al. evaluate coordination under operating system-enforced separation of Planner, Executor, and Verifier roles (2026 preprint).
+- **[AsynCodeBench: Benchmarking Collaboration of Asynchronous Multi-Agent Systems in Software Engineering](https://arxiv.org/abs/2609.32662)**: Zhang et al. measure whether and when cross-agent coding dependencies are satisfied through executable checks across 19 repository tasks (2026 preprint).
+
 - **[CooperBench: Why Coding Agents Cannot be Your Teammates Yet](https://arxiv.org/abs/2601.13295)**: Khatua et al. evaluate coordination between coding agents assigned separate features that may conflict, using repository tasks with expert-written tests (2026).
 - **[Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](https://aclanthology.org/2025.emnlp-main.249/)**: Sun et al. evaluate communication and adaptation during collaborative task execution in an Overcooked environment (EMNLP, 2025).
 
@@ -183,6 +186,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Intention Is Choice with Commitment](https://cs.stanford.edu/~epacuit/classes/lori-spr09/cohenlevesque-intention-aij90.pdf)**: Cohen and Levesque formalize relationships among beliefs, goals, actions, and persistent commitments, including conditions for abandoning intentions (1990).
+- **[Commitments and conventions: The foundation of coordination in multi-agent systems](https://maxapress.com/data/article/ker/preview/pdf/S0269888900000205.pdf)**: Nick R. Jennings models coordination through commitments and conventions for reassessing them as circumstances change (1993).
 
 - **[SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents](https://aclanthology.org/2024.acl-long.698/)**: Wang et al. train language agents through behavior cloning and self-reinforcement on filtered social interactions, with human and model-based evaluation (ACL, 2024).
 
