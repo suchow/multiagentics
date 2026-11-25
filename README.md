@@ -197,6 +197,8 @@
 
 ## Safety, security & failure modes
 
+- **[Delegated Misalignment: How Multi-Agent Structures Amplify LLM Safety Risks](https://aclanthology.org/2026.emnlp-main.398/)**: Ying et al. compare single-agent and delegated execution across six models and 49 hazardous tasks. They examine how principal and subordinate roles affect harmful behavior (EMNLP, 2026).
+
 - **[On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents](https://proceedings.mlr.press/v267/huang25ay.html)**: Huang et al. inject faulty agent responses to compare collaboration structures and evaluate challenge and inspection mechanisms across four tasks (ICML, 2025).
 - **[Among Us: Measuring and Mitigating Malicious Contributions in Model Collaboration Systems](https://aclanthology.org/2026.acl-long.725/)**: Yang et al. evaluate malicious model contributions across four collaboration settings and ten datasets, then test supervisory mitigation strategies (ACL, 2026).
 
@@ -237,6 +239,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Cooperative Pathfinding](https://cdn.aaai.org/AIIDE/2005/AIIDE05-020.pdf)**: David Silver introduces Cooperative A*, Hierarchical Cooperative A*, and Windowed Hierarchical Cooperative A* for non-colliding routes, assuming access to other agents’ planned routes (AIIDE, 2005).
+- **[AI, Take the Wheel: What Drives Delegation and Trust in Human–Computer Cooperative Question Answering?](https://aclanthology.org/2026.findings-acl.422/)**: Gor et al. study delegation and answer adoption in mixed human–AI trivia teams across 24 tournament matches (Findings of ACL, 2026).
 
 - **[The Dynamics of Reinforcement Learning in Cooperative Multiagent Systems](https://cdn.aaai.org/AAAI/1998/AAAI98-106.pdf)**: Claus and Boutilier compare independent and joint-action learners and study how game structure and exploration affect equilibrium selection in cooperative repeated games (AAAI, 1998).
 - **[Demystifying Multi-Agent Debate: The Role of Confidence and Diversity](https://aclanthology.org/2026.findings-acl.1694/)**: Zhu et al. analyze initial-answer diversity and calibrated confidence in debate. They compare interventions with vanilla debate and majority voting across six reasoning benchmarks (Findings of ACL, 2026).
