@@ -103,6 +103,8 @@
 
 ## Benchmarks & evaluation
 
+- **[ParaCook: On Time-Efficient Planning for Multi-Agent Systems](https://aclanthology.org/2026.findings-acl.1378/)**: Zhang et al. evaluate time-efficient parallel planning through cooking tasks with simplified actions and adjustable coordination complexity (Findings of ACL, 2026).
+
 - **[MACRO: A Benchmark for Clarification-Aware Multi-Agent Orchestration](https://aclanthology.org/2026.emnlp-main.2061/)**: Li et al. evaluate clarification, routing, and dependent-subtask coordination in travel requests using process-level milestones and standardized sub-agent interfaces (EMNLP, 2026).
 - **[The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models](https://aclanthology.org/2026.findings-eacl.27/)**: Hakimov et al. compare negotiation performance, computational cost, and reasoning-language consistency across three languages and three dialogue games (Findings of EACL, 2026).
 
@@ -235,6 +237,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[The Dynamics of Reinforcement Learning in Cooperative Multiagent Systems](https://cdn.aaai.org/AAAI/1998/AAAI98-106.pdf)**: Claus and Boutilier compare independent and joint-action learners and study how game structure and exploration affect equilibrium selection in cooperative repeated games (AAAI, 1998).
+- **[Demystifying Multi-Agent Debate: The Role of Confidence and Diversity](https://aclanthology.org/2026.findings-acl.1694/)**: Zhu et al. analyze initial-answer diversity and calibrated confidence in debate. They compare interventions with vanilla debate and majority voting across six reasoning benchmarks (Findings of ACL, 2026).
 
 - **[The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf)**: Lamport, Shostak, and Pease establish agreement protocols and fault-tolerance limits when participants may send conflicting information, under specified communication and authentication assumptions (1982).
 - **[Efficiency of Experimental Security Markets with Insider Information: An Application of Rational-Expectations Models](https://www.journals.uchicago.edu/doi/10.1086/261084)**: Plott and Sunder test information revelation in laboratory security markets containing informed insiders under repeated market conditions (Journal of Political Economy, 1982).
