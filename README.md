@@ -67,6 +67,10 @@
 
 ## Environments & simulation
 
+- **[Overcooked-AI](https://github.com/HumanCompatibleAI/overcooked_ai)**: A cooperative cooking environment from Carroll et al. for studying coordination with human partners and unfamiliar policies (NeurIPS, 2019).
+- **[SMACv2](https://github.com/oxwhirl/smacv2)**: Ellis et al. provide procedurally generated StarCraft II micromanagement scenarios for evaluating decentralized cooperative policies under partial observability (NeurIPS, 2023).
+- **[SOTOPIA environment](https://github.com/sotopia-lab/sotopia)**: The open-ended role-play environment accompanying Zhou et al.'s SOTOPIA paper, with scenarios and evaluation tooling for language-agent social interactions (ICLR, 2024).
+
 - **[PettingZoo](https://github.com/Farama-Foundation/PettingZoo)**: A Python API standard and environment suite for multi-agent reinforcement learning, maintained by the Farama Foundation.
 - **[Melting Pot](https://github.com/google-deepmind/meltingpot)**: A DeepMind suite of multi-agent reinforcement learning substrates and test scenarios for evaluating social generalization.
 - **[Concordia](https://github.com/google-deepmind/concordia)**: A DeepMind library for generative agent-based social simulation using a game-master pattern.
@@ -115,6 +119,10 @@
 - **[OpenInference](https://github.com/Arize-ai/openinference)**: Specification and instrumentation libraries from Arize that complement OpenTelemetry to standardize tracing of AI applications.
 
 ## Cooperative AI, coordination & game theory
+
+- **[Non-Cooperative Games](https://cs.uwaterloo.ca/~klarson/teaching/F04-886/papers/nash51.pdf)**: John Nash defines equilibrium for finite non-cooperative games and proves its existence (1951).
+- **[Subjectivity and Correlation in Randomized Strategies](https://cris.huji.ac.il/en/publications/subjectivity-and-correlation-in-randomized-strategies/)**: Robert J. Aumann introduces correlated equilibrium, in which agents can condition decisions on correlated signals (1974).
+- **[A Simple Adaptive Procedure Leading to Correlated Equilibrium](https://ma.huji.ac.il/hart/papers/adapt.pdf)**: Hart and Mas-Colell introduce regret matching and prove convergence of empirical play to the correlated-equilibrium set under their finite-game assumptions (2000).
 
 - **[Optimal Auction Design](https://pubsonline.informs.org/doi/10.1287/moor.6.1.58)**: Roger B. Myerson studies mechanism design for allocating a scarce resource among agents with private valuations (1981).
 - **[Incentives in Teams](https://ranger.uta.edu/~weems/NOTES6319/PAPERSTWO/groves.pdf)**: Theodore Groves studies compensation rules for aligning decentralized organizational decisions and information reporting with a common objective (1973).
@@ -168,6 +176,8 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Stay Focused: Problem Drift in Multi-Agent Debate](https://aclanthology.org/2026.findings-eacl.268/)**: Becker et al. study how debates depart from the initial problem and evaluate methods to detect and mitigate that drift (Findings of EACL, 2026).
 
 - **[The Complexity of Decentralized Control of Markov Decision Processes](https://people.cs.umass.edu/~immerman/pub/bgiz.pdf)**: Bernstein, Givan, Immerman, and Zilberstein establish computational complexity limits for decentralized multi-agent decision-making under partial information (2002).
 - **[Using Partial Global Plans to Coordinate Distributed Problem Solvers](https://ijcai.org/proceedings/1987/183)**: Durfee and Lesser coordinate distributed problem solvers through selectively exchanged local-plan summaries (IJCAI, 1987).
