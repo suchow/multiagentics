@@ -108,6 +108,9 @@
 
 ## Cooperative AI, coordination & game theory
 
+- **[Groups of diverse problem solvers can outperform groups of high-ability problem solvers](https://pmc.ncbi.nlm.nih.gov/articles/PMC528939/)**: Hong and Page model how complementary representations and search heuristics can improve team problem solving under stated mathematical assumptions (PNAS, 2004).
+- **[Evidence for a Collective Intelligence Factor in the Performance of Human Groups](https://www.chabris.com/Woolley2010a.pdf)**: Woolley et al. study human-group performance across diverse tasks and its relationship to interaction patterns. Transfer of these findings to AI teams is unverified (Science, 2010).
+
 - **[Cooperative AI Foundation](https://www.cooperativeai.com/)**: A nonprofit foundation that funds and coordinates research aimed at improving the cooperative capabilities of AI systems.
 - **[Cooperative AI: machines must learn to find common ground (Nature 2021)](https://doi.org/10.1038/d41586-021-01170-0)**: A Nature comment by Dafoe and colleagues arguing that AI research should be reconceived to address problems of cooperation.
 - **[FOCAL: Foundations of Cooperative AI Lab (CMU)](https://www.cs.cmu.edu/~focal/)**: A Carnegie Mellon University lab, directed by Vincent Conitzer, developing game-theoretic foundations for cooperation among autonomous AI agents.
@@ -141,6 +144,10 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Markov games as a framework for multi-agent reinforcement learning](https://aima.eecs.berkeley.edu/~russell/classes/cs294/f21/papers/Littman_ICML94_Markov_Games.pdf)**: Michael L. Littman formulates multi-agent reinforcement learning through Markov games and presents minimax-Q for two-player zero-sum settings (ICML, 1994).
+- **[Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1705.08926)**: Foerster et al. introduce COMA, which uses a centralized critic and a counterfactual baseline for credit assignment among cooperative agents (2017 preprint; AAAI, 2018).
+- **[Value-Decomposition Networks For Cooperative Multi-Agent Learning Based On Team Reward](https://www.ifaamas.org/Proceedings/aamas2018/pdfs/p2085.pdf)**: Sunehag et al. learn an additive decomposition of a shared team value function into agent-wise values for decentralized policies (AAMAS, 2018).
 
 - **[The Contract Net Protocol: High-Level Communication and Control in a Distributed Problem Solver](https://reidgsmith.com/The_Contract_Net_Protocol_Dec-1980.pdf)**: Reid G. Smith describes task allocation through announcements, bids, and awards among distributed problem solvers (1980).
 - **[The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty](https://mas.cs.umass.edu/Documents/Erman_Hearsay80.pdf)**: Erman, Hayes-Roth, Lesser, and Reddy describe a blackboard architecture for coordinating independent knowledge sources through shared intermediate results (1980).
