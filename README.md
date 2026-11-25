@@ -207,6 +207,11 @@
 
 ## Key papers
 
+- **[Nash Q-Learning for General-Sum Stochastic Games](https://www.jmlr.org/papers/v4/hu03a.html)**: Hu and Wellman extend Q-learning through joint-action values and Nash-equilibrium updates, with convergence guarantees restricted to specified stage games (JMLR, 2003).
+- **[Multiagent Learning Using a Variable Learning Rate](https://publications.ri.cmu.edu/multiagent-learning-using-a-variable-learning-rate)**: Bowling and Veloso introduce the WoLF principle for varying learning rates against adapting opponents. Their theoretical self-play convergence result concerns a restricted class of iterated matrix games (2002).
+- **[Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://www.ifaamas.org/Proceedings/aamas2017/pdfs/p464.pdf)**: Leibo et al. introduce sequential social dilemmas and study how learned cooperation changes with environmental conditions in Gathering and Wolfpack games (AAMAS, 2017).
+- **[Inequity aversion improves cooperation in intertemporal social dilemmas](https://proceedings.neurips.cc/paper_files/paper/2018/hash/7fea637fd6d02b8f0adf6f7dc36aed93-Abstract.html)**: Hughes et al. incorporate inequity-averse preferences into Markov-game agents and examine their effects on cooperation and temporal credit assignment (NeurIPS, 2018).
+
 - **[Coordination of Groups of Mobile Autonomous Agents Using Nearest Neighbor Rules](https://www.mit.edu/~jadbabai/papers/JadLiMorseTAC_June03.pdf)**: Jadbabaie, Lin, and Morse prove heading convergence under local averaging and sufficiently frequent joint connectivity in noise-free agent models (2003).
 - **[Consensus Problems in Networks of Agents with Switching Topology and Time-Delays](https://www.cds.caltech.edu/~murray/papers/2003f_om04-tac.html)**: Olfati-Saber and Murray develop consensus protocols and convergence analysis for switching networks and communication delays under separate graph and timing assumptions (2004).
 - **[A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3323fe11e9595c09af38fe67567a9394-Abstract.html)**: Lanctot et al. introduce policy-space response oracles, combining learned responses to policy mixtures with empirical game-theoretic strategy selection (NeurIPS, 2017).
