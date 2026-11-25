@@ -22,6 +22,9 @@
 
 ## Foundations & surveys
 
+- **[The Interdisciplinary Study of Coordination](https://crowston.syr.edu/sites/default/files/acmcs94.pdf)**: Malone and Crowston analyze coordination as managing dependencies among activities, including shared resources, producer–consumer relationships, and task–subtask relationships (ACM Computing Surveys, 1994).
+- **[Exploration and Exploitation in Organizational Learning](https://hiveresearchlab.org/wp-content/uploads/2013/12/march_1991_exploration_and_exploitation_in_organizational_learning.pdf)**: James G. March models mutual learning between individuals and an organizational code and examines trade-offs between developing new knowledge and refining existing knowledge (Organization Science, 1991).
+
 - **[Actors: A Model of Concurrent Computation in Distributed Systems](https://mitpress.mit.edu/9780262511414/actors/)**: Gul Agha formalizes actor computation through a language and mathematical model for asynchronous interaction among independently executing components (MIT Press, 1986).
 
 - **[Handbook of Computational Social Choice](https://www.cambridge.org/core/books/handbook-of-computational-social-choice/8AF63E87F76A5FC974D5E73536C52BD6)**: Edited by Brandt, Conitzer, Endriss, Lang, and Procaccia, this reference covers voting, preference aggregation, allocation, and collective decision-making (Cambridge University Press, 2016).
@@ -93,6 +96,8 @@
 - **[AgentSims](https://github.com/py499372727/AgentSims)**: A sandbox infrastructure for evaluating LLM agents through task-based simulations in an interactive town environment.
 
 ## Benchmarks & evaluation
+
+- **[LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models](https://aclanthology.org/2025.findings-naacl.448/)**: Agashe et al. evaluate agent behavior in four pure coordination games and use 198 questions to examine environment comprehension, partner reasoning, and joint planning (Findings of NAACL, 2025).
 
 - **[The Collaboration Gap: Exploration and Benchmarking of Open-World Agentic Cooperation](https://proceedings.colm.cc/paper_files/paper/2026/hash/42806406dd99e30c3796bc98b2670fa2-Abstract-Conference.html)**: Davidson et al. evaluate natural-language cooperation between homogeneous and heterogeneous agent pairs in maze tasks without prescribed communication formats (COLM, 2026 pre-proceedings).
 
@@ -206,6 +211,8 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[AgentAsk: Multi-Agent Systems Need to Ask](https://aclanthology.org/2026.acl-long.1294/)**: Lin et al. classify errors at inter-agent handoffs and train clarification interventions that balance accuracy, communication cost, and latency (ACL, 2026).
 
 - **[How Social Influence Can Undermine the Wisdom of Crowd Effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC3107299/)**: Lorenz, Rauhut, Schweitzer, and Helbing find that exposure to others’ estimates reduces diversity without improving collective error in their human estimation experiment (PNAS, 2011).
 - **[Network Dynamics of Social Influence in the Wisdom of Crowds](https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf)**: Becker, Brackbill, and Centola compare centralized and decentralized influence networks in human estimation tasks. They find improved accuracy in decentralized networks under the studied conditions (PNAS, 2017).
