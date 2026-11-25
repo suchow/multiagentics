@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[The Society of Mind](https://www.simonandschuster.com/books/Society-Of-Mind/Marvin-Minsky/9780671657130)**: Marvin Minsky presents intelligence as the interaction of simpler mental agents, a conceptual foundation for specialist-agent architectures (1986; linked paperback edition, 1988).
+
 - **[An Introduction to MultiAgent Systems (2nd ed.)](https://www.wiley.com/en-us/An+Introduction+to+MultiAgent+Systems,+2nd+Edition-p-9780470519462)**: Michael Wooldridge's standard textbook on classical multi-agent systems, covering agent architectures, interaction, and game-theoretic foundations (Wiley, 2009).
 - **[Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations](https://www.masfoundations.org/)**: Shoham and Leyton-Brown's graduate textbook on the formal foundations of multi-agent systems, available as a free PDF (Cambridge University Press, 2009).
 - **[Open Problems in Cooperative AI](https://arxiv.org/abs/2012.08630)**: Dafoe et al. set out a research agenda for building AI that can cooperate with humans and other agents (2020).
@@ -125,6 +127,10 @@
 
 ## Safety, security & failure modes
 
+- **[ORBIT: A Framework for Multi-Agent Safety and Security Evaluations](https://arxiv.org/abs/2609.33102)**: Hagag, Anderson, Chakraborty, and Schroeder de Witt introduce an Inspect-based framework for comparing attacks, defenses, and multi-agent architectures across several scenario families (2026 preprint).
+- **[ConVerse: Benchmarking Contextual Safety in Agent-to-Agent Conversations](https://aclanthology.org/2026.findings-eacl.170/)**: Gomaa, Salem, and Abdelnabi evaluate privacy leakage and security failures in multi-turn conversations between personal assistants and external service agents (Findings of EACL, 2026).
+- **[A2ASecBench: A Protocol-Aware Security Benchmark for Agent-to-Agent Multi-Agent Systems](https://safo-lab.github.io/A2ASecBench/)**: Li et al. evaluate attacks on agent discovery, task handling, and artifact exchange in A2A systems alongside benign tasks (ICLR, 2026).
+
 - **[Multi-Agent Risks from Advanced AI](https://arxiv.org/abs/2502.14143)**: A Cooperative AI Foundation technical report presenting a taxonomy of risks that arise when advanced AI agents interact, along with a research agenda.
 - **[Open Challenges in Multi-Agent Security](https://arxiv.org/abs/2505.02077)**: A paper defining multi-agent security as a field and presenting a threat taxonomy and research agenda for securing networks of interacting AI agents.
 - **[Why Do Multi-Agent LLM Systems Fail? (MAST)](https://arxiv.org/abs/2503.13657)**: A study introducing the Multi-Agent System Failure Taxonomy, identifying 14 failure modes across popular multi-agent LLM frameworks.
@@ -148,6 +154,9 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Flocks, Herds, and Schools: A Distributed Behavioral Model](https://www.red3d.com/cwr/papers/1987/boids.html)**: Craig W. Reynolds demonstrates coordinated group motion from independent actors with local perception and simple behavioral rules (SIGGRAPH, 1987).
+- **[Ant System: Optimization by a Colony of Cooperating Agents](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/74581/Details)**: Dorigo, Maniezzo, and Colorni introduce an optimization method in which simple agents coordinate indirectly through pheromone-like shared information (1996).
 
 - **[Adaptive Mixtures of Local Experts](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf)**: Jacobs, Jordan, Nowlan, and Hinton introduce learned routing among specialist networks, an architectural foundation for specialization and aggregation (1991).
 - **[On the acceptability of arguments and its fundamental role in nonmonotonic reasoning, logic programming and n-person games](https://cse-robotics.engr.tamu.edu/dshell/cs631/papers/dung95acceptability.pdf)**: Phan Minh Dung introduces abstract argumentation frameworks for reasoning about attacks between arguments and the acceptability of sets of arguments (1995).
