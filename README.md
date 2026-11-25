@@ -195,6 +195,13 @@
 
 ## Key papers
 
+- **[Learning Multiagent Communication with Backpropagation](https://papers.neurips.cc/paper/2016/hash/55b1927fdafef39c48e5b73b5d61ea60-Abstract.html)**: Sukhbaatar, Szlam, and Fergus introduce CommNet, which jointly learns continuous communication and agent policies for fully cooperative tasks (NeurIPS, 2016).
+- **[Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182)**: Lazaridou, Peysakhovich, and Baroni study learned communication in image referential games and methods for grounding the resulting symbols in natural language (2017).
+- **[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://cdn.aaai.org/ojs/11492/11492-13-15020-1-2-20201228.pdf)**: Mordatch and Abbeel study discrete compositional communication and nonverbal coordination in a physically situated cooperative environment (AAAI, 2018).
+- **[GPTSwarm: Language Agents as Optimizable Graphs](https://proceedings.mlr.press/v235/zhuge24a.html)**: Zhuge et al. represent language agents as composable computational graphs and optimize prompts and inter-agent connections (ICML, 2024).
+- **[A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration](https://arxiv.org/abs/2310.02170)**: Liu et al. introduce DyLAN, which selects agent teams through preliminary trials and adjusts communication during task solving (2024).
+- **[AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration](https://aclanthology.org/2025.acl-long.1170/)**: Wang et al. learn round-specific collaboration graphs that remove redundant agents and messages. They evaluate task performance and token use (ACL, 2025).
+
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
