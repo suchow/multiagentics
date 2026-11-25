@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[A Concise Introduction to Decentralized POMDPs](https://www.fransoliehoek.net/pub-html/htmlfiles/b2hd-OliehoekAmato16book.html)**: Frans A. Oliehoek and Christopher Amato introduce cooperative planning with decentralized observations and survey exact and approximate solution methods (Springer, 2016).
+
 - **[The Society of Mind](https://www.simonandschuster.com/books/Society-Of-Mind/Marvin-Minsky/9780671657130)**: Marvin Minsky presents intelligence as the interaction of simpler mental agents, a conceptual foundation for specialist-agent architectures (1986; linked paperback edition, 1988).
 
 - **[An Introduction to MultiAgent Systems (2nd ed.)](https://www.wiley.com/en-us/An+Introduction+to+MultiAgent+Systems,+2nd+Edition-p-9780470519462)**: Michael Wooldridge's standard textbook on classical multi-agent systems, covering agent architectures, interaction, and game-theoretic foundations (Wiley, 2009).
@@ -32,6 +34,10 @@
 - **[Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322)**: Tran et al. propose a framework characterizing LLM multi-agent collaboration by actors, types, structures, strategies, and coordination protocols (2025).
 
 ## Orchestration frameworks
+
+- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)**: The Pydantic team's typed Python agent framework supports agent delegation, programmatic handoffs, and graph-based coordination.
+- **[Strands Agents](https://github.com/strands-agents/harness-sdk)**: An open-source agent SDK supporting agents-as-tools, graph coordination, and autonomous handoffs. Execution and handoff limits are configurable.
+- **[AgentScope](https://github.com/agentscope-ai/agentscope)**: A Python agent framework supporting asynchronous agent interaction, team coordination, evaluation, and deployment.
 
 - **[LangChain](https://github.com/langchain-ai/langchain)**: A Python framework for building LLM applications and agents by chaining together models, tools, and integrations.
 - **[CrewAI](https://github.com/crewAIInc/crewAI)**: A Python framework for orchestrating role-playing autonomous agents that collaborate through Crews and event-driven Flows.
@@ -162,6 +168,10 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[The Complexity of Decentralized Control of Markov Decision Processes](https://people.cs.umass.edu/~immerman/pub/bgiz.pdf)**: Bernstein, Givan, Immerman, and Zilberstein establish computational complexity limits for decentralized multi-agent decision-making under partial information (2002).
+- **[Using Partial Global Plans to Coordinate Distributed Problem Solvers](https://ijcai.org/proceedings/1987/183)**: Durfee and Lesser coordinate distributed problem solvers through selectively exchanged local-plan summaries (IJCAI, 1987).
+- **[Stop Overvaluing Multi-Agent Debate -- We Must Rethink Evaluation and Embrace Model Heterogeneity](https://arxiv.org/abs/2502.08788)**: Zhang et al. compare multi-agent debate methods with single-agent baselines and examine the role of model heterogeneity (2025).
 
 - **[Flocks, Herds, and Schools: A Distributed Behavioral Model](https://www.red3d.com/cwr/papers/1987/boids.html)**: Craig W. Reynolds demonstrates coordinated group motion from independent actors with local perception and simple behavioral rules (SIGGRAPH, 1987).
 - **[Ant System: Optimization by a Colony of Cooperating Agents](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/74581/Details)**: Dorigo, Maniezzo, and Colorni introduce an optimization method in which simple agents coordinate indirectly through pheromone-like shared information (1996).
