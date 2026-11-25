@@ -198,6 +198,13 @@
 
 ## Key papers
 
+- **[The Distributed Constraint Satisfaction Problem: Formalization and Algorithms](https://jmvidal.cse.sc.edu/library/yokoo98a.pdf)**: Yokoo, Durfee, Ishida, and Kuwabara formalize distributed constraint satisfaction and develop asynchronous backtracking and weak-commitment search for coordinating consistent agent decisions (1998).
+- **[Adopt: Asynchronous Distributed Constraint Optimization with Quality Guarantees](https://robots.isi.edu/prl/modi2005adopt-asynchronous-distributed-constraint.pdf)**: Modi, Shen, Tambe, and Yokoo introduce asynchronous optimization with optimality and bounded-error guarantees under their distributed constraint optimization model (2005).
+- **[A Scalable Method for Multiagent Constraint Optimization](https://ijcai.org/proceedings/2005/21)**: Petcu and Faltings introduce DPOP’s pseudotree-based utility propagation. Message count is linear, and maximum message size depends on induced width (IJCAI, 2005).
+- **[“Other-Play” for Zero-Shot Coordination](https://proceedings.mlr.press/v119/hu20a.html)**: Hu et al. introduce other-play to reduce dependence on arbitrary self-play conventions and evaluate coordination with unfamiliar agents and humans in Hanabi (ICML, 2020).
+- **[Off-Belief Learning](https://proceedings.mlr.press/v139/hu21c.html)**: Hu et al. train cooperative policies using a fixed policy for interpreting past actions, with controlled reasoning levels and zero-shot coordination experiments in Hanabi (ICML, 2021).
+- **[Collaborating with Humans without Human Data](https://proceedings.neurips.cc/paper/2021/hash/797134c3e42371bb4979a462eb2f042a-Abstract.html)**: Strouse et al. introduce Fictitious Co-Play. Policies train against diverse self-play partners and historical checkpoints, then are evaluated with unfamiliar agents and humans in a collaborative cooking simulator (NeurIPS, 2021).
+
 - **[Towards Flexible Teamwork](https://arxiv.org/abs/cs/9709101)**: Milind Tambe introduces STEAM, an implemented teamwork model with team monitoring, reorganization, and selective communication (JAIR, 1997).
 - **[A Formal Analysis and Taxonomy of Task Allocation in Multi-Robot Systems](https://ai.stanford.edu/~gerkey/research/final_papers/mrta-taxonomy.pdf)**: Gerkey and Matarić classify multi-robot task-allocation problems and relate them to optimization methods. The analysis assumes independently assignable tasks (2004).
 - **[Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination](https://proceedings.mlr.press/v267/jha25b.html)**: Jha et al. train cooperation across procedurally generated environments and evaluate coordination with unfamiliar partners, including humans (ICML, 2025).
