@@ -94,6 +94,9 @@
 
 ## Benchmarks & evaluation
 
+- **[PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks](https://proceedings.iclr.cc/paper_files/paper/2025/hash/a3cf318fbeec1126da21e9185ae9908c-Abstract-Conference.html)**: Chang et al. evaluate household human–robot collaboration through 100,000 simulated tasks with spatial, temporal, and heterogeneous capability constraints (ICLR, 2025).
+- **[LLM Agents for Coordinating Multi-User Information Gathering](https://aclanthology.org/2025.findings-acl.916/)**: Jhamtani, Andreas, and Van Durme introduce PeopleJoin, which evaluates teammate discovery, information gathering, and answer synthesis across synthetic organizations (Findings of ACL, 2025).
+
 - **[The Evaluation Substrate Matters: Benchmarking Multi-Agent Serving Substrates](https://arxiv.org/abs/2611.28671)**: Zheng et al. introduce MASSys to compare the same agent workloads across serving environments and loads using evidence on task quality, delivery, latency, cost, and failures (2026 preprint).
 
 - **[TeamBench: Evaluating Agent Coordination under Enforced Role Separation](https://arxiv.org/abs/2605.07073)**: Kim et al. evaluate coordination under operating system-enforced separation of Planner, Executor, and Verifier roles (2026 preprint).
@@ -194,6 +197,10 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Towards Flexible Teamwork](https://arxiv.org/abs/cs/9709101)**: Milind Tambe introduces STEAM, an implemented teamwork model with team monitoring, reorganization, and selective communication (JAIR, 1997).
+- **[A Formal Analysis and Taxonomy of Task Allocation in Multi-Robot Systems](https://ai.stanford.edu/~gerkey/research/final_papers/mrta-taxonomy.pdf)**: Gerkey and Matarić classify multi-robot task-allocation problems and relate them to optimization methods. The analysis assumes independently assignable tasks (2004).
+- **[Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination](https://proceedings.mlr.press/v267/jha25b.html)**: Jha et al. train cooperation across procedurally generated environments and evaluate coordination with unfamiliar partners, including humans (ICML, 2025).
 
 - **[Learning Multiagent Communication with Backpropagation](https://papers.neurips.cc/paper/2016/hash/55b1927fdafef39c48e5b73b5d61ea60-Abstract.html)**: Sukhbaatar, Szlam, and Fergus introduce CommNet, which jointly learns continuous communication and agent policies for fully cooperative tasks (NeurIPS, 2016).
 - **[Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182)**: Lazaridou, Peysakhovich, and Baroni study learned communication in image referential games and methods for grounding the resulting symbols in natural language (2017).
