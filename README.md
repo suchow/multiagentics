@@ -207,6 +207,11 @@
 
 ## Key papers
 
+- **[How Social Influence Can Undermine the Wisdom of Crowd Effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC3107299/)**: Lorenz, Rauhut, Schweitzer, and Helbing find that exposure to others’ estimates reduces diversity without improving collective error in their human estimation experiment (PNAS, 2011).
+- **[Network Dynamics of Social Influence in the Wisdom of Crowds](https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf)**: Becker, Brackbill, and Centola compare centralized and decentralized influence networks in human estimation tasks. They find improved accuracy in decentralized networks under the studied conditions (PNAS, 2017).
+- **[Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)**: OpenAI describes the distributed self-play system and continual-training methods used to train OpenAI Five for team-based Dota 2 (2019).
+- **[α-Rank: Multi-Agent Evaluation by Evolution](https://arxiv.org/abs/1903.01373)**: Omidshafiei et al. introduce α-Rank, an evolutionary game-theoretic method for evaluating and ranking interacting agent policies (Scientific Reports, 2019).
+
 - **[Nash Q-Learning for General-Sum Stochastic Games](https://www.jmlr.org/papers/v4/hu03a.html)**: Hu and Wellman extend Q-learning through joint-action values and Nash-equilibrium updates, with convergence guarantees restricted to specified stage games (JMLR, 2003).
 - **[Multiagent Learning Using a Variable Learning Rate](https://publications.ri.cmu.edu/multiagent-learning-using-a-variable-learning-rate)**: Bowling and Veloso introduce the WoLF principle for varying learning rates against adapting opponents. Their theoretical self-play convergence result concerns a restricted class of iterated matrix games (2002).
 - **[Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://www.ifaamas.org/Proceedings/aamas2017/pdfs/p464.pdf)**: Leibo et al. introduce sequential social dilemmas and study how learned cooperation changes with environmental conditions in Gathering and Wolfpack games (AAMAS, 2017).
