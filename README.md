@@ -94,6 +94,8 @@
 
 ## Benchmarks & evaluation
 
+- **[The Collaboration Gap: Exploration and Benchmarking of Open-World Agentic Cooperation](https://proceedings.colm.cc/paper_files/paper/2026/hash/42806406dd99e30c3796bc98b2670fa2-Abstract-Conference.html)**: Davidson et al. evaluate natural-language cooperation between homogeneous and heterogeneous agent pairs in maze tasks without prescribed communication formats (COLM, 2026 pre-proceedings).
+
 - **[Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](https://cdn.aaai.org/ojs/18510/18510-77-22026-1-2-20210717.pdf)**: Stern et al. define common multi-agent pathfinding assumptions, objectives, and conflicts and introduce grid-based benchmark problems (SoCS, 2019).
 
 - **[SILO-BENCH: A Scalable Environment for Evaluating Distributed Coordination in Multi-Agent LLM Systems](https://aclanthology.org/2026.acl-long.1354/)**: Zhang et al. evaluate role-free collaboration under distributed information through 30 algorithmic tasks with exact answers and three levels of communication complexity (ACL, 2026).
@@ -202,6 +204,10 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Agent-Oriented Programming](https://cse-robotics.engr.tamu.edu/dshell/cs631/papers/shoham93agent.pdf)**: Yoav Shoham defines agent programs through formally represented beliefs, decisions, capabilities, obligations, and typed communication, with an implemented interpreter (1993).
+- **[The Gaia Methodology for Agent-Oriented Analysis and Design](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/jaamas2000b.pdf)**: Wooldridge, Jennings, and Kinny model multiagent organizations through roles, responsibilities, permissions, and interaction protocols. This version assumes static relationships and capabilities and excludes true conflicts between component goals (2000).
+- **[Post-training for Efficient Communication via Convention Formation](https://arxiv.org/abs/2508.06482)**: Hua, Wang, and Artzi study post-training for communication conventions through reference-game and document-grounded interaction benchmarks (COLM, 2025).
 
 - **[Labeling Images with a Computer Game](https://www.cs.cmu.edu/~biglou/ESP.pdf)**: Luis von Ahn and Laura Dabbish introduce the ESP Game, in which paired human players’ matching descriptions produce image labels (CHI, 2004).
 - **[reCAPTCHA: Human-Based Character Recognition via Web Security Measures](https://www.cs.cmu.edu/~biglou/reCAPTCHA_Science.pdf)**: Von Ahn, Maurer, McMillen, Abraham, and Blum combine control questions, repeated human responses, and OCR outputs to transcribe scanned words during security checks (Science, 2008).
