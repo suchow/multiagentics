@@ -221,6 +221,10 @@
 
 ## Key papers
 
+- **[Sharp Transition towards Shared Vocabularies in Multi-Agent Systems](https://www.codebiology.org/pdf/%5B3%5D%20Baronchelli%20et%20al%20%282006%29.pdf)**: Baronchelli, Felici, Loreto, Caglioti, and Steels study shared naming conventions produced by local language games without central control in a simplified agent model (2006).
+- **[Towards Open Ad Hoc Teamwork Using Graph-based Policy Learning](https://proceedings.mlr.press/v139/rahman21a.html)**: Rahman et al. learn teammate and joint-action value models for collaboration when agents with fixed policies enter and leave without advance notice (ICML, 2021).
+- **[N-agent Ad Hoc Teamwork](https://proceedings.neurips.cc/paper_files/paper/2024/hash/cabf611498431ad89a85ace75f790d93-Abstract-Conference.html)**: Wang et al. formalize ad hoc teamwork with multiple controlled agents and varying teammates, then evaluate policy optimization with learned teammate representations (NeurIPS, 2024).
+
 - **[Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning](https://proceedings.mlr.press/v97/jaques19a.html)**: Jaques et al. reward agents for counterfactually estimated influence on other agents’ actions and evaluate coordination and learned communication in social dilemmas (ICML, 2019).
 - **[Learning to Incentivize Other Learning Agents](https://proceedings.neurips.cc/paper/2020/hash/ad7ed5d47b9baceb12045a929e7e2f66-Abstract.html)**: Yang et al. learn incentive functions that transfer rewards between agents and account for their effects on recipients’ learning in general-sum Markov games (NeurIPS, 2020).
 
