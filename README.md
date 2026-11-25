@@ -94,6 +94,8 @@
 
 ## Benchmarks & evaluation
 
+- **[Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](https://cdn.aaai.org/ojs/18510/18510-77-22026-1-2-20210717.pdf)**: Stern et al. define common multi-agent pathfinding assumptions, objectives, and conflicts and introduce grid-based benchmark problems (SoCS, 2019).
+
 - **[SILO-BENCH: A Scalable Environment for Evaluating Distributed Coordination in Multi-Agent LLM Systems](https://aclanthology.org/2026.acl-long.1354/)**: Zhang et al. evaluate role-free collaboration under distributed information through 30 algorithmic tasks with exact answers and three levels of communication complexity (ACL, 2026).
 - **[PAC-BENCH: Evaluating Multi-Agent Collaboration under Privacy Constraints](https://aclanthology.org/2026.findings-acl.1552/)**: Park et al. evaluate multi-agent collaboration under privacy constraints and analyze coordination failures involving disclosure, abstraction, and unsupported information (Findings of ACL, 2026).
 
@@ -200,6 +202,10 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Bagging Predictors](https://link.springer.com/article/10.1007/BF00058655)**: Leo Breiman combines predictors trained on bootstrap samples through averaging or plurality voting, an adjacent foundation for aggregation of multiple predictions (1996).
+- **[A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting](https://www.schapire.net/papers/FreundSc95.pdf)**: Freund and Schapire develop multiplicative-weight allocation under bounded losses and AdaBoost for combining weak learners, an adjacent ensemble-learning foundation (1997).
+- **[From One to Many: Planning for Loosely Coupled Multi-Agent Systems](https://cdn.aaai.org/ICAPS/2008/ICAPS08-004.pdf)**: Brafman and Domshlak formalize how agent coupling affects cooperative planning complexity and develop planning methods that exploit limited interactions under their STRIPS-based model (ICAPS, 2008).
 
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 - **[Agreeing to Disagree](https://www.haverford.edu/sites/default/files/Aumann1976.pdf)**: Robert J. Aumann proves that two agents with a common prior and common knowledge of their posterior probabilities for the same event must assign it equal probabilities (1976).
