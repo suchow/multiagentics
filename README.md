@@ -240,6 +240,10 @@
 
 ## Key papers
 
+- **[A Counterexample in Stochastic Optimum Control](https://mcrotk.github.io/courses/references/counterexample.pdf)**: Hans S. Witsenhausen constructs a decentralized control problem where nonlinear policies outperform linear policies despite linear dynamics, Gaussian uncertainty, and quadratic costs (1968).
+- **[Multi-Agent Reinforcement Learning with Communication-Constrained Priors](https://proceedings.neurips.cc/paper_files/paper/2025/hash/e26502ce357ce3015e8778f0e85d4b39-Abstract-Conference.html)**: Yang et al. model communication constraints and distinguish lossy from lossless messages when training cooperative multi-agent policies (NeurIPS, 2025).
+- **[Unifying Partner and Environment Diversity to Improve Human-AI Coordination](https://arxiv.org/abs/2611.32031)**: Zhang et al. combine partner-population and environment diversity during training. They evaluate coordination with held-out partners and environments in foraging and Overcooked tasks (2026 preprint).
+
 - **[Cooperative Pathfinding](https://cdn.aaai.org/AIIDE/2005/AIIDE05-020.pdf)**: David Silver introduces Cooperative A*, Hierarchical Cooperative A*, and Windowed Hierarchical Cooperative A* for non-colliding routes, assuming access to other agents’ planned routes (AIIDE, 2005).
 - **[AI, Take the Wheel: What Drives Delegation and Trust in Human–Computer Cooperative Question Answering?](https://aclanthology.org/2026.findings-acl.422/)**: Gor et al. study delegation and answer adoption in mixed human–AI trivia teams across 24 tournament matches (Findings of ACL, 2026).
 
