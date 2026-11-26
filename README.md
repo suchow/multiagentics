@@ -314,6 +314,10 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Distributed Algorithms for DCOP: A Graphical-Game-Based Approach](https://projects.iq.harvard.edu/files/teamcore/files/2004_2_teamcore_maheswaran_pearce04pdcs.pdf)**: Rajiv T. Maheswaran, Jonathan P. Pearce, and Milind Tambe represent distributed constraint optimization as graphical games and develop coordinated local-search methods with distributed variable control. Experiments use graph-coloring problems (PDCS, 2004).
+
+- **[PRIMAL: Pathfinding via Reinforcement and Imitation Multi-Agent Learning](https://arxiv.org/abs/1809.03531)**: Sartoretti et al. combine reinforcement learning, expert-planner demonstrations, reward shaping, and environment sampling to train decentralized pathfinding policies from local observations. Evaluation uses randomized worlds and a hybrid physical/simulated factory demonstration (IEEE Robotics and Automation Letters, 2019).
+
 - **[M3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://ai.meta.com/research/publications/m3rl-mind-aware-multi-agent-management-reinforcement-learning/)**: Shu and Tian train a manager to infer workers’ preferences and skills, assign tasks through contracts, and choose bonuses. Evaluation uses simulated resource-collection and crafting tasks with self-interested workers (ICLR, 2019).
 
 - **[Reward Machines for Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p934.pdf)**: Neary et al. encode cooperative tasks as reward machines and decompose them into individual subtasks under verifiable conditions. They introduce decentralized Q-learning and specify when local subtask completion accomplishes the team task (AAMAS, 2021).
