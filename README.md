@@ -486,6 +486,8 @@
 
 ### Communication and emergent language
 
+- **[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585)**: Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra train questioner and answerer agents for cooperative image identification through multi-round dialogue. Synthetic games learn protocols from scratch; VisDial experiments use supervised human-dialogue pretraining followed by reinforcement-learning fine-tuning (ICCV, 2017).
+
 - **[Emergent Communication through Negotiation](https://arxiv.org/abs/1804.03980)**: Cao et al. compare grounded offer channels with learned cheap talk in a semi-cooperative negotiation game. They examine how prosocial rewards and identifiable partners affect communication within that game (ICLR, 2018).
 
 - **[EGG: a toolkit for research on Emergence of lanGuage in Games](https://aclanthology.org/D19-3010/)**: Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, and Marco Baroni introduce modular building blocks for neural-agent communication games with discrete channels. The paper describes research infrastructure for varying architectures and optimization methods (EMNLP-IJCNLP System Demonstrations, 2019).
