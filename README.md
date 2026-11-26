@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Reactive Reasoning and Planning](https://cdn.aaai.org/AAAI/1987/AAAI87-121.pdf)**: Michael P. Georgeff and Amy L. Lansky describe PRS, an architecture with explicit beliefs, goals, procedural knowledge, and intentions. PRS interleaves planning and action. Demonstration uses SRI’s Flakey robot in navigation and emergency-task scenarios (AAAI, 1987).
+- **[Emergence of Recursive Language through Bootstrapping and Iterated Learning](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1235.pdf)**: Vikas Kumar and Ajin George Joseph study communication across generations of decentralized reinforcement-learning agents in a graph-navigation language game. They report shared depth-1 recursive structures in that environment (AAMAS, 2025).
+
 - **[From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research](https://arxiv.org/abs/2611.17041)**: Wu et al. introduce LEAD-RL, which jointly trains research coordinators and subagents using rubric-gated report credit. Final-answer correctness supplies the team reward. Evaluation spans five benchmarks and two model families (2026 preprint).
 
 - **[The Tragedy of the Commons](https://www.law.berkeley.edu/archive/files/CLEE/Hardin_1968_Science_TragedyOfTheCommons.pdf)**: Garrett Hardin describes resource depletion when individuals receive private benefits from additional use and share its costs. The pasture example is an unrestricted-access thought experiment (Science, 1968).
