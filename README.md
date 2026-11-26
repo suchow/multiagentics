@@ -370,6 +370,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Regret Minimization in Games with Incomplete Information](https://proceedings.neurips.cc/paper_files/paper/2007/hash/08d98638c6fcd194a4b1e6992063e944-Abstract.html)**: Martin Zinkevich, Michael Johanson, Michael Bowling, and Carmelo Piccione introduce counterfactual regret minimization for extensive-form games with incomplete information. They demonstrate the method on large poker abstractions (NIPS, 2007; proceedings, 2008).
+
 - **[Program equilibrium](https://cris.technion.ac.il/en/publications/program-equilibrium/)**: Moshe Tennenholtz models strategies as programs that can inspect other programs on a shared computational device. This arrangement supports cooperative equilibria in the one-shot prisoner’s dilemma (Games and Economic Behavior, 2004).
 - **[The Mechanics of n-Player Differentiable Games](https://proceedings.mlr.press/v80/balduzzi18a.html)**: Balduzzi et al. decompose differentiable-game dynamics into potential and Hamiltonian components and derive Symplectic Gradient Adjustment for seeking stable fixed points (ICML, 2018).
 - **[Stable Opponent Shaping in Differentiable Games](https://arxiv.org/abs/1811.08469v2)**: Letcher et al. introduce SOS, which interpolates between LOLA opponent shaping and LookAhead updates. The analysis concerns local convergence and strict-saddle avoidance under differentiability assumptions (ICLR, 2019).
