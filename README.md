@@ -428,6 +428,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Machine Theory of Mind](https://arxiv.org/abs/1802.07740v2)**: Rabinowitz et al. introduce ToMnet, a meta-learned model for predicting agents’ behavior from observed trajectories. Experiments model random, algorithmic, and deep-RL agents in single-agent gridworld POMDPs, including false-belief tasks (2018 extended preprint).
+
 - **[Modeling Others using Oneself in Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v80/raileanu18a.html)**: Raileanu et al. introduce Self Other-Modeling, which uses an agent’s own policy to infer another agent’s hidden goal from observed actions. Evaluation covers three cooperative and competitive tasks (ICML, 2018).
 
 - **[Learning Policy Representations in Multiagent Systems](https://proceedings.mlr.press/v80/grover18a/grover18a.pdf)**: Grover et al. learn continuous policy representations from observation–action trajectories using imitation and agent-identification objectives. Evaluation includes competitive RoboSumo and cooperative ParticleWorld communication (ICML, 2018).
