@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[Intelligent agents: theory and practice](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95.pdf)**: Wooldridge and Jennings survey agent theories, architectures, and programming languages, including formal representations of agency and practical approaches to building agents (The Knowledge Engineering Review, 1995).
 - **[Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research](https://hci.ucsd.edu/hollan/Pubs/tochi-revised.pdf)**: Hollan, Hutchins, and Kirsh develop a framework for analyzing information processing across people, artifacts, and time in human–computer interaction (TOCHI, 2000; author final revision).
 - **[Convention: A Philosophical Study](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470693711)**: David Lewis analyzes conventions as regular solutions to recurring coordination problems and applies the account to communication and language (1969; linked edition, 2002).
 - **[A Comprehensive Survey of Multiagent Reinforcement Learning](https://csc.csudh.edu/btang/seminar/multiagent/survey1.pdf)**: Bușoniu, Babuška, and De Schutter classify multiagent reinforcement learning across cooperative, competitive, and mixed tasks, distinguishing stability from adaptation as learning goals (2008).
@@ -246,6 +247,7 @@
 
 ## Key papers
 
+- **[Computational Intractability of Strategizing against Online Learners](https://proceedings.mlr.press/v291/assos25a.html)**: Assos, Dagan, and Rajaraman establish worst-case computational limits on finding near-optimal strategies against a multiplicative-weights learner in their strategic model, conditional on P ≠ NP (COLT, 2025).
 - **[TÆMS: A Framework for Environment Centered Analysis & Design of Coordination Mechanisms](https://mas.cs.umass.edu/Documents/decker-dai-book-taems.pdf)**: Keith S. Decker models task environments for analyzing coordination through task dependencies, execution times, result quality, and agents’ incomplete local views (published 1996; linked earlier author draft).
 - **[From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications](https://proceedings.neurips.cc/paper_files/paper/2025/hash/42fe68e77bcb0cefad50263468ca5c07-Abstract-Conference.html)**: Cai et al. transform convergence of average strategies into convergence of current strategies under specified utility-linearity assumptions. Applications include uncoupled learning in multiplayer zero-sum polymatrix games (NeurIPS, 2025).
 - **[Functionally Accurate, Cooperative Distributed Systems](https://dancorkill.com/pubs/smc-fac.pdf)**: Lesser and Corkill develop cooperation through exchanged tentative partial results, which distributed nodes revise under incomplete and inconsistent information (1981).
