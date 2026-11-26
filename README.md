@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[The Illusion of Multi-Agent Advantage](https://arxiv.org/abs/2606.13003)**: Jwalapuram et al. compare automatically generated agent systems with chain-of-thought self-consistency baselines on reasoning and interactive workflows. A synthetic benchmark tests decomposition, context separation, and parallelization, including comparisons with expert-designed teams (2026 preprint).
+
 - **[Capability-Aware Shared Hypernetworks for Flexible Heterogeneous Multi-Robot Coordination](https://proceedings.mlr.press/v305/fu25a.html)**: Fu, Jain, Howell, and Ravichandar introduce CASH, a capability-conditioned hypernetwork architecture for heterogeneous robot policies. Evaluation tests unfamiliar robots and team compositions in JaxMARL and Robotarium under specified task and capability distributions (CoRL, 2025).
 - **[The Weighted Majority Algorithm](https://mwarmuth.bitbucket.io/pubs/J24.pdf)**: Nick Littlestone and Manfred K. Warmuth combine online predictors through weighted voting and bound mistakes relative to the best predictor in the pool. This is adjacent aggregation theory with sequential prediction feedback (Information and Computation, 1994).
 
