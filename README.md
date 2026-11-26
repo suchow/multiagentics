@@ -721,6 +721,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90d1fc07f46e31387978b88e7e057a31-Abstract-Conference.html)**: Kim et al. select solo or group collaboration according to estimated task complexity. Evaluation covers ten medical knowledge and diagnosis benchmarks, including multimodal tasks; it does not establish clinical safety or deployment readiness (NeurIPS, 2024).
+
 - **[Multi-Agent Collaboration via Cross-Team Orchestration](https://aclanthology.org/2025.findings-acl.541/)**: Du et al. introduce Croto, which coordinates multiple agent teams exploring alternative solution paths. Evaluation concerns software development and story generation (Findings of ACL, 2025).
 
 - **[From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research](https://arxiv.org/abs/2611.17041)**: Wu et al. introduce LEAD-RL, which jointly trains research coordinators and subagents using rubric-gated report credit. Final-answer correctness supplies the team reward. Evaluation spans five benchmarks and two model families (2026 preprint).
@@ -895,6 +897,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Psychological Strategies for Winning a Geopolitical Forecasting Tournament](https://www.psychologicalscience.org/journals/psychological-science/0956797614524255/)**: Mellers et al. evaluate probability training, collaborative teams, and grouping high-performing forecasters in a two-year human forecasting tournament. These interventions improved calibration and resolution under the studied conditions; team conditions also included collaboration training (Psychological Science, 2014).
 
 - **[Predicting protein structures with a multiplayer online game](https://grail.cs.washington.edu/projects/protein-game/)**: Cooper et al. introduce Foldit, a multiplayer protein-structure game that combines human manipulation of molecular models with Rosetta optimization tools. Players compete and collaborate to improve computed protein energies (Nature, 2010).
 
