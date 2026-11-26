@@ -721,6 +721,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[Automated Design of Agentic Systems](https://proceedings.iclr.cc/paper_files/paper/2025/hash/36b7acf6f6010652b3f2a433774a66fe-Abstract-Conference.html)**: Hu, Lu, and Clune introduce Meta Agent Search, which programs and evaluates agent workflows using an archive of previous designs. Generated examples include expert and reviewer teams. Evaluation examines reasoning tasks and transfer across domains and models (ICLR, 2025).
+
 - **[MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90d1fc07f46e31387978b88e7e057a31-Abstract-Conference.html)**: Kim et al. select solo or group collaboration according to estimated task complexity. Evaluation covers ten medical knowledge and diagnosis benchmarks, including multimodal tasks; it does not establish clinical safety or deployment readiness (NeurIPS, 2024).
 
 - **[Multi-Agent Collaboration via Cross-Team Orchestration](https://aclanthology.org/2025.findings-acl.541/)**: Du et al. introduce Croto, which coordinates multiple agent teams exploring alternative solution paths. Evaluation concerns software development and story generation (Findings of ACL, 2025).
