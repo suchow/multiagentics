@@ -726,6 +726,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[VMAS: A Vectorized Multi-Agent Simulator for Collective Robot Learning](https://arxiv.org/abs/2207.03530)**: Matteo Bettini, Ryan Kortvelesy, Jan Blumenkamp, and Amanda Prorok introduce a vectorized two-dimensional physics engine in PyTorch with twelve multi-robot scenarios. The paper benchmarks these simulated tasks with PPO-based multi-agent algorithms (2022 preprint).
+
 - **[Consensus and Cooperation in Networked Multi-Agent Systems](https://murray.cds.caltech.edu/index.php/Consensus_and_Cooperation_in_Networked_Multi-Agent_Systems)**: Reza Olfati-Saber, J. Alex Fax, and Richard M. Murray organize consensus analysis around graph structure, directed information flow, changing topology, communication delays, and convergence speed. Guarantees depend on the graph and timing conditions of each model (Proceedings of the IEEE, 2007).
 - **[Coverage Control for Mobile Sensing Networks](https://motion.me.ucsb.edu/pdf/2002j-cmkb.pdf)**: Jorge Cortés, Sonia Martínez, Timur Karatas, and Francesco Bullo develop distributed sensing-vehicle coverage algorithms using centroidal Voronoi configurations. Their optimization model specifies a convex domain and sensing costs (IEEE Transactions on Robotics and Automation, 2004; linked corrected 2008 copy).
 - **[Capability-Aware Shared Hypernetworks for Flexible Heterogeneous Multi-Robot Coordination](https://proceedings.mlr.press/v305/fu25a.html)**: Fu, Jain, Howell, and Ravichandar introduce CASH, a capability-conditioned hypernetwork architecture for heterogeneous robot policies. Evaluation tests unfamiliar robots and team compositions in JaxMARL and Robotarium under specified task and capability distributions (CoRL, 2025).
