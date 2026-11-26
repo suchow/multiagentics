@@ -294,6 +294,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Generating Project Networks](https://ijcai.org/proceedings/1977/209)**: Austin Tate describes NONLIN, which expands hierarchical task descriptions into partially ordered action networks and analyzes interactions between subplans. This is centralized planning from supplied domain knowledge, an adjacent foundation for task decomposition (IJCAI, 1977).
+
 - **[Taming Decentralized POMDPs: Towards Efficient Policy Computation for Multiagent Settings](https://ijcai.org/proceedings/2003/103)**: Nair et al. introduce JESP, which alternately optimizes each agent’s policy with teammates’ policies fixed. Centralized planning produces locally optimal finite-horizon policies for decentralized execution; a dynamic-programming variant reduces search costs (IJCAI, 2003).
 
 - **[The Communicative Multiagent Team Decision Problem: Analyzing Teamwork Theories and Models](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume16/pynadath02a-html/index.html)**: David V. Pynadath and Milind Tambe model communication costs and uncertainty to analyze teamwork policy optimality and complexity. Their COM-MTDP model assumes a shared utility function and common knowledge of the model (JAIR, 2002).
@@ -469,6 +471,8 @@
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 
 ### Communication and emergent language
+
+- **[Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input](https://arxiv.org/abs/1804.03984)**: Angeliki Lazaridou, Karl Moritz Hermann, Karl Tuyls, and Stephen Clark compare communication learned from symbolic representations and raw pixels in referential games. They examine how input structure affects the learned protocols (ICLR, 2018).
 
 - **[Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192)**: Serhii Havrylov and Ivan Titov train two agents to exchange discrete symbol sequences in a referential game. They compare reinforcement learning with a straight-through Gumbel-softmax relaxation and examine compositionality in the learned protocol (NIPS, 2017).
 
