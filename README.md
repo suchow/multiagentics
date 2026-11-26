@@ -244,6 +244,8 @@
 
 ## Key papers
 
+- **[AgentSpeak(L): BDI agents speak out in a logical computable language](https://link.springer.com/chapter/10.1007/BFb0031845)**: Anand S. Rao gives AgentSpeak(L) operational and proof-theoretic semantics, connecting executable BDI agent programs with formal reasoning about their properties (MAAMAW, 1996).
+- **[Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate](https://proceedings.mlr.press/v306/ha26a.html)**: Ha and Mitchell study answer revisions under controlled peer responses in ConceptARC, measuring changes in solution distance alongside binary correctness in two-dimensional grid tasks (ICML, 2026).
 - **[Communication and Interaction in Multi-Agent Planning](https://cdn.aaai.org/AAAI/1983/AAAI83-003.pdf)**: Michael Georgeff combines separately generated plans by analyzing conflicting actions and unsafe interactions, then inserting synchronization communications. The method assumes STRIPS-style persistence and sufficiently decoupled agent effects (AAAI, 1983).
 - **[A Diagnostic Study of Multi-Agent LLMs for Real-World Debates](https://proceedings.mlr.press/v306/pitre26a.html)**: Pitre et al. evaluate debate processes through engagement, responsiveness, influence balance, stability, and agent utility, alongside outcome measures (ICML, 2026).
 - **[LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations](https://aclanthology.org/2026.acl-long.1247/)**: Pham et al. evaluate task completion and sociocultural norm adherence in a simulated town with synthetic resident profiles, including uncertainty in model-based judgments (ACL, 2026).
