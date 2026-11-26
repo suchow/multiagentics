@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[The Use of Knowledge in Society](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf)**: F. A. Hayek examines economic coordination when knowledge is dispersed among individuals and argues that prices communicate changes relevant to their local decisions. This is a conceptual economic argument (American Economic Review, 1945).
+- **[Dynamic Context Allocation for Concurrent Multi-Agent LLMs](https://aclanthology.org/2026.emnlp-main.1785/)**: Na et al. train a context allocator to select and revise the task information exposed to fixed-role agents. Evaluation uses cooperative coding, CRM lead qualification, and multi-agent web development (EMNLP, 2026).
+
 - **[The Nature of the Firm](https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2023/08/coase1937.pdf)**: R. H. Coase explains firm organization through the costs of coordinating production by market exchange and managerial direction. This is economic theory about firms in an exchange economy (Economica, 1937).
 
 - **[Agents that Reason and Negotiate by Arguing](https://www.emse.fr/~boissier/enseignement/sma05/exposes/jlc.pdf)**: Simon Parsons, Carles Sierra, and Nick R. Jennings formalize argumentation-based negotiation and connect it to multi-context belief–desire–intention agent architectures (Journal of Logic and Computation, 1998; linked February author manuscript).
