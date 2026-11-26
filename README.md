@@ -250,6 +250,7 @@
 
 ## Key papers
 
+- **[Strategic Information Transmission](https://www.haverford.edu/sites/default/files/CrawfordSobel1982.pdf)**: Crawford and Sobel model communication between an informed sender and a receiver, relating equilibrium information transmission to their alignment of interests under specified scalar-information and utility assumptions (Econometrica, 1982).
 - **[Combinatorial Information Market Design](https://mason.gmu.edu/~rhanson/combobet.pdf)**: Robin Hanson introduces market scoring rules for aggregating probability estimates over combinations of variables, including logarithmic automated-market-maker designs. Incentive analysis assumes risk-neutral participants, verifiable outcomes, and a subsidizing patron (2003).
 - **[Approximate Global Convergence of Independent Learning in Multi-Agent Systems](https://proceedings.mlr.press/v258/jin25a.html)**: Jin et al. analyze independent Q-learning and natural actor–critic through a separable-MDP approximation. Their convergence bounds include a fixed error from agent interdependence under the paper’s assumptions (AISTATS, 2025).
 - **[Graphs and Cooperation in Games](https://pubsonline.informs.org/doi/10.1287/moor.2.3.225)**: Roger B. Myerson uses graphs to model cooperation structures in characteristic-function games and studies payoff-allocation rules related to the Shapley value (Mathematics of Operations Research, 1977).
