@@ -244,6 +244,7 @@
 
 ## Key papers
 
+- **[Communication and Interaction in Multi-Agent Planning](https://cdn.aaai.org/AAAI/1983/AAAI83-003.pdf)**: Michael Georgeff combines separately generated plans by analyzing conflicting actions and unsafe interactions, then inserting synchronization communications. The method assumes STRIPS-style persistence and sufficiently decoupled agent effects (AAAI, 1983).
 - **[A Diagnostic Study of Multi-Agent LLMs for Real-World Debates](https://proceedings.mlr.press/v306/pitre26a.html)**: Pitre et al. evaluate debate processes through engagement, responsiveness, influence balance, stability, and agent utility, alongside outcome measures (ICML, 2026).
 - **[LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations](https://aclanthology.org/2026.acl-long.1247/)**: Pham et al. evaluate task completion and sociocultural norm adherence in a simulated town with synthetic resident profiles, including uncertainty in model-based judgments (ACL, 2026).
 - **[A Value for n-Person Games](https://www.degruyterbrill.com/document/doi/10.1515/9781400881970-018/html)**: Lloyd S. Shapley characterizes a value for cooperative characteristic-function games through axioms, addressing allocation of gains among coalition participants (1953).
