@@ -424,6 +424,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Distributed Value Functions](https://publications.ri.cmu.edu/distributed-value-functions)**: Jeff Schneider, Weng-Keen Wong, Andrew Moore, and Martin Riedmiller distribute value-function learning across agents with local observations, actions, and rewards. Neighboring agents exchange value estimates for a summed-reward objective over the network (ICML, 1999).
+
 - **[Weighted QMIX: Expanding Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/73a427badebe0e32caa2e1fc7530b7f3-Abstract.html)**: Tabish Rashid, Gregory Farquhar, Bei Peng, and Shimon Whiteson analyze policy errors caused by QMIX’s unweighted value projection and introduce weighting schemes that prioritize better joint actions. Deep implementations are evaluated on predator–prey and StarCraft tasks, separately from the tabular analysis (NeurIPS, 2020).
 
 - **[QPLEX: Duplex Dueling Multi-Agent Q-Learning](https://arxiv.org/abs/2008.01062)**: Jianhao Wang, Zhizhou Ren, Terry Liu, Yang Yu, and Chongjie Zhang introduce a duplex dueling architecture for value factorization under the individual–global-max condition, linking joint and decentralized action selection. Evaluation uses StarCraft II micromanagement (2020 preprint; revised 2021).
@@ -614,6 +616,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[ForestBench: A Unified Graph Framework for Evaluating Multi-Agent Collaboration](https://arxiv.org/abs/2608.08605)**: Chen et al. map execution traces into collaboration graphs and compare them with task-specific collections of successful reference graphs. Evaluation covers six frameworks and 844 queries from seven datasets; scores depend on the constructed references (2026 preprint).
 
 - **[SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving](https://proceedings.mlr.press/v155/zhou21a.html)**: Zhou et al. introduce an autonomous-driving simulation platform for accumulating road-user behavior models. The paper presents multi-agent interaction experiments, benchmarks, and evaluation metrics (CoRL, 2020; proceedings, 2021).
 
