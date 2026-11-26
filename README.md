@@ -696,6 +696,8 @@
 
 ### Communication and emergent language
 
+- **[Desiderata for Agent Communication Languages](https://research.cs.umbc.edu/kqml/papers/desiderata-acl/root.html)**: Mayfield, Labrou, and Finin propose requirements for agent communication languages across syntax, content, semantics, implementation, networking, environment, and reliability. They assess KQML against these requirements (AAAI Spring Symposium, 1995).
+
 - **[A semantics approach for KQML—a general purpose communication language for software agents](https://courses.cs.umbc.edu/771/papers/cikm94.pdf)**: Yannis Labrou and Tim Finin specify KQML performatives through preconditions, postconditions, and completion conditions associated with agent cognitive states. Their framework assumes sincere agents and connects these semantics to conversation policies and message-handling implementations (CIKM, 1994).
 
 - **[Communicative Actions for Artificial Agents](https://cdn.aaai.org/ICMAS/1995/ICMAS95-009.pdf)**: Philip R. Cohen and Hector J. Levesque analyze semantic ambiguities in KQML and formalize requesting and informing through beliefs, goals, actions, and time. They illustrate compositional semantics by constructing a yes–no question from these speech acts (ICMAS, 1995).
@@ -755,6 +757,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[AFlow: Automating Agentic Workflow Generation](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5492ecbce4439401798dcd2c90be94cd-Abstract-Conference.html)**: Zhang et al. use Monte Carlo tree search to generate code-defined workflows of language-model calls. AFlow refines candidate workflows through code changes and execution feedback. Evaluation uses six benchmarks (ICLR, 2025).
 
 - **[Mixture-of-Agents Enhances Large Language Model Capabilities](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5434be94e82c54327bb9dcaf7fca52b6-Abstract-Conference.html)**: Wang et al. arrange language-model agents in layers, with each layer receiving the previous layer’s responses for synthesis and refinement. The method uses prompting without fine-tuning and is evaluated on AlpacaEval 2.0, Arena-Hard, MT-Bench, and FLASK (ICLR, 2025).
 
