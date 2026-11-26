@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Coalition structure generation with worst case guarantees](https://www.cs.cmu.edu/~sandholm/coalstruct.aij.pdf)**: Sandholm et al. develop anytime search over disjoint coalition partitions with worst-case bounds on total value relative to the optimum. The characteristic-function model assumes nonnegative coalition values, and the required search remains exponential in the number of agents (Artificial Intelligence, 1999).
+
 - **[The Use of Knowledge in Society](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf)**: F. A. Hayek examines economic coordination when knowledge is dispersed among individuals and argues that prices communicate changes relevant to their local decisions. This is a conceptual economic argument (American Economic Review, 1945).
 - **[Dynamic Context Allocation for Concurrent Multi-Agent LLMs](https://aclanthology.org/2026.emnlp-main.1785/)**: Na et al. train a context allocator to select and revise the task information exposed to fixed-role agents. Evaluation uses cooperative coding, CRM lead qualification, and multi-agent web development (EMNLP, 2026).
 
