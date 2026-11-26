@@ -271,6 +271,8 @@
 
 ### Agent foundations and architectures
 
+- **[The Use of Meta-Level Control for Coordination in a Distributed Problem Solving Network](https://ijcai.org/proceedings/1983/181)**: Daniel D. Corkill and Victor R. Lesser coordinate distributed problem solving through organizational guidelines that local controllers translate into specific activities. Preliminary experiments compare communication and control strategies in four- and five-node vehicle-monitoring simulations (IJCAI, 1983).
+
 - **[Multiagent Systems Engineering](https://www.cin.ufpe.br/~in1025/2007-1/MaSE-IJSEKE.pdf)**: DeLoach, Wood, and Sparkman present MaSE, a methodology that connects system goals, roles, agent classes, conversations, and deployment designs. The paper illustrates the process with a computer-security monitoring example (International Journal of Software Engineering and Knowledge Engineering, 2001).
 
 - **[The Knowledge Level](https://onlinelibrary.wiley.com/doi/full/10.1609/aimag.v2i2.99)**: Allen Newell proposes describing agents through their knowledge, goals, and available actions, separately from the data structures and processes implementing them. This is conceptual background for knowledge-level accounts of agent behavior (AI Magazine, 1981).
@@ -799,6 +801,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration](https://aclanthology.org/2024.emnlp-main.416/)**: Xu et al. introduce MAgIC, a competition-based benchmark using two social-deduction games and three game-theory scenarios. They compare language-model agents and evaluate a probabilistic graphical-model prompting method within these games (EMNLP, 2024).
 
 - **[MALLM: Multi-Agent Large Language Models Framework](https://aclanthology.org/2025.emnlp-demos.29/)**: Becker et al. introduce MALLM for configuring agent personas, response generators, discussion paradigms, and decision protocols in multi-agent debate. The framework includes dataset loading and an evaluation pipeline for comparing configurations (EMNLP System Demonstrations, 2025).
 
