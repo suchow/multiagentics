@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[MisoDICE: Multi-Agent Imitation from Mixed-Quality Demonstrations](https://proceedings.neurips.cc/paper_files/paper/2025/hash/efe51d056f63d4546e73aa8a97dcb6de-Abstract-Conference.html)**: Bui, Mai, and Nguyen study cooperative offline imitation from unlabeled mixtures of expert and suboptimal demonstrations. They combine trajectory labeling with a multi-agent DICE method using value decomposition and a mixing architecture. Evaluation uses multi-agent reinforcement-learning benchmarks (NeurIPS, 2025).
+
 - **[Streaming Communication in Multi-Agent Reasoning](https://aclanthology.org/2026.emnlp-main.244/)**: Yang et al. introduce StreamMA, which sends reasoning steps to downstream agents during generation. They compare streaming, serial, and single-agent protocols on eight mathematics, science, and coding benchmarks across three model families and three coordination topologies (EMNLP, 2026).
 
 - **[TRIAGE: Severity-Ranked Multi-Agent Failure Attribution](https://aclanthology.org/2026.aacl-short.27/)**: Xizhi Wang introduces TriageBench and ranks candidate repairs using suspicion scores, structural impact, and simulated replay. Council judgments and repair-plausibility ratings do not establish actual causal repair success (AACL-IJCNLP, 2026).
