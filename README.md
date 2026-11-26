@@ -296,6 +296,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[A Framework for Sequential Planning in Multi-Agent Settings](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume24/gmytrasiewicz05a.pdf)**: Piotr J. Gmytrasiewicz and Prashant Doshi introduce interactive POMDPs with Bayesian beliefs over physical states and models of other agents, including their beliefs. Finite nesting supports computable approximations to the generally difficult nested-belief problem (JAIR, 2005).
+
 - **[Generating Project Networks](https://ijcai.org/proceedings/1977/209)**: Austin Tate describes NONLIN, which expands hierarchical task descriptions into partially ordered action networks and analyzes interactions between subplans. This is centralized planning from supplied domain knowledge, an adjacent foundation for task decomposition (IJCAI, 1977).
 
 - **[Taming Decentralized POMDPs: Towards Efficient Policy Computation for Multiagent Settings](https://ijcai.org/proceedings/2003/103)**: Nair et al. introduce JESP, which alternately optimizes each agent’s policy with teammates’ policies fixed. Centralized planning produces locally optimal finite-horizon policies for decentralized execution; a dynamic-programming variant reduces search costs (IJCAI, 2003).
@@ -481,6 +483,8 @@
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 
 ### Communication and emergent language
+
+- **[Emergent Communication through Negotiation](https://arxiv.org/abs/1804.03980)**: Cao et al. compare grounded offer channels with learned cheap talk in a semi-cooperative negotiation game. They examine how prosocial rewards and identifiable partners affect communication within that game (ICLR, 2018).
 
 - **[EGG: a toolkit for research on Emergence of lanGuage in Games](https://aclanthology.org/D19-3010/)**: Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, and Marco Baroni introduce modular building blocks for neural-agent communication games with discrete channels. The paper describes research infrastructure for varying architectures and optimization methods (EMNLP-IJCNLP System Demonstrations, 2019).
 
