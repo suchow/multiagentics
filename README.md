@@ -486,6 +486,8 @@
 
 ### Communication and emergent language
 
+- **[CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication](https://aclanthology.org/P19-1651/)**: Kim et al. introduce a teller–drawer clip-art scene-reconstruction game and human-dialogue dataset. Evaluation includes automated tests, partners trained independently on disjoint data, and live human interaction within this environment (ACL, 2019).
+
 - **[Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog](https://aclanthology.org/D17-1321/)**: Kottur et al. show that high task success in a two-agent Task & Talk reference game can accompany uninterpretable, noncompositional protocols. They examine communication restrictions that encourage compositional structure within that game (EMNLP, 2017).
 
 - **[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585)**: Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, and Dhruv Batra train questioner and answerer agents for cooperative image identification through multi-round dialogue. Synthetic games learn protocols from scratch; VisDial experiments use supervised human-dialogue pretraining followed by reinforcement-learning fine-tuning (ICCV, 2017).
