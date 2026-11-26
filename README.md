@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[MLZero: A Multi-Agent System for End-to-end Machine Learning Automation](https://proceedings.neurips.cc/paper_files/paper/2025/hash/63ed15a46a143ff57484b38cd6b85d91-Abstract-Conference.html)**: Fang et al. combine multimodal perception, semantic and episodic memory, and iterative code generation for machine-learning automation. Evaluation uses MLE-Bench Lite and an introduced 25-task multimodal benchmark (NeurIPS, 2025).
+
 - **[Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0c8d49f2744d8ee4d5948621d6bb5bc0-Abstract-Conference.html)**: Anand, Karmarkar, and Qu develop subsampled mean-field Q-learning and randomized decentralized execution, with approximation bounds governed by sampled group size. The main analysis uses a structured global/local-agent model with finite spaces and bounded rewards (NeurIPS, 2025).
 - **[The Combination of Forecasts](https://doi.org/10.1057/jors.1969.103)**: Bates and Granger study weighted combinations of two airline-passenger forecasts, estimating weights from past errors and comparing mean-square prediction errors. This is an adjacent statistical-aggregation foundation (1969).
 - **[Groups Perform Better Than the Best Individuals on Letters-to-Numbers Problems: Effects of Group Size](https://pdodds.w3.uvm.edu/files/papers/others/everything/laughlin2006a.pdf)**: Laughlin et al. compare human groups with the best of an equivalent number of independent individuals on letter-to-number decoding with correctness feedback. Groups of three to five solved the studied problems in fewer trials (2006).
