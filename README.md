@@ -314,6 +314,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[M3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://ai.meta.com/research/publications/m3rl-mind-aware-multi-agent-management-reinforcement-learning/)**: Shu and Tian train a manager to infer workers’ preferences and skills, assign tasks through contracts, and choose bonuses. Evaluation uses simulated resource-collection and crafting tasks with self-interested workers (ICLR, 2019).
+
 - **[Reward Machines for Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p934.pdf)**: Neary et al. encode cooperative tasks as reward machines and decompose them into individual subtasks under verifiable conditions. They introduce decentralized Q-learning and specify when local subtask completion accomplishes the team task (AAMAS, 2021).
 
 - **[Continual planning and acting in dynamic multiagent environments](https://gki.informatik.uni-freiburg.de/papers/brenner-nebel-jaamas09.pdf)**: Michael Brenner and Bernhard Nebel interleave planning, acting, and sensing through deliberately postponed subplans. MAPL represents unfinished subplans as assertions; evaluation uses multiagent simulations generated from formal planning domains (Autonomous Agents and Multi-Agent Systems, 2009).
@@ -368,6 +370,8 @@
 - **[The Contract Net Protocol: High-Level Communication and Control in a Distributed Problem Solver](https://reidgsmith.com/The_Contract_Net_Protocol_Dec-1980.pdf)**: Reid G. Smith describes task allocation through announcements, bids, and awards among distributed problem solvers (1980).
 
 ### Distributed systems and consensus
+
+- **[In Search of an Understandable Consensus Algorithm](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)**: Diego Ongaro and John Ousterhout introduce Raft, a replicated-log consensus algorithm organized around leader election, log replication, and safety. Membership changes use overlapping majorities (USENIX ATC, 2014).
 
 - **[Distributed Deadlock Detection](https://research.ibm.com/publications/distributed-deadlock-detection)**: K. Mani Chandy, Jayadev Misra, and Laura M. Haas develop distributed algorithms for detecting resource and communication deadlocks. Processes exchange short messages without maintaining global information within the paper’s formal deadlock models (ACM Transactions on Computer Systems, 1983).
 
