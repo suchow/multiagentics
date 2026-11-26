@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Calibrated Learning and Correlated Equilibrium](https://deanfoster.net/research/calibration_and_CE.pdf)**: Dean P. Foster and Rakesh V. Vohra connect calibrated forecasts and myopic best responses to correlated equilibrium in repeated finite games. The result assumes calibrated learning and stationary deterministic tie-breaking (Games and Economic Behavior, 1997).
+- **[Facts Without Rules: Boundary Metadata Collapse in Multi-Agent LLM Handoffs](https://aclanthology.org/2026.findings-emnlp.422/)**: Wang et al. study whether compressed agent handoffs preserve audience and usage constraints alongside operational facts. They measure downstream privacy leakage in a controlled coordination testbed, including a single-agent control (Findings of EMNLP, 2026).
+
 - **[R-MAX - A General Polynomial Time Algorithm for Near-Optimal Reinforcement Learning](https://www.jmlr.org/papers/v3/brafman02a.html)**: Ronen I. Brafman and Moshe Tennenholtz develop optimistic model-based reinforcement learning with near-optimal average-reward guarantees covering zero-sum stochastic games. The bounds depend on finite state/action spaces and return mixing time (JMLR, 2002).
 
 - **[An analog of the minimax theorem for vector payoffs](https://msp.org/pjm/1956/6-1/pjm-v6-n1-p01-s.pdf)**: David Blackwell characterizes approachable closed convex target sets for average vector payoffs in repeated finite-action games. The model uses bounded payoffs and observed payoff vectors (Pacific Journal of Mathematics, 1956).
