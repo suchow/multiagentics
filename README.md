@@ -244,6 +244,7 @@
 
 ## Key papers
 
+- **[Formal Verification of Parameterised Neural-symbolic Multi-agent Systems](https://ijcai.org/proceedings/2024/12)**: Kouvaros, Botoeva, and De Bonis-Campbell reduce verification of homogeneous neural-symbolic agent populations to bounded-agent checks for a restricted temporal-logic fragment. Agents combine neural perception with programmed action selection (IJCAI, 2024).
 - **[Soylent: A Word Processor with a Crowd Inside](https://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf)**: Bernstein et al. introduce Find-Fix-Verify, separating problem identification, candidate edits, and review in a human crowdsourced word processor (UIST, 2010).
 - **[Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://proceedings.mlr.press/v235/triantafyllou24a.html)**: Triantafyllou et al. define causal effects transmitted through other agents’ responses in multi-agent MDPs. They provide sufficient counterfactual identification conditions and a sampling-based estimator. Evaluation uses simulations (ICML, 2024).
 - **[CrowdForge: Crowdsourcing Complex Work](https://smus.com/crowdforge/crowdforge-uist-11.pdf)**: Kittur, Smus, Khamkar, and Kraut organize complex human crowdsourced work through nested partition, map, and reduce tasks, with case studies in writing, decision making, and science journalism (UIST, 2011).
