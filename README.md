@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks](https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p1613.pdf)**: Papadopoulos et al. compare cooperative MARL algorithms across diverse tasks, including image observations, and report training time. They introduce PyMARLzoo+ for benchmark integration (AAMAS, 2025).
+- **[A simple model of global cascades on random networks](https://www.stat.berkeley.edu/~aldous/260-FMIE/Papers/watts.pdf)**: Duncan J. Watts analyzes how network connectivity and individual adoption thresholds affect large cascades from small initial shocks. The model uses binary states, random networks, and irreversible threshold activation (PNAS, 2002).
+
 - **[MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks](https://proceedings.neurips.cc/paper_files/paper/2025/file/d59aa09699530c00d4b875a883876641-Paper-Datasets_and_Benchmarks_Track.pdf)**: Zhu et al. compare multi-agent, single-model, and conventional methods across medical question answering, lay summaries, electronic-health-record prediction, and workflow automation. These benchmark comparisons do not establish clinical safety or deployment readiness (NeurIPS, 2025).
 
 - **[If multi-agent learning is the answer, what is the question?](https://people.eecs.berkeley.edu/~russell/classes/cs294/f21/papers/Shoham-2007-what-is-the-question.pdf)**: Yoav Shoham, Rob Powers, and Trond Grenager distinguish five research agendas in multi-agent learning and examine their evaluation criteria. The conceptual discussion centers on stochastic and repeated games and does not claim an exhaustive classification (Artificial Intelligence, 2007).
