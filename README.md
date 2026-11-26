@@ -545,6 +545,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Pommerman: A Multi-Agent Playground](https://arxiv.org/abs/1809.07124)**: Resnick et al. introduce a Bomberman-based research environment with cooperative and competitive scenarios involving at least four players. The platform supports research on planning, teammate and opponent modeling, and communication (2018 preprint; revised 2022).
+
 - **[MOSMAC: A Multi-agent Reinforcement Learning Benchmark on Sequential Multi-objective Tasks](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p867.pdf)**: Geng et al. introduce a StarCraft II benchmark combining sequential subtasks with combat, safety, and navigation objectives. They compare nine multi-agent reinforcement-learning algorithms across different horizons (AAMAS, 2025).
 - **[CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement](https://proceedings.mlr.press/v306/qian26c.html)**: Qian et al. introduce cooperative-game environments with simulated player profiles and train agents through reasoning, communication, and action rollouts. Evaluation uses CWAH-MultiPlayer and Cook-MultiPlayer with task-efficiency and affective-adaptation metrics (ICML, 2026).
 - **[MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/tomilin26a.html)**: Tomilin et al. introduce GPU-accelerated cooperative environments for evaluating continual multi-agent learning across task sequences, including sequences of 100 tasks. These benchmark evaluations do not establish lifelong deployment capability (ICML, 2026).
