@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Developmental Sequence in Small Groups](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Tuckman_1965_Developmental_sequence_in_small_groups.pdf)**: Bruce W. Tuckman reviews 50 articles and proposes four developmental stages for human groups, distinguishing interpersonal relations from task activity. The model is a set of hypotheses for further testing, with much of its evidence drawn from therapy and training groups (Psychological Bulletin, 1965).
+
 - **[Scaling Multi-Agent Environment Co-Design with Diffusion Models](https://proceedings.mlr.press/v306/li26b.html)**: Li, Amir, and Prorok jointly optimize agent policies and environment configurations through guided diffusion and critic distillation. Evaluation uses constrained multi-agent co-design benchmarks, including a warehouse setting (ICML, 2026).
 - **[Termination detection for diffusing computations](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD687a.html)**: Edsger W. Dijkstra and C. S. Scholten develop a return-signal protocol for detecting completion of finite distributed computations that delegate subtasks through messages. The model assumes message delivery and node progress (Information Processing Letters, 1980; linked 1979 manuscript).
 
