@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Latent Collaboration in Multi-Agent Systems](https://proceedings.mlr.press/v306/zou26k.html)**: Zou et al. introduce LatentMAS, a training-free framework for agent collaboration through hidden representations and shared latent memory. Evaluation spans nine reasoning, commonsense, and code-generation benchmarks; the method requires access to internal representations (ICML, 2026).
+
 - **[Great Minds Think Alike: Contextual Tacit Communication for Decentralized LLM-Agent Cooperation](https://proceedings.mlr.press/v306/pei26d.html)**: Pei et al. derive prompt-level cooperation rules from joint LLM value scores. Decentralized embodied agents use these rules without explicit message actions. Evaluation uses VIKI, C-WAH, and TDW-MAT (ICML, 2026).
 
 - **[Position: Multi-Agent Systems Should Prioritize Concurrency Control](https://proceedings.mlr.press/v306/yang26dy.html)**: Yang et al. frame shared-state failures in LLM agent teams as concurrency anomalies and advocate explicit conflict detection, isolation guarantees, and structured resource access. This is a position paper (ICML, 2026).
