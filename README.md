@@ -452,6 +452,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://iclr.github.io/build/virtual/poster_SJxbHkrKDH.html)**: Long et al. increase training populations in stages, mix and fine-tune agent sets, and select sets for adaptation to larger populations. Evaluation implements the curriculum with MADDPG in the tested multi-agent games (ICLR, 2020).
+
 - **[Graph Convolutional Reinforcement Learning](https://arxiv.org/abs/1810.09202)**: Jiang et al. introduce DGN, using attention-based graph convolutions to aggregate neighboring agents’ features as interaction graphs change. Temporal relation regularization encourages consistency across time. Evaluation uses cooperative simulations (ICLR, 2020).
 
 - **[FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v139/zhang21m.html)**: Zhang et al. introduce an actor–critic method for factorizing maximum-entropy joint policies into individual policies. Evaluation uses matrix games, differential games, and StarCraft II micromanagement (ICML, 2021).
