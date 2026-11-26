@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[A survey of multi-agent organizational paradigms](https://mas.cs.umass.edu/Documents/bhorling/horling-paradigms.pdf)**: Bryan Horling and Victor Lesser survey hierarchies, holarchies, coalitions, teams, congregations, societies, federations, markets, and matrix organizations. They compare organizational characteristics and describe construction and maintenance approaches (The Knowledge Engineering Review, 2004 issue; linked May 2005 author version).
+
 - **[Enabling Technology for Knowledge Sharing](https://userpages.cs.umbc.edu/finin/papers/aim91/)**: Neches et al. outline infrastructure for sharing knowledge and reasoning services across systems, including interchange languages, communication protocols, and shared ontologies. The article presents the Knowledge-Sharing Effort’s research agenda (AI Magazine, 1991).
 
 - **[An Introduction to Collective Intelligence](https://arxiv.org/abs/cs/9908014)**: David H. Wolpert and Kagan Tumer survey COIN design: assigning rewards to decentralized learning agents against a specified system-wide utility function. Examples include packet routing, leader–follower systems, and the El Farol bar problem (1999 preprint; NASA-ARC-IC-99-63).
@@ -801,6 +803,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[MuMA-ToM: Multi-modal Multi-Agent Theory of Mind](https://scai.cs.jhu.edu/projects/MuMA-ToM/)**: Shi et al. introduce MuMA-ToM, which asks questions about beliefs, social goals, and beliefs about others’ goals from household-interaction videos and text. They compare models with human participants and introduce language-model-based inverse multi-agent planning (AAAI, 2025).
 
 - **[MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration](https://aclanthology.org/2024.emnlp-main.416/)**: Xu et al. introduce MAgIC, a competition-based benchmark using two social-deduction games and three game-theory scenarios. They compare language-model agents and evaluate a probabilistic graphical-model prompting method within these games (EMNLP, 2024).
 
