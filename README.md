@@ -394,6 +394,10 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Collaborative Multiagent Reinforcement Learning by Payoff Propagation](https://www.jmlr.org/papers/v7/kok06a.html)**: Jelle R. Kok and Nikos Vlassis introduce Sparse Cooperative Q-learning, which approximates shared action values over coordination graphs and uses payoff messages for joint action selection. Action selection is approximate on general graphs (JMLR, 2006).
+
+- **[Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v97/foerster19a.html)**: Foerster et al. update approximate public beliefs from observed actions and learn policies over mappings from private information to actions. Evaluation uses a two-step matrix game and two-player Hanabi (ICML, 2019).
+
 - **[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748)**: Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch train competing agents through self-play in simulated physical games. They examine learned locomotion, blocking, and defensive behaviors within those games (ICLR, 2018; preprint 2017).
 
 - **[Celebrating Diversity in Shared Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/20aee3a5f4643755a79ee5f6a73050ac-Abstract.html)**: Li et al. combine identity–trajectory mutual-information regularization with agent-specific network modules to encourage behavioral diversity under parameter sharing. Evaluation uses Google Research Football and StarCraft II micromanagement (NeurIPS, 2021).
