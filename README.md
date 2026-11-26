@@ -243,6 +243,10 @@
 
 ## Key papers
 
+- **[The Open Agent Architecture: A Framework for Building Distributed Software Systems](https://www.tandfonline.com/doi/abs/10.1080/088395199117504)**: Martin, Cheyer, and Moran describe OAA, where facilitators match service requests with agents’ declared capabilities to coordinate heterogeneous distributed software components (Applied Artificial Intelligence, 1999).
+- **[Architecture Matters for Multi-Agent Security](https://proceedings.mlr.press/v306/hagag26a.html)**: Hagag et al. compare roles, interaction topology, and memory visibility in web-agent systems. Their evaluation separates planning refusal, execution interception, and completed attacks (ICML, 2026).
+- **[MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](https://proceedings.mlr.press/v306/nother26a.html)**: Nöther, Singla, and Radanovic use adversarial search to design multi-agent systems against attacks that compromise selected agents. The design process uses feedback from the strongest attacks discovered by the search (ICML, 2026).
+
 - **[Controlling cooperative problem solving in industrial multi-agent systems using joint intentions](https://apice.unibo.it/bin/view/Publication/IndustrialcoordinationAi75)**: Nicholas R. Jennings implements Joint Responsibility in GRATE*, specifying how cooperation starts, proceeds, and responds to difficulties. Comparative experiments concern electricity transportation management (Artificial Intelligence, 1995).
 - **[AgentWebBench: Benchmarking Multi-Agent Coordination in Agentic Web](https://proceedings.mlr.press/v306/zhong26n.html)**: Zhong, Shen, and Xiong evaluate search, recommendation, question answering, and research through interactions between user agents and website-specific content agents (ICML, 2026).
 - **[Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](https://proceedings.mlr.press/v306/jing26d.html)**: Jing et al. introduce ICRL4AHT to test history-conditioned adaptation to unseen teammates and layouts in Overcooked-V2 through controlled shifts and multi-episode evaluation (ICML, 2026).
