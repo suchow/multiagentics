@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[An ontology for commitments in multiagent systems: Toward a unification of normative concepts](https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/ai%2Blaw-final.pdf)**: Munindar P. Singh describes social commitments and their operations within spheres of commitment. The normative framework relates obligations, taboos, conventions, and pledges through a common commitment vocabulary (Artificial Intelligence and Law, 1999).
+
 - **[The Scientific Community Metaphor](https://dspace.mit.edu/entities/publication/7e958780-4656-4c97-a1be-de0f18cd29bb)**: William A. Kornfeld and Carl Hewitt model aspects of scientific-community problem solving through concurrency and pluralism. A variant of Ether provides simplified computational models of these mechanisms (IEEE Transactions on Systems, Man, and Cybernetics, 1981).
 
 - **[Social conceptions of knowledge and action: DAI foundations and open systems semantics](https://experts.illinois.edu/en/publications/social-conceptions-of-knowledge-and-action-dai-foundations-and-op/)**: Les Gasser develops a social account of knowledge and action for distributed AI and examines Open Information Systems Semantics against those principles. This is a conceptual analysis (Artificial Intelligence, 1991).
