@@ -292,6 +292,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Taming Decentralized POMDPs: Towards Efficient Policy Computation for Multiagent Settings](https://ijcai.org/proceedings/2003/103)**: Nair et al. introduce JESP, which alternately optimizes each agent’s policy with teammates’ policies fixed. Centralized planning produces locally optimal finite-horizon policies for decentralized execution; a dynamic-programming variant reduces search costs (IJCAI, 2003).
+
 - **[The Communicative Multiagent Team Decision Problem: Analyzing Teamwork Theories and Models](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume16/pynadath02a-html/index.html)**: David V. Pynadath and Milind Tambe model communication costs and uncertainty to analyze teamwork policy optimality and complexity. Their COM-MTDP model assumes a shared utility function and common knowledge of the model (JAIR, 2002).
 
 - **[The Auction Algorithm: A Distributed Relaxation Method for the Assignment Problem](https://www.mit.edu/~dimitrib/TheAuctionAP.pdf)**: Dimitri P. Bertsekas solves one-to-one assignment through computational bids and price updates, with parallel and asynchronous implementations. This is an optimization algorithm for assignment, without a strategic incentive-compatibility guarantee (Annals of Operations Research, 1988).
@@ -385,6 +387,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953)**: Wen et al. introduce the Multi-Agent Transformer, an encoder–decoder architecture that maps observations to sequentially generated joint actions through online cooperative learning. Evaluation uses StarCraft II, Multi-Agent MuJoCo, dexterous manipulation, and Google Research Football (2022).
 
 - **[Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2109.11251)**: Kuba et al. introduce HATRPO and HAPPO, using advantage decomposition and sequential policy updates for cooperative agents without shared policy parameters. Evaluation uses Multi-Agent MuJoCo and StarCraft II tasks (2021 preprint; 2022 revision).
 
