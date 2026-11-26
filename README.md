@@ -241,6 +241,10 @@
 
 ## Key papers
 
+- **[The Architecture of Complexity](https://pdodds.w3.uvm.edu/research/papers/others/1962/simon1962a.pdf)**: Herbert A. Simon analyzes hierarchy and near-decomposability in complex systems, including stronger interactions within subsystems. This is conceptual background for modular organization (1962).
+- **[Multi-Agent Teams Hold Experts Back](https://proceedings.mlr.press/v306/pappu26a.html)**: Pappu et al. evaluate whether self-organizing LLM teams match their strongest member and examine failures to use identified expertise across tested teams and benchmarks (ICML, 2026).
+- **[Beyond the All-in-One Agent: Benchmarking Role-Specialized Multi-Agent Collaboration in Enterprise Workflows](https://arxiv.org/abs/2605.08761)**: Yu et al. introduce EntCollabBench, a simulated organization with permission-separated roles, state-changing workflows, and policy-based approval tasks. Evaluation uses execution traces, database checks, and deterministic policy adjudication (2026 preprint).
+
 - **[Transactive Memory: A Contemporary Analysis of the Group Mind](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/Wegner%20Transactive%20Memory.pdf)**: Daniel M. Wegner describes human-group memory as individual memory systems linked by communication, including knowledge of who stores particular information (1987).
 - **[Grounding Collaborative Agents in Group Cognition](https://arxiv.org/abs/2611.29036)**: Tan et al. evaluate briefs for agents entering ongoing teams through reference-point coverage and downstream collaboration simulations across four domains (2026 preprint).
 - **[TeamFusion: Supporting Open-ended Teamwork with Multi-Agent Systems](https://aclanthology.org/2026.acl-long.657/)**: Liu et al. use preference-conditioned proxy agents and structured discussion to synthesize team deliverables. They evaluate representation of members’ views on two open-ended tasks (ACL, 2026).
