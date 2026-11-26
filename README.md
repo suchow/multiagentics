@@ -250,6 +250,8 @@
 
 ## Key papers
 
+- **[College Admissions and the Stability of Marriage](https://www.math.toronto.edu/~mccann/assignments/477/GaleShapley62.pdf)**: Gale and Shapley introduce deferred acceptance and prove existence of stable assignments for two-sided matching with fixed rankings without ties, including college admissions with quotas (1962).
+- **[Convex Markov Games: A New Frontier for Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v267/gemp25a.html)**: Gemp et al. introduce Markov games with convex preferences over occupancy measures, supporting objectives beyond additive rewards. They study equilibrium approximation through exploitability bounds (ICML, 2025).
 - **[On the Rationale of Group Decision-making](https://www.journals.uchicago.edu/doi/10.1086/256633)**: Duncan Black analyzes majority decisions in committees, including how single-peaked preferences restrict pairwise-voting outcomes under sincere voting (1948).
 - **[ReCoDe: Reinforcement Learning-based Dynamic Constraint Design for Multi-Agent Coordination](https://proceedings.mlr.press/v305/amir25a.html)**: Amir et al. learn dynamic coordination constraints around existing optimization-based controllers using local communication. Evaluation concerns multi-agent navigation, including real robots (CoRL, 2025).
 - **[Multi-Agent Common Knowledge Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/hash/f968fdc88852a4a3a27a81fe3f57bfc5-Abstract.html)**: Schroeder de Witt et al. introduce MACKRL, which learns hierarchical group policies conditioned on common knowledge for decentralized coordination. The method assumes a specified common-knowledge function (NeurIPS, 2019).
