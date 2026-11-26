@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Towards Principled Unsupervised Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cc321baf0a8611b1d1bdbd18822667b-Abstract-Conference.html)**: Riccardo Zamboni, Mirco Mutti, and Marcello Restelli compare state-entropy objectives for reward-free multi-agent pretraining and develop a decentralized trust-region policy-search method. Pretraining uses a designed exploration objective before downstream task rewards are specified (NeurIPS, 2025).
+
 - **[Practical Byzantine Fault Tolerance](https://www.usenix.org/conference/osdi-99/practical-byzantine-fault-tolerance)**: Miguel Castro and Barbara Liskov develop Byzantine-fault-tolerant state-machine replication and evaluate a replicated NFS service. The model requires deterministic service behavior, cryptographic assumptions, and at most f faulty replicas among 3f+1; liveness also requires a delay condition (OSDI, 1999).
 - **[Misalignment Contagion: Can a Misaligned Minority Shift Aligned Agents in Multi-Agent LLM Deliberation?](https://proceedings.colm.cc/paper_files/paper/2026/hash/871ed095b734818cfba48db6aeb25a62-Abstract-Conference.html)**: Syed Ali Haider and Soroush Vosoughi test whether a narrowly fine-tuned agent shifts other agents’ responses during deliberation and whether those shifts persist under private re-elicitation. Evaluation spans five normative and safety-relevant datasets and four communication topologies (COLM, 2026 pre-proceedings).
 
