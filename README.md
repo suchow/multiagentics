@@ -434,6 +434,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Too Many Cooks: Bayesian Inference for Coordinating Multi-Agent Collaboration](https://onlinelibrary.wiley.com/doi/10.1111/tops.12525)**: Wu et al. introduce Bayesian Delegation, which uses inverse planning to infer partners’ subtask intentions. Evaluation concerns decentralized coordination in cooking-inspired multi-agent tasks (Topics in Cognitive Science, 2021; [erratum correcting figure-caption order](https://onlinelibrary.wiley.com/doi/10.1111/tops.12540)).
+
 - **[Learning Latent Representations to Influence Multi-Agent Interaction](https://proceedings.mlr.press/v155/xie21a.html)**: Xie et al. learn latent models of how another agent’s strategy changes in response to the controlled agent’s behavior. These dynamics guide policies for co-adaptation in simulated tasks and a physical air-hockey game (CoRL, 2020; proceedings, 2021).
 
 - **[Machine Theory of Mind](https://arxiv.org/abs/1802.07740v2)**: Rabinowitz et al. introduce ToMnet, a meta-learned model for predicting agents’ behavior from observed trajectories. Experiments model random, algorithmic, and deep-RL agents in single-agent gridworld POMDPs, including false-belief tasks (2018 extended preprint).
