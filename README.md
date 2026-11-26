@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[Distributed Constraint Optimization Problems and Applications: A Survey](https://wyeoh.github.io/assets/pdf/jair-FiorettoPY18.pdf)**: Fioretto, Pontelli, and Yeoh classify DCOP models, solution methods, and applications, including extensions for dynamic and uncertain environments (JAIR, 2018).
 - **[Reasoning About Knowledge](https://mitpress.mit.edu/9780262562003/reasoning-about-knowledge/)**: Fagin, Halpern, Moses, and Vardi develop formal approaches to reasoning about agents’ knowledge and apply them to distributed systems, artificial intelligence, and game theory (MIT Press, 1995; linked paperback edition, 2004).
 - **[Readings in Distributed Artificial Intelligence](https://api.pageplace.de/preview/DT0400.9781483214443_A23862463/preview-9781483214443_A23862463.pdf)**: Edited by Alan H. Bond and Les Gasser, this collection organizes early distributed AI research around task allocation, coordination, communication, uncertainty, organizational models, and implementation frameworks (Morgan Kaufmann, 1988; publisher preview).
 - **[The Interdisciplinary Study of Coordination](https://crowston.syr.edu/sites/default/files/acmcs94.pdf)**: Malone and Crowston analyze coordination as managing dependencies among activities, including shared resources, producer–consumer relationships, and task–subtask relationships (ACM Computing Surveys, 1994).
@@ -241,6 +242,8 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Decentralised Coordination of Low-Power Embedded Devices Using the Max-Sum Algorithm](https://profs.scienze.univr.it/~farinelli/pubs/farinelli-AAMAS-08.pdf)**: Farinelli, Rogers, Petcu, and Jennings use factor-graph message passing for approximate decentralized utility optimization. Evaluation includes graph coloring and a sensor-node implementation (AAMAS, 2008).
 
 - **[Autonomous Agents for Collaborative Task under Information Asymmetry](https://papers.nips.cc/paper/2024/hash/0534abc9e6db91683d82186ef0d68202-Abstract-Conference.html)**: Liu et al. introduce iAgents and InformativeBench to study task completion when agents access different users’ information and communicate to retrieve relevant evidence (NeurIPS, 2024).
 
