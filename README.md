@@ -248,6 +248,8 @@
 
 ## Key papers
 
+- **[Is there a “Big Five” in Teamwork?](https://doi.org/10.1177/1046496405277134)**: Salas, Sims, and Burke synthesize human-team research into five teamwork components: leadership, mutual performance monitoring, backup behavior, adaptability, and team orientation (2005).
+- **[When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning](https://proceedings.mlr.press/v306/pei26a.html)**: Pei, Huang, and Wang evolve reusable symbolic communication protocols. A router selects individual, ensemble, or multi-round protocol executions for each query (ICML, 2026).
 - **[Psychological Safety and Learning Behavior in Work Teams](https://dash.harvard.edu/entities/publication/13a7b031-0fdd-45ec-a7e0-2b80e2bc679f)**: Amy Edmondson studies 51 manufacturing work teams and finds an association between psychological safety and learning behaviors such as seeking feedback, sharing information, and discussing errors (1999).
 - **[Benefits and Limitations of Communication in Multi-Agent Reasoning](https://arxiv.org/abs/2510.13903)**: Rizvi-Martel et al. derive agent-count, communication, and speedup bounds for state tracking, recall, and k-hop reasoning in specified computational models. They also evaluate controlled synthetic tasks (2025 preprint; revised 2026).
 - **[Computational Intractability of Strategizing against Online Learners](https://proceedings.mlr.press/v291/assos25a.html)**: Assos, Dagan, and Rajaraman establish worst-case computational limits on finding near-optimal strategies against a multiplicative-weights learner in their strategic model, conditional on P ≠ NP (COLT, 2025).
