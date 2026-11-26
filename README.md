@@ -344,6 +344,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft](https://aclanthology.org/2024.findings-acl.964/)**: Dong et al. represent task dependencies as directed acyclic graphs and coordinate assignment and state tracking through VillagerAgent. Their Minecraft benchmark, VillagerBench, tests construction, cooking, and escape-room tasks with spatial, causal, and temporal constraints (Findings of ACL, 2024).
+
 - **[Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation](https://aclanthology.org/2026.findings-emnlp.1237/)**: Zhou, Leonardis, and Feng introduce Agora, which allocates reasoning steps to expert models and tools through confidence-calibrated auctions. Evaluation compares single-model, routing, and cascade baselines across five benchmarks using matched candidate pools (Findings of EMNLP, 2026).
 
 - **[Task Allocation Via Coalition Formation Among Autonomous Agents](https://ijcai.org/proceedings/1995/86)**: Onn Shehory and Sarit Kraus develop distributed task allocation through coalitions of agents with complementary capabilities. Their anytime algorithm concerns cooperative problem solving where a task may require several agents (IJCAI, 1995).
@@ -821,6 +823,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[Robust Agent Teams via Socially-Attentive Monitoring](https://arxiv.org/abs/1106.0235)**: Kaminka and Tambe study failure detection through relationships among cooperating agents. They compare centralized and distributed monitoring algorithms analytically and in two multi-agent domains (JAIR, 2000; archived 2011).
 
 - **[GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems](https://aclanthology.org/2025.emnlp-industry.106/)**: Lee et al. represent agent interactions as directed acyclic graphs and propose metrics for message diversity and redundant reasoning paths. They evaluate these diagnostics alongside answer accuracy on five benchmarks (EMNLP Industry Track, 2025).
 
