@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[DESIRE: Modelling Multi-Agent Systems in a Compositional Formal Framework](https://research.vu.nl/en/publications/desire-modelling-multi-agent-systems-in-a-compositional-formal-fr/)**: Brazier et al. use DESIRE to specify interacting reasoning components, knowledge, and task coordination in multiagent systems. Their case study models an operational electricity-transportation management system (International Journal of Cooperative Information Systems, 1997).
+
 - **[Asynchronous Teams: Cooperation Schemes for Autonomous Agents](https://link.springer.com/article/10.1023/A:1009669824615)**: Talukdar et al. organize autonomous optimization agents around shared populations of trial solutions. Agents asynchronously construct, modify, and remove solutions; traveling-salesman experiments and Markov models examine this cooperation scheme (Journal of Heuristics, 1998).
 
 - **[The BOID architecture: conflicts between beliefs, obligations, intentions and desires](https://icr.uni.lu/leonvandertorre/bibtexbrowser.php?bib=leononly_new_incomplete.bib&key=DBLP%3Aconf%2Fagents%2FBroersenDHHT01)**: Broersen et al. introduce BOID, an agent architecture with beliefs, obligations, intentions, and desires. Feedback loops and conflict-resolution mechanisms define different agent types (Agents, 2001; author-hosted abstract).
@@ -657,6 +659,8 @@
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 
 ### Communication and emergent language
+
+- **[Compositional Obverter Communication Learning From Raw Visual Input](https://arxiv.org/abs/1804.02341)**: Edward Choi, Angeliki Lazaridou, and Nando de Freitas train communicating agents from image pixels using the obverter technique: messages maximize the speaker’s own predicted understanding. Evaluation examines protocol structure and unseen color–shape combinations in a synthetic image-description game (ICLR, 2018).
 
 - **[Compositional Languages Emerge in a Neural Iterated Learning Model](https://arxiv.org/abs/2002.01365)**: Ren et al. introduce neural iterated learning across generations of interacting agents. They study emergent protocol structure, learnability, and generalization in neural language games (ICLR, 2020).
 
