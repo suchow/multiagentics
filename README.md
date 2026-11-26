@@ -271,6 +271,8 @@
 
 ### Agent foundations and architectures
 
+- **[Multiagent Systems Engineering](https://www.cin.ufpe.br/~in1025/2007-1/MaSE-IJSEKE.pdf)**: DeLoach, Wood, and Sparkman present MaSE, a methodology that connects system goals, roles, agent classes, conversations, and deployment designs. The paper illustrates the process with a computer-security monitoring example (International Journal of Software Engineering and Knowledge Engineering, 2001).
+
 - **[The Knowledge Level](https://onlinelibrary.wiley.com/doi/full/10.1609/aimag.v2i2.99)**: Allen Newell proposes describing agents through their knowledge, goals, and available actions, separately from the data structures and processes implementing them. This is conceptual background for knowledge-level accounts of agent behavior (AI Magazine, 1981).
 
 - **[DESIRE: Modelling Multi-Agent Systems in a Compositional Formal Framework](https://research.vu.nl/en/publications/desire-modelling-multi-agent-systems-in-a-compositional-formal-fr/)**: Brazier et al. use DESIRE to specify interacting reasoning components, knowledge, and task coordination in multiagent systems. Their case study models an operational electricity-transportation management system (International Journal of Cooperative Information Systems, 1997).
@@ -797,6 +799,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[MALLM: Multi-Agent Large Language Models Framework](https://aclanthology.org/2025.emnlp-demos.29/)**: Becker et al. introduce MALLM for configuring agent personas, response generators, discussion paradigms, and decision protocols in multi-agent debate. The framework includes dataset loading and an evaluation pipeline for comparing configurations (EMNLP System Demonstrations, 2025).
 
 - **[Symmetric Machine Theory of Mind](https://proceedings.mlr.press/v162/sclar22a.html)**: Sclar, Neubig, and Bisk introduce SymmToM, a multi-agent environment in which every agent can speak, listen, observe others, and move. Experiments compare learned models of other agents’ mental states with baselines and an oracle that observes those states (ICML, 2022).
 
