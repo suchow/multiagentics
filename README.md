@@ -291,6 +291,7 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Planning, Learning and Coordination in Multiagent Decision Processes](https://www.cs.toronto.edu/~cebly/Papers/tark96.pdf)**: Craig Boutilier frames cooperative sequential decisions as multiagent MDPs and studies imposed conventions and learned coordination through local state games. The main model uses shared utility, complete state observability, and finite state/action spaces (TARK, 1996).
 - **[Fast Planning Through Planning Graph Analysis](https://www.cs.cmu.edu/~avrim/Papers/graphplan.pdf)**: Avrim L. Blum and Merrick L. Furst introduce Graphplan, which uses planning graphs and action-interference constraints to minimize parallel plan steps. This is centralized planning in discrete STRIPS-like domains (Artificial Intelligence, 1997).
 - **[Consistency in Networks of Relations](https://www.cs.ubc.ca/~mack/Publications/AI77.pdf)**: Alan K. Mackworth develops node-, arc-, and path-consistency algorithms for eliminating locally inconsistent assignments before or during search. This is a centralized constraint-processing foundation; local consistency alone does not guarantee a complete solution for arbitrary networks (Artificial Intelligence, 1977).
 - **[Distributed Breakout Algorithm for Solving Distributed Constraint Satisfaction Problems](https://cdn.aaai.org/ICMAS/1996/ICMAS96-051.pdf)**: Makoto Yokoo and Katsutoshi Hirayama develop distributed local search through neighboring assignment exchanges and constraint-weight increases at locally detectable quasi-minima. Evaluation uses distributed graph coloring with finite domains and binary constraints (ICMAS, 1996).
@@ -337,6 +338,7 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[The Mechanics of n-Player Differentiable Games](https://proceedings.mlr.press/v80/balduzzi18a.html)**: Balduzzi et al. decompose differentiable-game dynamics into potential and Hamiltonian components and derive Symplectic Gradient Adjustment for seeking stable fixed points (ICML, 2018).
 - **[Stable Opponent Shaping in Differentiable Games](https://arxiv.org/abs/1811.08469v2)**: Letcher et al. introduce SOS, which interpolates between LOLA opponent shaping and LookAhead updates. The analysis concerns local convergence and strict-saddle avoidance under differentiability assumptions (ICLR, 2019).
 - **[Algorithmic Mechanism Design](https://www.cs.toronto.edu/~bor/304f16/nisan-ronen-AGT.pdf)**: Noam Nisan and Amir Ronen combine algorithms and payments for optimization with self-interested participants and develop truthful task-scheduling mechanisms. Their formal model uses dominant strategies and quasi-linear utilities (Games and Economic Behavior, 2001).
 - **[Worst-case equilibria](https://cgi.di.uoa.gr/~elias/papers/paper-kp99.html)**: Elias Koutsoupias and Christos Papadimitriou measure coordination inefficiency through the ratio of worst Nash-equilibrium cost to optimal cost. They derive bounds for selfish resource sharing in a simple parallel-link model (STACS, 1999).
