@@ -243,6 +243,9 @@
 
 ## Key papers
 
+- **[A Value for n-Person Games](https://www.degruyterbrill.com/document/doi/10.1515/9781400881970-018/html)**: Lloyd S. Shapley characterizes a value for cooperative characteristic-function games through axioms, addressing allocation of gains among coalition participants (1953).
+- **[Asynchronous Credit Assignment for Multi-Agent Reinforcement Learning](https://ijcai.org/proceedings/2025/20)**: Liang et al. study credit assignment when agents act asynchronously, using a virtual synchrony proxy and multiplicative value decomposition to model dependencies between actions (IJCAI, 2025).
+
 - **[The Open Agent Architecture: A Framework for Building Distributed Software Systems](https://www.tandfonline.com/doi/abs/10.1080/088395199117504)**: Martin, Cheyer, and Moran describe OAA, where facilitators match service requests with agents’ declared capabilities to coordinate heterogeneous distributed software components (Applied Artificial Intelligence, 1999).
 - **[Architecture Matters for Multi-Agent Security](https://proceedings.mlr.press/v306/hagag26a.html)**: Hagag et al. compare roles, interaction topology, and memory visibility in web-agent systems. Their evaluation separates planning refusal, execution interception, and completed attacks (ICML, 2026).
 - **[MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](https://proceedings.mlr.press/v306/nother26a.html)**: Nöther, Singla, and Radanovic use adversarial search to design multi-agent systems against attacks that compromise selected agents. The design process uses feedback from the strongest attacks discovered by the search (ICML, 2026).
