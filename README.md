@@ -617,6 +617,8 @@
 
 ### Evaluation and failure analysis
 
+- **[MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability](https://arxiv.org/abs/2610.04672)**: Chu et al. evaluate protocols, memory, and routing under partial observability across reasoning, scheduling, and game tasks. Deterministic metrics measure performance, communication cost, and cost effectiveness (2026 preprint).
+
 - **[ForestBench: A Unified Graph Framework for Evaluating Multi-Agent Collaboration](https://arxiv.org/abs/2608.08605)**: Chen et al. map execution traces into collaboration graphs and compare them with task-specific collections of successful reference graphs. Evaluation covers six frameworks and 844 queries from seven datasets; scores depend on the constructed references (2026 preprint).
 
 - **[SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving](https://proceedings.mlr.press/v155/zhou21a.html)**: Zhou et al. introduce an autonomous-driving simulation platform for accumulating road-user behavior models. The paper presents multi-agent interaction experiments, benchmarks, and evaluation metrics (CoRL, 2020; proceedings, 2021).
