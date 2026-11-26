@@ -446,6 +446,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v139/zhang21m.html)**: Zhang et al. introduce an actor–critic method for factorizing maximum-entropy joint policies into individual policies. Evaluation uses matrix games, differential games, and StarCraft II micromanagement (ICML, 2021).
+
 - **[Influence-Based Multi-Agent Exploration](https://arxiv.org/abs/1910.05512)**: Wang et al. introduce EITI and EDTI, intrinsic-reward methods for coordinated exploration in transition-dependent multi-agent tasks. Their objectives use transition interdependence or effects on other agents’ expected returns (ICLR, 2020).
 
 - **[Learning to Share in Networked Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/61d8577984e4ef0cba20966eb3ef2ed8-Abstract.html)**: Yi et al. introduce LToS, a decentralized hierarchy that learns reward sharing among network neighbors. High-level sharing policies and low-level policies for the resulting local objectives train alternately in partially connected networks (NeurIPS, 2022).
@@ -835,6 +837,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- **[Consensus Seeking in Multiagent Systems Under Dynamically Changing Interaction Topologies](https://www.ee.iitb.ac.in/~dc/EE749/01431045.pdf)**: Wei Ren and Randal W. Beard analyze information consensus with changing directed communication graphs. Their update schemes achieve asymptotic consensus under specified conditions on recurring spanning-tree connectivity (IEEE Transactions on Automatic Control, 2005).
 
 - **[Communication in Reactive Multiagent Robotic Systems](https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated1/balch_multirobot_comms.pdf)**: Tucker Balch and Ronald C. Arkin compare three communication levels across three cooperative robot tasks using simulations and physical robots. Communication benefits depend on the task in these experiments (Autonomous Robots, 1994).
 
