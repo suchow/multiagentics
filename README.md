@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[An Organizational Approach to Adaptive Production Systems](https://cdn.aaai.org/AAAI/1990/AAAI90-008.pdf)**: Toru Ishida, Makoto Yokoo, and Les Gasser adapt distributed production systems by splitting agents under heavier workloads and combining them when demand falls. Rule dependencies and interference guide local synchronization within this rule-processing model (AAAI, 1990).
+
 - **[Knowledge-based programs](https://research.ibm.com/publications/knowledge-based-programs)**: Ronald Fagin, Joseph Y. Halpern, Yoram Moses, and Moshe Y. Vardi formalize programs with tests for agents’ knowledge. They give conditions for a unique representation within a specified execution context and analyze representation questions in finite-state contexts (Distributed Computing, 1997).
 - **[Reactive Reasoning and Planning](https://cdn.aaai.org/AAAI/1987/AAAI87-121.pdf)**: Michael P. Georgeff and Amy L. Lansky describe PRS, an architecture with explicit beliefs, goals, procedural knowledge, and intentions. PRS interleaves planning and action. Demonstration uses SRI’s Flakey robot in navigation and emergency-task scenarios (AAAI, 1987).
 - **[If multi-agent learning is the answer, what is the question?](https://people.eecs.berkeley.edu/~russell/classes/cs294/f21/papers/Shoham-2007-what-is-the-question.pdf)**: Yoav Shoham, Rob Powers, and Trond Grenager distinguish five research agendas in multi-agent learning and examine their evaluation criteria. The conceptual discussion centers on stochastic and repeated games and does not claim an exhaustive classification (Artificial Intelligence, 2007).
@@ -467,6 +469,8 @@
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 
 ### Communication and emergent language
+
+- **[Biases for Emergent Communication in Multi-agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2019/hash/fe5e7cb609bdbe6d62449d61849c38b0-Abstract.html)**: Tom Eccles, Yoram Bachrach, Guy Lever, Angeliki Lazaridou, and Thore Graepel introduce positive-signalling and positive-listening learning biases. Evaluation examines communication learning without centralized agent training in one-step and temporally extended environments (NeurIPS, 2019).
 
 - **[Emergence of Recursive Language through Bootstrapping and Iterated Learning](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1235.pdf)**: Vikas Kumar and Ajin George Joseph study communication across generations of decentralized reinforcement-learning agents in a graph-navigation language game. They report shared depth-1 recursive structures in that environment (AAMAS, 2025).
 - **[LLM-Guided Communication for Cooperative Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/bae26c.html)**: Bae et al. introduce LMAC, which uses an LLM to refine communication protocols against a state-reconstruction criterion in cooperative multi-agent reinforcement learning (ICML, 2026).
