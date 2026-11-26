@@ -240,6 +240,9 @@
 
 ## Key papers
 
+- **[Cooperate to Compete: Strategic Coordination in Multi-Agent Conquest](https://aclanthology.org/2026.emnlp-main.609/)**: O’Neill et al. evaluate negotiation and shifting alliances in a conquest game with secret objectives, partial observability, and nonbinding agreements, including human–AI games (EMNLP, 2026).
+- **[ProMediate: A Simulation Testbed for Evaluating Proactive Mediation in Multi-Party Negotiation](https://aclanthology.org/2026.findings-acl.1479/)**: Liu et al. evaluate when and how mediator agents intervene in simulated negotiations involving several parties and topics. Metrics include consensus changes and intervention latency (Findings of ACL, 2026).
+
 - **[Counterspeculation, Auctions, and Competitive Sealed Tenders](https://cramton.umd.edu/market-design-papers/vickrey-counterspeculation-auctions-and-competitive-sealed-tenders.pdf)**: William Vickrey analyzes auction rules, including incentives to bid private values when the highest bidder pays the second-highest bid, assuming no bidder collusion (The Journal of Finance, 1961).
 - **[Perfect Equilibrium in a Bargaining Model](https://arielrubinstein.org/papers/11.pdf)**: Ariel Rubinstein studies perfect equilibrium in two-player alternating-offer bargaining with costs of delay (Econometrica, 1982).
 
