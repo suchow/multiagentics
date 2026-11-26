@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[HAI-Agent: Improving Long Horizon Software Engineering with Handoff Interventions](https://proceedings.colm.cc/paper_files/paper/2026/hash/f77b8a0f769a62fa2d68ddbc884afabb-Abstract-Conference.html)**: Wang et al. study specification review before delegation, agent self-checks, and independent validation of returned work. Evaluation uses SWE-bench-Pro and Commit0-lite with matched baselines and ablations (COLM, 2026 pre-proceedings).
+- **[Threshold Models of Collective Behavior](https://sociology.stanford.edu/publications/threshold-models-collective-behavior)**: Mark Granovetter models binary collective choices through individual participation thresholds and examines how their distribution affects aggregate outcomes. Costs and benefits depend on how many others choose each alternative (American Journal of Sociology, 1978; adjacent social theory).
+
 - **[Multi-Agent Memory Inconsistency: Where Factual Conflicts Disappear in LLM Agents](https://arxiv.org/abs/2611.22245)**: Zhang et al. inject conflicting facts into Harvey LAB document-review tasks and trace their retrieval, worker reporting, and conflict detection during delegated execution. The controlled study distinguishes retrieving both claims from recognizing their conflict (2026 preprint).
 - **[Opinion dynamics and bounded confidence: models, analysis and simulation](https://www.jasss.org/5/3/2.html)**: Rainer Hegselmann and Ulrich Krause analyze continuous-opinion models and simulate how bounded confidence affects consensus, polarization, and fragmentation. These are mathematical models and simulations of selective influence (Journal of Artificial Societies and Social Simulation, 2002).
 
