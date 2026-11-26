@@ -510,6 +510,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Emergent Reciprocity and Team Formation from Randomized Uncertain Social Preferences](https://proceedings.neurips.cc/paper/2020/hash/b63c87b0a41016ad29313f0d7393cee8-Abstract.html)**: Bowen Baker introduces randomized uncertain social preferences as a training augmentation. The paper studies reciprocity, reputation, and team formation in simulated abstract and intertemporal social dilemmas (NeurIPS, 2020).
+
 - **[Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641)**: Al-Shedivat et al. develop gradient-based meta-learning for continuously changing environments. They introduce RoboSumo and iterated adaptation games to evaluate adaptation under changing opponent strategies (ICLR, 2018).
 
 - **[A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning](https://proceedings.mlr.press/v139/kim21g.html)**: Kim et al. derive a meta-multiagent policy gradient that accounts for policy changes by both the controlled agent and other learners. Evaluation examines adaptation across cooperative, competitive, and mixed-incentive tasks (ICML, 2021).
