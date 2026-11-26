@@ -721,6 +721,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[Multi-Agent Collaboration via Cross-Team Orchestration](https://aclanthology.org/2025.findings-acl.541/)**: Du et al. introduce Croto, which coordinates multiple agent teams exploring alternative solution paths. Evaluation concerns software development and story generation (Findings of ACL, 2025).
+
 - **[From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research](https://arxiv.org/abs/2611.17041)**: Wu et al. introduce LEAD-RL, which jointly trains research coordinators and subagents using rubric-gated report credit. Final-answer correctness supplies the team reward. Evaluation spans five benchmarks and two model families (2026 preprint).
 - **[Dynamic Context Allocation for Concurrent Multi-Agent LLMs](https://aclanthology.org/2026.emnlp-main.1785/)**: Na et al. train a context allocator to select and revise the task information exposed to fixed-role agents. Evaluation uses cooperative coding, CRM lead qualification, and multi-agent web development (EMNLP, 2026).
 - **[Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding](https://aclanthology.org/2026.acl-long.112/)**: Zhou et al. train specialized planning, coding, and answering agents for table reasoning using Monte Carlo Tree Search trajectories and reinforcement learning. Evaluation uses TableBench (ACL, 2026).
@@ -893,6 +895,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Predicting protein structures with a multiplayer online game](https://grail.cs.washington.edu/projects/protein-game/)**: Cooper et al. introduce Foldit, a multiplayer protein-structure game that combines human manipulation of molecular models with Rosetta optimization tools. Players compete and collaborate to improve computed protein energies (Nature, 2010).
 
 - **[Galaxy Zoo: Morphologies derived from visual inspection of galaxies from the Sloan Digital Sky Survey](https://arxiv.org/abs/0804.4483)**: Lintott et al. aggregate more than 40 million volunteer classifications to catalog the morphology of nearly one million galaxies. Comparisons with expert-classified subsets evaluate this distributed human-classification system (Monthly Notices of the Royal Astronomical Society, 2008).
 
