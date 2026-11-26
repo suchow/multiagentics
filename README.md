@@ -243,6 +243,10 @@
 
 ## Key papers
 
+- **[Controlling cooperative problem solving in industrial multi-agent systems using joint intentions](https://apice.unibo.it/bin/view/Publication/IndustrialcoordinationAi75)**: Nicholas R. Jennings implements Joint Responsibility in GRATE*, specifying how cooperation starts, proceeds, and responds to difficulties. Comparative experiments concern electricity transportation management (Artificial Intelligence, 1995).
+- **[AgentWebBench: Benchmarking Multi-Agent Coordination in Agentic Web](https://proceedings.mlr.press/v306/zhong26n.html)**: Zhong, Shen, and Xiong evaluate search, recommendation, question answering, and research through interactions between user agents and website-specific content agents (ICML, 2026).
+- **[Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](https://proceedings.mlr.press/v306/jing26d.html)**: Jing et al. introduce ICRL4AHT to test history-conditioned adaptation to unseen teammates and layouts in Overcooked-V2 through controlled shifts and multi-episode evaluation (ICML, 2026).
+
 - **[Multipart Pricing of Public Goods](https://ranger.uta.edu/~weems/NOTES6319/PAPERSTWO/clarke.pdf)**: Edward H. Clarke develops a multipart pricing mechanism for public goods that elicits demand information through payments based on participants’ effects on others (Public Choice, 1971).
 - **[Shapley-Coop: Credit Assignment for Emergent Cooperation in Self-Interested LLM Agents](https://proceedings.neurips.cc/paper_files/paper/2025/hash/80164880902980257ef58412322fc374-Abstract-Conference.html)**: Hua et al. combine structured negotiation with Shapley-inspired contribution estimates to allocate rewards. Evaluation covers two games and a software engineering simulation (NeurIPS, 2025).
 - **[Recursive Reasoning or Statistical Extrapolation? In-Context Learning in Multi-Agent Interdependent Decision-Making](https://aclanthology.org/2026.findings-emnlp.1680/)**: Liu et al. perturb interaction histories in a constructed public-goods game to test whether contextual improvements persist when historical statistical patterns change (Findings of EMNLP, 2026).
