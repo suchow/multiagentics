@@ -236,7 +236,7 @@
 ## Datasets
 
 - **[MutualFriends](https://stanfordnlp.github.io/cocoa/)**: He, Balakrishnan, Eric, and Liang release human–human dialogues in which participants exchange information from separate knowledge bases to identify a mutual friend (ACL, 2017).
-- **[DealOrNoDeal](https://github.com/facebookresearch/end-to-end-negotiator)**: Lewis et al. release negotiation dialogues involving item allocation and private agent rewards, accompanying *Deal or No Deal? End-to-End Learning of Negotiation Dialogues* (EMNLP, 2017).
+- **[DealOrNoDeal](https://github.com/facebookresearch/end-to-end-negotiator)**: Lewis et al. release negotiation dialogues involving item allocation and private agent rewards, accompanying *[Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://aclanthology.org/D17-1259.pdf)* (EMNLP, 2017).
 - **[CraigslistBargain](https://huggingface.co/datasets/stanfordnlp/craigslist_bargains)**: He, Chen, Balakrishnan, and Liang release buyer–seller dialogues for studying strategic bargaining over products described in Craigslist listings (EMNLP, 2018).
 
 - **[ToolBench](https://github.com/OpenBMB/ToolBench)**: Open-source instruction-tuning dataset and platform for tool learning, built from 16,000+ real-world RapidAPI APIs with single- and multi-tool scenarios.
