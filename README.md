@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[“I Didn’t Make the Micro Decisions”: Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration](https://proceedings.colm.cc/paper_files/paper/2026/hash/a375e3cb803e0d78fda4bb3933bd3a3a-Abstract-Conference.html)**: Kim et al. introduce CoTRACE to trace goal requirements across human–AI dialogue. They study collaboration logs, controlled simulations, and a user study of perceived contributions (COLM, 2026 pre-proceedings).
+
 - **[Coalition structure generation with worst case guarantees](https://www.cs.cmu.edu/~sandholm/coalstruct.aij.pdf)**: Sandholm et al. develop anytime search over disjoint coalition partitions with worst-case bounds on total value relative to the optimum. The characteristic-function model assumes nonnegative coalition values, and the required search remains exponential in the number of agents (Artificial Intelligence, 1999).
 
 - **[The Use of Knowledge in Society](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf)**: F. A. Hayek examines economic coordination when knowledge is dispersed among individuals and argues that prices communicate changes relevant to their local decisions. This is a conceptual economic argument (American Economic Review, 1945).
