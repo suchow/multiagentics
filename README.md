@@ -894,6 +894,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Galaxy Zoo: Morphologies derived from visual inspection of galaxies from the Sloan Digital Sky Survey](https://arxiv.org/abs/0804.4483)**: Lintott et al. aggregate more than 40 million volunteer classifications to catalog the morphology of nearly one million galaxies. Comparisons with expert-classified subsets evaluate this distributed human-classification system (Monthly Notices of the Royal Astronomical Society, 2008).
+
 - **[Taking CSCW seriously: Supporting articulation work](https://doi.org/10.1007/BF00752449)**: Kjeld Schmidt and Liam Bannon frame cooperative-system design around the support requirements of human work arrangements and articulation work. This is adjacent human-coordination theory (Computer Supported Cooperative Work, 1992).
 
 - **[An Experimental Application of the DELPHI Method to the Use of Experts](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.9.3.458)**: Norman Dalkey and Olaf Helmer report an expert-judgment experiment using successive questionnaires interspersed with controlled opinion feedback. This is a human consensus method; agreement alone does not establish accuracy (Management Science, 1963; publisher abstract).
