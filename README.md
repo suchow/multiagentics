@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[The Nature of the Firm](https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2023/08/coase1937.pdf)**: R. H. Coase explains firm organization through the costs of coordinating production by market exchange and managerial direction. This is economic theory about firms in an exchange economy (Economica, 1937).
+
 - **[Agents that Reason and Negotiate by Arguing](https://www.emse.fr/~boissier/enseignement/sma05/exposes/jlc.pdf)**: Simon Parsons, Carles Sierra, and Nick R. Jennings formalize argumentation-based negotiation and connect it to multi-context belief–desire–intention agent architectures (Journal of Logic and Computation, 1998; linked February author manuscript).
 - **[Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding](https://aclanthology.org/2026.acl-long.112/)**: Zhou et al. train specialized planning, coding, and answering agents for table reasoning using Monte Carlo Tree Search trajectories and reinforcement learning. Evaluation uses TableBench (ACL, 2026).
 
