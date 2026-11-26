@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Scaling Multi-Agent Environment Co-Design with Diffusion Models](https://proceedings.mlr.press/v306/li26b.html)**: Li, Amir, and Prorok jointly optimize agent policies and environment configurations through guided diffusion and critic distillation. Evaluation uses constrained multi-agent co-design benchmarks, including a warehouse setting (ICML, 2026).
+- **[Termination detection for diffusing computations](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD687a.html)**: Edsger W. Dijkstra and C. S. Scholten develop a return-signal protocol for detecting completion of finite distributed computations that delegate subtasks through messages. The model assumes message delivery and node progress (Information Processing Letters, 1980; linked 1979 manuscript).
+
 - **[HAI-Agent: Improving Long Horizon Software Engineering with Handoff Interventions](https://proceedings.colm.cc/paper_files/paper/2026/hash/f77b8a0f769a62fa2d68ddbc884afabb-Abstract-Conference.html)**: Wang et al. study specification review before delegation, agent self-checks, and independent validation of returned work. Evaluation uses SWE-bench-Pro and Commit0-lite with matched baselines and ablations (COLM, 2026 pre-proceedings).
 - **[Threshold Models of Collective Behavior](https://sociology.stanford.edu/publications/threshold-models-collective-behavior)**: Mark Granovetter models binary collective choices through individual participation thresholds and examines how their distribution affects aggregate outcomes. Costs and benefits depend on how many others choose each alternative (American Journal of Sociology, 1978; adjacent social theory).
 
