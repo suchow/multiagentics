@@ -291,6 +291,7 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Fast Planning Through Planning Graph Analysis](https://www.cs.cmu.edu/~avrim/Papers/graphplan.pdf)**: Avrim L. Blum and Merrick L. Furst introduce Graphplan, which uses planning graphs and action-interference constraints to minimize parallel plan steps. This is centralized planning in discrete STRIPS-like domains (Artificial Intelligence, 1997).
 - **[Consistency in Networks of Relations](https://www.cs.ubc.ca/~mack/Publications/AI77.pdf)**: Alan K. Mackworth develops node-, arc-, and path-consistency algorithms for eliminating locally inconsistent assignments before or during search. This is a centralized constraint-processing foundation; local consistency alone does not guarantee a complete solution for arbitrary networks (Artificial Intelligence, 1977).
 - **[Distributed Breakout Algorithm for Solving Distributed Constraint Satisfaction Problems](https://cdn.aaai.org/ICMAS/1996/ICMAS96-051.pdf)**: Makoto Yokoo and Katsutoshi Hirayama develop distributed local search through neighboring assignment exchanges and constraint-weight increases at locally detectable quasi-minima. Evaluation uses distributed graph coloring with finite domains and binary constraints (ICMAS, 1996).
 - **[Coalition structure generation with worst case guarantees](https://www.cs.cmu.edu/~sandholm/coalstruct.aij.pdf)**: Sandholm et al. develop anytime search over disjoint coalition partitions with worst-case bounds on total value relative to the optimum. The characteristic-function model assumes nonnegative coalition values, and the required search remains exponential in the number of agents (Artificial Intelligence, 1999).
@@ -336,6 +337,7 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Stable Opponent Shaping in Differentiable Games](https://arxiv.org/abs/1811.08469v2)**: Letcher et al. introduce SOS, which interpolates between LOLA opponent shaping and LookAhead updates. The analysis concerns local convergence and strict-saddle avoidance under differentiability assumptions (ICLR, 2019).
 - **[Algorithmic Mechanism Design](https://www.cs.toronto.edu/~bor/304f16/nisan-ronen-AGT.pdf)**: Noam Nisan and Amir Ronen combine algorithms and payments for optimization with self-interested participants and develop truthful task-scheduling mechanisms. Their formal model uses dominant strategies and quasi-linear utilities (Games and Economic Behavior, 2001).
 - **[Worst-case equilibria](https://cgi.di.uoa.gr/~elias/papers/paper-kp99.html)**: Elias Koutsoupias and Christos Papadimitriou measure coordination inefficiency through the ratio of worst Nash-equilibrium cost to optimal cost. They derive bounds for selfish resource sharing in a simple parallel-link model (STACS, 1999).
 - **[Calibrated Learning and Correlated Equilibrium](https://deanfoster.net/research/calibration_and_CE.pdf)**: Dean P. Foster and Rakesh V. Vohra connect calibrated forecasts and myopic best responses to correlated equilibrium in repeated finite games. The result assumes calibrated learning and stationary deterministic tie-breaking (Games and Economic Behavior, 1997).
