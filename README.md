@@ -388,6 +388,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](https://proceedings.mlr.press/v80/zhang18n.html)**: Zhang et al. develop actor–critic algorithms for agents with private rewards and neighbor communication over time-varying networks. The objective is globally averaged return; convergence analysis uses linear value-function approximation (ICML, 2018).
+
 - **[Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953)**: Wen et al. introduce the Multi-Agent Transformer, an encoder–decoder architecture that maps observations to sequentially generated joint actions through online cooperative learning. Evaluation uses StarCraft II, Multi-Agent MuJoCo, dexterous manipulation, and Google Research Football (2022).
 
 - **[Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2109.11251)**: Kuba et al. introduce HATRPO and HAPPO, using advantage decomposition and sequential policy updates for cooperative agents without shared policy parameters. Evaluation uses Multi-Agent MuJoCo and StarCraft II tasks (2021 preprint; 2022 revision).
