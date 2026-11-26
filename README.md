@@ -273,6 +273,8 @@
 
 ### Agent foundations and architectures
 
+- **[An Automated Teamwork Infrastructure for Heterogeneous Software Agents and Humans](https://people.ict.usc.edu/~pynadath/Papers/jaamas03.pdf)**: David V. Pynadath and Milind Tambe introduce Teamcore proxies that coordinate heterogeneous agents through a reusable teamwork model and team-oriented plans. Applications include simulated evacuation rehearsal and assistance with human research-team activities (Autonomous Agents and Multi-Agent Systems, 2003).
+
 - **[The Use of Meta-Level Control for Coordination in a Distributed Problem Solving Network](https://ijcai.org/proceedings/1983/181)**: Daniel D. Corkill and Victor R. Lesser coordinate distributed problem solving through organizational guidelines that local controllers translate into specific activities. Preliminary experiments compare communication and control strategies in four- and five-node vehicle-monitoring simulations (IJCAI, 1983).
 
 - **[Multiagent Systems Engineering](https://www.cin.ufpe.br/~in1025/2007-1/MaSE-IJSEKE.pdf)**: DeLoach, Wood, and Sparkman present MaSE, a methodology that connects system goals, roles, agent classes, conversations, and deployment designs. The paper illustrates the process with a computer-security monitoring example (International Journal of Software Engineering and Knowledge Engineering, 2001).
@@ -803,6 +805,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[Do as We Do, Not as You Think: the Conformity of Large Language Models](https://proceedings.iclr.cc/paper_files/paper/2025/hash/1da9ca7e9cef4b1af63913f05d1630a4-Abstract-Conference.html)**: Weng, Chen, and Wang introduce BenchForm, which tests answer conformity through reasoning tasks and five interaction protocols. They examine majority size, interaction time, persona prompts, and reflection as influences on model responses (ICLR, 2025).
 
 - **[MuMA-ToM: Multi-modal Multi-Agent Theory of Mind](https://scai.cs.jhu.edu/projects/MuMA-ToM/)**: Shi et al. introduce MuMA-ToM, which asks questions about beliefs, social goals, and beliefs about others’ goals from household-interaction videos and text. They compare models with human participants and introduce language-model-based inverse multi-agent planning (AAAI, 2025).
 
