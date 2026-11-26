@@ -240,6 +240,11 @@
 
 ## Key papers
 
+- **[Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)**: Leslie Lamport defines causal event ordering and logical clocks for coordinating message-passing processes (Communications of the ACM, 1978).
+- **[Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)**: Fischer, Lynch, and Paterson prove that deterministic consensus cannot guarantee termination in a fully asynchronous system with reliable messages and even one possible process crash (JACM, 1985).
+- **[Designing a Family of Coordination Algorithms](https://cdn.aaai.org/ICMAS/1995/ICMAS95-010.pdf)**: Decker and Lesser introduce Generalized Partial Global Planning, modular mechanisms that coordinate cooperative agents by constraining their local schedules through exchanged task information and commitments (ICMAS, 1995).
+- **[Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs](https://proceedings.mlr.press/v306/li26ej.html)**: Li, Naito, and Shirado introduce HiddenBench, using 65 hidden-profile tasks to study whether agent groups discover and combine separately held information (ICML, 2026).
+
 - **[TarMAC: Targeted Multi-Agent Communication](https://proceedings.mlr.press/v97/das19a.html)**: Das et al. learn message contents and recipients from task rewards, with multiple communication rounds before actions in partially observable multi-agent tasks (ICML, 2019).
 - **[Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://arxiv.org/abs/1812.09755)**: Singh, Jain, and Sukhbaatar introduce IC3Net, which learns communication timing through a gating mechanism and uses individualized rewards across cooperative, competitive, and mixed tasks (ICLR, 2019).
 - **[Async-RBench: Benchmarking Asynchronous Task Execution in LLM Agents](https://arxiv.org/abs/2610.32429)**: Zeng et al. evaluate responses to asynchronous subagent results through 200 executable tasks with controlled delivery and explicit response contracts (2026 preprint).
