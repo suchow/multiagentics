@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[R-MAX - A General Polynomial Time Algorithm for Near-Optimal Reinforcement Learning](https://www.jmlr.org/papers/v3/brafman02a.html)**: Ronen I. Brafman and Moshe Tennenholtz develop optimistic model-based reinforcement learning with near-optimal average-reward guarantees covering zero-sum stochastic games. The bounds depend on finite state/action spaces and return mixing time (JMLR, 2002).
+
 - **[An analog of the minimax theorem for vector payoffs](https://msp.org/pjm/1956/6-1/pjm-v6-n1-p01-s.pdf)**: David Blackwell characterizes approachable closed convex target sets for average vector payoffs in repeated finite-action games. The model uses bounded payoffs and observed payoff vectors (Pacific Journal of Mathematics, 1956).
 - **[MOSMAC: A Multi-agent Reinforcement Learning Benchmark on Sequential Multi-objective Tasks](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p867.pdf)**: Geng et al. introduce a StarCraft II benchmark combining sequential subtasks with combat, safety, and navigation objectives. They compare nine multi-agent reinforcement-learning algorithms across different horizons (AAMAS, 2025).
 
