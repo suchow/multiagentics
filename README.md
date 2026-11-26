@@ -442,6 +442,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[DOP: Off-Policy Multi-Agent Decomposed Policy Gradients](https://arxiv.org/abs/2007.12322)**: Wang et al. integrate value decomposition into multi-agent actor–critic learning for off-policy updates and credit assignment in discrete and continuous action spaces. Evaluation uses StarCraft II micromanagement and particle environments (ICLR, 2021).
+
 - **[RODE: Learning Roles to Decompose Multi-Agent Tasks](https://www.cs.ox.ac.uk/publications/publication14514-abstract.html)**: Wang et al. cluster actions by their effects to construct restricted role action spaces. A hierarchical selector assigns roles, and role policies choose primitive actions. Evaluation concerns StarCraft II micromanagement and specified transfer settings (ICLR, 2021).
 
 - **[Shapley Q-Value: A Local Reward Approach to Solve Global Reward Games](https://cdn.aaai.org/ojs/6220/6220-13-9445-1-10-20200516.pdf)**: Wang et al. formulate Shapley Q-values for cooperative credit assignment and derive SQDDPG with per-agent critics. Evaluation covers cooperative navigation, predator–prey, and traffic junction tasks (AAAI, 2020).
@@ -747,6 +749,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[Negotiation decision functions for autonomous agents](https://jmvidal.cse.sc.edu/library/faratin98a.pdf)**: Faratin, Sierra, and Jennings formalize tactics for generating offers, evaluating proposals, and producing counteroffers in service negotiations. Evaluation uses a business-process-management setting (Robotics and Autonomous Systems, 1998).
 
 - **[Resolving Goal Conflicts via Negotiation](https://cdn.aaai.org/AAAI/1988/AAAI88-044.pdf)**: Katia Sycara introduces PERSUADER, which combines case-based reasoning, goal relaxation, and multiattribute utilities to propose compromises in modeled labor disputes. Development and informal validation used mediator expertise (AAAI, 1988).
 
