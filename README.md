@@ -271,6 +271,8 @@
 
 ### Agent foundations and architectures
 
+- **[The Knowledge Level](https://onlinelibrary.wiley.com/doi/full/10.1609/aimag.v2i2.99)**: Allen Newell proposes describing agents through their knowledge, goals, and available actions, separately from the data structures and processes implementing them. This is conceptual background for knowledge-level accounts of agent behavior (AI Magazine, 1981).
+
 - **[DESIRE: Modelling Multi-Agent Systems in a Compositional Formal Framework](https://research.vu.nl/en/publications/desire-modelling-multi-agent-systems-in-a-compositional-formal-fr/)**: Brazier et al. use DESIRE to specify interacting reasoning components, knowledge, and task coordination in multiagent systems. Their case study models an operational electricity-transportation management system (International Journal of Cooperative Information Systems, 1997).
 
 - **[Asynchronous Teams: Cooperation Schemes for Autonomous Agents](https://link.springer.com/article/10.1023/A:1009669824615)**: Talukdar et al. organize autonomous optimization agents around shared populations of trial solutions. Agents asynchronously construct, modify, and remove solutions; traveling-salesman experiments and Markov models examine this cooperation scheme (Journal of Heuristics, 1998).
@@ -765,6 +767,8 @@
 - **[How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)**: Anthropic's engineering write-up describes an orchestrator-worker architecture in which a lead agent spawns subagents for parallel research (2025).
 
 ### Debate, reasoning, and aggregation
+
+- **[Improving Multi-Agent Debate with Sparse Communication Topology](https://aclanthology.org/2024.findings-emnlp.427/)**: Li et al. compare sparse and fully connected communication graphs in multi-agent debate. They measure performance and input-token cost with GPT and Mistral models on text reasoning, multimodal reasoning, and alignment-labeling tasks (Findings of EMNLP, 2024).
 
 - **[ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs](https://aclanthology.org/2024.acl-long.381/)**: Chen, Saha, and Bansal combine discussion among different LLMs with confidence-weighted voting. They evaluate reasoning on seven benchmarks and examine the contribution of model diversity (ACL, 2024).
 
