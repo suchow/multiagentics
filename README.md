@@ -378,6 +378,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[The Computational Difficulty of Manipulating an Election](https://www.cs.cmu.edu/~arielpro/15780/readings/BTT89.pdf)**: Bartholdi, Tovey, and Trick analyze strategic voting with complete knowledge of other voters’ preferences. They establish worst-case computational hardness of manipulation for Copeland voting with second-order tie-breaking, despite efficient winner determination (Social Choice and Welfare, 1989).
+
 - **[Condorcet’s Theory of Voting](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/condorcets-theory-of-voting/ECA771E9F03D580843319566957ACC40)**: H. P. Young analyzes Condorcet’s statistical account of voting and characterizes the ranking procedure known as Kemeny’s rule. The paper distinguishes majority-winner selection from estimating the most likely ranking (American Political Science Review, 1988).
 
 - **[Model-Free Opponent Shaping](https://proceedings.mlr.press/v162/lu22d.html)**: Lu et al. formulate opponent shaping as a meta-game in which each step spans an episode of the underlying game. Model-free optimization learns policies that influence opponents’ longer-term learning in the tested games (ICML, 2022).
