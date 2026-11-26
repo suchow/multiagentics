@@ -246,6 +246,7 @@
 
 ## Key papers
 
+- **[Multi-Agent Imitation Learning: Value is Easy, Regret is Hard](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3103b25853719847502559bf67eb4037-Abstract-Conference.html)**: Tang et al. distinguish matching an expert coordinator’s outcomes from robustness to strategic deviations in Markov games. They introduce regret-gap objectives and algorithms under expert-coverage or expert-query assumptions (NeurIPS, 2024).
 - **[Do LLM Agents Have Regret? A Case Study in Online Learning and Games](https://proceedings.iclr.cc/paper_files/paper/2025/hash/65ea878cb90b440e8b4cd34fe0959914-Abstract-Conference.html)**: Park et al. evaluate LLM agents using mathematical regret in online decision problems and repeated games. They identify failures and study training with a regret-based loss (ICLR, 2025).
 - **[Multi-agent Markov Entanglement](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0e3af444e7d82d29871804de476d1fbe-Abstract-Conference.html)**: Chen and Peng characterize when value functions permit additive decomposition in their multi-agent MDP setting and introduce a measure that bounds decomposition error (NeurIPS, 2025).
 - **[Organization Design: An Information Processing View](https://pubsonline.informs.org/doi/10.1287/inte.4.3.28)**: Jay R. Galbraith develops a conceptual framework relating task uncertainty to organizational form and information-processing demands, including information systems and group problem solving (Interfaces, 1974).
