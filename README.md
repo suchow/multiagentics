@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Agents that Reason and Negotiate by Arguing](https://www.emse.fr/~boissier/enseignement/sma05/exposes/jlc.pdf)**: Simon Parsons, Carles Sierra, and Nick R. Jennings formalize argumentation-based negotiation and connect it to multi-context belief–desire–intention agent architectures (Journal of Logic and Computation, 1998; linked February author manuscript).
+- **[Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding](https://aclanthology.org/2026.acl-long.112/)**: Zhou et al. train specialized planning, coding, and answering agents for table reasoning using Monte Carlo Tree Search trajectories and reinforcement learning. Evaluation uses TableBench (ACL, 2026).
+
 - **[Organizational Learning and Communities-of-Practice: Toward a Unified View of Working, Learning, and Innovation](https://pubsonline.informs.org/doi/10.1287/orsc.2.1.40)**: John Seely Brown and Paul Duguid connect collaborative workplace problem solving, learning, and innovation through informal communities of practice. The argument draws on human workplace ethnography, particularly service technicians (Organization Science, 1991).
 
 - **[Naïve Learning in Social Networks and the Wisdom of Crowds](https://bengolub.net/papers/naivelearning.pdf)**: Benjamin Golub and Matthew O. Jackson characterize when repeated weighted averaging of neighbors’ beliefs aggregates independent noisy information accurately as a network grows. The model specifies fixed averaging weights and network conditions; consensus speed alone does not establish accuracy (American Economic Journal: Microeconomics, 2010).
