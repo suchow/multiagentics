@@ -344,6 +344,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Understanding the Role of Negotiation in Distributed Search Among Heterogeneous Agents](https://ijcai.org/proceedings/1993/0062.pdf)**: Susan E. Lander and Victor R. Lesser introduce negotiated search, which combines local search, shared-solution construction, critique, and relaxation of solution requirements. Their TEAM framework assumes cooperative heterogeneous agents and stores emerging composite solutions in shared memory (IJCAI, 1993).
+
 - **[An Approach to Analyzing the Need for Meta-Level Communication](https://ijcai.org/proceedings/1993/0051.pdf)**: Keith Decker and Victor Lesser analyze when communication about ongoing problem solving improves dynamic task allocation. Mathematical models and simulations concern homogeneous cooperative agents in distributed sensor networks (IJCAI, 1993).
 
 - **[Conflict-based search for optimal multi-agent pathfinding](https://doi.org/10.1016/j.artint.2014.11.006)**: Guni Sharon, Roni Stern, Ariel Felner, and Nathan R. Sturtevant introduce a two-level centralized pathfinding algorithm. High-level search resolves inter-agent conflicts through constraints; low-level searches compute individual paths. Optimality concerns the paper’s discrete multi-agent pathfinding formulation (Artificial Intelligence, 2015).
@@ -911,6 +913,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[AgentReview: Exploring Peer Review Dynamics with LLM Agents](https://aclanthology.org/2024.emnlp-main.70/)**: Jin et al. simulate peer review with language-model reviewers, authors, and area chairs. They vary role characteristics and review mechanisms to study changes in simulated decisions (EMNLP, 2024).
 
 - **[Leveled Commitment Contracts and Strategic Breach](https://www.cs.cmu.edu/~sandholm/leveled.geb.pdf)**: Tuomas W. Sandholm and Victor R. Lesser introduce contracts that permit either agent to withdraw by paying a specified penalty. They analyze strategic breach and compare decommitment mechanisms within formal automated-negotiation models under uncertainty (Games and Economic Behavior, 2001).
 
