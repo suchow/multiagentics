@@ -240,6 +240,10 @@
 
 ## Key papers
 
+- **[Pooling of Unshared Information in Group Decision Making: Biased Information Sampling During Discussion](https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/vorlesungkommunikation/stasser_titus_unsharedinfogroupdisc_jpsp1985.pdf)**: Garold Stasser and William Titus study biased information sampling in human group discussions through a simulated political caucus. Shared information and existing preferences dominate discussion in the studied setting (Journal of Personality and Social Psychology, 1985).
+- **[Aggregating Sets of Judgments: An Impossibility Result](https://ppettit.scholar.princeton.edu/sites/g/files/toruqf7426/files/documents/Aggregating_EconomicsandPhilosophy_2002.pdf)**: Christian List and Philip Pettit establish an impossibility result for aggregating logically connected judgments under specified rationality, domain, anonymity, and systematicity conditions (Economics and Philosophy, 2002).
+- **[Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?](https://proceedings.neurips.cc/paper_files/paper/2025/hash/934252acd87f254d5d4672fbde283bd2-Abstract-Conference.html)**: Choi, Zhu, and Li separate voting from inter-agent discussion across seven NLP benchmarks and examine their respective contributions to debate performance (NeurIPS, 2025).
+
 - **[Cooperate to Compete: Strategic Coordination in Multi-Agent Conquest](https://aclanthology.org/2026.emnlp-main.609/)**: O’Neill et al. evaluate negotiation and shifting alliances in a conquest game with secret objectives, partial observability, and nonbinding agreements, including human–AI games (EMNLP, 2026).
 - **[ProMediate: A Simulation Testbed for Evaluating Proactive Mediation in Multi-Party Negotiation](https://aclanthology.org/2026.findings-acl.1479/)**: Liu et al. evaluate when and how mediator agents intervene in simulated negotiations involving several parties and topics. Metrics include consensus changes and intervention latency (Findings of ACL, 2026).
 
