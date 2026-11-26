@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[Environment programming in multi-agent systems: an artifact-based perspective](https://apice.unibo.it/bin/view/Publication/CartagoJaamas23?language=en&mode=data)**: Ricci, Piunti, and Viroli introduce environment programming through computational artifacts grouped into workspaces. Their CArtAgO framework provides programmable resources and coordination facilities for software agents (Autonomous Agents and Multi-Agent Systems, 2011).
+
 - **[A Formal Specification of dMARS](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/atal97.pdf)**: D’Inverno, Kinny, Luck, and Wooldridge specify an idealized dMARS architecture through its data structures and the operations that manipulate them. The formal model gives particular attention to executable plans (Intelligent Agents IV, 1998; proceedings of ATAL 1997).
 
 - **[A verification framework for agent programming with declarative goals](https://www.csc.liv.ac.uk/~wiebe/pubs/Documents/jal5.pdf)**: De Boer et al. connect GOAL agent programs with a programming logic through formal computational semantics. A commitment strategy specifies the relationship between beliefs and declarative goals within this verification framework (Journal of Applied Logic, 2007).
@@ -439,6 +441,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Shapley Q-Value: A Local Reward Approach to Solve Global Reward Games](https://cdn.aaai.org/ojs/6220/6220-13-9445-1-10-20200516.pdf)**: Wang et al. formulate Shapley Q-values for cooperative credit assignment and derive SQDDPG with per-agent critics. Evaluation covers cooperative navigation, predator–prey, and traffic junction tasks (AAAI, 2020).
 
 - **[Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability](https://proceedings.mlr.press/v70/omidshafiei17a.html)**: Omidshafiei et al. combine decentralized single-task learning with distillation into a unified policy for multiple related partially observable tasks. Execution does not require an explicit task identity (ICML, 2017).
 
