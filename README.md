@@ -346,6 +346,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Multi-Agent Planning as a Dynamic Search for Social Consensus](https://ijcai.org/proceedings/1993/0060.pdf)**: Ephrati and Rosenschein construct joint plans through iterative voting and aggregation of agents’ goal constraints. Their formal procedure uses explicit utility functions and a search-gap bound, with examples in a blocks world (IJCAI, 1993).
+
 - **[VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft](https://aclanthology.org/2024.findings-acl.964/)**: Dong et al. represent task dependencies as directed acyclic graphs and coordinate assignment and state tracking through VillagerAgent. Their Minecraft benchmark, VillagerBench, tests construction, cooking, and escape-room tasks with spatial, causal, and temporal constraints (Findings of ACL, 2024).
 
 - **[Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation](https://aclanthology.org/2026.findings-emnlp.1237/)**: Zhou, Leonardis, and Feng introduce Agora, which allocates reasoning steps to expert models and tools through confidence-calibrated auctions. Evaluation compares single-model, routing, and cascade baselines across five benchmarks using matched candidate pools (Findings of EMNLP, 2026).
@@ -547,6 +549,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[COGNAC: Cooperative Graph-based Networked Agent Challenges for Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/089ae994919488e764ed271a132124f1-Abstract-Datasets_and_Benchmarks_Track.html)**: Sintes and Busic introduce cooperative graph-structured environments for evaluating multi-agent reinforcement learning across network sizes and topologies. They compare independent, centralized, and centralized-training/decentralized-execution methods on these network-control problems (NeurIPS Datasets and Benchmarks, 2025).
 
 - **[Learning to Coordinate without Sharing Information](https://cdn.aaai.org/AAAI/1994/AAAI94-065.pdf)**: Sen, Sekaran, and Hale study independent Q-learning agents that coordinate through environmental feedback without exchanging problem-solving information. Experiments use two agents pushing a block along a prescribed path (AAAI, 1994).
 
