@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Bottom-Up Reputation Promotes Cooperation with Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1745.pdf)**: Ren et al. introduce LR2, which learns reputation assignments alongside cooperation policies using local interactions and reputation-shaped rewards. Evaluation concerns repeated cooperation-or-defection games among neighboring agents in spatial social dilemmas (AAMAS, 2025).
+
 - **[Reactive Reasoning and Planning](https://cdn.aaai.org/AAAI/1987/AAAI87-121.pdf)**: Michael P. Georgeff and Amy L. Lansky describe PRS, an architecture with explicit beliefs, goals, procedural knowledge, and intentions. PRS interleaves planning and action. Demonstration uses SRI’s Flakey robot in navigation and emergency-task scenarios (AAAI, 1987).
 - **[Emergence of Recursive Language through Bootstrapping and Iterated Learning](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1235.pdf)**: Vikas Kumar and Ajin George Joseph study communication across generations of decentralized reinforcement-learning agents in a graph-navigation language game. They report shared depth-1 recursive structures in that environment (AAMAS, 2025).
 
