@@ -250,6 +250,8 @@
 
 ## Key papers
 
+- **[On the Rationale of Group Decision-making](https://www.journals.uchicago.edu/doi/10.1086/256633)**: Duncan Black analyzes majority decisions in committees, including how single-peaked preferences restrict pairwise-voting outcomes under sincere voting (1948).
+- **[ReCoDe: Reinforcement Learning-based Dynamic Constraint Design for Multi-Agent Coordination](https://proceedings.mlr.press/v305/amir25a.html)**: Amir et al. learn dynamic coordination constraints around existing optimization-based controllers using local communication. Evaluation concerns multi-agent navigation, including real robots (CoRL, 2025).
 - **[Multi-Agent Common Knowledge Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/hash/f968fdc88852a4a3a27a81fe3f57bfc5-Abstract.html)**: Schroeder de Witt et al. introduce MACKRL, which learns hierarchical group policies conditioned on common knowledge for decentralized coordination. The method assumes a specified common-knowledge function (NeurIPS, 2019).
 - **[High Volatility and Action Bias Distinguish LLMs from Humans in Group Coordination](https://proceedings.colm.cc/paper_files/paper/2026/hash/0cf3e7eefb9d643e93e16ff1d94090a7-Abstract-Conference.html)**: Maini, Goldstone, and Tiganj compare human and LLM groups in Group Binary Search, a numerical coordination game without direct communication. They measure switching, feedback responses, and learning across games (COLM, 2026 pre-proceedings).
 - **[Is there a “Big Five” in Teamwork?](https://doi.org/10.1177/1046496405277134)**: Salas, Sims, and Burke synthesize human-team research into five teamwork components: leadership, mutual performance monitoring, backup behavior, adaptability, and team orientation (2005).
