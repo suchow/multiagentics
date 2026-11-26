@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[Ad Hoc Autonomous Agent Teams: Collaboration without Pre-Coordination](https://www.cs.utexas.edu/~pstone/Papers/bib2html/b2hd-AAAI10-adhoc.html)**: Peter Stone, Gal A. Kaminka, Sarit Kraus, and Jeffrey S. Rosenschein define cooperation with previously unfamiliar teammates without jointly designed strategies. The paper proposes an evaluation paradigm and research challenge for ad hoc teamwork (AAAI, 2010).
+
 - **[Monitoring the Progress of Anytime Problem-Solving](https://cdn.aaai.org/AAAI/1996/AAAI96-182.pdf)**: Eric A. Hansen and Shlomo Zilberstein use dynamic programming to select monitoring intervals and stopping decisions for an anytime algorithm. This adjacent metareasoning framework accounts for monitoring cost and uncertain improvement under supplied performance and utility models (AAAI, 1996).
 
 - **[An Organizational Approach to Adaptive Production Systems](https://cdn.aaai.org/AAAI/1990/AAAI90-008.pdf)**: Toru Ishida, Makoto Yokoo, and Les Gasser adapt distributed production systems by splitting agents under heavier workloads and combining them when demand falls. Rule dependencies and interference guide local synchronization within this rule-processing model (AAAI, 1990).
