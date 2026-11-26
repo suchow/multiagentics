@@ -314,6 +314,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Efficiency and Equilibrium in Task Allocation Economies with Hierarchical Dependencies](https://ijcai.org/proceedings/1999/0075.pdf)**: William E. Walsh and Michael P. Wellman analyze decentralized task allocation with hierarchical task dependencies and competing resource demands. Their market protocol includes a decommitment phase for agents holding unneeded inputs (IJCAI, 1999).
+
 - **[Push and Swap: Fast Cooperative Path-Finding with Completeness Guarantees](https://ijcai.org/proceedings/2011/59)**: Ryan Luna and Kostas E. Bekris coordinate graph-based multiagent paths through push operations and pairwise swaps. Later Push and Rotate work identifies solvable instances the original algorithm cannot solve (IJCAI, 2011).
 
 - **[Push and Rotate: Cooperative Multi-Agent Path Planning](https://www.ifaamas.org/Proceedings/aamas2013/docs/p87.pdf)**: Boris de Wilde, Adriaan W. ter Mors, and Cees Witteveen identify incompleteness cases in Push and Swap and introduce an adapted algorithm. Their completeness result concerns solvable connected-graph instances with at least two vacant vertices and sequential moves into adjacent empty vertices (AAMAS, 2013).
@@ -469,6 +471,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641)**: Al-Shedivat et al. develop gradient-based meta-learning for continuously changing environments. They introduce RoboSumo and iterated adaptation games to evaluate adaptation under changing opponent strategies (ICLR, 2018).
 
 - **[A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning](https://proceedings.mlr.press/v139/kim21g.html)**: Kim et al. derive a meta-multiagent policy gradient that accounts for policy changes by both the controlled agent and other learners. Evaluation examines adaptation across cooperative, competitive, and mixed-incentive tasks (ICML, 2021).
 
