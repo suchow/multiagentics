@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[ReMA: Learning to Meta-Think for LLMs with Multi-agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b83514e453ff03741a5fb3e5e49f709b-Abstract-Conference.html)**: Wan et al. jointly train hierarchical planning and execution agents with reinforcement learning and aligned objectives. Evaluation covers mathematical reasoning and language-model judging tasks, including single-turn and multi-turn settings (NeurIPS, 2025).
+
 - **[Position: Agent Evaluation Should Be Agentified for Openness, Standardization, and Reproducibility](https://proceedings.mlr.press/v306/liu26gy.html)**: Liu, Shi, Guo, and Song propose agent-to-agent assessment through A2A task management and MCP tool interfaces and introduce AgentBeats as an implementation. This is a position on evaluation infrastructure (ICML, 2026).
 - **[Self-stabilizing systems in spite of distributed control](https://www.cs.utexas.edu/~EWD/transcriptions/EWD04xx/EWD426.html)**: Edsger W. Dijkstra introduces self-stabilization and constructs locally controlled rings that reach legitimate global states from arbitrary initial states. The constructions use finite-state machines and a central scheduler selecting one enabled move at a time (Communications of the ACM, 1974).
 
