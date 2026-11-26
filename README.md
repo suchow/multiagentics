@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[An Optimal Algorithm for Mutual Exclusion in Computer Networks](https://www.cs.ucf.edu/courses/cop6614/fall2005/Ricart-Agrawala.pdf)**: Glenn Ricart and Ashok K. Agrawala coordinate exclusive access through ordered requests and deferred replies, using 2(N−1) messages per critical-section invocation. The basic algorithm assumes correctly operating nodes and error-free message delivery (Communications of the ACM, 1981).
+- **[LLMs Can Predict Failure Risk, But Struggle to Predict Which Collaboration Protocol Pays Off: Cost-Aware Protocol Routing Across Reasoning Tasks](https://aclanthology.org/2026.findings-emnlp.1275/)**: Yang et al. compare four reasoning protocols with fixed solvers and token-cost accounting. They distinguish predicting initial-answer failure from selecting worthwhile collaboration. Evaluation uses competition mathematics and paired science checks (Findings of EMNLP, 2026).
+
 - **[MAS-ProVe: Understanding the Process Verification of Multi-Agent Systems](https://proceedings.mlr.press/v306/venkataramani26a.html)**: Venkataramani et al. compare learned evaluation of intermediate agent trajectories across six frameworks, five verifiers, three verification paradigms, and four context strategies. The study concerns selected reasoning benchmarks and implementations (ICML, 2026).
 - **[Consensus in the Presence of Partial Synchrony](https://cs.nyu.edu/~apanda/classes/sp25/papers/dwork88consensus.pdf)**: Cynthia Dwork, Nancy Lynch, and Larry Stockmeyer define partial synchrony and establish consensus protocols and resilience bounds under several timing and failure models. Timing bounds may be unknown or become valid after an unknown stabilization time (Journal of the ACM, 1988).
 
