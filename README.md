@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[TRIAGE: Severity-Ranked Multi-Agent Failure Attribution](https://aclanthology.org/2026.aacl-short.27/)**: Xizhi Wang introduces TriageBench and ranks candidate repairs using suspicion scores, structural impact, and simulated replay. Council judgments and repair-plausibility ratings do not establish actual causal repair success (AACL-IJCNLP, 2026).
+
 - **[MLZero: A Multi-Agent System for End-to-end Machine Learning Automation](https://proceedings.neurips.cc/paper_files/paper/2025/hash/63ed15a46a143ff57484b38cd6b85d91-Abstract-Conference.html)**: Fang et al. combine multimodal perception, semantic and episodic memory, and iterative code generation for machine-learning automation. Evaluation uses MLE-Bench Lite and an introduced 25-task multimodal benchmark (NeurIPS, 2025).
 
 - **[Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0c8d49f2744d8ee4d5948621d6bb5bc0-Abstract-Conference.html)**: Anand, Karmarkar, and Qu develop subsampled mean-field Q-learning and randomized decentralized execution, with approximation bounds governed by sampled group size. The main analysis uses a structured global/local-agent model with finite spaces and bounded rewards (NeurIPS, 2025).
