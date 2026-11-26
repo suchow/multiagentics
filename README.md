@@ -762,6 +762,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction](https://aclanthology.org/2025.emnlp-main.584/)**: Wang et al. introduce AnyMAC, which selects the next agent role and relevant prior messages at each step of a collaboration sequence. Evaluation covers general reasoning, mathematical problems, and code generation (EMNLP, 2025).
+
 - **[AFlow: Automating Agentic Workflow Generation](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5492ecbce4439401798dcd2c90be94cd-Abstract-Conference.html)**: Zhang et al. use Monte Carlo tree search to generate code-defined workflows of language-model calls. AFlow refines candidate workflows through code changes and execution feedback. Evaluation uses six benchmarks (ICLR, 2025).
 
 - **[Mixture-of-Agents Enhances Large Language Model Capabilities](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5434be94e82c54327bb9dcaf7fca52b6-Abstract-Conference.html)**: Wang et al. arrange language-model agents in layers, with each layer receiving the previous layer’s responses for synthesis and refinement. The method uses prompting without fine-tuning and is evaluated on AlpacaEval 2.0, Arena-Hard, MT-Bench, and FLASK (ICLR, 2025).
@@ -945,6 +947,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[A Domain Theory for Task Oriented Negotiation](https://ijcai.org/proceedings/1993/0059.pdf)**: Zlotkin and Rosenschein classify task-oriented negotiation domains by subadditivity, concavity, and modularity. They analyze how domain properties and deal types affect incentives to misreport tasks, assuming execution of agreed deals (IJCAI, 1993).
 
 - **[Deals Among Rational Agents](https://ijcai.org/proceedings/1985/17)**: Jeffrey S. Rosenschein and Michael R. Genesereth formalize communication, offers, and binding promises among agents with different goals. Their payoff-based model considers the current encounter and assumes that agreed joint actions are enforced (IJCAI, 1985).
 
