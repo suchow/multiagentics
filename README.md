@@ -334,6 +334,7 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Algorithmic Mechanism Design](https://www.cs.toronto.edu/~bor/304f16/nisan-ronen-AGT.pdf)**: Noam Nisan and Amir Ronen combine algorithms and payments for optimization with self-interested participants and develop truthful task-scheduling mechanisms. Their formal model uses dominant strategies and quasi-linear utilities (Games and Economic Behavior, 2001).
 - **[Worst-case equilibria](https://cgi.di.uoa.gr/~elias/papers/paper-kp99.html)**: Elias Koutsoupias and Christos Papadimitriou measure coordination inefficiency through the ratio of worst Nash-equilibrium cost to optimal cost. They derive bounds for selfish resource sharing in a simple parallel-link model (STACS, 1999).
 - **[Calibrated Learning and Correlated Equilibrium](https://deanfoster.net/research/calibration_and_CE.pdf)**: Dean P. Foster and Rakesh V. Vohra connect calibrated forecasts and myopic best responses to correlated equilibrium in repeated finite games. The result assumes calibrated learning and stationary deterministic tie-breaking (Games and Economic Behavior, 1997).
 - **[An analog of the minimax theorem for vector payoffs](https://msp.org/pjm/1956/6-1/pjm-v6-n1-p01-s.pdf)**: David Blackwell characterizes approachable closed convex target sets for average vector payoffs in repeated finite-action games. The model uses bounded payoffs and observed payoff vectors (Pacific Journal of Mathematics, 1956).
