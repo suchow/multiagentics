@@ -240,6 +240,10 @@
 
 ## Key papers
 
+- **[On social laws for artificial agent societies: off-line design](https://cris.technion.ac.il/en/publications/on-social-laws-for-artificial-agent-societies-off-line-design/)**: Shoham and Tennenholtz formalize coordination through constraints selected before execution and analyze the synthesis of useful social laws, including traffic rules for idealized mobile robots (Artificial Intelligence, 1995).
+- **[ProtocolBench: Which LLM MultiAgent Protocol to Choose?](https://proceedings.mlr.press/v306/du26l.html)**: Du et al. compare agent communication protocols on task success, latency, message overhead, and recovery from injected failures in tested scenarios (ICML, 2026).
+- **[Rethinking the Evaluation of Efficiency Methods for Multi-Agent Systems](https://aclanthology.org/2026.emnlp-main.798/)**: Zhang et al. evaluate representative multi-agent efficiency methods under shared models, agent definitions, and runtime. They test whether structural changes explain reported gains across controlled configurations (EMNLP, 2026).
+
 - **[Reaching a Consensus](https://www.cse.cuhk.edu.hk/~cslui/CMSC5734/DeGroot-Reaching_a_concensus.pdf)**: Morris H. DeGroot models repeated linear pooling of subjective probability distributions and gives conditions for consensus, with explicit weights for the resulting common distribution (Journal of the American Statistical Association, 1974).
 - **[From Debate to Decision: Conformal Social Choice for Safe Multi-Agent Deliberation](https://aclanthology.org/2026.emnlp-main.830/)**: Wang et al. calibrate aggregated agent probabilities into answer sets for action or escalation in multiple-choice reasoning tasks. Their marginal coverage guarantee assumes exchangeable calibration and test examples at a preselected round; it does not cover adaptive stopping (EMNLP, 2026).
 
