@@ -304,6 +304,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Consensus-Based Decentralized Auctions for Robust Task Allocation](https://dspace.mit.edu/entities/publication/b0bf0a05-be3b-433b-9f4b-ce314ed5178b)**: Han-Lim Choi, Luc Brunet, and Jonathan P. How introduce CBAA and CBBA for decentralized vehicle-task allocation. Agents select tasks through auctions and resolve conflicting bids through local consensus; guarantees depend on scoring and communication assumptions (IEEE Transactions on Robotics, 2009).
+
 - **[Flatland-RL : Multi-Agent Reinforcement Learning on Trains](https://arxiv.org/abs/2012.05893)**: Mohanty et al. introduce a simplified railway grid environment for vehicle rescheduling. The paper presents reinforcement- and imitation-learning experiments and describes the NeurIPS 2020 public benchmark (2020 preprint).
 
 - **[Solving Distributed Constraint Optimization Problems Using Cooperative Mediation](https://mas.cs.umass.edu/pub/paper_detail.php/355)**: Roger Mailler and Victor Lesser introduce OptAPO, which coordinates distributed constraint optimization through overlapping, partially centralized mediation sessions. Mediators expand the subproblems considered during search (AAMAS, 2004).
@@ -419,6 +421,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[FACMAC: Factored Multi-Agent Centralised Policy Gradients](https://proceedings.neurips.cc/paper_files/paper/2021/file/65b9eea6e1cc6bb9f0cd2a47751a186f-Paper.pdf)**: Peng et al. combine a factored centralized critic with joint-action policy gradients. They introduce Multi-Agent MuJoCo, a continuous-control benchmark that divides a robot’s controls among cooperating agents (NeurIPS, 2021).
 
 - **[MARLlib: A Scalable and Efficient Library For Multi-agent Reinforcement Learning](https://www.jmlr.org/papers/volume24/23-0378/23-0378.pdf)**: Hu et al. combine standardized environment wrappers, agent-level algorithm implementations, and configurable policy mapping for multi-agent learning experiments. The paper describes library architecture and task–algorithm integration (JMLR, 2023).
 
