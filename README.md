@@ -250,6 +250,7 @@
 
 ## Key papers
 
+- **[A Strategic Model of Social and Economic Networks](https://www.math.cmu.edu/~af1p/Teaching/INFONET/Papers/NetworkGrowth/jackson-wolinsky.pdf)**: Jackson and Wolinsky model network formation by self-interested agents and analyze conflicts between pairwise stability and aggregate efficiency. Their undirected-link model requires mutual consent to form a link and permits unilateral severance (Journal of Economic Theory, 1996).
 - **[Breaking the Curse of Multiagency in Robust Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v267/shi25c.html)**: Shi et al. formulate a class of distributionally robust Markov games with uncertainty about environmental dynamics and other agents’ behavior. They give a polynomial-sample algorithm for learning coarse correlated equilibria with generative-model access (ICML, 2025).
 - **[Distributed Heuristic Forward Search for Multi-agent Planning](https://doi.org/10.1613/jair.4295)**: Nissim and Brafman develop distributed forward search for classical cooperative planning, with agents expanding locally relevant states. A distributed A* variant addresses cost-optimal planning (JAIR, 2014).
 - **[Prediction-Aware Learning in Multi-Agent Systems](https://proceedings.mlr.press/v267/capitaine25a.html)**: Capitaine et al. study time-varying games with payoff forecasts and introduce POMWU, an optimistic learning algorithm with prediction-error-dependent guarantees under the paper’s game assumptions (ICML, 2025).
