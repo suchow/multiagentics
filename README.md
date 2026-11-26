@@ -298,6 +298,10 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Solving Distributed Constraint Optimization Problems Using Cooperative Mediation](https://mas.cs.umass.edu/pub/paper_detail.php/355)**: Roger Mailler and Victor Lesser introduce OptAPO, which coordinates distributed constraint optimization through overlapping, partially centralized mediation sessions. Mediators expand the subproblems considered during search (AAMAS, 2004).
+
+- **[Completeness and Performance of the APO Algorithm](https://arxiv.org/abs/1401.3450)**: Tal Grinshpoun and Amnon Meisels identify a termination problem in APO and present the corrected CompAPO algorithm. They also develop and evaluate the optimization variant CompOptAPO (JAIR, 2008; archived 2014).
+
 - **[BnB-ADOPT: An Asynchronous Branch-and-Bound DCOP Algorithm](https://yeoh-lab.wustl.edu/assets/pdf/jair-YeohFK10.pdf)**: William Yeoh, Ariel Felner, and Sven Koenig combine ADOPT’s message-passing framework with depth-first branch-and-bound search for distributed constraint optimization. The memory-bounded algorithm also supports bounded-error approximations to minimum summed constraint cost (JAIR, 2010).
 
 - **[Asynchronous Forward Bounding for Distributed COPs](https://www.aaaipress.org/Library/JAIR/Vol34/jair34-003.php)**: Amir Gershman, Amnon Meisels, and Roie Zivan introduce AFB, which assigns variables sequentially and computes bounds on partial assignments asynchronously. AFB-BJ adds distributed backjumping to this constraint-optimization search (JAIR, 2009).
