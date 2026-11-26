@@ -310,6 +310,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[FMAP: Distributed Cooperative Multi-Agent Planning](https://arxiv.org/abs/1501.07250)**: Torreño, Onaindia, and Sapena combine distributed partial-order planning with a domain-transition-graph heuristic. Agents declare what information to share with each peer and exchange corresponding views of refinement plans (Applied Intelligence, 2014; author manuscript archived 2015).
+
 - **[Consensus-Based Decentralized Auctions for Robust Task Allocation](https://dspace.mit.edu/entities/publication/b0bf0a05-be3b-433b-9f4b-ce314ed5178b)**: Han-Lim Choi, Luc Brunet, and Jonathan P. How introduce CBAA and CBBA for decentralized vehicle-task allocation. Agents select tasks through auctions and resolve conflicting bids through local consensus; guarantees depend on scoring and communication assumptions (IEEE Transactions on Robotics, 2009).
 
 - **[Flatland-RL : Multi-Agent Reinforcement Learning on Trains](https://arxiv.org/abs/2012.05893)**: Mohanty et al. introduce a simplified railway grid environment for vehicle rescheduling. The paper presents reinforcement- and imitation-learning experiments and describes the NeurIPS 2020 public benchmark (2020 preprint).
@@ -638,6 +640,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[Symmetric Machine Theory of Mind](https://proceedings.mlr.press/v162/sclar22a.html)**: Sclar, Neubig, and Bisk introduce SymmToM, a multi-agent environment in which every agent can speak, listen, observe others, and move. Experiments compare learned models of other agents’ mental states with baselines and an oracle that observes those states (ICML, 2022).
 
 - **[MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability](https://arxiv.org/abs/2610.04672)**: Chu et al. evaluate protocols, memory, and routing under partial observability across reasoning, scheduling, and game tasks. Deterministic metrics measure performance, communication cost, and cost effectiveness (2026 preprint).
 
