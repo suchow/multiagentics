@@ -369,6 +369,8 @@
 
 ### Distributed systems and consensus
 
+- **[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols (Extended Abstract)](https://cs.nyu.edu/~apanda/classes/sp25/papers/benor83.pdf)**: Michael Ben-Or introduces randomized asynchronous agreement with eventual delivery to continuing processes. The crash-fault protocol requires a correct majority; the Byzantine protocol assumes identifiable senders and more than five times as many processes as faults (PODC, 1983).
+
 - **[Reaching Approximate Agreement in the Presence of Faults](https://groups.csail.mit.edu/tds/papers/Lynch/jacm86.pdf)**: Dolev et al. study processes with real-valued inputs that must produce numerically close outputs within the range of correct processes’ inputs. Their algorithms address synchronous and asynchronous systems under specified fault and communication assumptions (Journal of the ACM, 1986).
 
 - **[Fast Linear Iterations for Distributed Averaging](https://stanford.edu/~boyd/papers/fastavg.html)**: Lin Xiao and Stephen Boyd optimize linear distributed averaging over a network. For symmetric iterations, selecting the fastest-converging weights reduces to semidefinite programming (Systems & Control Letters, 2004).
@@ -451,6 +453,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Shared Experience Actor-Critic for Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/7967cc8e3ab559e68cc944c44b1cf3e8-Abstract.html)**: Christianos, Schäfer, and Albrecht introduce SEAC, which combines gradients from agents’ shared experience within an actor–critic framework. Evaluation focuses on sparse-reward multi-agent tasks (NeurIPS, 2020).
 
 - **[Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://iclr.github.io/build/virtual/poster_SJxbHkrKDH.html)**: Long et al. increase training populations in stages, mix and fine-tune agent sets, and select sets for adaptation to larger populations. Evaluation implements the curriculum with MADDPG in the tested multi-agent games (ICLR, 2020).
 
