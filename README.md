@@ -822,6 +822,8 @@
 
 ### Evaluation and failure analysis
 
+- **[LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments](https://aclanthology.org/2024.acl-long.705/)**: Chen et al. introduce LLMArena, which evaluates language-model agents in seven interactive game environments using TrueSkill ratings. The games include bargaining, auctions, social deduction, and cooperative card play (ACL, 2024).
+
 - **[Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions](https://aclanthology.org/2025.acl-long.223/)**: Zhao et al. combine model-generated questions, multi-round debates between candidate models, and discussion among language-model judges in Auto-Arena. They compare rankings of 15 models with human preferences (ACL, 2025).
 
 - **[Monitoring Teams by Overhearing: A Multi-Agent Plan-Recognition Approach](https://u.cs.biu.ac.il/~kaminkg/publications/papers/jair02.pdf)**: Kaminka, Pynadath, and Tambe infer team execution states from routine inter-agent messages using probabilistic plan recognition and organizational knowledge. Evaluation uses a distributed evacuation simulation. The approach assumes accessible plan models and truthful communications (JAIR, 2002).
