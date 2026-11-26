@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research](https://arxiv.org/abs/2611.17041)**: Wu et al. introduce LEAD-RL, which jointly trains research coordinators and subagents using rubric-gated report credit. Final-answer correctness supplies the team reward. Evaluation spans five benchmarks and two model families (2026 preprint).
+
 - **[The Tragedy of the Commons](https://www.law.berkeley.edu/archive/files/CLEE/Hardin_1968_Science_TragedyOfTheCommons.pdf)**: Garrett Hardin describes resource depletion when individuals receive private benefits from additional use and share its costs. The pasture example is an unrestricted-access thought experiment (Science, 1968).
 - **[CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement](https://proceedings.mlr.press/v306/qian26c.html)**: Qian et al. introduce cooperative-game environments with simulated player profiles and train agents through reasoning, communication, and action rollouts. Evaluation uses CWAH-MultiPlayer and Cook-MultiPlayer with task-efficiency and affective-adaptation metrics (ICML, 2026).
 
