@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Does Representation Guarantee Welfare?](https://proceedings.nips.cc/paper_files/paper/2025/hash/4d5b7f7a0603b75e39ffebbf95e3b7ee-Abstract-Conference.html)**: De Raaij, Procaccia, and Psomas analyze representative-panel selection and population welfare through an optimization model. They compare representation of individual features with feature intersections and examine feasibility using real data (NeurIPS, 2025; adjacent social-choice theory).
+- **[Covenants with and without a Sword: Self-Governance Is Possible](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/covenants-with-and-without-a-sword-selfgovernance-is-possible/2191864CCB589D4B3528090CB596C254)**: Elinor Ostrom, James Walker, and Roy Gardner report common-pool-resource experiments comparing communication, internal sanctions, and their combination. This is evidence about human self-governance (American Political Science Review, 1992).
+
 - **[The Illusion of Multi-Agent Advantage](https://arxiv.org/abs/2606.13003)**: Jwalapuram et al. compare automatically generated agent systems with chain-of-thought self-consistency baselines on reasoning and interactive workflows. A synthetic benchmark tests decomposition, context separation, and parallelization, including comparisons with expert-designed teams (2026 preprint).
 
 - **[Capability-Aware Shared Hypernetworks for Flexible Heterogeneous Multi-Robot Coordination](https://proceedings.mlr.press/v305/fu25a.html)**: Fu, Jain, Howell, and Ravichandar introduce CASH, a capability-conditioned hypernetwork architecture for heterogeneous robot policies. Evaluation tests unfamiliar robots and team compositions in JaxMARL and Robotarium under specified task and capability distributions (CoRL, 2025).
