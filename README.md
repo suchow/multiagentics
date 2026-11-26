@@ -842,6 +842,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[Synchronization of Pulse-Coupled Biological Oscillators](https://epubs.siam.org/doi/10.1137/0150098)**: Renato E. Mirollo and Steven H. Strogatz study identical integrate-and-fire oscillators with pulse coupling. A firing oscillator raises others’ states toward their thresholds in this mathematical model (SIAM Journal on Applied Mathematics, 1990; adjacent collective-dynamics theory).
+
 - **[Consensus Seeking in Multiagent Systems Under Dynamically Changing Interaction Topologies](https://www.ee.iitb.ac.in/~dc/EE749/01431045.pdf)**: Wei Ren and Randal W. Beard analyze information consensus with changing directed communication graphs. Their update schemes achieve asymptotic consensus under specified conditions on recurring spanning-tree connectivity (IEEE Transactions on Automatic Control, 2005).
 
 - **[Communication in Reactive Multiagent Robotic Systems](https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated1/balch_multirobot_comms.pdf)**: Tucker Balch and Ronald C. Arkin compare three communication levels across three cooperative robot tasks using simulations and physical robots. Communication benefits depend on the task in these experiments (Autonomous Robots, 1994).
