@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[COLLAGEN: A Collaboration Manager for Software Interface Agents](https://www.merl.com/publications/TR97-21a)**: Charles Rich and Candace L. Sidner implement a SharedPlans-based manager for mixed-initiative human–agent interaction. It organizes interaction history around participants’ goals and intentions and is demonstrated in an air-travel application (User Modeling and User-Adapted Interaction, 1998).
+
 - **[A Model for the Structural, Functional, and Deontic Specification of Organizations in Multiagent Systems](https://moise-lang.github.io/doc/publications/Hubner-sbia2002.pdf)**: Jomi Fred Hübner, Jaime Simão Sichman, and Olivier Boissier introduce MOISE+, which combines roles and groups, collective goals and plans, and obligations and permissions. A soccer-team example illustrates this organizational specification model (SBIA, 2002).
 
 - **[Commitments: From Individual Intentions to Groups and Organizations](https://cdn.aaai.org/ICMAS/1995/ICMAS95-006.pdf)**: Cristiano Castelfranchi distinguishes individual, social, collective, and organizational commitments. This conceptual account relates agents through obligations and entitlements to analyze cooperative groups and organizations (ICMAS, 1995).
@@ -592,6 +594,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[Gigastep - One Billion Steps per Second Multi-agent Reinforcement Learning](https://papers.neurips.cc/paper_files/paper/2023/hash/00ba06ba5c324efdfb068865ca44cf0b-Abstract-Datasets_and_Benchmarks.html)**: Lechner et al. introduce a vectorized JAX environment for cooperative and adversarial multi-agent learning. It supports three-dimensional dynamics, partial observations, and continuous or discrete actions (NeurIPS Datasets and Benchmarks, 2023).
 
 - **[MATE: Benchmarking Multi-Agent Reinforcement Learning in Distributed Target Coverage Control](https://papers.neurips.cc/paper_files/paper/2022/hash/b2a1c152f14a4b842a9ddb3bd84c62a1-Abstract-Datasets_and_Benchmarks.html)**: Pan et al. introduce a simulated asymmetric game in which directional cameras coordinate coverage and mobile targets transport cargo while avoiding detection. Evaluation compares multi-agent learning, communication protocols, and asymmetric self-play (NeurIPS Datasets and Benchmarks, 2022).
 
