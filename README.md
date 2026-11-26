@@ -387,6 +387,8 @@
 
 ### Distributed systems and consensus
 
+- **[Spawn: A Distributed Computational Economy](https://www.waldspurger.org/carl/papers/spawn-ieee-tse-feb92.pdf)**: Waldspurger et al. implement Spawn, a computational market that allocates idle resources across heterogeneous workstations. Concurrent Monte Carlo applications support experiments on resource distribution, prices, and market dynamics (IEEE Transactions on Software Engineering, 1992).
+
 - **[In Search of an Understandable Consensus Algorithm](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)**: Diego Ongaro and John Ousterhout introduce Raft, a replicated-log consensus algorithm organized around leader election, log replication, and safety. Membership changes use overlapping majorities (USENIX ATC, 2014).
 
 - **[Distributed Deadlock Detection](https://research.ibm.com/publications/distributed-deadlock-detection)**: K. Mani Chandy, Jayadev Misra, and Laura M. Haas develop distributed algorithms for detecting resource and communication deadlocks. Processes exchange short messages without maintaining global information within the paper’s formal deadlock models (ACM Transactions on Computer Systems, 1983).
@@ -417,6 +419,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[Combining Deep Reinforcement Learning and Search for Imperfect-Information Games](https://papers.neurips.cc/paper_files/paper/2020/hash/c61f571dbd2fb949d3fe5ae1608dd48b-Abstract.html)**: Noam Brown, Anton Bakhtin, Adam Lerer, and Qucheng Gong introduce ReBeL, combining self-play reinforcement learning and search in two-player zero-sum imperfect-information games. Evaluation includes heads-up no-limit Texas hold’em (NeurIPS, 2020).
 
 - **[Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)**: Perolat et al. introduce DeepNash, a search-free self-play system for Stratego built around Regularised Nash Dynamics. Evaluation compares play with existing agents and human experts in Stratego (2022).
 
