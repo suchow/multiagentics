@@ -684,6 +684,8 @@
 
 ### Safety, security, and verification
 
+- **[MCMAS: A Model Checker for the Verification of Multi-Agent Systems](https://www.doc.ic.ac.uk/~alessio/papers/09/CAV-AL%2B.pdf)**: Alessio Lomuscio, Hongyang Qu, and Franco Raimondi present a symbolic model checker for temporal, epistemic, cooperation, and correctness properties. Verification operates on formal interpreted-system models of agents and their environment (CAV, 2009).
+
 - **[Facts Without Rules: Boundary Metadata Collapse in Multi-Agent LLM Handoffs](https://aclanthology.org/2026.findings-emnlp.422/)**: Wang et al. study whether compressed agent handoffs preserve audience and usage constraints alongside operational facts. They measure downstream privacy leakage in a controlled coordination testbed, including a single-agent control (Findings of EMNLP, 2026).
 - **[Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models](https://proceedings.mlr.press/v306/fang26f.html)**: Fang et al. introduce MM-DeceptionBench and use visually grounded adversarial debate to evaluate vision–language model responses. Evaluation compares judgments with human annotations across six benchmark categories (ICML, 2026).
 - **[Misalignment Contagion: Can a Misaligned Minority Shift Aligned Agents in Multi-Agent LLM Deliberation?](https://proceedings.colm.cc/paper_files/paper/2026/hash/871ed095b734818cfba48db6aeb25a62-Abstract-Conference.html)**: Syed Ali Haider and Soroush Vosoughi test whether a narrowly fine-tuned agent shifts other agents’ responses during deliberation and whether those shifts persist under private re-elicitation. Evaluation spans five normative and safety-relevant datasets and four communication topologies (COLM, 2026 pre-proceedings).
