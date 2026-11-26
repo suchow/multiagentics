@@ -806,6 +806,9 @@
 
 ### Evaluation and failure analysis
 
+- **[Monitoring Teams by Overhearing: A Multi-Agent Plan-Recognition Approach](https://u.cs.biu.ac.il/~kaminkg/publications/papers/jair02.pdf)**: Kaminka, Pynadath, and Tambe infer team execution states from routine inter-agent messages using probabilistic plan recognition and organizational knowledge. Evaluation uses a distributed evacuation simulation. The approach assumes accessible plan models and truthful communications (JAIR, 2002).
+- **[ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://proceedings.iclr.cc/paper_files/paper/2024/hash/25cc3adf8c85f7c70989cb8a97a691a7-Abstract-Conference.html)**: Chan et al. introduce ChatEval, a team of language-model referees that discusses and scores text. Evaluation compares agreement with human assessments on two benchmarks and examines the contribution of different role prompts (ICLR, 2024).
+
 - **[Do as We Do, Not as You Think: the Conformity of Large Language Models](https://proceedings.iclr.cc/paper_files/paper/2025/hash/1da9ca7e9cef4b1af63913f05d1630a4-Abstract-Conference.html)**: Weng, Chen, and Wang introduce BenchForm, which tests answer conformity through reasoning tasks and five interaction protocols. They examine majority size, interaction time, persona prompts, and reflection as influences on model responses (ICLR, 2025).
 
 - **[MuMA-ToM: Multi-modal Multi-Agent Theory of Mind](https://scai.cs.jhu.edu/projects/MuMA-ToM/)**: Shi et al. introduce MuMA-ToM, which asks questions about beliefs, social goals, and beliefs about others’ goals from household-interaction videos and text. They compare models with human participants and introduce language-model-based inverse multi-agent planning (AAAI, 2025).
