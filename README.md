@@ -684,6 +684,8 @@
 
 ### Safety, security, and verification
 
+- **[Alternating-Time Temporal Logic](https://www.cis.upenn.edu/~alur/Jacm02.pdf)**: Rajeev Alur, Thomas A. Henzinger, and Orna Kupferman introduce logics for specifying strategic abilities in open systems. Selective path quantifiers describe outcomes that coalitions can enforce within concurrent game structures (Journal of the ACM, 2002; expanded journal version of a 1997 conference paper).
+
 - **[MCMAS: A Model Checker for the Verification of Multi-Agent Systems](https://www.doc.ic.ac.uk/~alessio/papers/09/CAV-AL%2B.pdf)**: Alessio Lomuscio, Hongyang Qu, and Franco Raimondi present a symbolic model checker for temporal, epistemic, cooperation, and correctness properties. Verification operates on formal interpreted-system models of agents and their environment (CAV, 2009).
 
 - **[Facts Without Rules: Boundary Metadata Collapse in Multi-Agent LLM Handoffs](https://aclanthology.org/2026.findings-emnlp.422/)**: Wang et al. study whether compressed agent handoffs preserve audience and usage constraints alongside operational facts. They measure downstream privacy leakage in a controlled coordination testbed, including a single-agent control (Findings of EMNLP, 2026).
