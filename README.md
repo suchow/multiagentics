@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Practical Byzantine Fault Tolerance](https://www.usenix.org/conference/osdi-99/practical-byzantine-fault-tolerance)**: Miguel Castro and Barbara Liskov develop Byzantine-fault-tolerant state-machine replication and evaluate a replicated NFS service. The model requires deterministic service behavior, cryptographic assumptions, and at most f faulty replicas among 3f+1; liveness also requires a delay condition (OSDI, 1999).
+- **[Misalignment Contagion: Can a Misaligned Minority Shift Aligned Agents in Multi-Agent LLM Deliberation?](https://proceedings.colm.cc/paper_files/paper/2026/hash/871ed095b734818cfba48db6aeb25a62-Abstract-Conference.html)**: Syed Ali Haider and Soroush Vosoughi test whether a narrowly fine-tuned agent shifts other agents’ responses during deliberation and whether those shifts persist under private re-elicitation. Evaluation spans five normative and safety-relevant datasets and four communication topologies (COLM, 2026 pre-proceedings).
+
 - **[Reliable Communication in the Presence of Failures](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2018/Papers/p47-birman.pdf)**: Kenneth P. Birman and Thomas A. Joseph develop reliable multicast protocols that coordinate message delivery with process-group membership and failure events, including causal delivery ordering. The model concerns halting failures, with availability constrained by network and membership assumptions (ACM Transactions on Computer Systems, 1987).
 - **[COLLABMEM: A Diagnostic Benchmark for Collaborative Memory Operations in Multi-Agent LLM Systems](https://aclanthology.org/2026.emnlp-main.1194/)**: Wu et al. isolate collaborative-memory operations through fixed-trace probes covering sharing, role-based access, routing, provenance, conflict resolution, and retention. Evaluation uses authored and scaled scenarios (EMNLP, 2026).
 
