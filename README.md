@@ -250,6 +250,8 @@
 
 ## Key papers
 
+- **[Moral Hazard in Teams](https://kylewoodward.com/blog-data/pdfs/references/holmstrom-the-bell-journal-of-economics-1982A.pdf)**: Bengt Holmström analyzes free riding in joint production when individual effort is imperfectly observed, examining incentive schemes, monitoring, and relative performance evaluation (The Bell Journal of Economics, 1982).
+- **[HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation](https://proceedings.mlr.press/v306/rafieioskouei26a.html)**: Rafieioskouei et al. use HyperLTL specifications to guide centrally trained, decentralized policies under partial observation. Evaluation uses SMAC, MessySMAC, and WildFire (ICML, 2026).
 - **[Attention, Intentions, and the Structure of Discourse](https://aclanthology.org/J86-3001/)**: Grosz and Sidner model discourse through linguistic segments, participants’ intentions, and attentional state, with analyses of references, interruptions, and coherence (Computational Linguistics, 1986).
 - **[Focal points in pure coordination games: An experimental investigation](https://link.springer.com/article/10.1007/BF01079211)**: Mehta, Starmer, and Sugden test how shared notions of salience guide human coordination in games whose equilibria differ only through strategy labels (Theory and Decision, 1994).
 - **[Eliciting Informative Feedback: The Peer-Prediction Method](https://www.presnick.people.si.umich.edu/papers/elicit/index.html)**: Miller, Resnick, and Zeckhauser use proper scoring rules on predictions of peer reports to make truthful feedback a Nash equilibrium without independently observed outcomes. The basic model assumes a common prior, conditionally independent signals, and risk-neutral raters (Management Science, 2005).
