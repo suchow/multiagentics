@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Naïve Learning in Social Networks and the Wisdom of Crowds](https://bengolub.net/papers/naivelearning.pdf)**: Benjamin Golub and Matthew O. Jackson characterize when repeated weighted averaging of neighbors’ beliefs aggregates independent noisy information accurately as a network grows. The model specifies fixed averaging weights and network conditions; consensus speed alone does not establish accuracy (American Economic Journal: Microeconomics, 2010).
+- **[Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models](https://proceedings.mlr.press/v306/fang26f.html)**: Fang et al. introduce MM-DeceptionBench and use visually grounded adversarial debate to evaluate vision–language model responses. Evaluation compares judgments with human annotations across six benchmark categories (ICML, 2026).
+
 - **[The Strength of Weak Ties](https://sociology.stanford.edu/publications/strength-weak-ties)**: Mark Granovetter examines how tie strength and overlapping friendship networks affect information diffusion and connections between social groups. This is adjacent human social-network theory (American Journal of Sociology, 1973).
 - **[Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction](https://proceedings.mlr.press/v306/mguni26a.html)**: Mguni et al. introduce MARTA, which trains cooperative agents against selectively induced malfunctions. Evaluation uses Traffic Junction, Level-Based Foraging, MPE SimpleTag, and SMACv2 (ICML, 2026).
 
