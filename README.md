@@ -250,6 +250,7 @@
 
 ## Key papers
 
+- **[Compositional Shielding and Reinforcement Learning for Multi-Agent Systems](https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p399.pdf)**: Brorholt, Larsen, and Schilling use assume-guarantee reasoning to decompose global safety specifications into obligations for individual agent shields. Guarantees depend on the modeled system and satisfaction of those local obligations; evaluation uses two case studies (AAMAS, 2025).
 - **[Strategic Information Transmission](https://www.haverford.edu/sites/default/files/CrawfordSobel1982.pdf)**: Crawford and Sobel model communication between an informed sender and a receiver, relating equilibrium information transmission to their alignment of interests under specified scalar-information and utility assumptions (Econometrica, 1982).
 - **[Combinatorial Information Market Design](https://mason.gmu.edu/~rhanson/combobet.pdf)**: Robin Hanson introduces market scoring rules for aggregating probability estimates over combinations of variables, including logarithmic automated-market-maker designs. Incentive analysis assumes risk-neutral participants, verifiable outcomes, and a subsidizing patron (2003).
 - **[Approximate Global Convergence of Independent Learning in Multi-Agent Systems](https://proceedings.mlr.press/v258/jin25a.html)**: Jin et al. analyze independent Q-learning and natural actor–critic through a separable-MDP approximation. Their convergence bounds include a fixed error from agent interdependence under the paper’s assumptions (AISTATS, 2025).
