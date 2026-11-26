@@ -470,6 +470,8 @@
 
 ### Communication and emergent language
 
+- **[Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192)**: Serhii Havrylov and Ivan Titov train two agents to exchange discrete symbol sequences in a referential game. They compare reinforcement learning with a straight-through Gumbel-softmax relaxation and examine compositionality in the learned protocol (NIPS, 2017).
+
 - **[Biases for Emergent Communication in Multi-agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2019/hash/fe5e7cb609bdbe6d62449d61849c38b0-Abstract.html)**: Tom Eccles, Yoram Bachrach, Guy Lever, Angeliki Lazaridou, and Thore Graepel introduce positive-signalling and positive-listening learning biases. Evaluation examines communication learning without centralized agent training in one-step and temporally extended environments (NeurIPS, 2019).
 
 - **[Emergence of Recursive Language through Bootstrapping and Iterated Learning](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1235.pdf)**: Vikas Kumar and Ajin George Joseph study communication across generations of decentralized reinforcement-learning agents in a graph-navigation language game. They report shared depth-1 recursive structures in that environment (AAMAS, 2025).
@@ -639,6 +641,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[An Experimental Application of the DELPHI Method to the Use of Experts](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.9.3.458)**: Norman Dalkey and Olaf Helmer report an expert-judgment experiment using successive questionnaires interspersed with controlled opinion feedback. This is a human consensus method; agreement alone does not establish accuracy (Management Science, 1963; publisher abstract).
 
 - **[The Network Structure of Exploration and Exploitation](https://ndg.asc.upenn.edu/wp-content/uploads/2016/04/Lazer-Friedman-2007-ASQ.pdf)**: David Lazer and Allan Friedman simulate parallel search in communication networks where less successful agents copy better-performing neighbors. Faster diffusion improves short-run performance but can reduce long-run exploration in the modeled problem spaces (Administrative Science Quarterly, 2007).
 
