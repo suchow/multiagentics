@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[RoCo: Dialectic Multi-Robot Collaboration with Large Language Models](https://arxiv.org/abs/2307.04738)**: Mandi, Jain, and Song combine robot-agent dialogue, waypoint generation, multi-arm motion planning, and environment feedback. Evaluation uses six RoCoBench tasks and selected physical-robot demonstrations (2023 preprint; ICRA, 2024).
+- **[Market-based Multirobot Coordination for Complex Tasks](https://publications.ri.cmu.edu/market-based-multirobot-coordination-for-complex-tasks)**: Zlot and Stentz allocate complex robot tasks through markets that trade Boolean task trees at different levels of abstraction. Evaluation uses area reconnaissance in simulation and indoor and outdoor robot teams (The International Journal of Robotics Research, 2006).
+
 - **[AT-Drone: Benchmarking Adaptive Teaming in Multi-Drone Pursuit](https://proceedings.mlr.press/v305/li25a.html)**: Li et al. introduce four simulated pursuit environments, unfamiliar-partner evaluation, and a Crazyflie deployment pipeline. Evaluation includes physical-drone experiments within the pursuit setting (CoRL, 2025).
 - **[Coordinated Multi-Robot Exploration](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/burgard05tro.pdf)**: Burgard, Moors, Stachniss, and Schneider balance travel cost against exploration utility and reduce utility near assigned targets. The basic method shares maps and robot positions. The paper also presents a limited-communication extension and evaluates the approach with physical robots and simulations (IEEE Transactions on Robotics, 2005).
 
