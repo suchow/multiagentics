@@ -818,6 +818,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions](https://aclanthology.org/2025.acl-long.223/)**: Zhao et al. combine model-generated questions, multi-round debates between candidate models, and discussion among language-model judges in Auto-Arena. They compare rankings of 15 models with human preferences (ACL, 2025).
+
 - **[Monitoring Teams by Overhearing: A Multi-Agent Plan-Recognition Approach](https://u.cs.biu.ac.il/~kaminkg/publications/papers/jair02.pdf)**: Kaminka, Pynadath, and Tambe infer team execution states from routine inter-agent messages using probabilistic plan recognition and organizational knowledge. Evaluation uses a distributed evacuation simulation. The approach assumes accessible plan models and truthful communications (JAIR, 2002).
 - **[ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://proceedings.iclr.cc/paper_files/paper/2024/hash/25cc3adf8c85f7c70989cb8a97a691a7-Abstract-Conference.html)**: Chan et al. introduce ChatEval, a team of language-model referees that discusses and scores text. Evaluation compares agreement with human assessments on two benchmarks and examines the contribution of different role prompts (ICLR, 2024).
 
@@ -919,6 +921,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[Deals Among Rational Agents](https://ijcai.org/proceedings/1985/17)**: Jeffrey S. Rosenschein and Michael R. Genesereth formalize communication, offers, and binding promises among agents with different goals. Their payoff-based model considers the current encounter and assumes that agreed joint actions are enforced (IJCAI, 1985).
 
 - **[AgentReview: Exploring Peer Review Dynamics with LLM Agents](https://aclanthology.org/2024.emnlp-main.70/)**: Jin et al. simulate peer review with language-model reviewers, authors, and area chairs. They vary role characteristics and review mechanisms to study changes in simulated decisions (EMNLP, 2024).
 
