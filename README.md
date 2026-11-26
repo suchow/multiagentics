@@ -472,6 +472,8 @@
 
 ### Communication and emergent language
 
+- **[EGG: a toolkit for research on Emergence of lanGuage in Games](https://aclanthology.org/D19-3010/)**: Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, and Marco Baroni introduce modular building blocks for neural-agent communication games with discrete channels. The paper describes research infrastructure for varying architectures and optimization methods (EMNLP-IJCNLP System Demonstrations, 2019).
+
 - **[Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input](https://arxiv.org/abs/1804.03984)**: Angeliki Lazaridou, Karl Moritz Hermann, Karl Tuyls, and Stephen Clark compare communication learned from symbolic representations and raw pixels in referential games. They examine how input structure affects the learned protocols (ICLR, 2018).
 
 - **[Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192)**: Serhii Havrylov and Ivan Titov train two agents to exchange discrete symbol sequences in a referential game. They compare reinforcement learning with a straight-through Gumbel-softmax relaxation and examine compositionality in the learned protocol (NIPS, 2017).
