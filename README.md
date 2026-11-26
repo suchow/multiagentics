@@ -388,6 +388,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1805.07830)**: Omidshafiei et al. introduce LeCTR, in which cooperative agents learn when and what advice to exchange. Agents learn to request and provide advice as students and teachers during team learning (2018 preprint).
+
 - **[MAVEN: Multi-Agent Variational Exploration](https://proceedings.neurips.cc/paper/2019/hash/f816dc0acface7498e10496222e9db10-Abstract.html)**: Anuj Mahajan, Tabish Rashid, Mikayel Samvelyan, and Shimon Whiteson condition value-based agents on a shared latent variable selected by a hierarchical policy for temporally extended exploration. Evaluation uses StarCraft Multi-Agent Challenge tasks (NeurIPS, 2019).
 
 - **[ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://proceedings.mlr.press/v119/wang20f.html)**: Tonghan Wang, Heng Dong, Victor Lesser, and Chongjie Zhang condition agent policies on stochastic role embeddings shaped by two regularizers. Evaluation studies dynamic specialization in StarCraft II micromanagement (ICML, 2020).
@@ -627,6 +629,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Optimally Interacting Minds](https://pure.au.dk/ws/files/51720586/BahramiSci2010.pdf)**: Bahrami et al. study communicating human pairs in a visual decision task. Pairs with similar sensitivity outperform either member; pairs with markedly different sensitivities can underperform their better member. Transfer to AI teams is unverified (Science, 2010).
 
 - **[Cooperating with machines](https://jfbonnefon.github.io/publication/natcom18/natcom18.pdf)**: Crandall et al. combine adaptive strategy selection with communicative signals and evaluate cooperation with humans and algorithms in two-player repeated stochastic games (Nature Communications, 2018).
 - **[Humans’ ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model ANnotations for Agent Collaboration](https://aclanthology.org/2026.findings-emnlp.2171/)**: Chen et al. pair human collaboration actions with participants’ reports of their reasoning, perceived partner intent, and team goals in a dyadic Map Task. They evaluate six LLMs on behavior and annotation prediction (Findings of EMNLP, 2026).
