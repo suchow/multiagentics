@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Empirical Study on Robustness and Resilience in Cooperative Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/3e8d9bf1dd1eb9d3d9d500fb3543c87b-Abstract-Conference.html)**: Li et al. compare cooperative performance, robustness to perturbations, and recovery across four environments, 13 uncertainty types, and 15 hyperparameters. The study distinguishes uncertainty modalities and which agents are affected (NeurIPS, 2025).
+
 - **[PieArena: Ranking and Profiling Language Agents in Realistic Negotiation Scenarios](https://arxiv.org/abs/2602.05302)**: Zhu et al. evaluate negotiation through mirror-play, cross-play, and human–model pairings in scenarios adapted from MBA courses. Evaluation includes payoff-based rankings, trained-student comparisons, and behavioral profiles with judge-assessed traits (2026 preprint).
 - **[Expert Crowdsourcing with Flash Teams](https://stanfordhci.github.io/flash-teams/files/flash-teams-uist2014.pdf)**: Retelny et al. introduce Foundry to coordinate paid crowd experts through linked modular tasks, structured handoffs, pipelining, and staffing changes. Evaluation uses selected human design, animation, and educational tasks (UIST, 2014).
 
