@@ -240,6 +240,9 @@
 
 ## Key papers
 
+- **[ALLIANCE: An Architecture for Fault Tolerant Multi-Robot Cooperation](https://web.eecs.utk.edu/~leparker/publications/TRA.pdf)**: Lynne E. Parker introduces distributed, behavior-based action selection for heterogeneous robot teams performing loosely coupled subtasks. A physical-robot laboratory cleanup demonstration evaluates adaptive cooperation (IEEE Transactions on Robotics and Automation, 1998).
+- **[Task Decomposition, Dynamic Role Assignment, and Low-Bandwidth Communication for Real-Time Strategic Teamwork](https://publications.ri.cmu.edu/storage/publications/pub_files/pub2/stone_peter_1999_1/stone_peter_1999_1.pdf)**: Stone and Veloso combine formations, dynamic role assignment, and low-bandwidth communication for teams with periodic full-communication opportunities. Evaluation uses homogeneous agents in simulated robotic soccer (Artificial Intelligence, 1999).
+
 - **[CAST: Collaborative Agents for Simulating Teamwork](https://ijcai.org/proceedings/2001/151)**: Yen et al. represent shared team processes with Petri nets and anticipate teammates’ information needs for proactive communication. Evaluation uses synthetic software-agent teams (IJCAI, 2001).
 - **[The RETSINA MAS Infrastructure](https://www.ri.cmu.edu/pub_files/2003/7/art-1024172719965.pdf)**: Sycara, Paolucci, Van Velsen, and Giampapa describe reusable services, communication conventions, and agent requirements for heterogeneous multi-agent systems (Autonomous Agents and Multi-Agent Systems, 2003).
 - **[AgentArch: A Benchmark for Evaluating Agent Architectures in Enterprise Workflows](https://aclanthology.org/2026.aacl-long.44/)**: Bogavelli, Subramani, and Sharma compare 18 agent configurations across orchestration, prompting style, memory, and thinking tools on two enterprise workflows (AACL-IJCNLP, 2026).
