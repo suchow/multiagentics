@@ -367,6 +367,8 @@
 
 ### Distributed systems and consensus
 
+- **[Fast Linear Iterations for Distributed Averaging](https://stanford.edu/~boyd/papers/fastavg.html)**: Lin Xiao and Stephen Boyd optimize linear distributed averaging over a network. For symmetric iterations, selecting the fastest-converging weights reduces to semidefinite programming (Systems & Control Letters, 2004).
+
 - **[Position: Multi-Agent Systems Should Prioritize Concurrency Control](https://proceedings.mlr.press/v306/yang26dy.html)**: Yang et al. frame shared-state failures in LLM agent teams as concurrency anomalies and advocate explicit conflict detection, isolation guarantees, and structured resource access. This is a position paper (ICML, 2026).
 - **[Practical Byzantine Fault Tolerance](https://www.usenix.org/conference/osdi-99/practical-byzantine-fault-tolerance)**: Miguel Castro and Barbara Liskov develop Byzantine-fault-tolerant state-machine replication and evaluate a replicated NFS service. The model requires deterministic service behavior, cryptographic assumptions, and at most f faulty replicas among 3f+1; liveness also requires a delay condition (OSDI, 1999).
 - **[Reliable Communication in the Presence of Failures](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2018/Papers/p47-birman.pdf)**: Kenneth P. Birman and Thomas A. Joseph develop reliable multicast protocols that coordinate message delivery with process-group membership and failure events, including causal delivery ordering. The model concerns halting failures, with availability constrained by network and membership assumptions (ACM Transactions on Computer Systems, 1987).
@@ -445,6 +447,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Graph Convolutional Reinforcement Learning](https://arxiv.org/abs/1810.09202)**: Jiang et al. introduce DGN, using attention-based graph convolutions to aggregate neighboring agents’ features as interaction graphs change. Temporal relation regularization encourages consistency across time. Evaluation uses cooperative simulations (ICLR, 2020).
 
 - **[FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v139/zhang21m.html)**: Zhang et al. introduce an actor–critic method for factorizing maximum-entropy joint policies into individual policies. Evaluation uses matrix games, differential games, and StarCraft II micromanagement (ICML, 2021).
 
