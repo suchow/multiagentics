@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[Social conceptions of knowledge and action: DAI foundations and open systems semantics](https://experts.illinois.edu/en/publications/social-conceptions-of-knowledge-and-action-dai-foundations-and-op/)**: Les Gasser develops a social account of knowledge and action for distributed AI and examines Open Information Systems Semantics against those principles. This is a conceptual analysis (Artificial Intelligence, 1991).
+
 - **[Tracking Dynamic Team Activity](https://cdn.aaai.org/AAAI/1996/AAAI96-012.pdf)**: Milind Tambe uses explicit team models to infer joint goals and plans from observed agent actions. Constraint propagation and a cost-minimality criterion restrict the tracking search (AAAI, 1996).
 
 - **[Environment programming in multi-agent systems: an artifact-based perspective](https://apice.unibo.it/bin/view/Publication/CartagoJaamas23?language=en&mode=data)**: Ricci, Piunti, and Viroli introduce environment programming through computational artifacts grouped into workspaces. Their CArtAgO framework provides programmable resources and coordination facilities for software agents (Autonomous Agents and Multi-Agent Systems, 2011).
@@ -413,6 +415,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent](https://www.ijcai.org/proceedings/2019/66)**: Lockhart et al. introduce exploitability descent, directly optimizing policies against worst-case opponents in two-player zero-sum imperfect-information games. Evaluation uses four tabular benchmark games and separate function-approximation experiments (IJCAI, 2019).
 
 - **[Deep Reinforcement Learning from Self-Play in Imperfect-Information Games](https://arxiv.org/abs/1603.01121)**: Johannes Heinrich and David Silver introduce Neural Fictitious Self-Play, combining deep reinforcement learning with learning an average strategy from self-play experience. Evaluation uses Leduc poker and limit Texas hold’em (2016 preprint).
 
