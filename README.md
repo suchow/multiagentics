@@ -344,6 +344,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[An Implementation of the Contract Net Protocol Based on Marginal Cost Calculations](https://cdn.aaai.org/AAAI/1993/AAAI93-039.pdf)**: Tuomas Sandholm formalizes contract-net bidding and awarding through locally calculated marginal costs and clustered task exchanges. TRACONET applies the protocol to distributed vehicle routing, with tests using transportation data (AAAI, 1993).
+
 - **[Understanding the Role of Negotiation in Distributed Search Among Heterogeneous Agents](https://ijcai.org/proceedings/1993/0062.pdf)**: Susan E. Lander and Victor R. Lesser introduce negotiated search, which combines local search, shared-solution construction, critique, and relaxation of solution requirements. Their TEAM framework assumes cooperative heterogeneous agents and stores emerging composite solutions in shared memory (IJCAI, 1993).
 
 - **[An Approach to Analyzing the Need for Meta-Level Communication](https://ijcai.org/proceedings/1993/0051.pdf)**: Keith Decker and Victor Lesser analyze when communication about ongoing problem solving improves dynamic task allocation. Mathematical models and simulations concern homogeneous cooperative agents in distributed sensor networks (IJCAI, 1993).
@@ -743,6 +745,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[Mixture-of-Agents Enhances Large Language Model Capabilities](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5434be94e82c54327bb9dcaf7fca52b6-Abstract-Conference.html)**: Wang et al. arrange language-model agents in layers, with each layer receiving the previous layer’s responses for synthesis and refinement. The method uses prompting without fine-tuning and is evaluated on AlpacaEval 2.0, Arena-Hard, MT-Bench, and FLASK (ICLR, 2025).
 
 - **[Multi-agent Architecture Search via Agentic Supernet](https://proceedings.mlr.press/v267/zhang25bi.html)**: Zhang et al. introduce MaAS, which samples query-dependent multi-agent architectures from a learned distribution. They evaluate task performance and inference costs across six benchmarks, including transfer across datasets and language-model backbones (ICML, 2025).
 
