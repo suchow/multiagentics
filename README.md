@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[Developing multi-agent systems with a FIPA-compliant agent framework](https://jmvidal.cse.sc.edu/library/bellifemine01a.pdf)**: Fabio Bellifemine, Agostino Poggi, and Giovanni Rimassa describe JADE’s agent-platform architecture, communication subsystem, and agent model for FIPA-compliant applications. The paper discusses implementation and interoperability tests with other platforms (Software—Practice & Experience, 2001).
+
 - **[COLLAGEN: A Collaboration Manager for Software Interface Agents](https://www.merl.com/publications/TR97-21a)**: Charles Rich and Candace L. Sidner implement a SharedPlans-based manager for mixed-initiative human–agent interaction. It organizes interaction history around participants’ goals and intentions and is demonstrated in an air-travel application (User Modeling and User-Adapted Interaction, 1998).
 
 - **[A Model for the Structural, Functional, and Deontic Specification of Organizations in Multiagent Systems](https://moise-lang.github.io/doc/publications/Hubner-sbia2002.pdf)**: Jomi Fred Hübner, Jaime Simão Sichman, and Olivier Boissier introduce MOISE+, which combines roles and groups, collective goals and plans, and obligations and permissions. A soccer-team example illustrates this organizational specification model (SBIA, 2002).
