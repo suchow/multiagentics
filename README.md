@@ -369,6 +369,8 @@
 
 ### Distributed systems and consensus
 
+- **[Distributed Deadlock Detection](https://research.ibm.com/publications/distributed-deadlock-detection)**: K. Mani Chandy, Jayadev Misra, and Laura M. Haas develop distributed algorithms for detecting resource and communication deadlocks. Processes exchange short messages without maintaining global information within the paper’s formal deadlock models (ACM Transactions on Computer Systems, 1983).
+
 - **[Distributed Snapshots: Determining Global States of Distributed Systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Determining-Global-States-of-a-Distributed-System.pdf)**: K. Mani Chandy and Leslie Lamport introduce algorithms that record process and channel states during an ongoing message-passing computation. Their model uses first-in-first-out channels and supports consistent global-state recording (ACM Transactions on Computer Systems, 1985).
 
 - **[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols (Extended Abstract)](https://cs.nyu.edu/~apanda/classes/sp25/papers/benor83.pdf)**: Michael Ben-Or introduces randomized asynchronous agreement with eventual delivery to continuing processes. The crash-fault protocol requires a correct majority; the Byzantine protocol assumes identifiable senders and more than five times as many processes as faults (PODC, 1983).
