@@ -240,6 +240,10 @@
 
 ## Key papers
 
+- **[The Bargaining Problem](https://jmvidal.cse.sc.edu/library/nash50a.pdf)**: John F. Nash, Jr. develops an axiomatic solution to two-person bargaining (Econometrica, 1950).
+- **[Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/984dd3db213db2d1454a163b65b84d08-Abstract.html)**: Abdelnabi et al. introduce scored multi-party, multi-issue negotiation games and evaluate agreement, role adherence, and interactions with greedy or adversarial participants (NeurIPS, 2024).
+- **[Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation](https://proceedings.mlr.press/v306/liu26ef.html)**: Liu et al. combine an in-context opponent model with simulated best-of-N responses to study adaptation across two forms of repeated negotiation games without parameter updates (ICML, 2026).
+
 - **[Cooperative Coevolution: An Architecture for Evolving Coadapted Subcomponents](https://sci2s.ugr.es/sites/default/files/files/Teaching/OtherPostGraduateCourses/Metaheuristicas/ecj00.pdf)**: Potter and De Jong evolve interacting solution components in separate cooperating species. They study emergent decomposition through string matching and neural-network evolution (Evolutionary Computation, 2000).
 - **[Investigating Component Contributions in Multi-Agent ML Systems](https://proceedings.mlr.press/v306/kim26ba.html)**: Kim et al. compare coordination, iterative refinement, memory, and planning in ML engineering agents through architectural ablations. They introduce K-live, a benchmark using 25 active competitions (ICML, 2026).
 
