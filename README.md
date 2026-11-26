@@ -589,6 +589,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms in Cooperative Tasks](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/a8baa56554f96369ab93e4f3bb068c22-Abstract-round1.html)**: Papoudakis et al. compare independent learning, centralized policy-gradient methods, and value decomposition across cooperative tasks. They release EPyMARL and two environments focused on coordination under sparse rewards (NeurIPS Datasets and Benchmarks, 2021).
+
 - **[On the Pitfalls of Measuring Emergent Communication](https://ifaamas.org/Proceedings/aamas2019/pdfs/p693.pdf)**: Lowe et al. demonstrate misleading communication metrics in matrix games and distinguish informative messages from messages that influence another agent’s behavior. They propose intervention-based measurement and discuss distribution-shift risks from test-time message removal (AAMAS, 2019).
 
 - **[Pommerman: A Multi-Agent Playground](https://arxiv.org/abs/1809.07124)**: Resnick et al. introduce a Bomberman-based research environment with cooperative and competitive scenarios involving at least four players. The platform supports research on planning, teammate and opponent modeling, and communication (2018 preprint; revised 2022).
