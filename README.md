@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Multi-Agent Memory Inconsistency: Where Factual Conflicts Disappear in LLM Agents](https://arxiv.org/abs/2611.22245)**: Zhang et al. inject conflicting facts into Harvey LAB document-review tasks and trace their retrieval, worker reporting, and conflict detection during delegated execution. The controlled study distinguishes retrieving both claims from recognizing their conflict (2026 preprint).
+- **[Opinion dynamics and bounded confidence: models, analysis and simulation](https://www.jasss.org/5/3/2.html)**: Rainer Hegselmann and Ulrich Krause analyze continuous-opinion models and simulate how bounded confidence affects consensus, polarization, and fragmentation. These are mathematical models and simulations of selective influence (Journal of Artificial Societies and Social Simulation, 2002).
+
 - **[Emergent Coordination in Multi-Agent Language Models](https://arxiv.org/abs/2510.05174)**: Christoph Riedl uses information decomposition to distinguish temporal coupling from cross-agent coordination in a guessing game without direct agent communication. Randomized prompt interventions compare personas and instructions to consider other agents (ICLR, 2026; first preprint 2025).
 - **[Vox Populi](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Collective_Intelligence/Galton_1907_Vox_Populi.pdf)**: Francis Galton analyzes 787 entries from one ox-weight estimation contest and reports that their median was close to the measured weight. This is a historical human collective-estimation observation (Nature, 1907).
 
