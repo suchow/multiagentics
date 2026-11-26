@@ -762,6 +762,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[Layered Learning](https://www.cs.utexas.edu/~pstone/Papers/bib2html/b2hd-ECML2000.html)**: Peter Stone and Manuela Veloso train subtasks in a supplied hierarchy and use learned components to define later layers’ training examples or representations. They implement this learning framework in simulated robotic soccer (ECML, 2000).
+
 - **[VMAS: A Vectorized Multi-Agent Simulator for Collective Robot Learning](https://arxiv.org/abs/2207.03530)**: Matteo Bettini, Ryan Kortvelesy, Jan Blumenkamp, and Amanda Prorok introduce a vectorized two-dimensional physics engine in PyTorch with twelve multi-robot scenarios. The paper benchmarks these simulated tasks with PPO-based multi-agent algorithms (2022 preprint).
 
 - **[Consensus and Cooperation in Networked Multi-Agent Systems](https://murray.cds.caltech.edu/index.php/Consensus_and_Cooperation_in_Networked_Multi-Agent_Systems)**: Reza Olfati-Saber, J. Alex Fax, and Richard M. Murray organize consensus analysis around graph structure, directed information flow, changing topology, communication delays, and convergence speed. Guarantees depend on the graph and timing conditions of each model (Proceedings of the IEEE, 2007).
