@@ -240,6 +240,11 @@
 
 ## Key papers
 
+- **[Grounding in Communication](https://web.stanford.edu/~clark/1990s/Clark%2C%20H.H.%20_%20Brennan%2C%20S.E.%20_Grounding%20in%20communication_%201991.pdf)**: Herbert H. Clark and Susan E. Brennan describe how human participants establish sufficient evidence of understanding, with grounding shaped by purpose and communication medium (1991).
+- **[How a Cockpit Remembers Its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf)**: Edwin Hutchins analyzes cockpit memory as information represented and propagated across pilots and instruments (Cognitive Science, 1995).
+- **[Learning to Share: Selective Memory for Efficient Parallel Agentic Systems](https://proceedings.mlr.press/v306/fioresi26a.html)**: Fioresi et al. learn which intermediate results parallel agent teams should add to shared memory. They evaluate information reuse and runtime on AssistantBench and GAIA (ICML, 2026).
+- **[Dialogue is the Plan: From Interface to Joint Action in Agentic AI](https://aclanthology.org/2026.acl-short.63/)**: Inan, Alikhani, and Sicilia connect dialogue theory with agent architectures and propose explicit shared commitments, clarification actions, and measures of grounding and repair (ACL, 2026; conceptual paper).
+
 - **[A Counterexample in Stochastic Optimum Control](https://mcrotk.github.io/courses/references/counterexample.pdf)**: Hans S. Witsenhausen constructs a decentralized control problem where nonlinear policies outperform linear policies despite linear dynamics, Gaussian uncertainty, and quadratic costs (1968).
 - **[Multi-Agent Reinforcement Learning with Communication-Constrained Priors](https://proceedings.neurips.cc/paper_files/paper/2025/hash/e26502ce357ce3015e8778f0e85d4b39-Abstract-Conference.html)**: Yang et al. model communication constraints and distinguish lossy from lossless messages when training cooperative multi-agent policies (NeurIPS, 2025).
 - **[Unifying Partner and Environment Diversity to Improve Human-AI Coordination](https://arxiv.org/abs/2611.32031)**: Zhang et al. combine partner-population and environment diversity during training. They evaluate coordination with held-out partners and environments in foraging and Overcooked tasks (2026 preprint).
