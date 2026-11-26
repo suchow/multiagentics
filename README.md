@@ -554,6 +554,8 @@
 
 ### Communication and emergent language
 
+- **[Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://arxiv.org/abs/1902.01554)**: Kim et al. introduce SchedNet, which learns communication scheduling, message encoding, and action selection under limited bandwidth and shared-medium contention. Evaluation uses cooperative communication/navigation and predator–prey tasks (ICLR, 2019).
+
 - **[Learning Attentional Communication for Multi-Agent Cooperation](https://proceedings.neurips.cc/paper_files/paper/2018/hash/6a8018b3a00b69c008601b8becae392b-Abstract.html)**: Jiechuan Jiang and Zongqing Lu introduce ATOC, an attentional model that learns when to communicate and how to integrate shared information for cooperative decisions. Evaluation uses cooperative simulations (NeurIPS, 2018).
 
 - **[CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication](https://aclanthology.org/P19-1651/)**: Kim et al. introduce a teller–drawer clip-art scene-reconstruction game and human-dialogue dataset. Evaluation includes automated tests, partners trained independently on disjoint data, and live human interaction within this environment (ACL, 2019).
