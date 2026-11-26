@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[The Scientific Community Metaphor](https://dspace.mit.edu/entities/publication/7e958780-4656-4c97-a1be-de0f18cd29bb)**: William A. Kornfeld and Carl Hewitt model aspects of scientific-community problem solving through concurrency and pluralism. A variant of Ether provides simplified computational models of these mechanisms (IEEE Transactions on Systems, Man, and Cybernetics, 1981).
+
 - **[Social conceptions of knowledge and action: DAI foundations and open systems semantics](https://experts.illinois.edu/en/publications/social-conceptions-of-knowledge-and-action-dai-foundations-and-op/)**: Les Gasser develops a social account of knowledge and action for distributed AI and examines Open Information Systems Semantics against those principles. This is a conceptual analysis (Artificial Intelligence, 1991).
 
 - **[Tracking Dynamic Team Activity](https://cdn.aaai.org/AAAI/1996/AAAI96-012.pdf)**: Milind Tambe uses explicit team models to infer joint goals and plans from observed agent actions. Constraint propagation and a cost-minimality criterion restrict the tracking search (AAAI, 1996).
@@ -415,6 +417,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)**: Perolat et al. introduce DeepNash, a search-free self-play system for Stratego built around Regularised Nash Dynamics. Evaluation compares play with existing agents and human experts in Stratego (2022).
 
 - **[Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent](https://www.ijcai.org/proceedings/2019/66)**: Lockhart et al. introduce exploitability descent, directly optimizing policies against worst-case opponents in two-player zero-sum imperfect-information games. Evaluation uses four tabular benchmark games and separate function-approximation experiments (IJCAI, 2019).
 
