@@ -338,6 +338,7 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Program equilibrium](https://cris.technion.ac.il/en/publications/program-equilibrium/)**: Moshe Tennenholtz models strategies as programs that can inspect other programs on a shared computational device. This arrangement supports cooperative equilibria in the one-shot prisoner’s dilemma (Games and Economic Behavior, 2004).
 - **[The Mechanics of n-Player Differentiable Games](https://proceedings.mlr.press/v80/balduzzi18a.html)**: Balduzzi et al. decompose differentiable-game dynamics into potential and Hamiltonian components and derive Symplectic Gradient Adjustment for seeking stable fixed points (ICML, 2018).
 - **[Stable Opponent Shaping in Differentiable Games](https://arxiv.org/abs/1811.08469v2)**: Letcher et al. introduce SOS, which interpolates between LOLA opponent shaping and LookAhead updates. The analysis concerns local convergence and strict-saddle avoidance under differentiability assumptions (ICLR, 2019).
 - **[Algorithmic Mechanism Design](https://www.cs.toronto.edu/~bor/304f16/nisan-ronen-AGT.pdf)**: Noam Nisan and Amir Ronen combine algorithms and payments for optimization with self-interested participants and develop truthful task-scheduling mechanisms. Their formal model uses dominant strategies and quasi-linear utilities (Games and Economic Behavior, 2001).
@@ -381,6 +382,7 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v97/iqbal19a.html)**: Shariq Iqbal and Fei Sha introduce MAAC, which trains decentralized policies using centralized critics with a shared attention mechanism. Attention selects relevant information for each agent during critic computation (ICML, 2019).
 - **[Maintaining cooperation in complex social dilemmas using deep reinforcement learning](https://arxiv.org/abs/1707.01068)**: Adam Lerer and Alexander Peysakhovich introduce approximate Markov tit-for-tat. Agents switch between learned cooperative and punitive policies according to estimated gains from a partner’s deviations. Experiments use Coins and a modified Pong game (2017 preprint; revised 2018).
 - **[R-MAX - A General Polynomial Time Algorithm for Near-Optimal Reinforcement Learning](https://www.jmlr.org/papers/v3/brafman02a.html)**: Ronen I. Brafman and Moshe Tennenholtz develop optimistic model-based reinforcement learning with near-optimal average-reward guarantees covering zero-sum stochastic games. The bounds depend on finite state/action spaces and return mixing time (JMLR, 2002).
 - **[Bottom-Up Reputation Promotes Cooperation with Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1745.pdf)**: Ren et al. introduce LR2, which learns reputation assignments alongside cooperation policies using local interactions and reputation-shaped rewards. Evaluation concerns repeated cooperation-or-defection games among neighboring agents in spatial social dilemmas (AAMAS, 2025).
