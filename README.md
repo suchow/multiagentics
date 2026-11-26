@@ -753,6 +753,8 @@
 
 ### Debate, reasoning, and aggregation
 
+- **[ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs](https://aclanthology.org/2024.acl-long.381/)**: Chen, Saha, and Bansal combine discussion among different LLMs with confidence-weighted voting. They evaluate reasoning on seven benchmarks and examine the contribution of model diversity (ACL, 2024).
+
 - **[Naïve Learning in Social Networks and the Wisdom of Crowds](https://bengolub.net/papers/naivelearning.pdf)**: Benjamin Golub and Matthew O. Jackson characterize when repeated weighted averaging of neighbors’ beliefs aggregates independent noisy information accurately as a network grows. The model specifies fixed averaging weights and network conditions; consensus speed alone does not establish accuracy (American Economic Journal: Microeconomics, 2010).
 - **[The Weighted Majority Algorithm](https://mwarmuth.bitbucket.io/pubs/J24.pdf)**: Nick Littlestone and Manfred K. Warmuth combine online predictors through weighted voting and bound mistakes relative to the best predictor in the pool. This is adjacent aggregation theory with sequential prediction feedback (Information and Computation, 1994).
 - **[An abstract, argumentation-theoretic approach to default reasoning](https://www.doc.ic.ac.uk/~rak/papers/BDKTarg.pdf)**: Bondarenko, Dung, Kowalski, and Toni unify several default-reasoning formalisms through defeasible assumptions and attacks on their contraries. Their admissible sets are conflict-free and defend themselves against attacks (Artificial Intelligence, 1997).
@@ -897,6 +899,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Organizational Memory](https://journals.aom.org/doi/10.5465/AMR.1991.4278992)**: James P. Walsh and Gerardo Rivera Ungson develop a conceptual account of organizational memory through information acquisition, retention, and retrieval. This is adjacent human organizational theory (Academy of Management Review, 1991).
 
 - **[Psychological Strategies for Winning a Geopolitical Forecasting Tournament](https://www.psychologicalscience.org/journals/psychological-science/0956797614524255/)**: Mellers et al. evaluate probability training, collaborative teams, and grouping high-performing forecasters in a two-year human forecasting tournament. These interventions improved calibration and resolution under the studied conditions; team conditions also included collaboration training (Psychological Science, 2014).
 
