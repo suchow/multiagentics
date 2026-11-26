@@ -822,6 +822,8 @@
 
 ### Evaluation and failure analysis
 
+- **[GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems](https://aclanthology.org/2025.emnlp-industry.106/)**: Lee et al. represent agent interactions as directed acyclic graphs and propose metrics for message diversity and redundant reasoning paths. They evaluate these diagnostics alongside answer accuracy on five benchmarks (EMNLP Industry Track, 2025).
+
 - **[LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments](https://aclanthology.org/2024.acl-long.705/)**: Chen et al. introduce LLMArena, which evaluates language-model agents in seven interactive game environments using TrueSkill ratings. The games include bargaining, auctions, social deduction, and cooperative card play (ACL, 2024).
 
 - **[Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions](https://aclanthology.org/2025.acl-long.223/)**: Zhao et al. combine model-generated questions, multi-round debates between candidate models, and discussion among language-model judges in Auto-Arena. They compare rankings of 15 models with human preferences (ACL, 2025).
@@ -963,6 +965,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Modeling Coordination in Organizations and Markets](https://pubsonline.informs.org/doi/10.1287/mnsc.33.10.1317)**: Thomas W. Malone models product hierarchies, functional hierarchies, centralized markets, and decentralized markets. He compares production, coordination, and vulnerability costs within these formal structures (Management Science, 1987).
 
 - **[Organizational Memory](https://journals.aom.org/doi/10.5465/AMR.1991.4278992)**: James P. Walsh and Gerardo Rivera Ungson develop a conceptual account of organizational memory through information acquisition, retention, and retrieval. This is adjacent human organizational theory (Academy of Management Review, 1991).
 
