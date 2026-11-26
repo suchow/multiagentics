@@ -240,6 +240,10 @@
 
 ## Key papers
 
+- **[A Brief History of Stigmergy](https://static.ias.edu/pitp/archive/2012files/29.pdf)**: Guy Theraulaz and Eric Bonabeau explain coordination through environmental modifications and distinguish quantitative from qualitative stigmergy in social insects (Artificial Life, 1999).
+- **[More Capable, Less Cooperative? When LLMs Fail at Zero-Cost Collaboration](https://proceedings.mlr.press/v306/yadav26a.html)**: Yadav, Black, and Sourbut evaluate information sharing when cooperation carries no modeled cost. Interventions distinguish communication competence from cooperation failures in their turn-based environment (ICML, 2026).
+- **[ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents](https://arxiv.org/abs/2606.31174)**: Xiong et al. evaluate subagent management through 41 staged scenarios, including delegation, workspace permissions, and modality routing, with a fixed subagent pool (2026 preprint).
+
 - **[Elements of a Plan-Based Theory of Speech Acts](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog0303_1)**: Philip R. Cohen and C. Raymond Perrault model requesting and informing as planning operators and integrate communicative and physical actions within plans (Cognitive Science, 1979).
 - **[Open Agent Specification: Enabling Cross-Framework Comparison of AI Agents](https://doi.org/10.1145/3786335.3813130)**: Amini et al. introduce a declarative agent specification and compare shared designs across LangGraph, CrewAI, AutoGen, and WayFlow on three benchmarks. Shared specifications preserve intended structure without requiring identical runtime behavior (ACM CAIS, 2026).
 
