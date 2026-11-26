@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[If multi-agent learning is the answer, what is the question?](https://people.eecs.berkeley.edu/~russell/classes/cs294/f21/papers/Shoham-2007-what-is-the-question.pdf)**: Yoav Shoham, Rob Powers, and Trond Grenager distinguish five research agendas in multi-agent learning and examine their evaluation criteria. The conceptual discussion centers on stochastic and repeated games and does not claim an exhaustive classification (Artificial Intelligence, 2007).
+
 - **[Tacit Coordination of Large Language Models](https://aclanthology.org/2026.findings-emnlp.2015/)**: Aharon, La Malfa, Wooldridge, and Kraus compare human and model focal-point selection without communication across selected cooperative and competitive games. Evaluation includes more than 20 models and examines failures involving numerical judgments and culturally dependent salience (Findings of EMNLP, 2026).
 - **[Organizing Work by Adaptation](https://pubsonline.informs.org/doi/10.1287/orsc.2.1.14)**: Edwin Hutchins examines how a ship’s navigation team reorganized its division of cognitive labor after equipment failure through local adaptations. This is a human-team field case (Organization Science, 1991).
 
