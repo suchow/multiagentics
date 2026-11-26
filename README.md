@@ -658,6 +658,8 @@
 
 ### Communication and emergent language
 
+- **[Compositional Languages Emerge in a Neural Iterated Learning Model](https://arxiv.org/abs/2002.01365)**: Ren et al. introduce neural iterated learning across generations of interacting agents. They study emergent protocol structure, learnability, and generalization in neural language games (ICLR, 2020).
+
 - **[COOL: A Language for Describing Coordination in Multi Agent Systems](https://cdn.aaai.org/ICMAS/1995/ICMAS95-003.pdf)**: Mihai Barbuceanu and Mark S. Fox specify agent conversations through finite-state models, conversation rules, and error recovery rules. COOL assumes shared speech acts; the paper includes an implemented n-queens coordination example (ICMAS, 1995).
 
 - **[Compositionality and Generalization In Emergent Languages](https://aclanthology.org/2020.acl-main.407/)**: Chaabouni et al. measure compositionality in learned communication protocols and test its relationship with novel-concept generalization and transmission to new learners. Findings concern deep multi-agent simulations and the paper’s compositionality measures (ACL, 2020).
