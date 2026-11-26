@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[An Introduction to Collective Intelligence](https://arxiv.org/abs/cs/9908014)**: David H. Wolpert and Kagan Tumer survey COIN design: assigning rewards to decentralized learning agents against a specified system-wide utility function. Examples include packet routing, leader–follower systems, and the El Farol bar problem (1999 preprint; NASA-ARC-IC-99-63).
+
 - **[Trends in Cooperative Distributed Problem Solving](https://mas.cs.umass.edu/pub/paper_detail.php/170)**: Durfee, Lesser, and Corkill survey cooperative distributed problem solving, including task decomposition, coordination, communication, and integration of interdependent partial solutions (IEEE Transactions on Knowledge and Data Engineering, 1989).
 - **[Group Performance and Decision Making](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142009)**: Kerr and Tindale review human-group performance, including process gains and losses, motivation, resource coordination, preference combination, and information processing (Annual Review of Psychology, 2004).
 - **[Algorithmic Game Theory](https://www.cs.cornell.edu/~eva/algorithmic-game-theory.pdf)**: Edited by Noam Nisan, Tim Roughgarden, Éva Tardos, and Vijay V. Vazirani, this collection covers equilibrium computation, algorithmic mechanism design, auctions, and equilibrium inefficiency, including applications to networks and information markets (Cambridge University Press, 2007).
