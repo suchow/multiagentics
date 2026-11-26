@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[Trends in Cooperative Distributed Problem Solving](https://mas.cs.umass.edu/pub/paper_detail.php/170)**: Durfee, Lesser, and Corkill survey cooperative distributed problem solving, including task decomposition, coordination, communication, and integration of interdependent partial solutions (IEEE Transactions on Knowledge and Data Engineering, 1989).
 - **[Group Performance and Decision Making](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142009)**: Kerr and Tindale review human-group performance, including process gains and losses, motivation, resource coordination, preference combination, and information processing (Annual Review of Psychology, 2004).
 - **[Algorithmic Game Theory](https://www.cs.cornell.edu/~eva/algorithmic-game-theory.pdf)**: Edited by Noam Nisan, Tim Roughgarden, Éva Tardos, and Vijay V. Vazirani, this collection covers equilibrium computation, algorithmic mechanism design, auctions, and equilibrium inefficiency, including applications to networks and information markets (Cambridge University Press, 2007).
 - **[A Roadmap of Agent Research and Development](https://publications.ri.cmu.edu/a-roadmap-of-agent-research-and-development)**: Jennings, Sycara, and Wooldridge review autonomous agents and multiagent systems through their key concepts, applications, historical development, and open research problems as understood in 1998.
