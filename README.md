@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research](https://hci.ucsd.edu/hollan/Pubs/tochi-revised.pdf)**: Hollan, Hutchins, and Kirsh develop a framework for analyzing information processing across people, artifacts, and time in human–computer interaction (TOCHI, 2000; author final revision).
 - **[Convention: A Philosophical Study](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470693711)**: David Lewis analyzes conventions as regular solutions to recurring coordination problems and applies the account to communication and language (1969; linked edition, 2002).
 - **[A Comprehensive Survey of Multiagent Reinforcement Learning](https://csc.csudh.edu/btang/seminar/multiagent/survey1.pdf)**: Bușoniu, Babuška, and De Schutter classify multiagent reinforcement learning across cooperative, competitive, and mixed tasks, distinguishing stability from adaptation as learning goals (2008).
 - **[Distributed Constraint Optimization Problems and Applications: A Survey](https://wyeoh.github.io/assets/pdf/jair-FiorettoPY18.pdf)**: Fioretto, Pontelli, and Yeoh classify DCOP models, solution methods, and applications, including extensions for dynamic and uncertain environments (JAIR, 2018).
@@ -245,6 +246,7 @@
 
 ## Key papers
 
+- **[Do LLM Agents Have Regret? A Case Study in Online Learning and Games](https://proceedings.iclr.cc/paper_files/paper/2025/hash/65ea878cb90b440e8b4cd34fe0959914-Abstract-Conference.html)**: Park et al. evaluate LLM agents using mathematical regret in online decision problems and repeated games. They identify failures and study training with a regret-based loss (ICLR, 2025).
 - **[Multi-agent Markov Entanglement](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0e3af444e7d82d29871804de476d1fbe-Abstract-Conference.html)**: Chen and Peng characterize when value functions permit additive decomposition in their multi-agent MDP setting and introduce a measure that bounds decomposition error (NeurIPS, 2025).
 - **[Organization Design: An Information Processing View](https://pubsonline.informs.org/doi/10.1287/inte.4.3.28)**: Jay R. Galbraith develops a conceptual framework relating task uncertainty to organizational form and information-processing demands, including information systems and group problem solving (Interfaces, 1974).
 - **[What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](https://proceedings.mlr.press/v306/abbadi26a.html)**: Abbadi, Laraki, and Mertikopoulos examine when preference graphs predict stability in specified game-learning dynamics. They provide a counterexample beyond subgames and a payoff-based sufficient condition for asymptotic stability (ICML, 2026).
