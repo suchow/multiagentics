@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[Monitoring the Progress of Anytime Problem-Solving](https://cdn.aaai.org/AAAI/1996/AAAI96-182.pdf)**: Eric A. Hansen and Shlomo Zilberstein use dynamic programming to select monitoring intervals and stopping decisions for an anytime algorithm. This adjacent metareasoning framework accounts for monitoring cost and uncertain improvement under supplied performance and utility models (AAAI, 1996).
+
 - **[An Organizational Approach to Adaptive Production Systems](https://cdn.aaai.org/AAAI/1990/AAAI90-008.pdf)**: Toru Ishida, Makoto Yokoo, and Les Gasser adapt distributed production systems by splitting agents under heavier workloads and combining them when demand falls. Rule dependencies and interference guide local synchronization within this rule-processing model (AAAI, 1990).
 
 - **[Knowledge-based programs](https://research.ibm.com/publications/knowledge-based-programs)**: Ronald Fagin, Joseph Y. Halpern, Yoram Moses, and Moshe Y. Vardi formalize programs with tests for agents’ knowledge. They give conditions for a unique representation within a specified execution context and analyze representation questions in finite-state contexts (Distributed Computing, 1997).
@@ -391,6 +393,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748)**: Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, and Igor Mordatch train competing agents through self-play in simulated physical games. They examine learned locomotion, blocking, and defensive behaviors within those games (ICLR, 2018; preprint 2017).
 
 - **[Celebrating Diversity in Shared Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/20aee3a5f4643755a79ee5f6a73050ac-Abstract.html)**: Li et al. combine identity–trajectory mutual-information regularization with agent-specific network modules to encourage behavioral diversity under parameter sharing. Evaluation uses Google Research Football and StarCraft II micromanagement (NeurIPS, 2021).
 
