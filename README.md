@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Emergent Coordination in Multi-Agent Language Models](https://arxiv.org/abs/2510.05174)**: Christoph Riedl uses information decomposition to distinguish temporal coupling from cross-agent coordination in a guessing game without direct agent communication. Randomized prompt interventions compare personas and instructions to consider other agents (ICLR, 2026; first preprint 2025).
+- **[Vox Populi](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Collective_Intelligence/Galton_1907_Vox_Populi.pdf)**: Francis Galton analyzes 787 entries from one ox-weight estimation contest and reports that their median was close to the measured weight. This is a historical human collective-estimation observation (Nature, 1907).
+
 - **[Large Language Models Miss the Multi-agent Mark](https://proceedings.neurips.cc/paper_files/paper/2025/hash/cc14cadd13ca5a13ba899cb49351c139-Abstract-Position_Paper_Track.html)**: La Malfa et al. argue for integrating established multi-agent concepts into LLM-agent frameworks. The paper examines social agency, environment design, coordination and communication protocols, and evaluation of emergent behavior (NeurIPS, 2025; position paper).
 
 - **[Does Representation Guarantee Welfare?](https://proceedings.nips.cc/paper_files/paper/2025/hash/4d5b7f7a0603b75e39ffebbf95e3b7ee-Abstract-Conference.html)**: De Raaij, Procaccia, and Psomas analyze representative-panel selection and population welfare through an optimization model. They compare representation of individual features with feature intersections and examine feasibility using real data (NeurIPS, 2025; adjacent social-choice theory).
