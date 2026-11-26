@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[COOP²: Defining, Observing, and Repairing Cooperation in LLM Multi-Agent Systems](https://arxiv.org/abs/2603.00349)**: Yang et al. connect agent plans and communication to verifiable task requirements. Their repair method predicts constraint failures and opens targeted communication channels. Evaluation covers two environments and three communication structures and measures decision and communication overhead (2026 preprint).
+
 - **[Empirical Study on Robustness and Resilience in Cooperative Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/3e8d9bf1dd1eb9d3d9d500fb3543c87b-Abstract-Conference.html)**: Li et al. compare cooperative performance, robustness to perturbations, and recovery across four environments, 13 uncertainty types, and 15 hyperparameters. The study distinguishes uncertainty modalities and which agents are affected (NeurIPS, 2025).
 
 - **[PieArena: Ranking and Profiling Language Agents in Realistic Negotiation Scenarios](https://arxiv.org/abs/2602.05302)**: Zhu et al. evaluate negotiation through mirror-play, cross-play, and human–model pairings in scenarios adapted from MBA courses. Evaluation includes payoff-based rankings, trained-student comparisons, and behavioral profiles with judge-assessed traits (2026 preprint).
