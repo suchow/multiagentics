@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Position: Multi-Agent Systems Should Prioritize Concurrency Control](https://proceedings.mlr.press/v306/yang26dy.html)**: Yang et al. frame shared-state failures in LLM agent teams as concurrency anomalies and advocate explicit conflict detection, isolation guarantees, and structured resource access. This is a position paper (ICML, 2026).
+
 - **[Prediction Markets](https://www.aeaweb.org/articles?id=10.1257/0895330041371321)**: Justin Wolfers and Eric Zitzewitz review evidence on markets for aggregating forecasts and explain how contract design affects the information conveyed by prices. Their analysis concerns the reviewed prediction contexts and distinguishes conditional-market beliefs from causal effects (Journal of Economic Perspectives, 2004).
 
 - **[A solution to the single-question crowd wisdom problem](https://marketing.wharton.upenn.edu/wp-content/uploads/2017/08/11-02-2017-McCoy-John-PAPER.pdf)**: Dražen Prelec, H. Sebastian Seung, and John McCoy aggregate answers using respondents’ predictions of others’ answers, selecting the answer more popular than predicted. The paper studies human judgments; its theoretical guarantee depends on a specified Bayesian information model (Nature, 2017).
