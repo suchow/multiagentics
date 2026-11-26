@@ -700,6 +700,8 @@
 
 ### Communication and emergent language
 
+- **[DebUnc: Improving Large Language Model Agent Communication With Uncertainty Metrics](https://aclanthology.org/2025.findings-emnlp.1265/)**: Yoffe, Amayuelas, and Wang communicate uncertainty estimates through prompts or attention scaling during multi-agent debate. They compare these mechanisms on reasoning and factual-question benchmarks. Attention scaling requires access to model internals; some comparisons use a correct-answer oracle for uncertainty (Findings of EMNLP, 2025).
+
 - **[Desiderata for Agent Communication Languages](https://research.cs.umbc.edu/kqml/papers/desiderata-acl/root.html)**: Mayfield, Labrou, and Finin propose requirements for agent communication languages across syntax, content, semantics, implementation, networking, environment, and reliability. They assess KQML against these requirements (AAAI Spring Symposium, 1995).
 
 - **[A semantics approach for KQML—a general purpose communication language for software agents](https://courses.cs.umbc.edu/771/papers/cikm94.pdf)**: Yannis Labrou and Tim Finin specify KQML performatives through preconditions, postconditions, and completion conditions associated with agent cognitive states. Their framework assumes sincere agents and connects these semantics to conversation policies and message-handling implementations (CIKM, 1994).
