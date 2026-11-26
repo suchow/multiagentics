@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Prediction Markets](https://www.aeaweb.org/articles?id=10.1257/0895330041371321)**: Justin Wolfers and Eric Zitzewitz review evidence on markets for aggregating forecasts and explain how contract design affects the information conveyed by prices. Their analysis concerns the reviewed prediction contexts and distinguishes conditional-market beliefs from causal effects (Journal of Economic Perspectives, 2004).
+
 - **[A solution to the single-question crowd wisdom problem](https://marketing.wharton.upenn.edu/wp-content/uploads/2017/08/11-02-2017-McCoy-John-PAPER.pdf)**: Dražen Prelec, H. Sebastian Seung, and John McCoy aggregate answers using respondents’ predictions of others’ answers, selecting the answer more popular than predicted. The paper studies human judgments; its theoretical guarantee depends on a specified Bayesian information model (Nature, 2017).
 - **[MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/tomilin26a.html)**: Tomilin et al. introduce GPU-accelerated cooperative environments for evaluating continual multi-agent learning across task sequences, including sequences of 100 tasks. These benchmark evaluations do not establish lifelong deployment capability (ICML, 2026).
 
