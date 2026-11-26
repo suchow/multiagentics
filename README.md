@@ -430,6 +430,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Learning to Incentivize in Repeated Principal-Agent Problems with Adversarial Agent Arrivals](https://proceedings.mlr.press/v267/liu25at.html)**: Liu et al. study repeated incentive selection for arriving agents of unknown types. They derive sublinear-regret bounds under known response mappings or Lipschitz response assumptions and a linear-regret limitation without prior behavioral information (ICML, 2025).
+
 - **[Emergent Prosociality in Multi-Agent Games Through Gifting](https://www.ijcai.org/proceedings/2021/61)**: Wang et al. study voluntary reward transfers between self-interested agents. They analyze equilibrium attraction and test convergence toward higher-total-reward outcomes in high-risk general-sum coordination games (IJCAI, 2021).
 
 - **[ESCHER: Eschewing Importance Sampling in Games by Computing a History Value Function to Estimate Regret](https://web.mit.edu/~gfarina/www/2023/escher_iclr23/)**: Stephen McAleer, Gabriele Farina, Marc Lanctot, and Tuomas Sandholm use a history-value estimator and fixed sampling policy for model-free regret minimization without importance sampling. Evaluation uses phantom tic-tac-toe, dark hex, and dark chess (ICLR, 2023).
