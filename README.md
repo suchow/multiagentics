@@ -298,6 +298,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[BnB-ADOPT: An Asynchronous Branch-and-Bound DCOP Algorithm](https://yeoh-lab.wustl.edu/assets/pdf/jair-YeohFK10.pdf)**: William Yeoh, Ariel Felner, and Sven Koenig combine ADOPT’s message-passing framework with depth-first branch-and-bound search for distributed constraint optimization. The memory-bounded algorithm also supports bounded-error approximations to minimum summed constraint cost (JAIR, 2010).
+
 - **[Asynchronous Forward Bounding for Distributed COPs](https://www.aaaipress.org/Library/JAIR/Vol34/jair34-003.php)**: Amir Gershman, Amnon Meisels, and Roie Zivan introduce AFB, which assigns variables sequentially and computes bounds on partial assignments asynchronously. AFB-BJ adds distributed backjumping to this constraint-optimization search (JAIR, 2009).
 
 - **[A Framework for Sequential Planning in Multi-Agent Settings](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume24/gmytrasiewicz05a.pdf)**: Piotr J. Gmytrasiewicz and Prashant Doshi introduce interactive POMDPs with Bayesian beliefs over physical states and models of other agents, including their beliefs. Finite nesting supports computable approximations to the generally difficult nested-belief problem (JAIR, 2005).
