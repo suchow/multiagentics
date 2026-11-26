@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[A Formal Specification of dMARS](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/atal97.pdf)**: D’Inverno, Kinny, Luck, and Wooldridge specify an idealized dMARS architecture through its data structures and the operations that manipulate them. The formal model gives particular attention to executable plans (Intelligent Agents IV, 1998; proceedings of ATAL 1997).
+
 - **[A verification framework for agent programming with declarative goals](https://www.csc.liv.ac.uk/~wiebe/pubs/Documents/jal5.pdf)**: De Boer et al. connect GOAL agent programs with a programming logic through formal computational semantics. A commitment strategy specifies the relationship between beliefs and declarative goals within this verification framework (Journal of Applied Logic, 2007).
 
 - **[Agent Programming in 3APL](https://research.vu.nl/en/publications/agent-programming-in-3apl/)**: Hindriks et al. combine imperative and logic programming for agents represented through beliefs and goals. Transition systems define the language’s operational semantics, including practical reasoning rules for goal revision (Autonomous Agents and Multi-Agent Systems, 1999).
