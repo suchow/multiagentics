@@ -244,6 +244,8 @@
 
 ## Key papers
 
+- **[TurKit: Human Computation Algorithms on Mechanical Turk](https://dspace.mit.edu/entities/publication/abfe95b4-b38e-488f-8b5f-b1178887e88e)**: Little, Chilton, Goldman, and Miller introduce a crash-and-rerun programming model for imperative workflows incorporating high-latency human computation calls (UIST, 2010).
+- **[Multi-Agent Reinforcement Learning with Submodular Reward](https://proceedings.mlr.press/v306/chen26dk.html)**: Chen et al. study cooperative learning with submodular team rewards that model diminishing returns from overlapping agent contributions. They develop greedy planning and optimistic learning algorithms for this formal setting (ICML, 2026).
 - **[Formal Verification of Parameterised Neural-symbolic Multi-agent Systems](https://ijcai.org/proceedings/2024/12)**: Kouvaros, Botoeva, and De Bonis-Campbell reduce verification of homogeneous neural-symbolic agent populations to bounded-agent checks for a restricted temporal-logic fragment. Agents combine neural perception with programmed action selection (IJCAI, 2024).
 - **[Soylent: A Word Processor with a Crowd Inside](https://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf)**: Bernstein et al. introduce Find-Fix-Verify, separating problem identification, candidate edits, and review in a human crowdsourced word processor (UIST, 2010).
 - **[Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://proceedings.mlr.press/v235/triantafyllou24a.html)**: Triantafyllou et al. define causal effects transmitted through other agents’ responses in multi-agent MDPs. They provide sufficient counterfactual identification conditions and a sampling-based estimator. Evaluation uses simulations (ICML, 2024).
