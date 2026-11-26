@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[The BOID architecture: conflicts between beliefs, obligations, intentions and desires](https://icr.uni.lu/leonvandertorre/bibtexbrowser.php?bib=leononly_new_incomplete.bib&key=DBLP%3Aconf%2Fagents%2FBroersenDHHT01)**: Broersen et al. introduce BOID, an agent architecture with beliefs, obligations, intentions, and desires. Feedback loops and conflict-resolution mechanisms define different agent types (Agents, 2001; author-hosted abstract).
+
 - **[An ontology for commitments in multiagent systems: Toward a unification of normative concepts](https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/ai%2Blaw-final.pdf)**: Munindar P. Singh describes social commitments and their operations within spheres of commitment. The normative framework relates obligations, taboos, conventions, and pledges through a common commitment vocabulary (Artificial Intelligence and Law, 1999).
 
 - **[The Scientific Community Metaphor](https://dspace.mit.edu/entities/publication/7e958780-4656-4c97-a1be-de0f18cd29bb)**: William A. Kornfeld and Carl Hewitt model aspects of scientific-community problem solving through concurrency and pluralism. A variant of Ether provides simplified computational models of these mechanisms (IEEE Transactions on Systems, Man, and Cybernetics, 1981).
@@ -427,6 +429,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[Emergent Prosociality in Multi-Agent Games Through Gifting](https://www.ijcai.org/proceedings/2021/61)**: Wang et al. study voluntary reward transfers between self-interested agents. They analyze equilibrium attraction and test convergence toward higher-total-reward outcomes in high-risk general-sum coordination games (IJCAI, 2021).
 
 - **[ESCHER: Eschewing Importance Sampling in Games by Computing a History Value Function to Estimate Regret](https://web.mit.edu/~gfarina/www/2023/escher_iclr23/)**: Stephen McAleer, Gabriele Farina, Marc Lanctot, and Tuomas Sandholm use a history-value estimator and fixed sampling policy for model-free regret minimization without importance sampling. Evaluation uses phantom tic-tac-toe, dark hex, and dark chess (ICLR, 2023).
 
