@@ -422,6 +422,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[QPLEX: Duplex Dueling Multi-Agent Q-Learning](https://arxiv.org/abs/2008.01062)**: Jianhao Wang, Zhizhou Ren, Terry Liu, Yang Yu, and Chongjie Zhang introduce a duplex dueling architecture for value factorization under the individual–global-max condition, linking joint and decentralized action selection. Evaluation uses StarCraft II micromanagement (2020 preprint; revised 2021).
+
 - **[FACMAC: Factored Multi-Agent Centralised Policy Gradients](https://proceedings.neurips.cc/paper_files/paper/2021/file/65b9eea6e1cc6bb9f0cd2a47751a186f-Paper.pdf)**: Peng et al. combine a factored centralized critic with joint-action policy gradients. They introduce Multi-Agent MuJoCo, a continuous-control benchmark that divides a robot’s controls among cooperating agents (NeurIPS, 2021).
 
 - **[MARLlib: A Scalable and Efficient Library For Multi-agent Reinforcement Learning](https://www.jmlr.org/papers/volume24/23-0378/23-0378.pdf)**: Hu et al. combine standardized environment wrappers, agent-level algorithm implementations, and configurable policy mapping for multi-agent learning experiments. The paper describes library architecture and task–algorithm integration (JMLR, 2023).
