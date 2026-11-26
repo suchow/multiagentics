@@ -330,6 +330,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[An Approach to Analyzing the Need for Meta-Level Communication](https://ijcai.org/proceedings/1993/0051.pdf)**: Keith Decker and Victor Lesser analyze when communication about ongoing problem solving improves dynamic task allocation. Mathematical models and simulations concern homogeneous cooperative agents in distributed sensor networks (IJCAI, 1993).
+
 - **[Conflict-based search for optimal multi-agent pathfinding](https://doi.org/10.1016/j.artint.2014.11.006)**: Guni Sharon, Roni Stern, Ariel Felner, and Nathan R. Sturtevant introduce a two-level centralized pathfinding algorithm. High-level search resolves inter-agent conflicts through constraints; low-level searches compute individual paths. Optimality concerns the paper’s discrete multi-agent pathfinding formulation (Artificial Intelligence, 2015).
 
 - **[A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2019/hash/3c3c139bd8467c1587a41081ad78045e-Abstract.html)**: Carion et al. learn scoring models for centralized agent–task assignment and solve structured optimization problems to coordinate agents. The method assumes local interactions and fixed low-level policies. Evaluation tests transfer from smaller training instances to larger search-and-rescue and StarCraft scenarios (NeurIPS, 2019).
@@ -720,6 +722,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[MapCoder: Multi-Agent Code Generation for Competitive Problem Solving](https://aclanthology.org/2024.acl-long.269/)**: Islam, Ali, and Parvez coordinate four LLM agents for generating relevant examples, planning, coding, and debugging. They evaluate program synthesis and competitive programming across multiple models and languages (ACL, 2024).
 
 - **[Automated Design of Agentic Systems](https://proceedings.iclr.cc/paper_files/paper/2025/hash/36b7acf6f6010652b3f2a433774a66fe-Abstract-Conference.html)**: Hu, Lu, and Clune introduce Meta Agent Search, which programs and evaluates agent workflows using an archive of previous designs. Generated examples include expert and reviewer teams. Evaluation examines reasoning tasks and transfer across domains and models (ICLR, 2025).
 
