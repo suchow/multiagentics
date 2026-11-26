@@ -414,6 +414,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients](https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p492.pdf)**: Hennes et al. derive NeuRD, a policy-gradient update connected to replicator dynamics and Hedge. They evaluate adaptation in Kuhn poker, Leduc poker, and Goofspiel; the sequential tabular convergence result is separate from neural-function-approximation experiments (AAMAS, 2020).
+
 - **[Truth Revelation in Approximately Efficient Combinatorial Auctions](https://arxiv.org/abs/cs/0202017)**: Lehmann, O’Callaghan, and Shoham show that a particular greedy allocation method can invalidate generalized Vickrey truthfulness. They provide a different payment scheme with dominant-strategy truthfulness for a restricted bidder class (Journal of the ACM, 2002).
 
 - **[Complexity of Mechanism Design](https://www.cs.cmu.edu/~conitzer/amdUAI02.pdf)**: Vincent Conitzer and Tuomas Sandholm study automated preference-aggregation mechanism design without side payments. In their explicitly represented formulation, deterministic design is NP-complete under dominant-strategy and Bayes–Nash incentive constraints; randomized design admits linear programming (UAI, 2002).
