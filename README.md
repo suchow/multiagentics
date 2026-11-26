@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Organizational Learning and Communities-of-Practice: Toward a Unified View of Working, Learning, and Innovation](https://pubsonline.informs.org/doi/10.1287/orsc.2.1.40)**: John Seely Brown and Paul Duguid connect collaborative workplace problem solving, learning, and innovation through informal communities of practice. The argument draws on human workplace ethnography, particularly service technicians (Organization Science, 1991).
+
 - **[Naïve Learning in Social Networks and the Wisdom of Crowds](https://bengolub.net/papers/naivelearning.pdf)**: Benjamin Golub and Matthew O. Jackson characterize when repeated weighted averaging of neighbors’ beliefs aggregates independent noisy information accurately as a network grows. The model specifies fixed averaging weights and network conditions; consensus speed alone does not establish accuracy (American Economic Journal: Microeconomics, 2010).
 - **[Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models](https://proceedings.mlr.press/v306/fang26f.html)**: Fang et al. introduce MM-DeceptionBench and use visually grounded adversarial debate to evaluate vision–language model responses. Evaluation compares judgments with human annotations across six benchmark categories (ICML, 2026).
 
