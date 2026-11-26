@@ -320,6 +320,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Distributed Constrained Heuristic Search](https://publications.ri.cmu.edu/distributed-constrained-heuristic-search)**: Sycara et al. combine decentralized constraint satisfaction with heuristic search. Their DCHS model uses search-space summaries called textures and distributed asynchronous backjumping; evaluation concerns decentralized job-shop scheduling (IEEE Transactions on Systems, Man, and Cybernetics, 1991).
+
 - **[Contract Types for Satisficing Task Allocation: I Theoretical Results](https://cdn.aaai.org/Symposia/Spring/1998/SS-98-05/SS98-05-011.pdf)**: Tuomas W. Sandholm analyzes task reallocation through individually rational contracts, including single-task transfers, clusters, swaps, and multiagent exchanges. The paper studies how permitted contract types affect reachable allocations and local optima in a static task-allocation model (AAAI Spring Symposium, 1998).
 
 - **[Efficiency and Equilibrium in Task Allocation Economies with Hierarchical Dependencies](https://ijcai.org/proceedings/1999/0075.pdf)**: William E. Walsh and Michael P. Wellman analyze decentralized task allocation with hierarchical task dependencies and competing resource demands. Their market protocol includes a decommitment phase for agents holding unneeded inputs (IJCAI, 1999).
@@ -421,6 +423,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[ESCHER: Eschewing Importance Sampling in Games by Computing a History Value Function to Estimate Regret](https://web.mit.edu/~gfarina/www/2023/escher_iclr23/)**: Stephen McAleer, Gabriele Farina, Marc Lanctot, and Tuomas Sandholm use a history-value estimator and fixed sampling policy for model-free regret minimization without importance sampling. Evaluation uses phantom tic-tac-toe, dark hex, and dark chess (ICLR, 2023).
 
 - **[DREAM: Deep Regret minimization with Advantage baselines and Model-free learning](https://arxiv.org/abs/2006.10410)**: Eric Steinberger, Adam Lerer, and Noam Brown introduce a model-free neural regret-minimization method that samples one action per decision point and uses learned baselines to reduce variance. Evaluation uses Leduc and Flop Texas hold’em (2020 preprint).
 
