@@ -292,6 +292,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[The Communicative Multiagent Team Decision Problem: Analyzing Teamwork Theories and Models](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume16/pynadath02a-html/index.html)**: David V. Pynadath and Milind Tambe model communication costs and uncertainty to analyze teamwork policy optimality and complexity. Their COM-MTDP model assumes a shared utility function and common knowledge of the model (JAIR, 2002).
+
 - **[The Auction Algorithm: A Distributed Relaxation Method for the Assignment Problem](https://www.mit.edu/~dimitrib/TheAuctionAP.pdf)**: Dimitri P. Bertsekas solves one-to-one assignment through computational bids and price updates, with parallel and asynchronous implementations. This is an optimization algorithm for assignment, without a strategic incentive-compatibility guarantee (Annals of Operations Research, 1988).
 - **[Planning, Learning and Coordination in Multiagent Decision Processes](https://www.cs.toronto.edu/~cebly/Papers/tark96.pdf)**: Craig Boutilier frames cooperative sequential decisions as multiagent MDPs and studies imposed conventions and learned coordination through local state games. The main model uses shared utility, complete state observability, and finite state/action spaces (TARK, 1996).
 - **[Fast Planning Through Planning Graph Analysis](https://www.cs.cmu.edu/~avrim/Papers/graphplan.pdf)**: Avrim L. Blum and Merrick L. Furst introduce Graphplan, which uses planning graphs and action-interference constraints to minimize parallel plan steps. This is centralized planning in discrete STRIPS-like domains (Artificial Intelligence, 1997).
@@ -383,6 +385,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2109.11251)**: Kuba et al. introduce HATRPO and HAPPO, using advantage decomposition and sequential policy updates for cooperative agents without shared policy parameters. Evaluation uses Multi-Agent MuJoCo and StarCraft II tasks (2021 preprint; 2022 revision).
 
 - **[Deep Coordination Graphs](https://proceedings.mlr.press/v119/boehmer20a.html)**: Wendelin Boehmer, Vitaly Kurin, and Shimon Whiteson factor joint action values into pairwise payoffs on a coordination graph and select joint actions through local message passing. Evaluation uses predator-prey and StarCraft II tasks (ICML, 2020).
 - **[QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v97/son19a.html)**: Son et al. transform joint action values into a factorization that preserves optimal actions in centralized training with decentralized execution. Evaluation uses modified predator-prey and multi-domain Gaussian-squeeze tasks (ICML, 2019).
