@@ -240,6 +240,10 @@
 
 ## Key papers
 
+- **[Hierarchical Planning in a Distributed Environment](https://ijcai.org/proceedings/1979/41)**: Daniel D. Corkill distributes NOAH’s hierarchical planning, conflict criticism, and world-model mechanisms across planning processors, illustrated with small planning examples (IJCAI, 1979).
+- **[Partial-Order Planning with Concurrent Interacting Actions](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume14/boutilier01a.pdf)**: Boutilier and Brafman introduce POMP, a sound and complete partial-order planner for concurrent interacting actions under their STRIPS-style model. Planning is centralized for cooperative agent teams (JAIR, 2001).
+- **[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](https://proceedings.mlr.press/v306/lupu26a.html)**: Lupu, Willi, and Foerster evaluate interactive multi-agent reasoning through a cooperative–competitive word game, including human–AI cross-play and targeted theory-of-mind tasks (ICML, 2026).
+
 - **[ALLIANCE: An Architecture for Fault Tolerant Multi-Robot Cooperation](https://web.eecs.utk.edu/~leparker/publications/TRA.pdf)**: Lynne E. Parker introduces distributed, behavior-based action selection for heterogeneous robot teams performing loosely coupled subtasks. A physical-robot laboratory cleanup demonstration evaluates adaptive cooperation (IEEE Transactions on Robotics and Automation, 1998).
 - **[Task Decomposition, Dynamic Role Assignment, and Low-Bandwidth Communication for Real-Time Strategic Teamwork](https://publications.ri.cmu.edu/storage/publications/pub_files/pub2/stone_peter_1999_1/stone_peter_1999_1.pdf)**: Stone and Veloso combine formations, dynamic role assignment, and low-bandwidth communication for teams with periodic full-communication opportunities. Evaluation uses homogeneous agents in simulated robotic soccer (Artificial Intelligence, 1999).
 
