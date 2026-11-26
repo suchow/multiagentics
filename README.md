@@ -836,6 +836,8 @@
 
 ### Evaluation and failure analysis
 
+- **[MA-Mesh: Resilient Multi-Agent Collaboration via Role-based Self-Healing](https://aclanthology.org/2026.emnlp-main.1443/)**: Lee, Kim, and Woo combine peer-output evaluation with role reassignment after detected degradation or response timeouts. MA-Mesh is evaluated on software development, tool use, and scientific reasoning under injected agent, prompt, and communication faults (EMNLP, 2026).
+
 - **[Robust Agent Teams via Socially-Attentive Monitoring](https://arxiv.org/abs/1106.0235)**: Kaminka and Tambe study failure detection through relationships among cooperating agents. They compare centralized and distributed monitoring algorithms analytically and in two multi-agent domains (JAIR, 2000; archived 2011).
 
 - **[GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems](https://aclanthology.org/2025.emnlp-industry.106/)**: Lee et al. represent agent interactions as directed acyclic graphs and propose metrics for message diversity and redundant reasoning paths. They evaluate these diagnostics alongside answer accuracy on five benchmarks (EMNLP Industry Track, 2025).
