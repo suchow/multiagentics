@@ -424,6 +424,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Weighted QMIX: Expanding Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/73a427badebe0e32caa2e1fc7530b7f3-Abstract.html)**: Tabish Rashid, Gregory Farquhar, Bei Peng, and Shimon Whiteson analyze policy errors caused by QMIX’s unweighted value projection and introduce weighting schemes that prioritize better joint actions. Deep implementations are evaluated on predator–prey and StarCraft tasks, separately from the tabular analysis (NeurIPS, 2020).
+
 - **[QPLEX: Duplex Dueling Multi-Agent Q-Learning](https://arxiv.org/abs/2008.01062)**: Jianhao Wang, Zhizhou Ren, Terry Liu, Yang Yu, and Chongjie Zhang introduce a duplex dueling architecture for value factorization under the individual–global-max condition, linking joint and decentralized action selection. Evaluation uses StarCraft II micromanagement (2020 preprint; revised 2021).
 
 - **[FACMAC: Factored Multi-Agent Centralised Policy Gradients](https://proceedings.neurips.cc/paper_files/paper/2021/file/65b9eea6e1cc6bb9f0cd2a47751a186f-Paper.pdf)**: Peng et al. combine a factored centralized critic with joint-action policy gradients. They introduce Multi-Agent MuJoCo, a continuous-control benchmark that divides a robot’s controls among cooperating agents (NeurIPS, 2021).
