@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[A Comprehensive Survey of Multiagent Reinforcement Learning](https://csc.csudh.edu/btang/seminar/multiagent/survey1.pdf)**: Bușoniu, Babuška, and De Schutter classify multiagent reinforcement learning across cooperative, competitive, and mixed tasks, distinguishing stability from adaptation as learning goals (2008).
 - **[Distributed Constraint Optimization Problems and Applications: A Survey](https://wyeoh.github.io/assets/pdf/jair-FiorettoPY18.pdf)**: Fioretto, Pontelli, and Yeoh classify DCOP models, solution methods, and applications, including extensions for dynamic and uncertain environments (JAIR, 2018).
 - **[Reasoning About Knowledge](https://mitpress.mit.edu/9780262562003/reasoning-about-knowledge/)**: Fagin, Halpern, Moses, and Vardi develop formal approaches to reasoning about agents’ knowledge and apply them to distributed systems, artificial intelligence, and game theory (MIT Press, 1995; linked paperback edition, 2004).
 - **[Readings in Distributed Artificial Intelligence](https://api.pageplace.de/preview/DT0400.9781483214443_A23862463/preview-9781483214443_A23862463.pdf)**: Edited by Alan H. Bond and Les Gasser, this collection organizes early distributed AI research around task allocation, coordination, communication, uncertainty, organizational models, and implementation frameworks (Morgan Kaufmann, 1988; publisher preview).
@@ -243,6 +244,8 @@
 
 ## Key papers
 
+- **[A Diagnostic Study of Multi-Agent LLMs for Real-World Debates](https://proceedings.mlr.press/v306/pitre26a.html)**: Pitre et al. evaluate debate processes through engagement, responsiveness, influence balance, stability, and agent utility, alongside outcome measures (ICML, 2026).
+- **[LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations](https://aclanthology.org/2026.acl-long.1247/)**: Pham et al. evaluate task completion and sociocultural norm adherence in a simulated town with synthetic resident profiles, including uncertainty in model-based judgments (ACL, 2026).
 - **[A Value for n-Person Games](https://www.degruyterbrill.com/document/doi/10.1515/9781400881970-018/html)**: Lloyd S. Shapley characterizes a value for cooperative characteristic-function games through axioms, addressing allocation of gains among coalition participants (1953).
 - **[Asynchronous Credit Assignment for Multi-Agent Reinforcement Learning](https://ijcai.org/proceedings/2025/20)**: Liang et al. study credit assignment when agents act asynchronously, using a virtual synchrony proxy and multiplicative value decomposition to model dependencies between actions (IJCAI, 2025).
 
