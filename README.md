@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Large Language Models Miss the Multi-agent Mark](https://proceedings.neurips.cc/paper_files/paper/2025/hash/cc14cadd13ca5a13ba899cb49351c139-Abstract-Position_Paper_Track.html)**: La Malfa et al. argue for integrating established multi-agent concepts into LLM-agent frameworks. The paper examines social agency, environment design, coordination and communication protocols, and evaluation of emergent behavior (NeurIPS, 2025; position paper).
+
 - **[Does Representation Guarantee Welfare?](https://proceedings.nips.cc/paper_files/paper/2025/hash/4d5b7f7a0603b75e39ffebbf95e3b7ee-Abstract-Conference.html)**: De Raaij, Procaccia, and Psomas analyze representative-panel selection and population welfare through an optimization model. They compare representation of individual features with feature intersections and examine feasibility using real data (NeurIPS, 2025; adjacent social-choice theory).
 - **[Covenants with and without a Sword: Self-Governance Is Possible](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/covenants-with-and-without-a-sword-selfgovernance-is-possible/2191864CCB589D4B3528090CB596C254)**: Elinor Ostrom, James Walker, and Roy Gardner report common-pool-resource experiments comparing communication, internal sanctions, and their combination. This is evidence about human self-governance (American Political Science Review, 1992).
 
