@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Position: Agent Evaluation Should Be Agentified for Openness, Standardization, and Reproducibility](https://proceedings.mlr.press/v306/liu26gy.html)**: Liu, Shi, Guo, and Song propose agent-to-agent assessment through A2A task management and MCP tool interfaces and introduce AgentBeats as an implementation. This is a position on evaluation infrastructure (ICML, 2026).
+- **[Self-stabilizing systems in spite of distributed control](https://www.cs.utexas.edu/~EWD/transcriptions/EWD04xx/EWD426.html)**: Edsger W. Dijkstra introduces self-stabilization and constructs locally controlled rings that reach legitimate global states from arbitrary initial states. The constructions use finite-state machines and a central scheduler selecting one enabled move at a time (Communications of the ACM, 1974).
+
 - **[The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)**: Leslie Lamport presents Paxos for maintaining a consistent sequence of state-machine commands despite benign process and communication failures. Progress requires sufficient availability and timely communication; malicious failures are outside the model (ACM Transactions on Computer Systems, 1998; linked copy corrected in 2000).
 
 - **[COOP²: Defining, Observing, and Repairing Cooperation in LLM Multi-Agent Systems](https://arxiv.org/abs/2603.00349)**: Yang et al. connect agent plans and communication to verifiable task requirements. Their repair method predicts constraint failures and opens targeted communication channels. Evaluation covers two environments and three communication structures and measures decision and communication overhead (2026 preprint).
