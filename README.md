@@ -388,6 +388,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://proceedings.mlr.press/v119/wang20f.html)**: Tonghan Wang, Heng Dong, Victor Lesser, and Chongjie Zhang condition agent policies on stochastic role embeddings shaped by two regularizers. Evaluation studies dynamic specialization in StarCraft II micromanagement (ICML, 2020).
+
 - **[Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](https://proceedings.mlr.press/v80/zhang18n.html)**: Zhang et al. develop actor–critic algorithms for agents with private rewards and neighbor communication over time-varying networks. The objective is globally averaged return; convergence analysis uses linear value-function approximation (ICML, 2018).
 
 - **[Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953)**: Wen et al. introduce the Multi-Agent Transformer, an encoder–decoder architecture that maps observations to sequentially generated joint actions through online cooperative learning. Evaluation uses StarCraft II, Multi-Agent MuJoCo, dexterous manipulation, and Google Research Football (2022).
