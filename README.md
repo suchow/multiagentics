@@ -370,6 +370,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Nash Convergence of Gradient Dynamics in General-Sum Games](https://www.cis.upenn.edu/~mkearns/papers/gradgames.pdf)**: Satinder Singh, Michael Kearns, and Yishay Mansour analyze gradient-ascent adaptation in two-player, two-action general-sum repeated games. Under the specified dynamics, strategies converge to Nash equilibrium or average payoffs converge to Nash-equilibrium payoffs (UAI, 2000).
+
 - **[Regret Minimization in Games with Incomplete Information](https://proceedings.neurips.cc/paper_files/paper/2007/hash/08d98638c6fcd194a4b1e6992063e944-Abstract.html)**: Martin Zinkevich, Michael Johanson, Michael Bowling, and Carmelo Piccione introduce counterfactual regret minimization for extensive-form games with incomplete information. They demonstrate the method on large poker abstractions (NIPS, 2007; proceedings, 2008).
 
 - **[Program equilibrium](https://cris.technion.ac.il/en/publications/program-equilibrium/)**: Moshe Tennenholtz models strategies as programs that can inspect other programs on a shared computational device. This arrangement supports cooperative equilibria in the one-shot prisoner’s dilemma (Games and Economic Behavior, 2004).
@@ -415,6 +417,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[MARLlib: A Scalable and Efficient Library For Multi-agent Reinforcement Learning](https://www.jmlr.org/papers/volume24/23-0378/23-0378.pdf)**: Hu et al. combine standardized environment wrappers, agent-level algorithm implementations, and configurable policy mapping for multi-agent learning experiments. The paper describes library architecture and task–algorithm integration (JMLR, 2023).
 
 - **[Correlated-Q Learning](https://cdn.aaai.org/ICML/2003/ICML03-034.pdf)**: Amy Greenwald and Keith Hall introduce CE-Q, a multi-agent Q-learning algorithm based on correlated equilibrium. They compare four equilibrium-selection variants and report empirical convergence on a testbed of general-sum Markov games (ICML, 2003).
 
