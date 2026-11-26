@@ -388,6 +388,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Celebrating Diversity in Shared Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/20aee3a5f4643755a79ee5f6a73050ac-Abstract.html)**: Li et al. combine identity–trajectory mutual-information regularization with agent-specific network modules to encourage behavioral diversity under parameter sharing. Evaluation uses Google Research Football and StarCraft II micromanagement (NeurIPS, 2021).
+
 - **[Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v70/foerster17b.html)**: Foerster et al. address changing teammate policies through importance weighting of replay data and value functions conditioned on training-progress fingerprints. Evaluation uses decentralized StarCraft micromanagement (ICML, 2017).
 
 - **[Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1805.07830)**: Omidshafiei et al. introduce LeCTR, in which cooperative agents learn when and what advice to exchange. Agents learn to request and provide advice as students and teachers during team learning (2018 preprint).
