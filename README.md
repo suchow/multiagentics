@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[AT-Drone: Benchmarking Adaptive Teaming in Multi-Drone Pursuit](https://proceedings.mlr.press/v305/li25a.html)**: Li et al. introduce four simulated pursuit environments, unfamiliar-partner evaluation, and a Crazyflie deployment pipeline. Evaluation includes physical-drone experiments within the pursuit setting (CoRL, 2025).
+- **[Coordinated Multi-Robot Exploration](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/burgard05tro.pdf)**: Burgard, Moors, Stachniss, and Schneider balance travel cost against exploration utility and reduce utility near assigned targets. The basic method shares maps and robot positions. The paper also presents a limited-communication extension and evaluates the approach with physical robots and simulations (IEEE Transactions on Robotics, 2005).
+
 - **[Plans and Situated Actions: The Problem of Human-Machine Communication](https://assets.cambridge.org/97805213/37397/frontmatter/9780521337397_frontmatter.pdf)**: Lucy A. Suchman examines how human action and communication depend on local social and material circumstances. This is adjacent human–machine interaction theory about the relationship between plans and situated behavior (Cambridge University Press, 1987; publisher frontmatter).
 
 - **[MOSDT: Self-Distillation-Based Decision Transformer for Multi-Agent Offline Safe Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/22811d2089d4aa0ba66e52a5e47efb65-Abstract-Conference.html)**: Xia and Xu introduce the MOSDB offline multi-agent benchmark and a shared-parameter decision transformer using policy self-distillation and cost embeddings. Evaluation covers 18 tasks based on MuJoCo, Safety Gym, and Isaac Gym with specified safety costs (NeurIPS, 2025).
