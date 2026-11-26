@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Enabling Technology for Knowledge Sharing](https://userpages.cs.umbc.edu/finin/papers/aim91/)**: Neches et al. outline infrastructure for sharing knowledge and reasoning services across systems, including interchange languages, communication protocols, and shared ontologies. The article presents the Knowledge-Sharing Effort’s research agenda (AI Magazine, 1991).
+
 - **[An Introduction to Collective Intelligence](https://arxiv.org/abs/cs/9908014)**: David H. Wolpert and Kagan Tumer survey COIN design: assigning rewards to decentralized learning agents against a specified system-wide utility function. Examples include packet routing, leader–follower systems, and the El Farol bar problem (1999 preprint; NASA-ARC-IC-99-63).
 
 - **[Trends in Cooperative Distributed Problem Solving](https://mas.cs.umass.edu/pub/paper_detail.php/170)**: Durfee, Lesser, and Corkill survey cooperative distributed problem solving, including task decomposition, coordination, communication, and integration of interdependent partial solutions (IEEE Transactions on Knowledge and Data Engineering, 1989).
@@ -725,6 +727,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b45279ac82cb017a5f55ea7d3653193a-Abstract-Conference.html)**: Zhao et al. train multi-agent systems using an experience library of successful reasoning trajectories and refined unsuccessful trajectories. They evaluate reasoning, biomedical question answering, and competitive negotiation (NeurIPS, 2025).
 
 - **[MapCoder: Multi-Agent Code Generation for Competitive Problem Solving](https://aclanthology.org/2024.acl-long.269/)**: Islam, Ali, and Parvez coordinate four LLM agents for generating relevant examples, planning, coding, and debugging. They evaluate program synthesis and competitive programming across multiple models and languages (ACL, 2024).
 
