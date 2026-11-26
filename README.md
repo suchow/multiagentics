@@ -298,6 +298,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Flatland-RL : Multi-Agent Reinforcement Learning on Trains](https://arxiv.org/abs/2012.05893)**: Mohanty et al. introduce a simplified railway grid environment for vehicle rescheduling. The paper presents reinforcement- and imitation-learning experiments and describes the NeurIPS 2020 public benchmark (2020 preprint).
+
 - **[Solving Distributed Constraint Optimization Problems Using Cooperative Mediation](https://mas.cs.umass.edu/pub/paper_detail.php/355)**: Roger Mailler and Victor Lesser introduce OptAPO, which coordinates distributed constraint optimization through overlapping, partially centralized mediation sessions. Mediators expand the subproblems considered during search (AAMAS, 2004).
 
 - **[Completeness and Performance of the APO Algorithm](https://arxiv.org/abs/1401.3450)**: Tal Grinshpoun and Amnon Meisels identify a termination problem in APO and present the corrected CompAPO algorithm. They also develop and evaluate the optimization variant CompOptAPO (JAIR, 2008; archived 2014).
