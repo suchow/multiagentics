@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[A Model for the Structural, Functional, and Deontic Specification of Organizations in Multiagent Systems](https://moise-lang.github.io/doc/publications/Hubner-sbia2002.pdf)**: Jomi Fred Hübner, Jaime Simão Sichman, and Olivier Boissier introduce MOISE+, which combines roles and groups, collective goals and plans, and obligations and permissions. A soccer-team example illustrates this organizational specification model (SBIA, 2002).
+
 - **[Commitments: From Individual Intentions to Groups and Organizations](https://cdn.aaai.org/ICMAS/1995/ICMAS95-006.pdf)**: Cristiano Castelfranchi distinguishes individual, social, collective, and organizational commitments. This conceptual account relates agents through obligations and entitlements to analyze cooperative groups and organizations (ICMAS, 1995).
 
 - **[Ad Hoc Autonomous Agent Teams: Collaboration without Pre-Coordination](https://www.cs.utexas.edu/~pstone/Papers/bib2html/b2hd-AAAI10-adhoc.html)**: Peter Stone, Gal A. Kaminka, Sarit Kraus, and Jeffrey S. Rosenschein define cooperation with previously unfamiliar teammates without jointly designed strategies. The paper proposes an evaluation paradigm and research challenge for ad hoc teamwork (AAAI, 2010).
@@ -590,6 +592,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[MATE: Benchmarking Multi-Agent Reinforcement Learning in Distributed Target Coverage Control](https://papers.neurips.cc/paper_files/paper/2022/hash/b2a1c152f14a4b842a9ddb3bd84c62a1-Abstract-Datasets_and_Benchmarks.html)**: Pan et al. introduce a simulated asymmetric game in which directional cameras coordinate coverage and mobile targets transport cargo while avoiding detection. Evaluation compares multi-agent learning, communication protocols, and asymmetric self-play (NeurIPS Datasets and Benchmarks, 2022).
 
 - **[CityFlow: A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario](https://arxiv.org/abs/1905.05217)**: Zhang et al. introduce a microscopic traffic simulator for multi-agent traffic-signal control. It supports configurable road networks and traffic flows with a reinforcement-learning interface (WWW demonstration paper, 2019).
 
