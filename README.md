@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[Agent Programming in 3APL](https://research.vu.nl/en/publications/agent-programming-in-3apl/)**: Hindriks et al. combine imperative and logic programming for agents represented through beliefs and goals. Transition systems define the language’s operational semantics, including practical reasoning rules for goal revision (Autonomous Agents and Multi-Agent Systems, 1999).
+
 - **[Developing multi-agent systems with a FIPA-compliant agent framework](https://jmvidal.cse.sc.edu/library/bellifemine01a.pdf)**: Fabio Bellifemine, Agostino Poggi, and Giovanni Rimassa describe JADE’s agent-platform architecture, communication subsystem, and agent model for FIPA-compliant applications. The paper discusses implementation and interoperability tests with other platforms (Software—Practice & Experience, 2001).
 
 - **[COLLAGEN: A Collaboration Manager for Software Interface Agents](https://www.merl.com/publications/TR97-21a)**: Charles Rich and Candace L. Sidner implement a SharedPlans-based manager for mixed-initiative human–agent interaction. It organizes interaction history around participants’ goals and intentions and is demonstrated in an air-travel application (User Modeling and User-Adapted Interaction, 1998).
@@ -423,6 +425,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Modeling Others using Oneself in Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v80/raileanu18a.html)**: Raileanu et al. introduce Self Other-Modeling, which uses an agent’s own policy to infer another agent’s hidden goal from observed actions. Evaluation covers three cooperative and competitive tasks (ICML, 2018).
 
 - **[Learning Policy Representations in Multiagent Systems](https://proceedings.mlr.press/v80/grover18a/grover18a.pdf)**: Grover et al. learn continuous policy representations from observation–action trajectories using imitation and agent-identification objectives. Evaluation includes competitive RoboSumo and cooperative ParticleWorld communication (ICML, 2018).
 
