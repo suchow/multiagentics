@@ -554,6 +554,8 @@
 
 ### Communication and emergent language
 
+- **[Learning Attentional Communication for Multi-Agent Cooperation](https://proceedings.neurips.cc/paper_files/paper/2018/hash/6a8018b3a00b69c008601b8becae392b-Abstract.html)**: Jiechuan Jiang and Zongqing Lu introduce ATOC, an attentional model that learns when to communicate and how to integrate shared information for cooperative decisions. Evaluation uses cooperative simulations (NeurIPS, 2018).
+
 - **[CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication](https://aclanthology.org/P19-1651/)**: Kim et al. introduce a teller–drawer clip-art scene-reconstruction game and human-dialogue dataset. Evaluation includes automated tests, partners trained independently on disjoint data, and live human interaction within this environment (ACL, 2019).
 
 - **[Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog](https://aclanthology.org/D17-1321/)**: Kottur et al. show that high task success in a two-agent Task & Talk reference game can accompany uninterpretable, noncompositional protocols. They examine communication restrictions that encourage compositional structure within that game (EMNLP, 2017).
@@ -807,6 +809,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- **[Communication in Reactive Multiagent Robotic Systems](https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated1/balch_multirobot_comms.pdf)**: Tucker Balch and Ronald C. Arkin compare three communication levels across three cooperative robot tasks using simulations and physical robots. Communication benefits depend on the task in these experiments (Autonomous Robots, 1994).
 
 - **[Layered Learning](https://www.cs.utexas.edu/~pstone/Papers/bib2html/b2hd-ECML2000.html)**: Peter Stone and Manuela Veloso train subtasks in a supplied hierarchy and use learned components to define later layers’ training examples or representations. They implement this learning framework in simulated robotic soccer (ECML, 2000).
 
