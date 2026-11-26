@@ -243,6 +243,10 @@
 
 ## Key papers
 
+- **[Multipart Pricing of Public Goods](https://ranger.uta.edu/~weems/NOTES6319/PAPERSTWO/clarke.pdf)**: Edward H. Clarke develops a multipart pricing mechanism for public goods that elicits demand information through payments based on participants’ effects on others (Public Choice, 1971).
+- **[Shapley-Coop: Credit Assignment for Emergent Cooperation in Self-Interested LLM Agents](https://proceedings.neurips.cc/paper_files/paper/2025/hash/80164880902980257ef58412322fc374-Abstract-Conference.html)**: Hua et al. combine structured negotiation with Shapley-inspired contribution estimates to allocate rewards. Evaluation covers two games and a software engineering simulation (NeurIPS, 2025).
+- **[Recursive Reasoning or Statistical Extrapolation? In-Context Learning in Multi-Agent Interdependent Decision-Making](https://aclanthology.org/2026.findings-emnlp.1680/)**: Liu et al. perturb interaction histories in a constructed public-goods game to test whether contextual improvements persist when historical statistical patterns change (Findings of EMNLP, 2026).
+
 - **[Decentralised Coordination of Low-Power Embedded Devices Using the Max-Sum Algorithm](https://profs.scienze.univr.it/~farinelli/pubs/farinelli-AAMAS-08.pdf)**: Farinelli, Rogers, Petcu, and Jennings use factor-graph message passing for approximate decentralized utility optimization. Evaluation includes graph coloring and a sensor-node implementation (AAMAS, 2008).
 
 - **[Autonomous Agents for Collaborative Task under Information Asymmetry](https://papers.nips.cc/paper/2024/hash/0534abc9e6db91683d82186ef0d68202-Abstract-Conference.html)**: Liu et al. introduce iAgents and InformativeBench to study task completion when agents access different users’ information and communicate to retrieve relevant evidence (NeurIPS, 2024).
