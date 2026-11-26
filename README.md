@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Training Language Models for Social Deduction with Multi-Agent Reinforcement Learning](https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p1830.pdf)**: Sarkar, Xia, Liu, and Sadigh train listening through belief prediction and speaking through rewards for effects on teammates’ beliefs in an Among Us-style game. Training uses ground-truth imposter identity, and evaluation stays within the social-deduction setting (AAMAS, 2025).
+- **[Dynamic Models of Segregation](https://www.suz.uzh.ch/dam/jcr:00000000-68cb-72db-ffff-ffffff8071db/04.02_schelling_71.pdf)**: Thomas C. Schelling uses spatial simulations and analytic models to examine how individual neighborhood choices generate segregation and tipping. The abstract two-group model omits organized discrimination and major economic mechanisms (Journal of Mathematical Sociology, 1971).
+
 - **[Developmental Sequence in Small Groups](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Tuckman_1965_Developmental_sequence_in_small_groups.pdf)**: Bruce W. Tuckman reviews 50 articles and proposes four developmental stages for human groups, distinguishing interpersonal relations from task activity. The model is a set of hypotheses for further testing, with much of its evidence drawn from therapy and training groups (Psychological Bulletin, 1965).
 
 - **[Scaling Multi-Agent Environment Co-Design with Diffusion Models](https://proceedings.mlr.press/v306/li26b.html)**: Li, Amir, and Prorok jointly optimize agent policies and environment configurations through guided diffusion and critic distillation. Evaluation uses constrained multi-agent co-design benchmarks, including a warehouse setting (ICML, 2026).
