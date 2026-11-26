@@ -656,6 +656,10 @@
 
 ### Communication and emergent language
 
+- **[COOL: A Language for Describing Coordination in Multi Agent Systems](https://cdn.aaai.org/ICMAS/1995/ICMAS95-003.pdf)**: Mihai Barbuceanu and Mark S. Fox specify agent conversations through finite-state models, conversation rules, and error recovery rules. COOL assumes shared speech acts; the paper includes an implemented n-queens coordination example (ICMAS, 1995).
+
+- **[Compositionality and Generalization In Emergent Languages](https://aclanthology.org/2020.acl-main.407/)**: Chaabouni et al. measure compositionality in learned communication protocols and test its relationship with novel-concept generalization and transmission to new learners. Findings concern deep multi-agent simulations and the paper’s compositionality measures (ACL, 2020).
+
 - **[Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://arxiv.org/abs/1902.01554)**: Kim et al. introduce SchedNet, which learns communication scheduling, message encoding, and action selection under limited bandwidth and shared-medium contention. Evaluation uses cooperative communication/navigation and predator–prey tasks (ICLR, 2019).
 
 - **[Learning Attentional Communication for Multi-Agent Cooperation](https://proceedings.neurips.cc/paper_files/paper/2018/hash/6a8018b3a00b69c008601b8becae392b-Abstract.html)**: Jiechuan Jiang and Zongqing Lu introduce ATOC, an attentional model that learns when to communicate and how to integrate shared information for cooperative decisions. Evaluation uses cooperative simulations (NeurIPS, 2018).
