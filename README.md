@@ -322,6 +322,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2019/hash/3c3c139bd8467c1587a41081ad78045e-Abstract.html)**: Carion et al. learn scoring models for centralized agent–task assignment and solve structured optimization problems to coordinate agents. The method assumes local interactions and fixed low-level policies. Evaluation tests transfer from smaller training instances to larger search-and-rescue and StarCraft scenarios (NeurIPS, 2019).
+
 - **[Distributed Constrained Heuristic Search](https://publications.ri.cmu.edu/distributed-constrained-heuristic-search)**: Sycara et al. combine decentralized constraint satisfaction with heuristic search. Their DCHS model uses search-space summaries called textures and distributed asynchronous backjumping; evaluation concerns decentralized job-shop scheduling (IEEE Transactions on Systems, Man, and Cybernetics, 1991).
 
 - **[Contract Types for Satisficing Task Allocation: I Theoretical Results](https://cdn.aaai.org/Symposia/Spring/1998/SS-98-05/SS98-05-011.pdf)**: Tuomas W. Sandholm analyzes task reallocation through individually rational contracts, including single-task transfers, clusters, swaps, and multiagent exchanges. The paper studies how permitted contract types affect reachable allocations and local optima in a static task-allocation model (AAAI Spring Symposium, 1998).
