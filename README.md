@@ -314,6 +314,10 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Push and Swap: Fast Cooperative Path-Finding with Completeness Guarantees](https://ijcai.org/proceedings/2011/59)**: Ryan Luna and Kostas E. Bekris coordinate graph-based multiagent paths through push operations and pairwise swaps. Later Push and Rotate work identifies solvable instances the original algorithm cannot solve (IJCAI, 2011).
+
+- **[Push and Rotate: Cooperative Multi-Agent Path Planning](https://www.ifaamas.org/Proceedings/aamas2013/docs/p87.pdf)**: Boris de Wilde, Adriaan W. ter Mors, and Cees Witteveen identify incompleteness cases in Push and Swap and introduce an adapted algorithm. Their completeness result concerns solvable connected-graph instances with at least two vacant vertices and sequential moves into adjacent empty vertices (AAMAS, 2013).
+
 - **[Distributed Algorithms for DCOP: A Graphical-Game-Based Approach](https://projects.iq.harvard.edu/files/teamcore/files/2004_2_teamcore_maheswaran_pearce04pdcs.pdf)**: Rajiv T. Maheswaran, Jonathan P. Pearce, and Milind Tambe represent distributed constraint optimization as graphical games and develop coordinated local-search methods with distributed variable control. Experiments use graph-coloring problems (PDCS, 2004).
 
 - **[PRIMAL: Pathfinding via Reinforcement and Imitation Multi-Agent Learning](https://arxiv.org/abs/1809.03531)**: Sartoretti et al. combine reinforcement learning, expert-planner demonstrations, reward shaping, and environment sampling to train decentralized pathfinding policies from local observations. Evaluation uses randomized worlds and a hybrid physical/simulated factory demonstration (IEEE Robotics and Automation Letters, 2019).
@@ -465,6 +469,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning](https://proceedings.mlr.press/v139/kim21g.html)**: Kim et al. derive a meta-multiagent policy gradient that accounts for policy changes by both the controlled agent and other learners. Evaluation examines adaptation across cooperative, competitive, and mixed-incentive tasks (ICML, 2021).
 
 - **[Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1901.09207)**: Wen et al. introduce PR2, using variational inference to model opponents’ policies conditional on an agent’s proposed action and learn responses to those models. The framework starts with level-1 recursion; evaluation uses matrix and differential games (ICLR, 2019).
 
