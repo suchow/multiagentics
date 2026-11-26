@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Coverage Control for Mobile Sensing Networks](https://motion.me.ucsb.edu/pdf/2002j-cmkb.pdf)**: Jorge Cortés, Sonia Martínez, Timur Karatas, and Francesco Bullo develop distributed sensing-vehicle coverage algorithms using centroidal Voronoi configurations. Their optimization model specifies a convex domain and sensing costs (IEEE Transactions on Robotics and Automation, 2004; linked corrected 2008 copy).
+- **[LLM-Guided Communication for Cooperative Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/bae26c.html)**: Bae et al. introduce LMAC, which uses an LLM to refine communication protocols against a state-reconstruction criterion in cooperative multi-agent reinforcement learning (ICML, 2026).
+
 - **[Latent Collaboration in Multi-Agent Systems](https://proceedings.mlr.press/v306/zou26k.html)**: Zou et al. introduce LatentMAS, a training-free framework for agent collaboration through hidden representations and shared latent memory. Evaluation spans nine reasoning, commonsense, and code-generation benchmarks; the method requires access to internal representations (ICML, 2026).
 
 - **[Great Minds Think Alike: Contextual Tacit Communication for Decentralized LLM-Agent Cooperation](https://proceedings.mlr.press/v306/pei26d.html)**: Pei et al. derive prompt-level cooperation rules from joint LLM value scores. Decentralized embodied agents use these rules without explicit message actions. Evaluation uses VIKI, C-WAH, and TDW-MAT (ICML, 2026).
