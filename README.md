@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[Reasoning About Knowledge](https://mitpress.mit.edu/9780262562003/reasoning-about-knowledge/)**: Fagin, Halpern, Moses, and Vardi develop formal approaches to reasoning about agents’ knowledge and apply them to distributed systems, artificial intelligence, and game theory (MIT Press, 1995; linked paperback edition, 2004).
 - **[Readings in Distributed Artificial Intelligence](https://api.pageplace.de/preview/DT0400.9781483214443_A23862463/preview-9781483214443_A23862463.pdf)**: Edited by Alan H. Bond and Les Gasser, this collection organizes early distributed AI research around task allocation, coordination, communication, uncertainty, organizational models, and implementation frameworks (Morgan Kaufmann, 1988; publisher preview).
 - **[The Interdisciplinary Study of Coordination](https://crowston.syr.edu/sites/default/files/acmcs94.pdf)**: Malone and Crowston analyze coordination as managing dependencies among activities, including shared resources, producer–consumer relationships, and task–subtask relationships (ACM Computing Surveys, 1994).
 - **[Exploration and Exploitation in Organizational Learning](https://hiveresearchlab.org/wp-content/uploads/2013/12/march_1991_exploration_and_exploitation_in_organizational_learning.pdf)**: James G. March models mutual learning between individuals and an organizational code and examines trade-offs between developing new knowledge and refining existing knowledge (Organization Science, 1991).
@@ -240,6 +241,8 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[Autonomous Agents for Collaborative Task under Information Asymmetry](https://papers.nips.cc/paper/2024/hash/0534abc9e6db91683d82186ef0d68202-Abstract-Conference.html)**: Liu et al. introduce iAgents and InformativeBench to study task completion when agents access different users’ information and communicate to retrieve relevant evidence (NeurIPS, 2024).
 
 - **[The Architecture of Complexity](https://pdodds.w3.uvm.edu/research/papers/others/1962/simon1962a.pdf)**: Herbert A. Simon analyzes hierarchy and near-decomposability in complex systems, including stronger interactions within subsystems. This is conceptual background for modular organization (1962).
 - **[Multi-Agent Teams Hold Experts Back](https://proceedings.mlr.press/v306/pappu26a.html)**: Pappu et al. evaluate whether self-organizing LLM teams match their strongest member and examine failures to use identified expertise across tested teams and benchmarks (ICML, 2026).
