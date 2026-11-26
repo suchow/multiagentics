@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[An analog of the minimax theorem for vector payoffs](https://msp.org/pjm/1956/6-1/pjm-v6-n1-p01-s.pdf)**: David Blackwell characterizes approachable closed convex target sets for average vector payoffs in repeated finite-action games. The model uses bounded payoffs and observed payoff vectors (Pacific Journal of Mathematics, 1956).
+- **[MOSMAC: A Multi-agent Reinforcement Learning Benchmark on Sequential Multi-objective Tasks](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p867.pdf)**: Geng et al. introduce a StarCraft II benchmark combining sequential subtasks with combat, safety, and navigation objectives. They compare nine multi-agent reinforcement-learning algorithms across different horizons (AAMAS, 2025).
+
 - **[Bottom-Up Reputation Promotes Cooperation with Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1745.pdf)**: Ren et al. introduce LR2, which learns reputation assignments alongside cooperation policies using local interactions and reputation-shaped rewards. Evaluation concerns repeated cooperation-or-defection games among neighboring agents in spatial social dilemmas (AAMAS, 2025).
 
 - **[Reactive Reasoning and Planning](https://cdn.aaai.org/AAAI/1987/AAAI87-121.pdf)**: Michael P. Georgeff and Amy L. Lansky describe PRS, an architecture with explicit beliefs, goals, procedural knowledge, and intentions. PRS interleaves planning and action. Demonstration uses SRI’s Flakey robot in navigation and emergency-task scenarios (AAAI, 1987).
