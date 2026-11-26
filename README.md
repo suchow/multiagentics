@@ -314,6 +314,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Reward Machines for Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p934.pdf)**: Neary et al. encode cooperative tasks as reward machines and decompose them into individual subtasks under verifiable conditions. They introduce decentralized Q-learning and specify when local subtask completion accomplishes the team task (AAMAS, 2021).
+
 - **[Continual planning and acting in dynamic multiagent environments](https://gki.informatik.uni-freiburg.de/papers/brenner-nebel-jaamas09.pdf)**: Michael Brenner and Bernhard Nebel interleave planning, acting, and sensing through deliberately postponed subplans. MAPL represents unfinished subplans as assertions; evaluation uses multiagent simulations generated from formal planning domains (Autonomous Agents and Multi-Agent Systems, 2009).
 
 - **[FMAP: Distributed Cooperative Multi-Agent Planning](https://arxiv.org/abs/1501.07250)**: Torreño, Onaindia, and Sapena combine distributed partial-order planning with a domain-transition-graph heuristic. Agents declare what information to share with each peer and exchange corresponding views of refinement plans (Applied Intelligence, 2014; author manuscript archived 2015).
@@ -366,6 +368,8 @@
 - **[The Contract Net Protocol: High-Level Communication and Control in a Distributed Problem Solver](https://reidgsmith.com/The_Contract_Net_Protocol_Dec-1980.pdf)**: Reid G. Smith describes task allocation through announcements, bids, and awards among distributed problem solvers (1980).
 
 ### Distributed systems and consensus
+
+- **[Reaching Approximate Agreement in the Presence of Faults](https://groups.csail.mit.edu/tds/papers/Lynch/jacm86.pdf)**: Dolev et al. study processes with real-valued inputs that must produce numerically close outputs within the range of correct processes’ inputs. Their algorithms address synchronous and asynchronous systems under specified fault and communication assumptions (Journal of the ACM, 1986).
 
 - **[Fast Linear Iterations for Distributed Averaging](https://stanford.edu/~boyd/papers/fastavg.html)**: Lin Xiao and Stephen Boyd optimize linear distributed averaging over a network. For symmetric iterations, selecting the fastest-converging weights reduces to semidefinite programming (Systems & Control Letters, 2004).
 
