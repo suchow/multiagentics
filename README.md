@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[MASEval: Extending Multi-Agent Evaluation from Models to Systems](https://aclanthology.org/2026.acl-demo.34/)**: Emde et al. introduce a library for comparing complete agent systems, including orchestration, context handling, and error handling. The reported comparison spans three benchmarks, three models, and three frameworks (ACL System Demonstrations, 2026).
+- **[Distributed Subgradient Methods for Multi-agent Optimization](https://web.mit.edu/Asuman/Desktop/asuman/www/documents/distributed-journal-final.pdf)**: Angelia Nedić and Asuman Ozdaglar analyze minimizing a sum of locally known convex objectives through subgradient updates and local communication over time-varying networks. Guarantees depend on convexity, communication, and stepsize assumptions (IEEE Transactions on Automatic Control, 2009; linked 2007 manuscript).
+
 - **[Automata-Conditioned Cooperative Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/yalcinkaya26a.html)**: Yalcinkaya et al. represent temporal team objectives with automata and learn task-conditioned policies through centralized training and decentralized execution. Learned values support task assignment. Experiments use coordinated multi-step tasks (ICML, 2026).
 - **[Distributed Asynchronous Deterministic and Stochastic Gradient Optimization Algorithms](https://www.mit.edu/~JNT/Papers/J014-86-asyn-grad.pdf)**: Tsitsiklis, Bertsekas, and Athans analyze convergence of distributed gradient-like algorithms with asynchronous computation and delayed communication. Results depend on explicit timing, communication, and optimization assumptions (IEEE Transactions on Automatic Control, 1986).
 
