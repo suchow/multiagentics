@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[Group Performance and Decision Making](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142009)**: Kerr and Tindale review human-group performance, including process gains and losses, motivation, resource coordination, preference combination, and information processing (Annual Review of Psychology, 2004).
 - **[Algorithmic Game Theory](https://www.cs.cornell.edu/~eva/algorithmic-game-theory.pdf)**: Edited by Noam Nisan, Tim Roughgarden, Éva Tardos, and Vijay V. Vazirani, this collection covers equilibrium computation, algorithmic mechanism design, auctions, and equilibrium inefficiency, including applications to networks and information markets (Cambridge University Press, 2007).
 - **[A Roadmap of Agent Research and Development](https://publications.ri.cmu.edu/a-roadmap-of-agent-research-and-development)**: Jennings, Sycara, and Wooldridge review autonomous agents and multiagent systems through their key concepts, applications, historical development, and open research problems as understood in 1998.
 - **[Intelligent agents: theory and practice](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95.pdf)**: Wooldridge and Jennings survey agent theories, architectures, and programming languages, including formal representations of agency and practical approaches to building agents (The Knowledge Engineering Review, 1995).
@@ -249,6 +250,7 @@
 
 ## Key papers
 
+- **[Multi-Agent Common Knowledge Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/hash/f968fdc88852a4a3a27a81fe3f57bfc5-Abstract.html)**: Schroeder de Witt et al. introduce MACKRL, which learns hierarchical group policies conditioned on common knowledge for decentralized coordination. The method assumes a specified common-knowledge function (NeurIPS, 2019).
 - **[High Volatility and Action Bias Distinguish LLMs from Humans in Group Coordination](https://proceedings.colm.cc/paper_files/paper/2026/hash/0cf3e7eefb9d643e93e16ff1d94090a7-Abstract-Conference.html)**: Maini, Goldstone, and Tiganj compare human and LLM groups in Group Binary Search, a numerical coordination game without direct communication. They measure switching, feedback responses, and learning across games (COLM, 2026 pre-proceedings).
 - **[Is there a “Big Five” in Teamwork?](https://doi.org/10.1177/1046496405277134)**: Salas, Sims, and Burke synthesize human-team research into five teamwork components: leadership, mutual performance monitoring, backup behavior, adaptability, and team orientation (2005).
 - **[When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning](https://proceedings.mlr.press/v306/pei26a.html)**: Pei, Huang, and Wang evolve reusable symbolic communication protocols. A router selects individual, ensemble, or multi-round protocol executions for each query (ICML, 2026).
