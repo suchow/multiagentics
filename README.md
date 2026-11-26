@@ -378,6 +378,10 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Condorcet’s Theory of Voting](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/condorcets-theory-of-voting/ECA771E9F03D580843319566957ACC40)**: H. P. Young analyzes Condorcet’s statistical account of voting and characterizes the ranking procedure known as Kemeny’s rule. The paper distinguishes majority-winner selection from estimating the most likely ranking (American Political Science Review, 1988).
+
+- **[Model-Free Opponent Shaping](https://proceedings.mlr.press/v162/lu22d.html)**: Lu et al. formulate opponent shaping as a meta-game in which each step spans an episode of the underlying game. Model-free optimization learns policies that influence opponents’ longer-term learning in the tested games (ICML, 2022).
+
 - **[Graphical Models for Game Theory](https://www.cis.upenn.edu/~mkearns/papers/graphgames.pdf)**: Michael Kearns, Michael L. Littman, and Satinder Singh represent each player’s payoff through local interactions in graphical games. They develop approximate Nash-equilibrium algorithms for tree-structured and suitably restricted sparse one-stage games (UAI, 2001).
 
 - **[Nash Convergence of Gradient Dynamics in General-Sum Games](https://www.cis.upenn.edu/~mkearns/papers/gradgames.pdf)**: Satinder Singh, Michael Kearns, and Yishay Mansour analyze gradient-ascent adaptation in two-player, two-action general-sum repeated games. Under the specified dynamics, strategies converge to Nash equilibrium or average payoffs converge to Nash-equilibrium payoffs (UAI, 2000).
