@@ -273,6 +273,8 @@
 
 ### Agent foundations and architectures
 
+- **[Strategies of Cooperation in Distributed Problem Solving](https://ijcai.org/proceedings/1983/0185.pdf)**: Cammarata, McArthur, and Steeb distinguish organizational policies from information-distribution policies in cooperative problem solving. They compare strategies in simulated air-traffic collision avoidance (IJCAI, 1983).
+
 - **[Towards Adjustable Autonomy for the Real World](https://arxiv.org/abs/1106.4573)**: Scerri, Pynadath, and Tambe model conditional sequences of control transfers and changes to team coordination constraints. Markov decision processes select strategies under modeled costs and uncertainty. Evaluation includes research-group assistance through Electric Elves (JAIR, 2002; archived 2011).
 
 - **[An Automated Teamwork Infrastructure for Heterogeneous Software Agents and Humans](https://people.ict.usc.edu/~pynadath/Papers/jaamas03.pdf)**: David V. Pynadath and Milind Tambe introduce Teamcore proxies that coordinate heterogeneous agents through a reusable teamwork model and team-oriented plans. Applications include simulated evacuation rehearsal and assistance with human research-team activities (Autonomous Agents and Multi-Agent Systems, 2003).
@@ -911,6 +913,8 @@
 - **[Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y)**: Kim et al. compare single-agent and multi-agent architectures under controlled prompts, tools, and compute budgets across six benchmarks. They examine when coordination improves performance or adds overhead (Nature Machine Intelligence, 2026; [preprint](https://arxiv.org/abs/2512.08296)).
 
 ### Safety, security, and verification
+
+- **[GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal Graph Modeling](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0bc795afae289ed465a65a3b4b1f4eb7-Abstract-Conference.html)**: Zhou, Wang, and Yang model agent responses and communication as temporal graphs and detect anomalies through graph reconstruction. Evaluation examines hallucination propagation and injected agent or message errors on MMLU, MATH, FEVER, and Biographies (NeurIPS, 2025).
 
 - **[Strategy logic](https://research-explorer.ista.ac.at/record/3861)**: Chatterjee, Henzinger, and Piterman introduce a logic with explicit quantification over strategies in two-player games. Its one-alternation fragment can express the existence of Nash and secure equilibria (Information and Computation, 2010).
 
