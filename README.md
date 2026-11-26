@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[The Tragedy of the Commons](https://www.law.berkeley.edu/archive/files/CLEE/Hardin_1968_Science_TragedyOfTheCommons.pdf)**: Garrett Hardin describes resource depletion when individuals receive private benefits from additional use and share its costs. The pasture example is an unrestricted-access thought experiment (Science, 1968).
+- **[CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement](https://proceedings.mlr.press/v306/qian26c.html)**: Qian et al. introduce cooperative-game environments with simulated player profiles and train agents through reasoning, communication, and action rollouts. Evaluation uses CWAH-MultiPlayer and Cook-MultiPlayer with task-efficiency and affective-adaptation metrics (ICML, 2026).
+
 - **[Coalition structure generation with worst case guarantees](https://www.cs.cmu.edu/~sandholm/coalstruct.aij.pdf)**: Sandholm et al. develop anytime search over disjoint coalition partitions with worst-case bounds on total value relative to the optimum. The characteristic-function model assumes nonnegative coalition values, and the required search remains exponential in the number of agents (Artificial Intelligence, 1999).
 
 - **[The Use of Knowledge in Society](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf)**: F. A. Hayek examines economic coordination when knowledge is dispersed among individuals and argues that prices communicate changes relevant to their local decisions. This is a conceptual economic argument (American Economic Review, 1945).
