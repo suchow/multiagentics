@@ -414,6 +414,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Deep Reinforcement Learning from Self-Play in Imperfect-Information Games](https://arxiv.org/abs/1603.01121)**: Johannes Heinrich and David Silver introduce Neural Fictitious Self-Play, combining deep reinforcement learning with learning an average strategy from self-play experience. Evaluation uses Leduc poker and limit Texas hold’em (2016 preprint).
+
 - **[Deep Counterfactual Regret Minimization](https://proceedings.mlr.press/v97/brown19b.html)**: Noam Brown, Adam Lerer, Sam Gross, and Tuomas Sandholm use neural networks to approximate counterfactual regret minimization in unabstracted imperfect-information games. Evaluation uses poker games (ICML, 2019).
 
 - **[Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients](https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p492.pdf)**: Hennes et al. derive NeuRD, a policy-gradient update connected to replicator dynamics and Hedge. They evaluate adaptation in Kuhn poker, Leduc poker, and Goofspiel; the sequential tabular convergence result is separate from neural-function-approximation experiments (AAMAS, 2020).
@@ -841,6 +843,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Taking CSCW seriously: Supporting articulation work](https://doi.org/10.1007/BF00752449)**: Kjeld Schmidt and Liam Bannon frame cooperative-system design around the support requirements of human work arrangements and articulation work. This is adjacent human-coordination theory (Computer Supported Cooperative Work, 1992).
 
 - **[An Experimental Application of the DELPHI Method to the Use of Experts](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.9.3.458)**: Norman Dalkey and Olaf Helmer report an expert-judgment experiment using successive questionnaires interspersed with controlled opinion feedback. This is a human consensus method; agreement alone does not establish accuracy (Management Science, 1963; publisher abstract).
 
