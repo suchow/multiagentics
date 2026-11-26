@@ -394,6 +394,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Packet Routing in Dynamically Changing Networks: A Reinforcement Learning Approach](https://proceedings.neurips.cc/paper/1993/hash/4ea06fbc83cdd0a06020c35d50e1e89a-Abstract.html)**: Justin A. Boyan and Michael L. Littman introduce Q-routing, which updates local delivery-time estimates through neighbor feedback. Evaluation uses a simulated 36-node network with changing traffic conditions (NIPS, 1993; proceedings, 1994).
+
 - **[Collaborative Multiagent Reinforcement Learning by Payoff Propagation](https://www.jmlr.org/papers/v7/kok06a.html)**: Jelle R. Kok and Nikos Vlassis introduce Sparse Cooperative Q-learning, which approximates shared action values over coordination graphs and uses payoff messages for joint action selection. Action selection is approximate on general graphs (JMLR, 2006).
 
 - **[Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v97/foerster19a.html)**: Foerster et al. update approximate public beliefs from observed actions and learn policies over mappings from private information to actions. Evaluation uses a two-step matrix game and two-player Hanabi (ICML, 2019).
@@ -564,6 +566,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[On the Pitfalls of Measuring Emergent Communication](https://ifaamas.org/Proceedings/aamas2019/pdfs/p693.pdf)**: Lowe et al. demonstrate misleading communication metrics in matrix games and distinguish informative messages from messages that influence another agent’s behavior. They propose intervention-based measurement and discuss distribution-shift risks from test-time message removal (AAMAS, 2019).
 
 - **[Pommerman: A Multi-Agent Playground](https://arxiv.org/abs/1809.07124)**: Resnick et al. introduce a Bomberman-based research environment with cooperative and competitive scenarios involving at least four players. The platform supports research on planning, teammate and opponent modeling, and communication (2018 preprint; revised 2022).
 
