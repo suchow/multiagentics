@@ -273,6 +273,8 @@
 
 ### Agent foundations and architectures
 
+- **[Towards Adjustable Autonomy for the Real World](https://arxiv.org/abs/1106.4573)**: Scerri, Pynadath, and Tambe model conditional sequences of control transfers and changes to team coordination constraints. Markov decision processes select strategies under modeled costs and uncertainty. Evaluation includes research-group assistance through Electric Elves (JAIR, 2002; archived 2011).
+
 - **[An Automated Teamwork Infrastructure for Heterogeneous Software Agents and Humans](https://people.ict.usc.edu/~pynadath/Papers/jaamas03.pdf)**: David V. Pynadath and Milind Tambe introduce Teamcore proxies that coordinate heterogeneous agents through a reusable teamwork model and team-oriented plans. Applications include simulated evacuation rehearsal and assistance with human research-team activities (Autonomous Agents and Multi-Agent Systems, 2003).
 
 - **[The Use of Meta-Level Control for Coordination in a Distributed Problem Solving Network](https://ijcai.org/proceedings/1983/181)**: Daniel D. Corkill and Victor R. Lesser coordinate distributed problem solving through organizational guidelines that local controllers translate into specific activities. Preliminary experiments compare communication and control strategies in four- and five-node vehicle-monitoring simulations (IJCAI, 1983).
@@ -779,6 +781,8 @@
 - **[How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)**: Anthropic's engineering write-up describes an orchestrator-worker architecture in which a lead agent spawns subagents for parallel research (2025).
 
 ### Debate, reasoning, and aggregation
+
+- **[Reinforce LLM Reasoning through Multi-Agent Reflection](https://proceedings.mlr.press/v267/yuan25l.html)**: Yuan and Xie introduce DPSDP, which trains actor and critic language models to refine answers through direct preference learning on self-generated data. They model refinement as a Markov decision process and evaluate reasoning across training and held-out distributions (ICML, 2025).
 
 - **[Improving Multi-Agent Debate with Sparse Communication Topology](https://aclanthology.org/2024.findings-emnlp.427/)**: Li et al. compare sparse and fully connected communication graphs in multi-agent debate. They measure performance and input-token cost with GPT and Mistral models on text reasoning, multimodal reasoning, and alignment-labeling tasks (Findings of EMNLP, 2024).
 
