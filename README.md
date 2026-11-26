@@ -370,6 +370,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Graphical Models for Game Theory](https://www.cis.upenn.edu/~mkearns/papers/graphgames.pdf)**: Michael Kearns, Michael L. Littman, and Satinder Singh represent each player’s payoff through local interactions in graphical games. They develop approximate Nash-equilibrium algorithms for tree-structured and suitably restricted sparse one-stage games (UAI, 2001).
+
 - **[Nash Convergence of Gradient Dynamics in General-Sum Games](https://www.cis.upenn.edu/~mkearns/papers/gradgames.pdf)**: Satinder Singh, Michael Kearns, and Yishay Mansour analyze gradient-ascent adaptation in two-player, two-action general-sum repeated games. Under the specified dynamics, strategies converge to Nash equilibrium or average payoffs converge to Nash-equilibrium payoffs (UAI, 2000).
 
 - **[Regret Minimization in Games with Incomplete Information](https://proceedings.neurips.cc/paper_files/paper/2007/hash/08d98638c6fcd194a4b1e6992063e944-Abstract.html)**: Martin Zinkevich, Michael Johanson, Michael Bowling, and Carmelo Piccione introduce counterfactual regret minimization for extensive-form games with incomplete information. They demonstrate the method on large poker abstractions (NIPS, 2007; proceedings, 2008).
@@ -602,6 +604,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving](https://proceedings.mlr.press/v155/zhou21a.html)**: Zhou et al. introduce an autonomous-driving simulation platform for accumulating road-user behavior models. The paper presents multi-agent interaction experiments, benchmarks, and evaluation metrics (CoRL, 2020; proceedings, 2021).
 
 - **[Gigastep - One Billion Steps per Second Multi-agent Reinforcement Learning](https://papers.neurips.cc/paper_files/paper/2023/hash/00ba06ba5c324efdfb068865ca44cf0b-Abstract-Datasets_and_Benchmarks.html)**: Lechner et al. introduce a vectorized JAX environment for cooperative and adversarial multi-agent learning. It supports three-dimensional dynamics, partial observations, and continuous or discrete actions (NeurIPS Datasets and Benchmarks, 2023).
 
