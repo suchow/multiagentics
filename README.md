@@ -241,6 +241,10 @@
 
 ## Key papers
 
+- **[Transactive Memory: A Contemporary Analysis of the Group Mind](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/Wegner%20Transactive%20Memory.pdf)**: Daniel M. Wegner describes human-group memory as individual memory systems linked by communication, including knowledge of who stores particular information (1987).
+- **[Grounding Collaborative Agents in Group Cognition](https://arxiv.org/abs/2611.29036)**: Tan et al. evaluate briefs for agents entering ongoing teams through reference-point coverage and downstream collaboration simulations across four domains (2026 preprint).
+- **[TeamFusion: Supporting Open-ended Teamwork with Multi-Agent Systems](https://aclanthology.org/2026.acl-long.657/)**: Liu et al. use preference-conditioned proxy agents and structured discussion to synthesize team deliverables. They evaluate representation of members’ views on two open-ended tasks (ACL, 2026).
+
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 - **[A Brief History of Stigmergy](https://static.ias.edu/pitp/archive/2012files/29.pdf)**: Guy Theraulaz and Eric Bonabeau explain coordination through environmental modifications and distinguish quantitative from qualitative stigmergy in social insects (Artificial Life, 1999).
