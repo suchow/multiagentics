@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Automata-Conditioned Cooperative Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/yalcinkaya26a.html)**: Yalcinkaya et al. represent temporal team objectives with automata and learn task-conditioned policies through centralized training and decentralized execution. Learned values support task assignment. Experiments use coordinated multi-step tasks (ICML, 2026).
+- **[Distributed Asynchronous Deterministic and Stochastic Gradient Optimization Algorithms](https://www.mit.edu/~JNT/Papers/J014-86-asyn-grad.pdf)**: Tsitsiklis, Bertsekas, and Athans analyze convergence of distributed gradient-like algorithms with asynchronous computation and delayed communication. Results depend on explicit timing, communication, and optimization assumptions (IEEE Transactions on Automatic Control, 1986).
+
 - **[AgentsNet: Coordination and Collaborative Reasoning in Multi-Agent LLMs](https://arxiv.org/abs/2507.08616)**: Grötschla et al. evaluate distributed problem-solving, protocol formation, and communication under network constraints using tasks from distributed systems and graph theory. Experiments include networks of up to 100 agents (2025 preprint).
 - **[Many Hands Make Light the Work: The Causes and Consequences of Social Loafing](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Latane_et_al_1979_Many_hands_make_light_the_work.pdf)**: Bibb Latané, Kipling Williams, and Stephen Harkins distinguish reduced individual effort from coordination losses in two human clapping and shouting experiments. These physical-effort tasks provide adjacent human-group evidence (Journal of Personality and Social Psychology, 1979).
 
