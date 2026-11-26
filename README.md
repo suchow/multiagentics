@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[Tracking Dynamic Team Activity](https://cdn.aaai.org/AAAI/1996/AAAI96-012.pdf)**: Milind Tambe uses explicit team models to infer joint goals and plans from observed agent actions. Constraint propagation and a cost-minimality criterion restrict the tracking search (AAAI, 1996).
+
 - **[Environment programming in multi-agent systems: an artifact-based perspective](https://apice.unibo.it/bin/view/Publication/CartagoJaamas23?language=en&mode=data)**: Ricci, Piunti, and Viroli introduce environment programming through computational artifacts grouped into workspaces. Their CArtAgO framework provides programmable resources and coordination facilities for software agents (Autonomous Agents and Multi-Agent Systems, 2011).
 
 - **[A Formal Specification of dMARS](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/atal97.pdf)**: D’Inverno, Kinny, Luck, and Wooldridge specify an idealized dMARS architecture through its data structures and the operations that manipulate them. The formal model gives particular attention to executable plans (Intelligent Agents IV, 1998; proceedings of ATAL 1997).
