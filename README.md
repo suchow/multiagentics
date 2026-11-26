@@ -456,6 +456,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration](https://proceedings.nips.cc/paper_files/paper/2021/hash/1e8ca836c962598551882e689265c1c5-Abstract.html)**: Zheng et al. introduce EMC, using prediction errors of individual utility values as exploration rewards and episodic memory to reuse informative experience. Evaluation includes illustrative tasks and StarCraft II micromanagement (NeurIPS, 2021).
+
 - **[Scaling Multi-Agent Reinforcement Learning with Selective Parameter Sharing](https://proceedings.mlr.press/v139/christianos21a.html)**: Christianos et al. introduce SePS, which partitions agents by abilities and goals to share policy parameters selectively. Experiments compare training speed and returns under different sharing choices across environments (ICML, 2021).
 
 - **[Shared Experience Actor-Critic for Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/7967cc8e3ab559e68cc944c44b1cf3e8-Abstract.html)**: Christianos, Schäfer, and Albrecht introduce SEAC, which combines gradients from agents’ shared experience within an actor–critic framework. Evaluation focuses on sparse-reward multi-agent tasks (NeurIPS, 2020).
