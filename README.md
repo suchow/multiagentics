@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[MAS-ProVe: Understanding the Process Verification of Multi-Agent Systems](https://proceedings.mlr.press/v306/venkataramani26a.html)**: Venkataramani et al. compare learned evaluation of intermediate agent trajectories across six frameworks, five verifiers, three verification paradigms, and four context strategies. The study concerns selected reasoning benchmarks and implementations (ICML, 2026).
+- **[Consensus in the Presence of Partial Synchrony](https://cs.nyu.edu/~apanda/classes/sp25/papers/dwork88consensus.pdf)**: Cynthia Dwork, Nancy Lynch, and Larry Stockmeyer define partial synchrony and establish consensus protocols and resilience bounds under several timing and failure models. Timing bounds may be unknown or become valid after an unknown stabilization time (Journal of the ACM, 1988).
+
 - **[ReMA: Learning to Meta-Think for LLMs with Multi-agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b83514e453ff03741a5fb3e5e49f709b-Abstract-Conference.html)**: Wan et al. jointly train hierarchical planning and execution agents with reinforcement learning and aligned objectives. Evaluation covers mathematical reasoning and language-model judging tasks, including single-turn and multi-turn settings (NeurIPS, 2025).
 
 - **[Position: Agent Evaluation Should Be Agentified for Openness, Standardization, and Reproducibility](https://proceedings.mlr.press/v306/liu26gy.html)**: Liu, Shi, Guo, and Song propose agent-to-agent assessment through A2A task management and MCP tool interfaces and introduce AgentBeats as an implementation. This is a position on evaluation infrastructure (ICML, 2026).
