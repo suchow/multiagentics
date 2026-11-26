@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Reliable Communication in the Presence of Failures](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2018/Papers/p47-birman.pdf)**: Kenneth P. Birman and Thomas A. Joseph develop reliable multicast protocols that coordinate message delivery with process-group membership and failure events, including causal delivery ordering. The model concerns halting failures, with availability constrained by network and membership assumptions (ACM Transactions on Computer Systems, 1987).
+- **[COLLABMEM: A Diagnostic Benchmark for Collaborative Memory Operations in Multi-Agent LLM Systems](https://aclanthology.org/2026.emnlp-main.1194/)**: Wu et al. isolate collaborative-memory operations through fixed-trace probes covering sharing, role-based access, routing, provenance, conflict resolution, and retention. Evaluation uses authored and scaled scenarios (EMNLP, 2026).
+
 - **[Unreliable Failure Detectors for Reliable Distributed Systems](https://courses.csail.mit.edu/6.897/fall04/papers/Chandra/chandra-toueg.pdf)**: Tushar Deepak Chandra and Sam Toueg classify failure detectors by completeness and accuracy and establish conditions for consensus and atomic broadcast in asynchronous systems with crash failures. The results rely on specified abstract detector properties, rather than arbitrary timeout behavior (Journal of the ACM, 1996).
 - **[CollabSkill: Evaluating Human-Agent Collaboration On Real-World Tasks](https://proceedings.colm.cc/paper_files/paper/2026/hash/d487071f6edc4bc05a9ccba2f98e25a4-Abstract-Conference.html)**: Shao et al. evaluate agents working with occupationally matched human participants and use Bayesian ratings to estimate human and agent contributions. These estimates depend on the rating model and study design (COLM, 2026 pre-proceedings).
 
