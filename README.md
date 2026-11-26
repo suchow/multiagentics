@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[Readings in Distributed Artificial Intelligence](https://api.pageplace.de/preview/DT0400.9781483214443_A23862463/preview-9781483214443_A23862463.pdf)**: Edited by Alan H. Bond and Les Gasser, this collection organizes early distributed AI research around task allocation, coordination, communication, uncertainty, organizational models, and implementation frameworks (Morgan Kaufmann, 1988; publisher preview).
 - **[The Interdisciplinary Study of Coordination](https://crowston.syr.edu/sites/default/files/acmcs94.pdf)**: Malone and Crowston analyze coordination as managing dependencies among activities, including shared resources, producer–consumer relationships, and task–subtask relationships (ACM Computing Surveys, 1994).
 - **[Exploration and Exploitation in Organizational Learning](https://hiveresearchlab.org/wp-content/uploads/2013/12/march_1991_exploration_and_exploitation_in_organizational_learning.pdf)**: James G. March models mutual learning between individuals and an organizational code and examines trade-offs between developing new knowledge and refining existing knowledge (Organization Science, 1991).
 
@@ -239,6 +240,8 @@
 - **[Hermes Function-Calling V1](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1)**: Nous Research dataset of single- and multi-turn function-calling and structured JSON output samples in ShareGPT format.
 
 ## Key papers
+
+- **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 - **[A Brief History of Stigmergy](https://static.ias.edu/pitp/archive/2012files/29.pdf)**: Guy Theraulaz and Eric Bonabeau explain coordination through environmental modifications and distinguish quantitative from qualitative stigmergy in social insects (Artificial Life, 1999).
 - **[More Capable, Less Cooperative? When LLMs Fail at Zero-Cost Collaboration](https://proceedings.mlr.press/v306/yadav26a.html)**: Yadav, Black, and Sourbut evaluate information sharing when cooperation carries no modeled cost. Interventions distinguish communication competence from cooperation failures in their turn-based environment (ICML, 2026).
