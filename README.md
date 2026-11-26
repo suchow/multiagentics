@@ -442,6 +442,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Learning Implicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2020/hash/8977ecbb8cb82d77fb091c7a7f186163-Abstract.html)**: Zhou et al. introduce LICA, combining a hypernetwork-based centralized critic with adaptive entropy regularization for decentralized policies in fully cooperative settings. Evaluation uses particle environments and StarCraft II micromanagement (NeurIPS, 2020).
+
 - **[DOP: Off-Policy Multi-Agent Decomposed Policy Gradients](https://arxiv.org/abs/2007.12322)**: Wang et al. integrate value decomposition into multi-agent actor–critic learning for off-policy updates and credit assignment in discrete and continuous action spaces. Evaluation uses StarCraft II micromanagement and particle environments (ICLR, 2021).
 
 - **[RODE: Learning Roles to Decompose Multi-Agent Tasks](https://www.cs.ox.ac.uk/publications/publication14514-abstract.html)**: Wang et al. cluster actions by their effects to construct restricted role action spaces. A hierarchical selector assigns roles, and role policies choose primitive actions. Evaluation concerns StarCraft II micromanagement and specified transfer settings (ICLR, 2021).
