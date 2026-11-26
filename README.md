@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[A verification framework for agent programming with declarative goals](https://www.csc.liv.ac.uk/~wiebe/pubs/Documents/jal5.pdf)**: De Boer et al. connect GOAL agent programs with a programming logic through formal computational semantics. A commitment strategy specifies the relationship between beliefs and declarative goals within this verification framework (Journal of Applied Logic, 2007).
+
 - **[Agent Programming in 3APL](https://research.vu.nl/en/publications/agent-programming-in-3apl/)**: Hindriks et al. combine imperative and logic programming for agents represented through beliefs and goals. Transition systems define the language’s operational semantics, including practical reasoning rules for goal revision (Autonomous Agents and Multi-Agent Systems, 1999).
 
 - **[Developing multi-agent systems with a FIPA-compliant agent framework](https://jmvidal.cse.sc.edu/library/bellifemine01a.pdf)**: Fabio Bellifemine, Agostino Poggi, and Giovanni Rimassa describe JADE’s agent-platform architecture, communication subsystem, and agent model for FIPA-compliant applications. The paper discusses implementation and interoperability tests with other platforms (Software—Practice & Experience, 2001).
