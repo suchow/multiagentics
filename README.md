@@ -466,6 +466,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1901.09207)**: Wen et al. introduce PR2, using variational inference to model opponents’ policies conditional on an agent’s proposed action and learn responses to those models. The framework starts with level-1 recursion; evaluation uses matrix and differential games (ICLR, 2019).
+
 - **[Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration](https://proceedings.nips.cc/paper_files/paper/2021/hash/1e8ca836c962598551882e689265c1c5-Abstract.html)**: Zheng et al. introduce EMC, using prediction errors of individual utility values as exploration rewards and episodic memory to reuse informative experience. Evaluation includes illustrative tasks and StarCraft II micromanagement (NeurIPS, 2021).
 
 - **[Scaling Multi-Agent Reinforcement Learning with Selective Parameter Sharing](https://proceedings.mlr.press/v139/christianos21a.html)**: Christianos et al. introduce SePS, which partitions agents by abilities and goals to share policy parameters selectively. Experiments compare training speed and returns under different sharing choices across environments (ICML, 2021).
