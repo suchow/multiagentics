@@ -344,6 +344,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation](https://aclanthology.org/2026.findings-emnlp.1237/)**: Zhou, Leonardis, and Feng introduce Agora, which allocates reasoning steps to expert models and tools through confidence-calibrated auctions. Evaluation compares single-model, routing, and cascade baselines across five benchmarks using matched candidate pools (Findings of EMNLP, 2026).
+
 - **[Task Allocation Via Coalition Formation Among Autonomous Agents](https://ijcai.org/proceedings/1995/86)**: Onn Shehory and Sarit Kraus develop distributed task allocation through coalitions of agents with complementary capabilities. Their anytime algorithm concerns cooperative problem solving where a task may require several agents (IJCAI, 1995).
 
 - **[An Implementation of the Contract Net Protocol Based on Marginal Cost Calculations](https://cdn.aaai.org/AAAI/1993/AAAI93-039.pdf)**: Tuomas Sandholm formalizes contract-net bidding and awarding through locally calculated marginal costs and clustered task exchanges. TRACONET applies the protocol to distributed vehicle routing, with tests using transportation data (AAAI, 1993).
@@ -541,6 +543,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Learning to Coordinate without Sharing Information](https://cdn.aaai.org/AAAI/1994/AAAI94-065.pdf)**: Sen, Sekaran, and Hale study independent Q-learning agents that coordinate through environmental feedback without exchanging problem-solving information. Experiments use two agents pushing a block along a prescribed path (AAAI, 1994).
 
 - **[Emergent Reciprocity and Team Formation from Randomized Uncertain Social Preferences](https://proceedings.neurips.cc/paper/2020/hash/b63c87b0a41016ad29313f0d7393cee8-Abstract.html)**: Bowen Baker introduces randomized uncertain social preferences as a training augmentation. The paper studies reciprocity, reputation, and team formation in simulated abstract and intertemporal social dilemmas (NeurIPS, 2020).
 
