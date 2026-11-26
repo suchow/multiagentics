@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Streaming Communication in Multi-Agent Reasoning](https://aclanthology.org/2026.emnlp-main.244/)**: Yang et al. introduce StreamMA, which sends reasoning steps to downstream agents during generation. They compare streaming, serial, and single-agent protocols on eight mathematics, science, and coding benchmarks across three model families and three coordination topologies (EMNLP, 2026).
+
 - **[TRIAGE: Severity-Ranked Multi-Agent Failure Attribution](https://aclanthology.org/2026.aacl-short.27/)**: Xizhi Wang introduces TriageBench and ranks candidate repairs using suspicion scores, structural impact, and simulated replay. Council judgments and repair-plausibility ratings do not establish actual causal repair success (AACL-IJCNLP, 2026).
 
 - **[MLZero: A Multi-Agent System for End-to-end Machine Learning Automation](https://proceedings.neurips.cc/paper_files/paper/2025/hash/63ed15a46a143ff57484b38cd6b85d91-Abstract-Conference.html)**: Fang et al. combine multimodal perception, semantic and episodic memory, and iterative code generation for machine-learning automation. Evaluation uses MLE-Bench Lite and an introduced 25-task multimodal benchmark (NeurIPS, 2025).
