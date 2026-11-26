@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Learning to Cooperate with Humans using Generative Agents](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6e9f99809b6df59e8fe5c9ffe269bf40-Abstract-Conference.html)**: Liang et al. introduce GAMMA, which trains cooperative policies against partners sampled from a learned generative model. Evaluation uses human teammates in Overcooked. Posterior sampling incorporates limited human interaction data (NeurIPS, 2024).
+
 - **[MisoDICE: Multi-Agent Imitation from Mixed-Quality Demonstrations](https://proceedings.neurips.cc/paper_files/paper/2025/hash/efe51d056f63d4546e73aa8a97dcb6de-Abstract-Conference.html)**: Bui, Mai, and Nguyen study cooperative offline imitation from unlabeled mixtures of expert and suboptimal demonstrations. They combine trajectory labeling with a multi-agent DICE method using value decomposition and a mixing architecture. Evaluation uses multi-agent reinforcement-learning benchmarks (NeurIPS, 2025).
 
 - **[Streaming Communication in Multi-Agent Reasoning](https://aclanthology.org/2026.emnlp-main.244/)**: Yang et al. introduce StreamMA, which sends reasoning steps to downstream agents during generation. They compare streaming, serial, and single-agent protocols on eight mathematics, science, and coding benchmarks across three model families and three coordination topologies (EMNLP, 2026).
