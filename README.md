@@ -328,6 +328,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Conflict-based search for optimal multi-agent pathfinding](https://doi.org/10.1016/j.artint.2014.11.006)**: Guni Sharon, Roni Stern, Ariel Felner, and Nathan R. Sturtevant introduce a two-level centralized pathfinding algorithm. High-level search resolves inter-agent conflicts through constraints; low-level searches compute individual paths. Optimality concerns the paper’s discrete multi-agent pathfinding formulation (Artificial Intelligence, 2015).
+
 - **[A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2019/hash/3c3c139bd8467c1587a41081ad78045e-Abstract.html)**: Carion et al. learn scoring models for centralized agent–task assignment and solve structured optimization problems to coordinate agents. The method assumes local interactions and fixed low-level policies. Evaluation tests transfer from smaller training instances to larger search-and-rescue and StarCraft scenarios (NeurIPS, 2019).
 
 - **[Distributed Constrained Heuristic Search](https://publications.ri.cmu.edu/distributed-constrained-heuristic-search)**: Sycara et al. combine decentralized constraint satisfaction with heuristic search. Their DCHS model uses search-space summaries called textures and distributed asynchronous backjumping; evaluation concerns decentralized job-shop scheduling (IEEE Transactions on Systems, Man, and Cybernetics, 1991).
@@ -433,6 +435,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[On the emergence of social conventions: modeling, analysis, and simulations](https://www.sciencedirect.com/science/article/pii/S0004370297000283)**: Yoav Shoham and Moshe Tennenholtz introduce highest cumulative reward, a strategy-selection rule for agents learning conventions through repeated random interactions. They analyze convergence for a specified class of games and simulate a basic coordination game (Artificial Intelligence, 1997).
 
 - **[Learning to Incentivize in Repeated Principal-Agent Problems with Adversarial Agent Arrivals](https://proceedings.mlr.press/v267/liu25at.html)**: Liu et al. study repeated incentive selection for arriving agents of unknown types. They derive sublinear-regret bounds under known response mappings or Lipschitz response assumptions and a linear-regret limitation without prior behavioral information (ICML, 2025).
 
