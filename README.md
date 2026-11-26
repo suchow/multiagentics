@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)**: Leslie Lamport presents Paxos for maintaining a consistent sequence of state-machine commands despite benign process and communication failures. Progress requires sufficient availability and timely communication; malicious failures are outside the model (ACM Transactions on Computer Systems, 1998; linked copy corrected in 2000).
+
 - **[COOP²: Defining, Observing, and Repairing Cooperation in LLM Multi-Agent Systems](https://arxiv.org/abs/2603.00349)**: Yang et al. connect agent plans and communication to verifiable task requirements. Their repair method predicts constraint failures and opens targeted communication channels. Evaluation covers two environments and three communication structures and measures decision and communication overhead (2026 preprint).
 
 - **[Empirical Study on Robustness and Resilience in Cooperative Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/3e8d9bf1dd1eb9d3d9d500fb3543c87b-Abstract-Conference.html)**: Li et al. compare cooperative performance, robustness to perturbations, and recovery across four environments, 13 uncertainty types, and 15 hyperparameters. The study distinguishes uncertainty modalities and which agents are affected (NeurIPS, 2025).
