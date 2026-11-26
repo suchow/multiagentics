@@ -334,6 +334,7 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Worst-case equilibria](https://cgi.di.uoa.gr/~elias/papers/paper-kp99.html)**: Elias Koutsoupias and Christos Papadimitriou measure coordination inefficiency through the ratio of worst Nash-equilibrium cost to optimal cost. They derive bounds for selfish resource sharing in a simple parallel-link model (STACS, 1999).
 - **[Calibrated Learning and Correlated Equilibrium](https://deanfoster.net/research/calibration_and_CE.pdf)**: Dean P. Foster and Rakesh V. Vohra connect calibrated forecasts and myopic best responses to correlated equilibrium in repeated finite games. The result assumes calibrated learning and stationary deterministic tie-breaking (Games and Economic Behavior, 1997).
 - **[An analog of the minimax theorem for vector payoffs](https://msp.org/pjm/1956/6-1/pjm-v6-n1-p01-s.pdf)**: David Blackwell characterizes approachable closed convex target sets for average vector payoffs in repeated finite-action games. The model uses bounded payoffs and observed payoff vectors (Pacific Journal of Mathematics, 1956).
 - **[The Tragedy of the Commons](https://www.law.berkeley.edu/archive/files/CLEE/Hardin_1968_Science_TragedyOfTheCommons.pdf)**: Garrett Hardin describes resource depletion when individuals receive private benefits from additional use and share its costs. The pasture example is an unrestricted-access thought experiment (Science, 1968).
@@ -598,6 +599,7 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Humans’ ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model ANnotations for Agent Collaboration](https://aclanthology.org/2026.findings-emnlp.2171/)**: Chen et al. pair human collaboration actions with participants’ reports of their reasoning, perceived partner intent, and team goals in a dyadic Map Task. They evaluate six LLMs on behavior and annotation prediction (Findings of EMNLP, 2026).
 - **[The Nature of the Firm](https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2023/08/coase1937.pdf)**: R. H. Coase explains firm organization through the costs of coordinating production by market exchange and managerial direction. This is economic theory about firms in an exchange economy (Economica, 1937).
 - **[Organizational Learning and Communities-of-Practice: Toward a Unified View of Working, Learning, and Innovation](https://pubsonline.informs.org/doi/10.1287/orsc.2.1.40)**: John Seely Brown and Paul Duguid connect collaborative workplace problem solving, learning, and innovation through informal communities of practice. The argument draws on human workplace ethnography, particularly service technicians (Organization Science, 1991).
 - **[The Strength of Weak Ties](https://sociology.stanford.edu/publications/strength-weak-ties)**: Mark Granovetter examines how tie strength and overlapping friendship networks affect information diffusion and connections between social groups. This is adjacent human social-network theory (American Journal of Sociology, 1973).
