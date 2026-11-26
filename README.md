@@ -424,6 +424,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Learning Policy Representations in Multiagent Systems](https://proceedings.mlr.press/v80/grover18a/grover18a.pdf)**: Grover et al. learn continuous policy representations from observation–action trajectories using imitation and agent-identification objectives. Evaluation includes competitive RoboSumo and cooperative ParticleWorld communication (ICML, 2018).
+
 - **[Agent Modelling under Partial Observability for Deep Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/hash/a03caec56cd82478bf197475b48c05f9-Abstract.html)**: Papoudakis, Christianos, and Albrecht learn encoder–decoder representations of agents with fixed policies using their observations and actions during training. At execution, the controlled agent conditions its policy on representations inferred from its own local observations (NeurIPS, 2021).
 
 - **[Distributed Value Functions](https://publications.ri.cmu.edu/distributed-value-functions)**: Jeff Schneider, Weng-Keen Wong, Andrew Moore, and Martin Riedmiller distribute value-function learning across agents with local observations, actions, and rewards. Neighboring agents exchange value estimates for a summed-reward objective over the network (ICML, 1999).
