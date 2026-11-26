@@ -240,6 +240,9 @@
 
 ## Key papers
 
+- **[Cooperative Coevolution: An Architecture for Evolving Coadapted Subcomponents](https://sci2s.ugr.es/sites/default/files/files/Teaching/OtherPostGraduateCourses/Metaheuristicas/ecj00.pdf)**: Potter and De Jong evolve interacting solution components in separate cooperating species. They study emergent decomposition through string matching and neural-network evolution (Evolutionary Computation, 2000).
+- **[Investigating Component Contributions in Multi-Agent ML Systems](https://proceedings.mlr.press/v306/kim26ba.html)**: Kim et al. compare coordination, iterative refinement, memory, and planning in ML engineering agents through architectural ablations. They introduce K-live, a benchmark using 25 active competitions (ICML, 2026).
+
 - **[An Iterative Method of Solving a Game](https://cs.brown.edu/courses/csci1440/labs/2023/lab01/robinson.pdf)**: Julia Robinson proves convergence of Brown’s fictitious-play procedure for empirical mixed strategies in finite two-player zero-sum games (Annals of Mathematics, 1951).
 - **[Multi-Agent Reinforcement Learning: Independent vs. Cooperative Agents](https://web.mit.edu/16.412j/www/html/Advanced%20lectures/2004/Multi-AgentReinforcementLearningIndependentVersusCooperativeAgents.pdf)**: Ming Tan compares independent learners with agents sharing sensations, episodes, or learned policies and examines learning gains and communication costs (ICML, 1993).
 - **[LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior](https://proceedings.mlr.press/v306/zhou26i.html)**: Zhou, Gan, and Cherian derive cooperation rules from failed interactions and incorporate them through supervised fine-tuning. Evaluation uses simulated communicative tasks in PARTNR-Dialog and TDW-MAT (ICML, 2026).
