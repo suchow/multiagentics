@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Great Minds Think Alike: Contextual Tacit Communication for Decentralized LLM-Agent Cooperation](https://proceedings.mlr.press/v306/pei26d.html)**: Pei et al. derive prompt-level cooperation rules from joint LLM value scores. Decentralized embodied agents use these rules without explicit message actions. Evaluation uses VIKI, C-WAH, and TDW-MAT (ICML, 2026).
+
 - **[Position: Multi-Agent Systems Should Prioritize Concurrency Control](https://proceedings.mlr.press/v306/yang26dy.html)**: Yang et al. frame shared-state failures in LLM agent teams as concurrency anomalies and advocate explicit conflict detection, isolation guarantees, and structured resource access. This is a position paper (ICML, 2026).
 
 - **[Prediction Markets](https://www.aeaweb.org/articles?id=10.1257/0895330041371321)**: Justin Wolfers and Eric Zitzewitz review evidence on markets for aggregating forecasts and explain how contract design affects the information conveyed by prices. Their analysis concerns the reviewed prediction contexts and distinguishes conditional-market beliefs from causal effects (Journal of Economic Perspectives, 2004).
