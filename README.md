@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[Convention: A Philosophical Study](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470693711)**: David Lewis analyzes conventions as regular solutions to recurring coordination problems and applies the account to communication and language (1969; linked edition, 2002).
 - **[A Comprehensive Survey of Multiagent Reinforcement Learning](https://csc.csudh.edu/btang/seminar/multiagent/survey1.pdf)**: Bușoniu, Babuška, and De Schutter classify multiagent reinforcement learning across cooperative, competitive, and mixed tasks, distinguishing stability from adaptation as learning goals (2008).
 - **[Distributed Constraint Optimization Problems and Applications: A Survey](https://wyeoh.github.io/assets/pdf/jair-FiorettoPY18.pdf)**: Fioretto, Pontelli, and Yeoh classify DCOP models, solution methods, and applications, including extensions for dynamic and uncertain environments (JAIR, 2018).
 - **[Reasoning About Knowledge](https://mitpress.mit.edu/9780262562003/reasoning-about-knowledge/)**: Fagin, Halpern, Moses, and Vardi develop formal approaches to reasoning about agents’ knowledge and apply them to distributed systems, artificial intelligence, and game theory (MIT Press, 1995; linked paperback edition, 2004).
@@ -244,6 +245,7 @@
 
 ## Key papers
 
+- **[Multi-agent Markov Entanglement](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0e3af444e7d82d29871804de476d1fbe-Abstract-Conference.html)**: Chen and Peng characterize when value functions permit additive decomposition in their multi-agent MDP setting and introduce a measure that bounds decomposition error (NeurIPS, 2025).
 - **[Organization Design: An Information Processing View](https://pubsonline.informs.org/doi/10.1287/inte.4.3.28)**: Jay R. Galbraith develops a conceptual framework relating task uncertainty to organizational form and information-processing demands, including information systems and group problem solving (Interfaces, 1974).
 - **[What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](https://proceedings.mlr.press/v306/abbadi26a.html)**: Abbadi, Laraki, and Mertikopoulos examine when preference graphs predict stability in specified game-learning dynamics. They provide a counterexample beyond subgames and a payoff-based sufficient condition for asymptotic stability (ICML, 2026).
 - **[TurKit: Human Computation Algorithms on Mechanical Turk](https://dspace.mit.edu/entities/publication/abfe95b4-b38e-488f-8b5f-b1178887e88e)**: Little, Chilton, Goldman, and Miller introduce a crash-and-rerun programming model for imperative workflows incorporating high-latency human computation calls (UIST, 2010).
