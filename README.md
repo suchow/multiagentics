@@ -250,6 +250,7 @@
 
 ## Key papers
 
+- **[Attention, Intentions, and the Structure of Discourse](https://aclanthology.org/J86-3001/)**: Grosz and Sidner model discourse through linguistic segments, participants’ intentions, and attentional state, with analyses of references, interruptions, and coherence (Computational Linguistics, 1986).
 - **[Focal points in pure coordination games: An experimental investigation](https://link.springer.com/article/10.1007/BF01079211)**: Mehta, Starmer, and Sugden test how shared notions of salience guide human coordination in games whose equilibria differ only through strategy labels (Theory and Decision, 1994).
 - **[Eliciting Informative Feedback: The Peer-Prediction Method](https://www.presnick.people.si.umich.edu/papers/elicit/index.html)**: Miller, Resnick, and Zeckhauser use proper scoring rules on predictions of peer reports to make truthful feedback a Nash equilibrium without independently observed outcomes. The basic model assumes a common prior, conditionally independent signals, and risk-neutral raters (Management Science, 2005).
 - **[A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/c7f812431607ac5a17973bbf79733013-Abstract-Conference.html)**: Liu et al. use multi-agent influence diagrams to analyze coordination interventions and introduce pre-strategy intervention on a targeted agent within that model (NeurIPS, 2025).
