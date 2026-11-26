@@ -668,6 +668,9 @@
 
 ### Communication and emergent language
 
+- **[Communicative Actions for Artificial Agents](https://cdn.aaai.org/ICMAS/1995/ICMAS95-009.pdf)**: Philip R. Cohen and Hector J. Levesque analyze semantic ambiguities in KQML and formalize requesting and informing through beliefs, goals, actions, and time. They illustrate compositional semantics by constructing a yes–no question from these speech acts (ICMAS, 1995).
+- **[Communicating Activations Between Language Model Agents](https://proceedings.mlr.press/v267/ramesh25a.html)**: Ramesh and Li combine intermediate activations from language-model agents during forward computation. They evaluate coordination games and reasoning benchmarks. The method requires access to model internals (ICML, 2025).
+
 - **[Compositional Obverter Communication Learning From Raw Visual Input](https://arxiv.org/abs/1804.02341)**: Edward Choi, Angeliki Lazaridou, and Nando de Freitas train communicating agents from image pixels using the obverter technique: messages maximize the speaker’s own predicted understanding. Evaluation examines protocol structure and unseen color–shape combinations in a synthetic image-description game (ICLR, 2018).
 
 - **[Compositional Languages Emerge in a Neural Iterated Learning Model](https://arxiv.org/abs/2002.01365)**: Ren et al. introduce neural iterated learning across generations of interacting agents. They study emergent protocol structure, learnability, and generalization in neural language games (ICLR, 2020).
