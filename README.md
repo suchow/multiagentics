@@ -582,6 +582,7 @@
 
 ### Social simulation and negotiation
 
+- **[Argumentation-based negotiation](https://web.mit.edu/~irahwan/www/docs/ker2003.pdf)**: Rahwan et al. develop a conceptual framework for negotiation through exchanged arguments and survey communication languages, protocols, information stores, and argument evaluation and selection (The Knowledge Engineering Review, 2003 issue; published online 2004).
 - **[Agents that Reason and Negotiate by Arguing](https://www.emse.fr/~boissier/enseignement/sma05/exposes/jlc.pdf)**: Simon Parsons, Carles Sierra, and Nick R. Jennings formalize argumentation-based negotiation and connect it to multi-context belief–desire–intention agent architectures (Journal of Logic and Computation, 1998; linked February author manuscript).
 - **[PieArena: Ranking and Profiling Language Agents in Realistic Negotiation Scenarios](https://arxiv.org/abs/2602.05302)**: Zhu et al. evaluate negotiation through mirror-play, cross-play, and human–model pairings in scenarios adapted from MBA courses. Evaluation includes payoff-based rankings, trained-student comparisons, and behavioral profiles with judge-assessed traits (2026 preprint).
 - **[A simple model of global cascades on random networks](https://www.stat.berkeley.edu/~aldous/260-FMIE/Papers/watts.pdf)**: Duncan J. Watts analyzes how network connectivity and individual adoption thresholds affect large cascades from small initial shocks. The model uses binary states, random networks, and irreversible threshold activation (PNAS, 2002).
