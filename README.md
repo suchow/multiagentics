@@ -428,6 +428,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Learning Latent Representations to Influence Multi-Agent Interaction](https://proceedings.mlr.press/v155/xie21a.html)**: Xie et al. learn latent models of how another agent’s strategy changes in response to the controlled agent’s behavior. These dynamics guide policies for co-adaptation in simulated tasks and a physical air-hockey game (CoRL, 2020; proceedings, 2021).
+
 - **[Machine Theory of Mind](https://arxiv.org/abs/1802.07740v2)**: Rabinowitz et al. introduce ToMnet, a meta-learned model for predicting agents’ behavior from observed trajectories. Experiments model random, algorithmic, and deep-RL agents in single-agent gridworld POMDPs, including false-belief tasks (2018 extended preprint).
 
 - **[Modeling Others using Oneself in Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v80/raileanu18a.html)**: Raileanu et al. introduce Self Other-Modeling, which uses an agent’s own policy to infer another agent’s hidden goal from observed actions. Evaluation covers three cooperative and competitive tasks (ICML, 2018).
@@ -695,6 +697,8 @@
 - **[Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y)**: Kim et al. compare single-agent and multi-agent architectures under controlled prompts, tools, and compute budgets across six benchmarks. They examine when coordination improves performance or adds overhead (Nature Machine Intelligence, 2026; [preprint](https://arxiv.org/abs/2512.08296)).
 
 ### Safety, security, and verification
+
+- **[Strategy logic](https://research-explorer.ista.ac.at/record/3861)**: Chatterjee, Henzinger, and Piterman introduce a logic with explicit quantification over strategies in two-player games. Its one-alternation fragment can express the existence of Nash and secure equilibria (Information and Computation, 2010).
 
 - **[A Modal Logic for Coalitional Power in Games](https://doi.org/10.1093/logcom/12.1.149)**: Marc Pauly introduces Coalition Logic for reasoning about outcomes that groups can guarantee through collective action. The axiomatization and completeness result concern perfect-information game frames with simultaneous actions (Journal of Logic and Computation, 2002).
 
