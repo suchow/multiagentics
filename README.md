@@ -244,6 +244,7 @@
 
 ## Key papers
 
+- **[Evolving Interpretable Constitutions for Multi-Agent Coordination](https://proceedings.mlr.press/v306/kumar26f.html)**: Kumar et al. use LLM-driven genetic programming to evolve explicit behavioral rules for agents in a survival grid world. They evaluate productivity, survival, and conflict through a combined score (ICML, 2026).
 - **[AgentSpeak(L): BDI agents speak out in a logical computable language](https://link.springer.com/chapter/10.1007/BFb0031845)**: Anand S. Rao gives AgentSpeak(L) operational and proof-theoretic semantics, connecting executable BDI agent programs with formal reasoning about their properties (MAAMAW, 1996).
 - **[Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate](https://proceedings.mlr.press/v306/ha26a.html)**: Ha and Mitchell study answer revisions under controlled peer responses in ConceptARC, measuring changes in solution distance alongside binary correctness in two-dimensional grid tasks (ICML, 2026).
 - **[Communication and Interaction in Multi-Agent Planning](https://cdn.aaai.org/AAAI/1983/AAAI83-003.pdf)**: Michael Georgeff combines separately generated plans by analyzing conflicting actions and unsafe interactions, then inserting synchronization communications. The method assumes STRIPS-style persistence and sufficiently decoupled agent effects (AAAI, 1983).
