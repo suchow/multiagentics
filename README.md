@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[Commitments: From Individual Intentions to Groups and Organizations](https://cdn.aaai.org/ICMAS/1995/ICMAS95-006.pdf)**: Cristiano Castelfranchi distinguishes individual, social, collective, and organizational commitments. This conceptual account relates agents through obligations and entitlements to analyze cooperative groups and organizations (ICMAS, 1995).
+
 - **[Ad Hoc Autonomous Agent Teams: Collaboration without Pre-Coordination](https://www.cs.utexas.edu/~pstone/Papers/bib2html/b2hd-AAAI10-adhoc.html)**: Peter Stone, Gal A. Kaminka, Sarit Kraus, and Jeffrey S. Rosenschein define cooperation with previously unfamiliar teammates without jointly designed strategies. The paper proposes an evaluation paradigm and research challenge for ad hoc teamwork (AAAI, 2010).
 
 - **[Monitoring the Progress of Anytime Problem-Solving](https://cdn.aaai.org/AAAI/1996/AAAI96-182.pdf)**: Eric A. Hansen and Shlomo Zilberstein use dynamic programming to select monitoring intervals and stopping decisions for an anytime algorithm. This adjacent metareasoning framework accounts for monitoring cost and uncertain improvement under supplied performance and utility models (AAAI, 1996).
@@ -588,6 +590,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[CityFlow: A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario](https://arxiv.org/abs/1905.05217)**: Zhang et al. introduce a microscopic traffic simulator for multi-agent traffic-signal control. It supports configurable road networks and traffic flows with a reinforcement-learning interface (WWW demonstration paper, 2019).
 
 - **[Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms in Cooperative Tasks](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/a8baa56554f96369ab93e4f3bb068c22-Abstract-round1.html)**: Papoudakis et al. compare independent learning, centralized policy-gradient methods, and value decomposition across cooperative tasks. They release EPyMARL and two environments focused on coordination under sparse rewards (NeurIPS Datasets and Benchmarks, 2021).
 
