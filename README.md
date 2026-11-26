@@ -416,6 +416,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Correlated-Q Learning](https://cdn.aaai.org/ICML/2003/ICML03-034.pdf)**: Amy Greenwald and Keith Hall introduce CE-Q, a multi-agent Q-learning algorithm based on correlated equilibrium. They compare four equilibrium-selection variants and report empirical convergence on a testbed of general-sum Markov games (ICML, 2003).
+
 - **[Packet Routing in Dynamically Changing Networks: A Reinforcement Learning Approach](https://proceedings.neurips.cc/paper/1993/hash/4ea06fbc83cdd0a06020c35d50e1e89a-Abstract.html)**: Justin A. Boyan and Michael L. Littman introduce Q-routing, which updates local delivery-time estimates through neighbor feedback. Evaluation uses a simulated 36-node network with changing traffic conditions (NIPS, 1993; proceedings, 1994).
 
 - **[Collaborative Multiagent Reinforcement Learning by Payoff Propagation](https://www.jmlr.org/papers/v7/kok06a.html)**: Jelle R. Kok and Nikos Vlassis introduce Sparse Cooperative Q-learning, which approximates shared action values over coordination graphs and uses payoff messages for joint action selection. Action selection is approximate on general graphs (JMLR, 2006).
