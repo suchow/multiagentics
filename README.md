@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Tacit Coordination of Large Language Models](https://aclanthology.org/2026.findings-emnlp.2015/)**: Aharon, La Malfa, Wooldridge, and Kraus compare human and model focal-point selection without communication across selected cooperative and competitive games. Evaluation includes more than 20 models and examines failures involving numerical judgments and culturally dependent salience (Findings of EMNLP, 2026).
+- **[Organizing Work by Adaptation](https://pubsonline.informs.org/doi/10.1287/orsc.2.1.14)**: Edwin Hutchins examines how a ship’s navigation team reorganized its division of cognitive labor after equipment failure through local adaptations. This is a human-team field case (Organization Science, 1991).
+
 - **[MASEval: Extending Multi-Agent Evaluation from Models to Systems](https://aclanthology.org/2026.acl-demo.34/)**: Emde et al. introduce a library for comparing complete agent systems, including orchestration, context handling, and error handling. The reported comparison spans three benchmarks, three models, and three frameworks (ACL System Demonstrations, 2026).
 - **[Distributed Subgradient Methods for Multi-agent Optimization](https://web.mit.edu/Asuman/Desktop/asuman/www/documents/distributed-journal-final.pdf)**: Angelia Nedić and Asuman Ozdaglar analyze minimizing a sum of locally known convex objectives through subgradient updates and local communication over time-varying networks. Guarantees depend on convexity, communication, and stepsize assumptions (IEEE Transactions on Automatic Control, 2009; linked 2007 manuscript).
 
