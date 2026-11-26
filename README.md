@@ -250,6 +250,7 @@
 
 ## Key papers
 
+- **[The Combination of Forecasts](https://doi.org/10.1057/jors.1969.103)**: Bates and Granger study weighted combinations of two airline-passenger forecasts, estimating weights from past errors and comparing mean-square prediction errors. This is an adjacent statistical-aggregation foundation (1969).
 - **[Groups Perform Better Than the Best Individuals on Letters-to-Numbers Problems: Effects of Group Size](https://pdodds.w3.uvm.edu/files/papers/others/everything/laughlin2006a.pdf)**: Laughlin et al. compare human groups with the best of an equivalent number of independent individuals on letter-to-number decoding with correctness feedback. Groups of three to five solved the studied problems in fewer trials (2006).
 - **[Scalable Mechanism Design for Multi-Agent Path Finding](https://ijcai.org/proceedings/2024/7)**: Friedrich et al. design strategyproof path-allocation mechanisms, including mechanisms using approximate pathfinding under specified preference and payment assumptions. Evaluation covers instances with dozens to hundreds of agents (IJCAI, 2024).
 - **[Moral Hazard in Teams](https://kylewoodward.com/blog-data/pdfs/references/holmstrom-the-bell-journal-of-economics-1982A.pdf)**: Bengt Holmström analyzes free riding in joint production when individual effort is imperfectly observed, examining incentive schemes, monitoring, and relative performance evaluation (The Bell Journal of Economics, 1982).
