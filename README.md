@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[A solution to the single-question crowd wisdom problem](https://marketing.wharton.upenn.edu/wp-content/uploads/2017/08/11-02-2017-McCoy-John-PAPER.pdf)**: Dražen Prelec, H. Sebastian Seung, and John McCoy aggregate answers using respondents’ predictions of others’ answers, selecting the answer more popular than predicted. The paper studies human judgments; its theoretical guarantee depends on a specified Bayesian information model (Nature, 2017).
+- **[MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/tomilin26a.html)**: Tomilin et al. introduce GPU-accelerated cooperative environments for evaluating continual multi-agent learning across task sequences, including sequences of 100 tasks. These benchmark evaluations do not establish lifelong deployment capability (ICML, 2026).
+
 - **[Towards Principled Unsupervised Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cc321baf0a8611b1d1bdbd18822667b-Abstract-Conference.html)**: Riccardo Zamboni, Mirco Mutti, and Marcello Restelli compare state-entropy objectives for reward-free multi-agent pretraining and develop a decentralized trust-region policy-search method. Pretraining uses a designed exploration objective before downstream task rewards are specified (NeurIPS, 2025).
 
 - **[Practical Byzantine Fault Tolerance](https://www.usenix.org/conference/osdi-99/practical-byzantine-fault-tolerance)**: Miguel Castro and Barbara Liskov develop Byzantine-fault-tolerant state-machine replication and evaluate a replicated NFS service. The model requires deterministic service behavior, cryptographic assumptions, and at most f faulty replicas among 3f+1; liveness also requires a delay condition (OSDI, 1999).
