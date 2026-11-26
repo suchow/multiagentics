@@ -240,6 +240,10 @@
 
 ## Key papers
 
+- **[TarMAC: Targeted Multi-Agent Communication](https://proceedings.mlr.press/v97/das19a.html)**: Das et al. learn message contents and recipients from task rewards, with multiple communication rounds before actions in partially observable multi-agent tasks (ICML, 2019).
+- **[Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://arxiv.org/abs/1812.09755)**: Singh, Jain, and Sukhbaatar introduce IC3Net, which learns communication timing through a gating mechanism and uses individualized rewards across cooperative, competitive, and mixed tasks (ICLR, 2019).
+- **[Async-RBench: Benchmarking Asynchronous Task Execution in LLM Agents](https://arxiv.org/abs/2610.32429)**: Zeng et al. evaluate responses to asynchronous subagent results through 200 executable tasks with controlled delivery and explicit response contracts (2026 preprint).
+
 - **[Grounding in Communication](https://web.stanford.edu/~clark/1990s/Clark%2C%20H.H.%20_%20Brennan%2C%20S.E.%20_Grounding%20in%20communication_%201991.pdf)**: Herbert H. Clark and Susan E. Brennan describe how human participants establish sufficient evidence of understanding, with grounding shaped by purpose and communication medium (1991).
 - **[How a Cockpit Remembers Its Speeds](https://pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf)**: Edwin Hutchins analyzes cockpit memory as information represented and propagated across pilots and instruments (Cognitive Science, 1995).
 - **[Learning to Share: Selective Memory for Efficient Parallel Agentic Systems](https://proceedings.mlr.press/v306/fioresi26a.html)**: Fioresi et al. learn which intermediate results parallel agent teams should add to shared memory. They evaluate information reuse and runtime on AssistantBench and GAIA (ICML, 2026).
