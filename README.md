@@ -244,6 +244,8 @@
 
 ## Key papers
 
+- **[Soylent: A Word Processor with a Crowd Inside](https://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf)**: Bernstein et al. introduce Find-Fix-Verify, separating problem identification, candidate edits, and review in a human crowdsourced word processor (UIST, 2010).
+- **[Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://proceedings.mlr.press/v235/triantafyllou24a.html)**: Triantafyllou et al. define causal effects transmitted through other agents’ responses in multi-agent MDPs. They provide sufficient counterfactual identification conditions and a sampling-based estimator. Evaluation uses simulations (ICML, 2024).
 - **[CrowdForge: Crowdsourcing Complex Work](https://smus.com/crowdforge/crowdforge-uist-11.pdf)**: Kittur, Smus, Khamkar, and Kraut organize complex human crowdsourced work through nested partition, map, and reduce tasks, with case studies in writing, decision making, and science journalism (UIST, 2011).
 - **[A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems](https://proceedings.mlr.press/v306/xu26bb.html)**: Xu, Tian, and Jiang distinguish parallel complete-solution replicas from concurrent subtasks within a solution. They evaluate combinations through TIPEX on GAIA, examining accuracy, latency, and token use (ICML, 2026).
 - **[A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades](https://snap.stanford.edu/class/cs224w-2010/readings/bikhchandani92fads.pdf)**: Bikhchandani, Hirshleifer, and Welch model informational cascades in which sequential decision makers follow earlier actions despite their private information. The model explains potentially mistaken and fragile conformity (1992).
