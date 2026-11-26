@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[Unreliable Failure Detectors for Reliable Distributed Systems](https://courses.csail.mit.edu/6.897/fall04/papers/Chandra/chandra-toueg.pdf)**: Tushar Deepak Chandra and Sam Toueg classify failure detectors by completeness and accuracy and establish conditions for consensus and atomic broadcast in asynchronous systems with crash failures. The results rely on specified abstract detector properties, rather than arbitrary timeout behavior (Journal of the ACM, 1996).
+- **[CollabSkill: Evaluating Human-Agent Collaboration On Real-World Tasks](https://proceedings.colm.cc/paper_files/paper/2026/hash/d487071f6edc4bc05a9ccba2f98e25a4-Abstract-Conference.html)**: Shao et al. evaluate agents working with occupationally matched human participants and use Bayesian ratings to estimate human and agent contributions. These estimates depend on the rating model and study design (COLM, 2026 pre-proceedings).
+
 - **[An Optimal Algorithm for Mutual Exclusion in Computer Networks](https://www.cs.ucf.edu/courses/cop6614/fall2005/Ricart-Agrawala.pdf)**: Glenn Ricart and Ashok K. Agrawala coordinate exclusive access through ordered requests and deferred replies, using 2(N−1) messages per critical-section invocation. The basic algorithm assumes correctly operating nodes and error-free message delivery (Communications of the ACM, 1981).
 - **[LLMs Can Predict Failure Risk, But Struggle to Predict Which Collaboration Protocol Pays Off: Cost-Aware Protocol Routing Across Reasoning Tasks](https://aclanthology.org/2026.findings-emnlp.1275/)**: Yang et al. compare four reasoning protocols with fixed solvers and token-cost accounting. They distinguish predicting initial-answer failure from selecting worthwhile collaboration. Evaluation uses competition mathematics and paired science checks (Findings of EMNLP, 2026).
 
