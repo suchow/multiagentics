@@ -344,6 +344,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Task Allocation Via Coalition Formation Among Autonomous Agents](https://ijcai.org/proceedings/1995/86)**: Onn Shehory and Sarit Kraus develop distributed task allocation through coalitions of agents with complementary capabilities. Their anytime algorithm concerns cooperative problem solving where a task may require several agents (IJCAI, 1995).
+
 - **[An Implementation of the Contract Net Protocol Based on Marginal Cost Calculations](https://cdn.aaai.org/AAAI/1993/AAAI93-039.pdf)**: Tuomas Sandholm formalizes contract-net bidding and awarding through locally calculated marginal costs and clustered task exchanges. TRACONET applies the protocol to distributed vehicle routing, with tests using transportation data (AAAI, 1993).
 
 - **[Understanding the Role of Negotiation in Distributed Search Among Heterogeneous Agents](https://ijcai.org/proceedings/1993/0062.pdf)**: Susan E. Lander and Victor R. Lesser introduce negotiated search, which combines local search, shared-solution construction, critique, and relaxation of solution requirements. Their TEAM framework assumes cooperative heterogeneous agents and stores emerging composite solutions in shared memory (IJCAI, 1993).
@@ -1005,6 +1007,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- **[Building Cooperative Embodied Agents Modularly with Large Language Models](https://proceedings.iclr.cc/paper_files/paper/2024/hash/54b8b4e0b4ba4aad112e84f32e3b5dbb-Abstract-Conference.html)**: Zhang et al. introduce CoELA, which combines perception, memory, communication, planning, and execution modules for decentralized embodied cooperation with costly communication. Evaluation uses C-WAH and TDW-MAT and includes a human–agent user study (ICLR, 2024).
 
 - **[Synchronization of Pulse-Coupled Biological Oscillators](https://epubs.siam.org/doi/10.1137/0150098)**: Renato E. Mirollo and Steven H. Strogatz study identical integrate-and-fire oscillators with pulse coupling. A firing oscillator raises others’ states toward their thresholds in this mathematical model (SIAM Journal on Applied Mathematics, 1990; adjacent collective-dynamics theory).
 
