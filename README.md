@@ -250,6 +250,7 @@
 
 ## Key papers
 
+- **[Corrupted Learning Dynamics in Games](https://proceedings.mlr.press/v291/tsuchiya25a.html)**: Tsuchiya, Ito, and Luo develop learning dynamics with regret bounds that adapt to deviations from prescribed strategies and corruption of observed utilities. They analyze external regret in two-player zero-sum games and swap regret in multiplayer general-sum games (COLT, 2025).
 - **[College Admissions and the Stability of Marriage](https://www.math.toronto.edu/~mccann/assignments/477/GaleShapley62.pdf)**: Gale and Shapley introduce deferred acceptance and prove existence of stable assignments for two-sided matching with fixed rankings without ties, including college admissions with quotas (1962).
 - **[Convex Markov Games: A New Frontier for Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v267/gemp25a.html)**: Gemp et al. introduce Markov games with convex preferences over occupancy measures, supporting objectives beyond additive rewards. They study equilibrium approximation through exploitability bounds (ICML, 2025).
 - **[On the Rationale of Group Decision-making](https://www.journals.uchicago.edu/doi/10.1086/256633)**: Duncan Black analyzes majority decisions in committees, including how single-peaked preferences restrict pairwise-voting outcomes under sincere voting (1948).
