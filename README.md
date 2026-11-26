@@ -240,6 +240,9 @@
 
 ## Key papers
 
+- **[Counterspeculation, Auctions, and Competitive Sealed Tenders](https://cramton.umd.edu/market-design-papers/vickrey-counterspeculation-auctions-and-competitive-sealed-tenders.pdf)**: William Vickrey analyzes auction rules, including incentives to bid private values when the highest bidder pays the second-highest bid, assuming no bidder collusion (The Journal of Finance, 1961).
+- **[Perfect Equilibrium in a Bargaining Model](https://arielrubinstein.org/papers/11.pdf)**: Ariel Rubinstein studies perfect equilibrium in two-player alternating-offer bargaining with costs of delay (Econometrica, 1982).
+
 - **[Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)**: Leslie Lamport defines causal event ordering and logical clocks for coordinating message-passing processes (Communications of the ACM, 1978).
 - **[Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)**: Fischer, Lynch, and Paterson prove that deterministic consensus cannot guarantee termination in a fully asynchronous system with reliable messages and even one possible process crash (JACM, 1985).
 - **[Designing a Family of Coordination Algorithms](https://cdn.aaai.org/ICMAS/1995/ICMAS95-010.pdf)**: Decker and Lesser introduce Generalized Partial Global Planning, modular mechanisms that coordinate cooperative agents by constraining their local schedules through exchanged task information and commitments (ICMAS, 1995).
