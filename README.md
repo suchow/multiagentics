@@ -672,6 +672,8 @@
 
 ### Communication and emergent language
 
+- **[A semantics approach for KQML—a general purpose communication language for software agents](https://courses.cs.umbc.edu/771/papers/cikm94.pdf)**: Yannis Labrou and Tim Finin specify KQML performatives through preconditions, postconditions, and completion conditions associated with agent cognitive states. Their framework assumes sincere agents and connects these semantics to conversation policies and message-handling implementations (CIKM, 1994).
+
 - **[Communicative Actions for Artificial Agents](https://cdn.aaai.org/ICMAS/1995/ICMAS95-009.pdf)**: Philip R. Cohen and Hector J. Levesque analyze semantic ambiguities in KQML and formalize requesting and informing through beliefs, goals, actions, and time. They illustrate compositional semantics by constructing a yes–no question from these speech acts (ICMAS, 1995).
 - **[Communicating Activations Between Language Model Agents](https://proceedings.mlr.press/v267/ramesh25a.html)**: Ramesh and Li combine intermediate activations from language-model agents during forward computation. They evaluate coordination games and reasoning benchmarks. The method requires access to model internals (ICML, 2025).
 
@@ -729,6 +731,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[Multi-agent Architecture Search via Agentic Supernet](https://proceedings.mlr.press/v267/zhang25bi.html)**: Zhang et al. introduce MaAS, which samples query-dependent multi-agent architectures from a learned distribution. They evaluate task performance and inference costs across six benchmarks, including transfer across datasets and language-model backbones (ICML, 2025).
 
 - **[SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b45279ac82cb017a5f55ea7d3653193a-Abstract-Conference.html)**: Zhao et al. train multi-agent systems using an experience library of successful reasoning trajectories and refined unsuccessful trajectories. They evaluate reasoning, biomedical question answering, and competitive negotiation (NeurIPS, 2025).
 
