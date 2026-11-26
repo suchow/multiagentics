@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[Algorithmic Game Theory](https://www.cs.cornell.edu/~eva/algorithmic-game-theory.pdf)**: Edited by Noam Nisan, Tim Roughgarden, Éva Tardos, and Vijay V. Vazirani, this collection covers equilibrium computation, algorithmic mechanism design, auctions, and equilibrium inefficiency, including applications to networks and information markets (Cambridge University Press, 2007).
 - **[A Roadmap of Agent Research and Development](https://publications.ri.cmu.edu/a-roadmap-of-agent-research-and-development)**: Jennings, Sycara, and Wooldridge review autonomous agents and multiagent systems through their key concepts, applications, historical development, and open research problems as understood in 1998.
 - **[Intelligent agents: theory and practice](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95.pdf)**: Wooldridge and Jennings survey agent theories, architectures, and programming languages, including formal representations of agency and practical approaches to building agents (The Knowledge Engineering Review, 1995).
 - **[Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research](https://hci.ucsd.edu/hollan/Pubs/tochi-revised.pdf)**: Hollan, Hutchins, and Kirsh develop a framework for analyzing information processing across people, artifacts, and time in human–computer interaction (TOCHI, 2000; author final revision).
