@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Consensus and Cooperation in Networked Multi-Agent Systems](https://murray.cds.caltech.edu/index.php/Consensus_and_Cooperation_in_Networked_Multi-Agent_Systems)**: Reza Olfati-Saber, J. Alex Fax, and Richard M. Murray organize consensus analysis around graph structure, directed information flow, changing topology, communication delays, and convergence speed. Guarantees depend on the graph and timing conditions of each model (Proceedings of the IEEE, 2007).
+
 - **[Coverage Control for Mobile Sensing Networks](https://motion.me.ucsb.edu/pdf/2002j-cmkb.pdf)**: Jorge Cortés, Sonia Martínez, Timur Karatas, and Francesco Bullo develop distributed sensing-vehicle coverage algorithms using centroidal Voronoi configurations. Their optimization model specifies a convex domain and sensing costs (IEEE Transactions on Robotics and Automation, 2004; linked corrected 2008 copy).
 - **[LLM-Guided Communication for Cooperative Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/bae26c.html)**: Bae et al. introduce LMAC, which uses an LLM to refine communication protocols against a state-reconstruction criterion in cooperative multi-agent reinforcement learning (ICML, 2026).
 
