@@ -750,6 +750,8 @@
 
 ### Social simulation and negotiation
 
+- **[Leveled Commitment Contracts and Strategic Breach](https://www.cs.cmu.edu/~sandholm/leveled.geb.pdf)**: Tuomas W. Sandholm and Victor R. Lesser introduce contracts that permit either agent to withdraw by paying a specified penalty. They analyze strategic breach and compare decommitment mechanisms within formal automated-negotiation models under uncertainty (Games and Economic Behavior, 2001).
+
 - **[Negotiation decision functions for autonomous agents](https://jmvidal.cse.sc.edu/library/faratin98a.pdf)**: Faratin, Sierra, and Jennings formalize tactics for generating offers, evaluating proposals, and producing counteroffers in service negotiations. Evaluation uses a business-process-management setting (Robotics and Autonomous Systems, 1998).
 
 - **[Resolving Goal Conflicts via Negotiation](https://cdn.aaai.org/AAAI/1988/AAAI88-044.pdf)**: Katia Sycara introduces PERSUADER, which combines case-based reasoning, goal relaxation, and multiattribute utilities to propose compromises in modeled labor disputes. Development and informal validation used mediator expertise (AAAI, 1988).
