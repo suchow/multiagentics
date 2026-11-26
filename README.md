@@ -251,6 +251,8 @@
 
 ## Key papers
 
+- **[Analyzing Intention in Utterances](https://sites.socsci.uci.edu/~lpearl/courses/readings/AllenPerrault1980_AnalyzingIntentionInUtterances.pdf)**: James F. Allen and C. Raymond Perrault use plan recognition and obstacle detection to generate helpful responses, including information beyond an explicit request and responses to sentence fragments. The implemented system was tested in a restricted train-information domain (Artificial Intelligence, 1980).
+
 - **[Colosseum: Auditing Collusion in Cooperative Multi-Agent Systems](https://arxiv.org/abs/2602.15198)**: Nakamura et al. compare communication-based collusion judgments with action-based regret relative to a cooperative optimum. Their audits include deliberately introduced secret channels and distinguish collusive discussion from collusive actions (2026 preprint, revised November 2026).
 - **[Persuasion in Practical Argument Using Value-based Argumentation Frameworks](https://intranet.csc.liv.ac.uk/~tbc/publications/jcl03.pdf)**: Trevor J. M. Bench-Capon extends abstract argumentation with values and audience preferences to model argument acceptance in practical disagreements. The formal account is illustrated through a moral debate (Journal of Logic and Computation, 2003).
 
