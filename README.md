@@ -310,6 +310,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Continual planning and acting in dynamic multiagent environments](https://gki.informatik.uni-freiburg.de/papers/brenner-nebel-jaamas09.pdf)**: Michael Brenner and Bernhard Nebel interleave planning, acting, and sensing through deliberately postponed subplans. MAPL represents unfinished subplans as assertions; evaluation uses multiagent simulations generated from formal planning domains (Autonomous Agents and Multi-Agent Systems, 2009).
+
 - **[FMAP: Distributed Cooperative Multi-Agent Planning](https://arxiv.org/abs/1501.07250)**: Torreño, Onaindia, and Sapena combine distributed partial-order planning with a domain-transition-graph heuristic. Agents declare what information to share with each peer and exchange corresponding views of refinement plans (Applied Intelligence, 2014; author manuscript archived 2015).
 
 - **[Consensus-Based Decentralized Auctions for Robust Task Allocation](https://dspace.mit.edu/entities/publication/b0bf0a05-be3b-433b-9f4b-ce314ed5178b)**: Han-Lim Choi, Luc Brunet, and Jonathan P. How introduce CBAA and CBBA for decentralized vehicle-task allocation. Agents select tasks through auctions and resolve conflicting bids through local consensus; guarantees depend on scoring and communication assumptions (IEEE Transactions on Robotics, 2009).
@@ -435,6 +437,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability](https://proceedings.mlr.press/v70/omidshafiei17a.html)**: Omidshafiei et al. combine decentralized single-task learning with distillation into a unified policy for multiple related partially observable tasks. Execution does not require an explicit task identity (ICML, 2017).
 
 - **[Too Many Cooks: Bayesian Inference for Coordinating Multi-Agent Collaboration](https://onlinelibrary.wiley.com/doi/10.1111/tops.12525)**: Wu et al. introduce Bayesian Delegation, which uses inverse planning to infer partners’ subtask intentions. Evaluation concerns decentralized coordination in cooking-inspired multi-agent tasks (Topics in Cognitive Science, 2021; [erratum correcting figure-caption order](https://onlinelibrary.wiley.com/doi/10.1111/tops.12540)).
 
