@@ -244,6 +244,8 @@
 
 ## Key papers
 
+- **[Group Versus Individual Training and Group Performance: The Mediating Role of Transactive Memory](https://journals.sagepub.com/doi/10.1177/0146167295214009)**: Liang, Moreland, and Argote compare group and individual training for radio assembly in three-person human groups. Better group recall and product quality are associated with transactive memory (1995).
+- **[MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks](https://proceedings.mlr.press/v306/ke26c.html)**: Ke et al. train orchestration through function-calling reinforcement learning and introduce MASBENCH to evaluate task depth, horizon, breadth, parallelism, and robustness (ICML, 2026).
 - **[Evolving Interpretable Constitutions for Multi-Agent Coordination](https://proceedings.mlr.press/v306/kumar26f.html)**: Kumar et al. use LLM-driven genetic programming to evolve explicit behavioral rules for agents in a survival grid world. They evaluate productivity, survival, and conflict through a combined score (ICML, 2026).
 - **[AgentSpeak(L): BDI agents speak out in a logical computable language](https://link.springer.com/chapter/10.1007/BFb0031845)**: Anand S. Rao gives AgentSpeak(L) operational and proof-theoretic semantics, connecting executable BDI agent programs with formal reasoning about their properties (MAAMAW, 1996).
 - **[Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate](https://proceedings.mlr.press/v306/ha26a.html)**: Ha and Mitchell study answer revisions under controlled peer responses in ConceptARC, measuring changes in solution distance alongside binary correctness in two-dimensional grid tasks (ICML, 2026).
