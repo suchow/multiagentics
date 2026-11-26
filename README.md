@@ -240,6 +240,9 @@
 
 ## Key papers
 
+- **[Elements of a Plan-Based Theory of Speech Acts](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog0303_1)**: Philip R. Cohen and C. Raymond Perrault model requesting and informing as planning operators and integrate communicative and physical actions within plans (Cognitive Science, 1979).
+- **[Open Agent Specification: Enabling Cross-Framework Comparison of AI Agents](https://doi.org/10.1145/3786335.3813130)**: Amini et al. introduce a declarative agent specification and compare shared designs across LangGraph, CrewAI, AutoGen, and WayFlow on three benchmarks. Shared specifications preserve intended structure without requiring identical runtime behavior (ACM CAIS, 2026).
+
 - **[The Bargaining Problem](https://jmvidal.cse.sc.edu/library/nash50a.pdf)**: John F. Nash, Jr. develops an axiomatic solution to two-person bargaining (Econometrica, 1950).
 - **[Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/984dd3db213db2d1454a163b65b84d08-Abstract.html)**: Abdelnabi et al. introduce scored multi-party, multi-issue negotiation games and evaluate agreement, role adherence, and interactions with greedy or adversarial participants (NeurIPS, 2024).
 - **[Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation](https://proceedings.mlr.press/v306/liu26ef.html)**: Liu et al. combine an in-context opponent model with simulated best-of-N responses to study adaptation across two forms of repeated negotiation games without parameter updates (ICML, 2026).
