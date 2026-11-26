@@ -424,6 +424,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Agent Modelling under Partial Observability for Deep Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/hash/a03caec56cd82478bf197475b48c05f9-Abstract.html)**: Papoudakis, Christianos, and Albrecht learn encoder–decoder representations of agents with fixed policies using their observations and actions during training. At execution, the controlled agent conditions its policy on representations inferred from its own local observations (NeurIPS, 2021).
+
 - **[Distributed Value Functions](https://publications.ri.cmu.edu/distributed-value-functions)**: Jeff Schneider, Weng-Keen Wong, Andrew Moore, and Martin Riedmiller distribute value-function learning across agents with local observations, actions, and rewards. Neighboring agents exchange value estimates for a summed-reward objective over the network (ICML, 1999).
 
 - **[Weighted QMIX: Expanding Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/73a427badebe0e32caa2e1fc7530b7f3-Abstract.html)**: Tabish Rashid, Gregory Farquhar, Bei Peng, and Shimon Whiteson analyze policy errors caused by QMIX’s unweighted value projection and introduce weighting schemes that prioritize better joint actions. Deep implementations are evaluated on predator–prey and StarCraft tasks, separately from the tabular analysis (NeurIPS, 2020).
@@ -683,6 +685,8 @@
 - **[Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y)**: Kim et al. compare single-agent and multi-agent architectures under controlled prompts, tools, and compute budgets across six benchmarks. They examine when coordination improves performance or adds overhead (Nature Machine Intelligence, 2026; [preprint](https://arxiv.org/abs/2512.08296)).
 
 ### Safety, security, and verification
+
+- **[A Modal Logic for Coalitional Power in Games](https://doi.org/10.1093/logcom/12.1.149)**: Marc Pauly introduces Coalition Logic for reasoning about outcomes that groups can guarantee through collective action. The axiomatization and completeness result concern perfect-information game frames with simultaneous actions (Journal of Logic and Computation, 2002).
 
 - **[Alternating-Time Temporal Logic](https://www.cis.upenn.edu/~alur/Jacm02.pdf)**: Rajeev Alur, Thomas A. Henzinger, and Orna Kupferman introduce logics for specifying strategic abilities in open systems. Selective path quantifiers describe outcomes that coalitions can enforce within concurrent game structures (Journal of the ACM, 2002; expanded journal version of a 1997 conference paper).
 
