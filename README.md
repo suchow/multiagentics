@@ -388,6 +388,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v70/foerster17b.html)**: Foerster et al. address changing teammate policies through importance weighting of replay data and value functions conditioned on training-progress fingerprints. Evaluation uses decentralized StarCraft micromanagement (ICML, 2017).
+
 - **[Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1805.07830)**: Omidshafiei et al. introduce LeCTR, in which cooperative agents learn when and what advice to exchange. Agents learn to request and provide advice as students and teachers during team learning (2018 preprint).
 
 - **[MAVEN: Multi-Agent Variational Exploration](https://proceedings.neurips.cc/paper/2019/hash/f816dc0acface7498e10496222e9db10-Abstract.html)**: Anuj Mahajan, Tabish Rashid, Mikayel Samvelyan, and Shimon Whiteson condition value-based agents on a shared latent variable selected by a hierarchical policy for temporally extended exploration. Evaluation uses StarCraft Multi-Agent Challenge tasks (NeurIPS, 2019).
@@ -629,6 +631,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[The Network Structure of Exploration and Exploitation](https://ndg.asc.upenn.edu/wp-content/uploads/2016/04/Lazer-Friedman-2007-ASQ.pdf)**: David Lazer and Allan Friedman simulate parallel search in communication networks where less successful agents copy better-performing neighbors. Faster diffusion improves short-run performance but can reduce long-run exploration in the modeled problem spaces (Administrative Science Quarterly, 2007).
 
 - **[Optimally Interacting Minds](https://pure.au.dk/ws/files/51720586/BahramiSci2010.pdf)**: Bahrami et al. study communicating human pairs in a visual decision task. Pairs with similar sensitivity outperform either member; pairs with markedly different sensitivities can underperform their better member. Transfer to AI teams is unverified (Science, 2010).
 
