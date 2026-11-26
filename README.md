@@ -442,6 +442,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[RODE: Learning Roles to Decompose Multi-Agent Tasks](https://www.cs.ox.ac.uk/publications/publication14514-abstract.html)**: Wang et al. cluster actions by their effects to construct restricted role action spaces. A hierarchical selector assigns roles, and role policies choose primitive actions. Evaluation concerns StarCraft II micromanagement and specified transfer settings (ICLR, 2021).
+
 - **[Shapley Q-Value: A Local Reward Approach to Solve Global Reward Games](https://cdn.aaai.org/ojs/6220/6220-13-9445-1-10-20200516.pdf)**: Wang et al. formulate Shapley Q-values for cooperative credit assignment and derive SQDDPG with per-agent critics. Evaluation covers cooperative navigation, predator–prey, and traffic junction tasks (AAAI, 2020).
 
 - **[Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability](https://proceedings.mlr.press/v70/omidshafiei17a.html)**: Omidshafiei et al. combine decentralized single-task learning with distillation into a unified policy for multiple related partially observable tasks. Execution does not require an explicit task identity (ICML, 2017).
@@ -745,6 +747,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[Resolving Goal Conflicts via Negotiation](https://cdn.aaai.org/AAAI/1988/AAAI88-044.pdf)**: Katia Sycara introduces PERSUADER, which combines case-based reasoning, goal relaxation, and multiattribute utilities to propose compromises in modeled labor disputes. Development and informal validation used mediator expertise (AAAI, 1988).
 
 - **[Argumentation-based negotiation](https://web.mit.edu/~irahwan/www/docs/ker2003.pdf)**: Rahwan et al. develop a conceptual framework for negotiation through exchanged arguments and survey communication languages, protocols, information stores, and argument evaluation and selection (The Knowledge Engineering Review, 2003 issue; published online 2004).
 - **[Agents that Reason and Negotiate by Arguing](https://www.emse.fr/~boissier/enseignement/sma05/exposes/jlc.pdf)**: Simon Parsons, Carles Sierra, and Nick R. Jennings formalize argumentation-based negotiation and connect it to multi-context belief–desire–intention agent architectures (Journal of Logic and Computation, 1998; linked February author manuscript).
