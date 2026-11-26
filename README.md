@@ -251,6 +251,9 @@
 
 ## Key papers
 
+- **[MOSDT: Self-Distillation-Based Decision Transformer for Multi-Agent Offline Safe Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/22811d2089d4aa0ba66e52a5e47efb65-Abstract-Conference.html)**: Xia and Xu introduce the MOSDB offline multi-agent benchmark and a shared-parameter decision transformer using policy self-distillation and cost embeddings. Evaluation covers 18 tasks based on MuJoCo, Safety Gym, and Isaac Gym with specified safety costs (NeurIPS, 2025).
+- **[An abstract, argumentation-theoretic approach to default reasoning](https://www.doc.ic.ac.uk/~rak/papers/BDKTarg.pdf)**: Bondarenko, Dung, Kowalski, and Toni unify several default-reasoning formalisms through defeasible assumptions and attacks on their contraries. Their admissible sets are conflict-free and defend themselves against attacks (Artificial Intelligence, 1997).
+
 - **[Analyzing Intention in Utterances](https://sites.socsci.uci.edu/~lpearl/courses/readings/AllenPerrault1980_AnalyzingIntentionInUtterances.pdf)**: James F. Allen and C. Raymond Perrault use plan recognition and obstacle detection to generate helpful responses, including information beyond an explicit request and responses to sentence fragments. The implemented system was tested in a restricted train-information domain (Artificial Intelligence, 1980).
 
 - **[Colosseum: Auditing Collusion in Cooperative Multi-Agent Systems](https://arxiv.org/abs/2602.15198)**: Nakamura et al. compare communication-based collusion judgments with action-based regret relative to a cooperative optimum. Their audits include deliberately introduced secret channels and distinguish collusive discussion from collusive actions (2026 preprint, revised November 2026).
