@@ -22,6 +22,7 @@
 
 ## Foundations & surveys
 
+- **[A Roadmap of Agent Research and Development](https://publications.ri.cmu.edu/a-roadmap-of-agent-research-and-development)**: Jennings, Sycara, and Wooldridge review autonomous agents and multiagent systems through their key concepts, applications, historical development, and open research problems as understood in 1998.
 - **[Intelligent agents: theory and practice](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95.pdf)**: Wooldridge and Jennings survey agent theories, architectures, and programming languages, including formal representations of agency and practical approaches to building agents (The Knowledge Engineering Review, 1995).
 - **[Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research](https://hci.ucsd.edu/hollan/Pubs/tochi-revised.pdf)**: Hollan, Hutchins, and Kirsh develop a framework for analyzing information processing across people, artifacts, and time in human–computer interaction (TOCHI, 2000; author final revision).
 - **[Convention: A Philosophical Study](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470693711)**: David Lewis analyzes conventions as regular solutions to recurring coordination problems and applies the account to communication and language (1969; linked edition, 2002).
