@@ -386,6 +386,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Truth Revelation in Approximately Efficient Combinatorial Auctions](https://arxiv.org/abs/cs/0202017)**: Lehmann, O’Callaghan, and Shoham show that a particular greedy allocation method can invalidate generalized Vickrey truthfulness. They provide a different payment scheme with dominant-strategy truthfulness for a restricted bidder class (Journal of the ACM, 2002).
+
 - **[Complexity of Mechanism Design](https://www.cs.cmu.edu/~conitzer/amdUAI02.pdf)**: Vincent Conitzer and Tuomas Sandholm study automated preference-aggregation mechanism design without side payments. In their explicitly represented formulation, deterministic design is NP-complete under dominant-strategy and Bayes–Nash incentive constraints; randomized design admits linear programming (UAI, 2002).
 
 - **[The Computational Difficulty of Manipulating an Election](https://www.cs.cmu.edu/~arielpro/15780/readings/BTT89.pdf)**: Bartholdi, Tovey, and Trick analyze strategic voting with complete knowledge of other voters’ preferences. They establish worst-case computational hardness of manipulation for Copeland voting with second-order tie-breaking, despite efficient winner determination (Social Choice and Welfare, 1989).
@@ -443,6 +445,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Influence-Based Multi-Agent Exploration](https://arxiv.org/abs/1910.05512)**: Wang et al. introduce EITI and EDTI, intrinsic-reward methods for coordinated exploration in transition-dependent multi-agent tasks. Their objectives use transition interdependence or effects on other agents’ expected returns (ICLR, 2020).
 
 - **[Learning to Share in Networked Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/61d8577984e4ef0cba20966eb3ef2ed8-Abstract.html)**: Yi et al. introduce LToS, a decentralized hierarchy that learns reward sharing among network neighbors. High-level sharing policies and low-level policies for the resulting local objectives train alternately in partially connected networks (NeurIPS, 2022).
 
