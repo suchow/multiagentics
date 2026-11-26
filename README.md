@@ -240,6 +240,10 @@
 
 ## Key papers
 
+- **[An Iterative Method of Solving a Game](https://cs.brown.edu/courses/csci1440/labs/2023/lab01/robinson.pdf)**: Julia Robinson proves convergence of Brown’s fictitious-play procedure for empirical mixed strategies in finite two-player zero-sum games (Annals of Mathematics, 1951).
+- **[Multi-Agent Reinforcement Learning: Independent vs. Cooperative Agents](https://web.mit.edu/16.412j/www/html/Advanced%20lectures/2004/Multi-AgentReinforcementLearningIndependentVersusCooperativeAgents.pdf)**: Ming Tan compares independent learners with agents sharing sensations, episodes, or learned policies and examines learning gains and communication costs (ICML, 1993).
+- **[LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior](https://proceedings.mlr.press/v306/zhou26i.html)**: Zhou, Gan, and Cherian derive cooperation rules from failed interactions and incorporate them through supervised fine-tuning. Evaluation uses simulated communicative tasks in PARTNR-Dialog and TDW-MAT (ICML, 2026).
+
 - **[Hierarchical Planning in a Distributed Environment](https://ijcai.org/proceedings/1979/41)**: Daniel D. Corkill distributes NOAH’s hierarchical planning, conflict criticism, and world-model mechanisms across planning processors, illustrated with small planning examples (IJCAI, 1979).
 - **[Partial-Order Planning with Concurrent Interacting Actions](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume14/boutilier01a.pdf)**: Boutilier and Brafman introduce POMP, a sound and complete partial-order planner for concurrent interacting actions under their STRIPS-style model. Planning is centralized for cooperative agent teams (JAIR, 2001).
 - **[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](https://proceedings.mlr.press/v306/lupu26a.html)**: Lupu, Willi, and Foerster evaluate interactive multi-agent reasoning through a cooperative–competitive word game, including human–AI cross-play and targeted theory-of-mind tasks (ICML, 2026).
