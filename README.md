@@ -267,6 +267,8 @@
 
 ### Agent foundations and architectures
 
+- **[Asynchronous Teams: Cooperation Schemes for Autonomous Agents](https://link.springer.com/article/10.1023/A:1009669824615)**: Talukdar et al. organize autonomous optimization agents around shared populations of trial solutions. Agents asynchronously construct, modify, and remove solutions; traveling-salesman experiments and Markov models examine this cooperation scheme (Journal of Heuristics, 1998).
+
 - **[The BOID architecture: conflicts between beliefs, obligations, intentions and desires](https://icr.uni.lu/leonvandertorre/bibtexbrowser.php?bib=leononly_new_incomplete.bib&key=DBLP%3Aconf%2Fagents%2FBroersenDHHT01)**: Broersen et al. introduce BOID, an agent architecture with beliefs, obligations, intentions, and desires. Feedback loops and conflict-resolution mechanisms define different agent types (Agents, 2001; author-hosted abstract).
 
 - **[An ontology for commitments in multiagent systems: Toward a unification of normative concepts](https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/ai%2Blaw-final.pdf)**: Munindar P. Singh describes social commitments and their operations within spheres of commitment. The normative framework relates obligations, taboos, conventions, and pledges through a common commitment vocabulary (Artificial Intelligence and Law, 1999).
