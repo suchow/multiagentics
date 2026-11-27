@@ -864,6 +864,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[Accelerating scientific discovery with Co-Scientist](https://www.nature.com/articles/s41586-026-10644-y)**: Gottweis et al. coordinate hypothesis generation, reflection, ranking, and refinement through asynchronous agents and tournaments. Scientists guide research goals and feedback. Selected biomedical hypotheses undergo separate in-vitro validation (Nature, 2026).
+
 - **[INMS: Memory Sharing for Large Language Model based Agents](https://aclanthology.org/2026.aacl-long.108/)**: Hang Gao and Yongfeng Zhang share filtered prompt–answer pairs through a common memory pool and update a retrieval mediator from accumulated interactions. Evaluation uses three-agent groups on literary creation, logical problems, and planning tasks (AACL-IJCNLP, 2026).
 
 - **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640)**: Sijie Li, Weiwei Sun, Shanda Li, Ameet Talwalkar, and Yiming Yang combine coordinating, analyzing, proposing, coding, and evaluating agents for machine-learning competitions. MLE-Live evaluates use of time-stamped community discussions and shared code in past and ongoing Kaggle competitions (ICLR, 2026).
@@ -969,6 +971,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[The RoboCup Synthetic Agent Challenge 97](https://ijcai.org/proceedings/1997/4)**: Kitano et al. define simulated-soccer challenges for individual and team learning, team planning and execution, and opponent modeling. Proposed evaluation combines matches against reference and submitted teams with constrained tasks and technical assessment (IJCAI, 1997).
 
 - **[Benchmarks, Test Beds, Controlled Experimentation, and the Design of Agent Architectures](https://paulrcohen.github.io/papers/Hanks-1993.pdf)**: Steve Hanks, Martha E. Pollack, and Paul R. Cohen survey agent test beds and examine experimental control, representative tasks, and generalization from performance comparisons. The article presents differing views on experimental methodology for planning agents (AI Magazine, 1993).
 
