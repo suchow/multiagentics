@@ -624,6 +624,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[BenchMARL: Benchmarking Multi-Agent Reinforcement Learning](https://www.jmlr.org/papers/v25/23-1612.html)**: Matteo Bettini, Amanda Prorok, and Vincent Moens introduce a TorchRL-based training library for comparing multi-agent algorithms, models, and environments through standardized configuration and reporting (JMLR, 2024).
+
 - **[AWESOME: A General Multiagent Learning Algorithm that Converges in Self-Play and Learns a Best Response Against Stationary Opponents](https://arxiv.org/abs/cs/0307002)**: Vincent Conitzer and Tuomas Sandholm introduce an algorithm with self-play Nash-convergence and stationary-opponent best-response guarantees in finite repeated games. The method assumes a known game, observed actions, and a common precomputed equilibrium for self-play (ICML, 2003; [journal extension](https://www.cs.cmu.edu/~sandholm/www/awesome.ml07.pdf), Machine Learning, 2007).
 
 - **[Hysteretic Q-Learning: an algorithm for Decentralized Reinforcement Learning in Cooperative Multi-Agent Teams](https://gjlaurent.github.io/assets/papers/Matignon2007hysteretic.pdf)**: Laëtitia Matignon, Guillaume J. Laurent, and Nadine Le Fort-Piat introduce separate learning rates for positive and negative Q-value updates in independent cooperative learners without additional inter-agent communication. Evaluation uses repeated matrix games, collaborative ball balancing, and pursuit tasks (IROS, 2007).
