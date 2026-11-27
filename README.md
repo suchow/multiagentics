@@ -1050,6 +1050,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Re-evaluating evaluation](https://proceedings.neurips.cc/paper_files/paper/2018/hash/cdf1035c34ec380218a8cc9a43d438f9-Abstract.html)**: David Balduzzi, Karl Tuyls, Julien Perolat, and Thore Graepel introduce Nash averaging for agent-versus-agent and agent-versus-task evaluation. The method uses equilibrium mixtures to account for redundant agents or tasks within the specified evaluation model (NeurIPS, 2018).
+
 - **[PettingZoo: A Standard API for Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/803f7c4c3ff61b71be53a0c803bfb57f-Paper.pdf)**: Terry et al. introduce the Agent Environment Cycle game model and a shared Python interface for multi-agent environments. They relate the model to partially observable stochastic games and examine implementation bugs caused by ambiguous environment-step semantics (NeurIPS, 2021; proceedings record titled *PettingZoo: Gym for Multi-Agent Reinforcement Learning*).
 
 - **[TEACh: Task-Driven Embodied Agents That Chat](https://www.amazon.science/publications/teach-task-driven-embodied-agents-that-chat)**: Padmakumar et al. introduce over 3,000 human–human dialogues for completing household tasks in simulation. An informed Commander communicates with a Follower that navigates and manipulates objects. Three benchmarks evaluate dialogue understanding, language grounding, and task execution (AAAI, 2022).
@@ -1257,6 +1259,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Why Copy Others? Insights from the Social Learning Strategies Tournament](https://lalandlab.wp.st-andrews.ac.uk/files/2015/08/rendell_et-al_2010.pdf)**: Rendell et al. compare submitted social-learning strategies in a changing simulated multiarmed-bandit environment. Successful strategies frequently copied other agents, whose demonstrated actions filtered available information toward higher-payoff behavior (Science, 2010).
 
 - **[Real-time Crowd Control of Existing Interfaces](https://people.csail.mit.edu/kylem/pubs/legion.pdf)**: Walter S. Lasecki, Kyle I. Murray, Samuel White, Robert C. Miller, and Jeffrey P. Bigham introduce Legion, which combines human crowd workers’ keyboard and mouse input to control existing interfaces in real time. They compare five mediation strategies across selected applications (UIST, 2011).
 
