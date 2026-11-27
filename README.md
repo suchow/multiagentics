@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Mechanism design meets large language models: Foundations and frontiers](https://www.sciencedirect.com/science/article/pii/S3051390126000334)**: Baiting Chen, Tong Zhu, Xuanang Li, Yichi Zhang, and Xiaowu Dai survey language models as participants and interfaces in economic mechanisms, alongside incentive-aware evaluation, alignment, and training of language models. Topics include negotiation, preference elicitation, and markets for model services (Statistical Learning and Data Science, 2026 journal pre-proof).
+
 - **[Multiagent Systems: A Survey from a Machine Learning Perspective](https://www.cs.cmu.edu/~mmv/papers/MASsurvey.pdf)**: Peter Stone and Manuela Veloso organize multiagent systems by agent heterogeneity and communication, with an emphasis on machine-learning approaches. Pursuit and robotic-soccer examples illustrate the survey’s non-exhaustive framework (Autonomous Robots, 2000).
 
 - **[On agent-based software engineering](https://jmvidal.cse.sc.edu/library/abse.pdf)**: Nicholas R. Jennings analyzes agent-based software engineering through autonomous components, high-level interactions, and explicit organizational relationships. The qualitative account also discusses disadvantages of the approach (Artificial Intelligence, 2000).
