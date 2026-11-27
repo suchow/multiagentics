@@ -1092,6 +1092,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Cognition in the Wild](https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/)**: Edwin Hutchins analyzes ship navigation as cognition distributed across a human team, its instruments, and its organizational practices. The book develops an ethnographic account of collective cognition (MIT Press, 1995; linked paperback edition, 1996).
+
 - **[Understanding and sharing intentions: The origins of cultural cognition](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/understanding-and-sharing-intentions-the-origins-of-cultural-cognition/F9C40BF73A68B30B8EB713F2F947F7E2)**: Michael Tomasello, Malinda Carpenter, Josep Call, Tanya Behne, and Henrike Moll propose shared intentionality as an account of human cultural cognition based on developmental and comparative research. The account concerns collaborative activities with shared goals and intentions; transfer to AI teams is unverified (Behavioral and Brain Sciences, 2005).
 
 - **[Multi-Round Human–AI Collaboration with User-Specified Requirements](https://proceedings.mlr.press/v306/noorani26a.html)**: Sima Noorani, Shayan Kiyani, Hamed Hassani, and George J. Pappas formalize user-defined constraints on harmful advice and complementary assistance during repeated interaction. Evaluation includes simulated medical-diagnosis conversations and a human crowdsourcing study of pictorial reasoning (ICML, 2026).
