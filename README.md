@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Growing Artificial Societies: Social Science from the Bottom Up](https://www.brookings.edu/books/growing-artificial-societies/)**: Joshua M. Epstein and Robert L. Axtell develop Sugarscape, an agent-based simulation of resource gathering, population change, cultural transmission, and trade. The book studies aggregate social patterns produced by specified local rules (Brookings Institution Press and MIT Press, 1996; publisher description).
+
 - **[Automated Negotiation: Prospects, Methods and Challenges](https://jmvidal.cse.sc.edu/library/jennings01a.pdf)**: N. R. Jennings, P. Faratin, A. R. Lomuscio, S. Parsons, M. Wooldridge, and C. Sierra organize automated negotiation around interaction protocols, negotiation objects, and agents’ decision models. They assess game-theoretic, heuristic, and argumentation-based approaches, with emphasis on their own research (Group Decision and Negotiation, 2001).
 
 - **[Self-Organization in Biological Systems](https://press.princeton.edu/books/paperback/9780691116242/self-organization-in-biological-systems)**: Scott Camazine, Jean-Louis Deneubourg, Nigel R. Franks, James Sneyd, Guy Theraulaz, and Eric Bonabeau examine how local interactions produce collective biological structures and behavior, including schooling, synchronization, foraging, and nest construction. This is biological background for self-organizing systems (Princeton University Press, 2001; linked paperback edition, 2003).
@@ -637,6 +639,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[IMP-MARL: a Suite of Environments for Large-scale Infrastructure Management Planning via MARL](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a7a7c0c92f195cce85f99768621ac6c0-Abstract-Datasets_and_Benchmarks.html)**: Leroy et al. introduce cooperative infrastructure-maintenance simulations where agents inspect and repair individual components under uncertain damage conditions. They compare learning methods with expert heuristics across systems with up to 100 agents, including offshore-wind structures (NeurIPS Datasets and Benchmarks, 2023).
 
 - **[Learning to Cooperate via Policy Search](https://arxiv.org/abs/cs/0105032)**: Leonid Peshkin, Kee-Eung Kim, Nicolas Meuleau, and Leslie Pack Kaelbling develop distributed gradient-based policy search for cooperative agents with partial observations and a shared reward. They analyze local optima and Nash equilibria and evaluate the method in simulated soccer (UAI, 2000).
 
