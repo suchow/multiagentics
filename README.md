@@ -273,6 +273,8 @@
 
 ### Agent foundations and architectures
 
+- **[GOLOG: A logic programming language for dynamic domains](https://www.cs.toronto.edu/kr/papers/GOLOGlang.pdf)**: Hector J. Levesque, Raymond Reiter, Yves Lespérance, Fangzhen Lin, and Richard B. Scherl introduce a situation-calculus language for high-level agent programs. Execution relies on supplied axioms for initial conditions, action preconditions, and effects. The paper describes a Prolog prototype (Journal of Logic Programming, 1997; linked author draft).
+
 - **[Strategies of Cooperation in Distributed Problem Solving](https://ijcai.org/proceedings/1983/0185.pdf)**: Cammarata, McArthur, and Steeb distinguish organizational policies from information-distribution policies in cooperative problem solving. They compare strategies in simulated air-traffic collision avoidance (IJCAI, 1983).
 
 - **[Towards Adjustable Autonomy for the Real World](https://arxiv.org/abs/1106.4573)**: Scerri, Pynadath, and Tambe model conditional sequences of control transfers and changes to team coordination constraints. Markov decision processes select strategies under modeled costs and uncertainty. Evaluation includes research-group assistance through Electric Elves (JAIR, 2002; archived 2011).
