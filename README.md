@@ -812,6 +812,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://aclanthology.org/2025.acl-long.1368/)**: Su et al. organize simulated scientist teams to select collaborators, discuss topics, and refine research ideas. Evaluation compares generated abstracts through publication-based proxy metrics, model reviews, and blinded human ratings; the proposed research is not executed (ACL, 2025).
+
 - **[Fork-and-Flush: Escaping Idea Basins in Autoresearch Agents](https://arxiv.org/abs/2610.07447)**: Cai et al. periodically branch research agents from a shared workspace with fresh conversational contexts, then continue from the highest-scoring branch. Evaluation compares sequential and independent parallel search under matched budgets across 13 research and engineering tasks (2026 preprint).
 
 - **[What it Takes for Coding Agents to Complete Large Software Tasks](https://factory.com/news/what-it-takes-for-coding-agents-to-complete-large-software-tasks)**: Factory Research and Theo Luan compare single coding agents with orchestrator, implementer, and validator roles on 24 selected ProgramBench tasks. The validator constructs private behavioral checks before implementation and reports findings through the orchestrator. Campaigns are not compute-matched (Factory research report, August 27, 2026).
