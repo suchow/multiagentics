@@ -283,6 +283,10 @@
 
 ### Agent foundations and architectures
 
+- **[Part One: The Blackboard Model of Problem Solving and the Evolution of Blackboard Architectures](https://onlinelibrary.wiley.com/doi/full/10.1609/aimag.v7i2.537)**: H. Penny Nii explains blackboard problem solving through independent knowledge sources, shared solution-state data, and opportunistic control. The survey traces architectural variants and distinguishes the conceptual model from computational implementations (AI Magazine, 1986).
+
+- **[A blackboard architecture for control](https://www.sciencedirect.com/science/article/pii/0004370285900633)**: Barbara Hayes-Roth separates domain reasoning from control reasoning in a blackboard architecture. The paper illustrates action selection through the OPM multiple-task planner and comparisons with Hearsay-II and HASP (Artificial Intelligence, 1985).
+
 - **[Plans and resource-bounded practical reasoning](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1988.tb00284.x)**: Michael E. Bratman, David J. Israel, and Martha E. Pollack specify a practical-reasoning architecture in which plans constrain further deliberation under limited computational resources. This is an individual-agent architectural foundation (Computational Intelligence, 1988).
 
 - **[Environment as a first class abstraction in multiagent systems](https://link.springer.com/article/10.1007/s10458-006-0012-0)**: Danny Weyns, Andrea Omicini, and James Odell define the environment as an explicit multi-agent design abstraction and present a reference model of its responsibilities (Autonomous Agents and Multi-Agent Systems, 2007; published online 2006).
