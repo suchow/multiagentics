@@ -554,6 +554,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Dynamics of computational ecosystems](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.40.404)**: Kephart, Hogg, and Huberman analyze and simulate decentralized resource allocation with asynchronous decisions, incomplete knowledge, and delayed information. Their models exhibit persistent oscillations and chaos and examine how heterogeneous resource requirements affect stability (Physical Review A, 1989).
+
 - **[Emergence of Cooperation and Organization in an Evolutionary Game](https://arxiv.org/abs/adap-org/9708006)**: Damien Challet and Yi-Cheng Zhang introduce the minority game, where agents independently choose between two options and minority members win. Simulations examine collective coordination using finite strategy sets and limited public histories (1997 manuscript).
 
 - **[Evolutionarily Stable Strategies and Game Dynamics](https://public.ek-cer.hu/~szabo/EGT20/library/taylor_mbs78.pdf)**: Peter D. Taylor and Leo B. Jonker derive population dynamics in which strategy frequencies change with reproductive fitness. They relate evolutionarily stable strategies to continuous-time stability under a nondegeneracy condition and examine differences in discrete-time dynamics (Mathematical Biosciences, 1978).
@@ -1151,6 +1153,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[Genius: An Integrated Environment for Supporting the Design of Generic Automated Negotiators](https://doi.org/10.1111/j.1467-8640.2012.00463.x)**: Lin et al. introduce Genius for designing and evaluating automated negotiators across negotiation domains. It combines analysis tools with repositories of domains, utility functions, and agent strategies (Computational Intelligence, 2014; online 2012).
 
 - **[Supply Chain Management World: A Benchmark Environment for Situated Negotiations](https://link.springer.com/chapter/10.1007/978-3-030-33792-6_10)**: Mohammad et al. introduce Supply Chain Management World to evaluate situated negotiation strategies. Agents decide whom to negotiate with and what to negotiate about within a dynamic supply-chain simulation. The paper compares baseline strategies (PRIMA, 2019).
 
