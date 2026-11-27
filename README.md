@@ -1176,6 +1176,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Social influence and opinions](https://escholarship.org/content/qt2r82w1vs/qt2r82w1vs.pdf)**: Noah E. Friedkin and Eugene C. Johnsen model opinion change through interpersonal influence and continuing external influences. Their linear framework derives earlier models as special cases and analyzes conditions for settled opinions. This is adjacent human social-network theory; transfer to AI teams is unverified (Journal of Mathematical Sociology, 1990).
+
 - **[Socratic: Enhancing Human Teamwork via AI-enabled Coaching](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1876.pdf)**: Seo et al. introduce an AI coach that models team behavior from demonstrations and recommends interventions during task execution. A randomized validation study evaluates dyadic teams in partially observable box-moving and flood-response simulations (AAMAS, 2025).
 
 - **[Altruistic punishment in humans](https://www.econ.uzh.ch/dam/jcr:ffffffff-9758-127f-ffff-fffffd123b6f/AltruisticPunishment.pdf)**: Ernst Fehr and Simon Gächter compare anonymous public-goods games with and without opportunities for costly punishment. Contributions were higher with punishment despite changing group membership and no repeated pairings. This is human experimental evidence about cooperation (Nature, 2002).
