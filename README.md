@@ -556,6 +556,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Efficient Computation of Equilibria for Extensive Two-Person Games](https://ai.stanford.edu/~koller/Papers/Koller%2Bal%3AGEB96.pdf)**: Daphne Koller, Nimrod Megiddo, and Bernhard von Stengel formulate equilibrium computation for two-player extensive games with perfect recall using the sequence form. This representation has size linear in the game tree and supports a complementary-pivoting method for finding an equilibrium (Games and Economic Behavior, 1996).
+
 - **[The Complexity of Computing a Nash Equilibrium](https://www.cs.ox.ac.uk/people/paul.goldberg/papers/SICOMP-dgp09.pdf)**: Daskalakis, Goldberg, and Papadimitriou establish PPAD-completeness for computing approximate Nash equilibria in three-player normal-form games with accuracy specified as part of the input. Their hardness reduction uses inverse-exponential additive accuracy and connects equilibrium computation with Brouwer fixed-point computation (SIAM Journal on Computing, 2009).
 
 - **[How Bad is Selfish Routing?](https://theory.stanford.edu/~tim/papers/routing.pdf)**: Tim Roughgarden and Éva Tardos bound equilibrium inefficiency in congested networks with infinitesimal users. For nonnegative linear edge-latency functions, equilibrium total latency is at most four-thirds of the minimum possible total latency (Journal of the ACM, 2002; linked author manuscript).
@@ -655,6 +657,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Superhuman AI for heads-up no-limit poker: Libratus beats top professionals](https://noambrown.com/papers/17-Science-Superhuman.pdf)**: Noam Brown and Tuomas Sandholm introduce Libratus, combining an abstract strategy blueprint, nested subgame solving, and refinement of missing strategy branches. Evaluation uses a 120,000-hand competition against four professional players in two-player no-limit Texas hold’em (Science, 2018; online 2017).
 
 - **[Superhuman AI for multiplayer poker](https://noambrown.com/papers/19-Science-Superhuman.pdf)**: Noam Brown and Tuomas Sandholm introduce Pluribus, combining a self-play blueprint strategy with real-time search for six-player no-limit Texas hold’em. They evaluate play against professional human players (Science, 2019).
 
