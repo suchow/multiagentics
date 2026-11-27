@@ -808,6 +808,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/research/building-c-compiler)**: Nicholas Carlini reports a compiler-development experiment with 16 parallel agents using task locks and a shared repository. The account examines test-harness design, specialized roles, coordination bottlenecks, and compiler limitations (Anthropic engineering report, February 5, 2026).
+
 - **[Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost](https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents)**: Keenan Samway, Daniel D’souza, and Nouha Dziri compare coding-agent team designs through task reward, cost, and elapsed time on ProgramBench and Commit0-Lite. Experiments vary delegation stages, waiting behavior, model assignments, team size, and direct messaging (Cohere research report, October 14, 2026).
 
 - **[Scaling Swarms to Thousands of Agents](https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms)**: Carlos Miguel Patiño, Lewis Tunstall, Ben Burtenshaw, and Leandro von Werra report a nine-day chatbot-development run that grew to 1,000 agents. They examine task lanes, review requirements, message delivery, workspace recovery, and infrastructure bottlenecks. Companion tools are the [Legion](https://github.com/huggingface/legion) orchestration framework and [msgboard](https://github.com/huggingface/msgboard) communication tool (Hugging Face field report, November 25, 2026).
