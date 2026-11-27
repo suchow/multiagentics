@@ -390,6 +390,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[A Hierarchical Protocol for Coordinating Multiagent Behaviors](https://cdn.aaai.org/AAAI/1990/AAAI90-013.pdf)**: Edmund H. Durfee and Thomas A. Montgomery coordinate agents through abstract descriptions of anticipated behavior, followed by detailed exchanges when potential interactions are detected. Their prototype assumes a shared language for behavioral dimensions and supports changes that avoid conflicts or promote cooperation (AAAI, 1990).
+
 - **[The Nonlinear Nature of Plans](https://ijcai.org/proceedings/1975/31)**: Earl D. Sacerdoti introduces procedural nets for representing hierarchical plans with partially ordered actions. NOAH analyzes subplan interactions and adds ordering constraints within a centralized planner supplied with domain-specific procedures (IJCAI, 1975).
 
 - **[STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving](https://ijcai.org/proceedings/1971/63)**: Richard E. Fikes and Nils J. Nilsson introduce STRIPS, which combines means–ends search with theorem proving over world models and action preconditions and effects. This centralized planning foundation supplies representations used in later multi-agent planning (IJCAI, 1971).
@@ -973,6 +975,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[When Are Parallel Subagents Effective for Coding? An Empirical Study on Repository Construction](https://arxiv.org/abs/2611.33893)**: Zhiheng Lyu, Chengyu Yin, and Lingming Zhang compare single-agent and parallel-subagent repository construction at equal time and equal cost on NL2Repo and ProgramBench. Interventions examine self-checking, fresh contexts, and code modularity (2026 preprint).
 
 - **[The RoboCup Synthetic Agent Challenge 97](https://ijcai.org/proceedings/1997/4)**: Kitano et al. define simulated-soccer challenges for individual and team learning, team planning and execution, and opponent modeling. Proposed evaluation combines matches against reference and submitted teams with constrained tasks and technical assessment (IJCAI, 1997).
 
