@@ -293,6 +293,8 @@
 
 ### Agent foundations and architectures
 
+- **[Markets and Computation: Agoric Open Systems](https://papers.agoric.com/papers/markets-and-computation-agoric-open-systems/full-text/)**: Mark S. Miller and K. Eric Drexler propose coordinating software objects through prices and trade in computational resources. Their architectural account requires protected ownership and transfer of information, access, and resources (The Ecology of Computation, 1988).
+
 - **[Implementing Distributed AI Systems Using MACE](https://experts.illinois.edu/en/publications/implementing-distributed-ai-systems-using-mace/)**: Les Gasser, Carl Braganza, and Nava Herman describe an instrumented environment for parallel agents with message passing, agent descriptions, execution tracing, and monitoring. Demonstrations include distributed production systems, blackboards, and Contract Net architectures (1987; institutional abstract).
 
 - **[TouringMachines: an architecture for dynamic, rational, mobile agents](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-273.html)**: Innes A. Ferguson develops a layered architecture combining reactive control, planning, and models of other agents’ goals and intentions. Evaluation uses a simulated multi-agent world with configurable agent capabilities and environmental conditions (Cambridge technical report, 1992).
@@ -1149,6 +1151,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[Supply Chain Management World: A Benchmark Environment for Situated Negotiations](https://link.springer.com/chapter/10.1007/978-3-030-33792-6_10)**: Mohammad et al. introduce Supply Chain Management World to evaluate situated negotiation strategies. Agents decide whom to negotiate with and what to negotiate about within a dynamic supply-chain simulation. The paper compares baseline strategies (PRIMA, 2019).
 
 - **[NegMAS: A Platform for Automated Negotiations](https://link.springer.com/chapter/10.1007/978-3-030-69322-0_23)**: Yasser Mohammad, Shinji Nakadai, and Amy Greenwald introduce NegMAS for agents negotiating in dynamic simulations with interdependent utility functions. Agents manage negotiation decisions within the surrounding simulation (PRIMA 2020; published 2021).
 
