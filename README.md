@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[On agent-based software engineering](https://jmvidal.cse.sc.edu/library/abse.pdf)**: Nicholas R. Jennings analyzes agent-based software engineering through autonomous components, high-level interactions, and explicit organizational relationships. The qualitative account also discusses disadvantages of the approach (Artificial Intelligence, 2000).
+
 - **[A Review of Norms and Normative Multiagent Systems](https://onlinelibrary.wiley.com/doi/10.1155/2014/684587)**: Mahmoud et al. review norm definitions, classifications, agent architectures, and processes for norm creation, enforcement, emergence, and adoption. They propose a norm life-cycle model based on this literature (The Scientific World Journal, 2014).
 
 - **[Programming Multi-Agent Systems in AgentSpeak using Jason](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470061848)**: Rafael H. Bordini, Jomi Fred Hübner, and Michael Wooldridge explain Jason’s AgentSpeak language, BDI reasoning cycle, environments, communication, and formal semantics, with programming examples and two case studies (Wiley, 2007).
@@ -805,6 +807,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost](https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents)**: Keenan Samway, Daniel D’souza, and Nouha Dziri compare coding-agent team designs through task reward, cost, and elapsed time on ProgramBench and Commit0-Lite. Experiments vary delegation stages, waiting behavior, model assignments, team size, and direct messaging (Cohere research report, October 14, 2026).
 
 - **[Scaling Swarms to Thousands of Agents](https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms)**: Carlos Miguel Patiño, Lewis Tunstall, Ben Burtenshaw, and Leandro von Werra report a nine-day chatbot-development run that grew to 1,000 agents. They examine task lanes, review requirements, message delivery, workspace recovery, and infrastructure bottlenecks. Companion tools are the [Legion](https://github.com/huggingface/legion) orchestration framework and [msgboard](https://github.com/huggingface/msgboard) communication tool (Hugging Face field report, November 25, 2026).
 
