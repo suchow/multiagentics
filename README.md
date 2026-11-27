@@ -656,6 +656,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Superhuman AI for multiplayer poker](https://noambrown.com/papers/19-Science-Superhuman.pdf)**: Noam Brown and Tuomas Sandholm introduce Pluribus, combining a self-play blueprint strategy with real-time search for six-player no-limit Texas hold’em. They evaluate play against professional human players (Science, 2019).
+
 - **[CityLearn v2: energy-flexible, resilient, occupant-centric, and carbon-aware management of grid-interactive communities](https://www.tandfonline.com/doi/abs/10.1080/19401493.2024.2418813)**: Nweye et al. introduce simulation environments for distributed building-energy control with community objectives and occupant feedback. Examples evaluate battery storage, vehicle-to-grid operation, and heat-pump control (Journal of Building Performance Simulation, 2025; online 2024).
 
 - **[IMP-MARL: a Suite of Environments for Large-scale Infrastructure Management Planning via MARL](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a7a7c0c92f195cce85f99768621ac6c0-Abstract-Datasets_and_Benchmarks.html)**: Leroy et al. introduce cooperative infrastructure-maintenance simulations where agents inspect and repair individual components under uncertain damage conditions. They compare learning methods with expert heuristics across systems with up to 100 agents, including offshore-wind structures (NeurIPS Datasets and Benchmarks, 2023).
