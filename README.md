@@ -1124,6 +1124,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Crowdsourcing Systems on the World-Wide Web](https://sfu-db.github.io/cmpt884-fall16/Papers/Crowdsourcing%20systems%20on%20the%20world-wide%20web.pdf)**: AnHai Doan, Raghu Ramakrishnan, and Alon Y. Halevy classify Web crowdsourcing applications and examine contributor recruitment, contribution types, aggregation, and evaluation. Their non-exhaustive survey includes explicit and implicit human collaboration (Communications of the ACM, 2011).
+
 - **[The Future of Crowd Work](https://hci.stanford.edu/publications/paper.php?id=247)**: Aniket Kittur, Jeffrey V. Nickerson, Michael S. Bernstein, Elizabeth M. Gerber, Aaron Shaw, John Zimmerman, Matthew Lease, and John J. Horton synthesize organizational research, distributed-computing ideas, and worker feedback into a research agenda for paid online crowd work. Topics include workflows, task assignment, hierarchy, collaboration, quality control, reputation, and motivation (CSCW, 2013).
 
 - **[Cognition in the Wild](https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/)**: Edwin Hutchins analyzes ship navigation as cognition distributed across a human team, its instruments, and its organizational practices. The book develops an ethnographic account of collective cognition (MIT Press, 1995; linked paperback edition, 1996).
