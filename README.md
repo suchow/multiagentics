@@ -748,6 +748,8 @@
 
 ### Communication and emergent language
 
+- **[Learning Multi-Agent Communication from Graph Modeling Perspective](https://arxiv.org/abs/2405.08550)**: Shengchao Hu, Li Shen, Ya Zhang, and Dacheng Tao introduce CommFormer, which jointly learns a communication graph and cooperative policies through bilevel optimization. The graph is fixed before inference, with attention applied to received messages. The method uses centralized training and distributed execution in bandwidth-limited cooperative reinforcement learning (ICLR, 2024).
+
 - **[A Social Semantics for Agent Communication Languages](https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/ijcai-99-acl.pdf)**: Munindar P. Singh formalizes agent communication through public social commitments in temporal logic, with autonomous, heterogeneous agents as the intended setting (Issues in Agent Communication, 2000).
 
 - **[Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue](https://aclanthology.org/2026.sigdial-1.21/)**: Vardhan Dongre and Dilek Hakkani-Tür extend PARTNR with dialogue between two partially observing agents. They measure world-graph alignment, message novelty, and partner-sensitive communication in simulated household tasks with oracle motor skills and different messaging costs (SIGDIAL, 2026).
