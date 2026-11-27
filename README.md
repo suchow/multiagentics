@@ -1050,6 +1050,8 @@
 
 ### Evaluation and failure analysis
 
+- **[FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions](https://aclanthology.org/2023.emnlp-main.890/)**: Kim et al. evaluate question answering about information access and beliefs in generated multiparty conversations. FANToM uses several question formats for the same underlying situation to test consistency as characters enter and leave discussions. Models receive full transcripts as observers (EMNLP, 2023).
+
 - **[Re-evaluating evaluation](https://proceedings.neurips.cc/paper_files/paper/2018/hash/cdf1035c34ec380218a8cc9a43d438f9-Abstract.html)**: David Balduzzi, Karl Tuyls, Julien Perolat, and Thore Graepel introduce Nash averaging for agent-versus-agent and agent-versus-task evaluation. The method uses equilibrium mixtures to account for redundant agents or tasks within the specified evaluation model (NeurIPS, 2018).
 
 - **[PettingZoo: A Standard API for Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/803f7c4c3ff61b71be53a0c803bfb57f-Paper.pdf)**: Terry et al. introduce the Agent Environment Cycle game model and a shared Python interface for multi-agent environments. They relate the model to partially observable stochastic games and examine implementation bugs caused by ambiguous environment-step semantics (NeurIPS, 2021; proceedings record titled *PettingZoo: Gym for Multi-Agent Reinforcement Learning*).
