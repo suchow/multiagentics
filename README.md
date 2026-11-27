@@ -538,6 +538,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Adaptive Game Playing Using Multiplicative Weights](https://www.schapire.net/papers/FreundScYY.pdf)**: Yoav Freund and Robert E. Schapire analyze multiplicative-weight learning in finite repeated matrix games, with finite-time loss bounds relative to the best fixed strategy. The model assumes bounded losses and observation of every available action’s loss each round (Games and Economic Behavior, 1999).
+
 - **[On the emergence of social conventions: modeling, analysis, and simulations](https://www.sciencedirect.com/science/article/pii/S0004370297000283)**: Yoav Shoham and Moshe Tennenholtz introduce highest cumulative reward, a strategy-selection rule for agents learning conventions through repeated random interactions. They analyze convergence for a specified class of games and simulate a basic coordination game (Artificial Intelligence, 1997).
 
 - **[Learning to Incentivize in Repeated Principal-Agent Problems with Adversarial Agent Arrivals](https://proceedings.mlr.press/v267/liu25at.html)**: Liu et al. study repeated incentive selection for arriving agents of unknown types. They derive sublinear-regret bounds under known response mappings or Lipschitz response assumptions and a linear-regret limitation without prior behavioral information (ICML, 2025).
@@ -1125,7 +1127,7 @@
 - **[SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents](https://aclanthology.org/2024.acl-long.698/)**: Wang et al. train language agents through behavior cloning and self-reinforcement on filtered social interactions, with human and model-based evaluation (ACL, 2024).
 - **[CICERO: Human-level play in the game of Diplomacy](https://www.science.org/doi/10.1126/science.ade9097)**: Meta's FAIR team report an agent combining a language model with planning and reasoning that reached human-level play in Diplomacy (Science, 2022).
 - **[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)**: Park et al. populate a sandbox town with LLM agents that remember, reflect, and plan to produce believable individual and emergent social behavior (2023).
-- **[SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667)**: Zhou et al. introduce an environment for evaluating social interactions among language agents (2023).
+- **[SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://proceedings.iclr.cc/paper_files/paper/2024/hash/b3075b88e583a0e98d8b24338a613060-Abstract-Conference.html)**: Zhou et al. introduce an environment for evaluating social interactions among language agents (ICLR, 2024; [preprint](https://arxiv.org/abs/2310.11667)).
 - **[Concordia: Generative Agent-Based Modeling](https://arxiv.org/abs/2312.03664)**: Vezhnevets et al. release a library using a Game Master pattern to simulate generative agents grounded in physical, social, or digital space (2023).
 - **[Generative Agent Simulations of 1,000 People](https://arxiv.org/abs/2411.10109)**: Park et al. build agents from qualitative interviews with 1,052 real individuals and measure how accurately they reproduce survey responses and behaviors (2024).
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
