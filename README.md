@@ -1152,6 +1152,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[COMBO: Compositional World Models for Embodied Multi-Agent Cooperation](https://proceedings.iclr.cc/paper_files/paper/2025/file/7d03c6bf9f07acb4038eea96c63db52d-Paper-Conference.pdf)**: Hongxin Zhang, Zeyuan Wang, Qiushi Lyu, Zheyuan Zhang, Sunli Chen, Tianmin Shu, Behzad Dariush, Kwonjoon Lee, Yilun Du, and Chuang Gan combine learned world-state estimation, compositional video prediction, and tree search for decentralized cooperative planning. Evaluation uses three simulated benchmarks with two to four agents receiving partial egocentric observations (ICLR, 2025).
+
 - **[RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints](https://openaccess.thecvf.com/content/ICCV2025/html/Qin_RoboFactory_Exploring_Embodied_Agent_Collaboration_with_Compositional_Constraints_ICCV_2025_paper.html)**: Yiran Qin, Li Kang, Xiufeng Song, Zhenfei Yin, Xiaohong Liu, Xihui Liu, Ruimao Zhang, and Lei Bai combine logical, spatial, and temporal constraints to generate multiagent manipulation demonstrations. RoboFactory evaluates imitation-learning architectures and training strategies on collaborative manipulation tasks (ICCV, 2025).
 
 - [Self-organized shortcuts in the Argentine ant](https://link.springer.com/article/10.1007/BF00462870) — S. Goss, S. Aron, J. L. Deneubourg, and J. M. Pasteels combine laboratory bridge experiments with a pheromone-feedback model of Argentine-ant route selection. The model also predicts persistence on an established longer route when a shortcut appears later (Naturwissenschaften, 1989).
