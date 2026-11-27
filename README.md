@@ -978,6 +978,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Testing for Coordination Failures in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2611.27368)**: Dennis Gross, Jørn Eirik Betten, and Helge Spieker filter initial test states using disagreements among agents’ maximal Q-values, with a calibrated threshold and access to per-agent value estimates. Evaluation compares random and genetic testing of deep-Q cooperative policies in four simulated environments (2026 preprint).
+
 - **[CypherMAS: Benchmarking Routing Reliability in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2611.33242)**: Danil Kostromin, Andrey Sakhovskiy, and Semen Budennyy evaluate request–response routing in fixed agent graphs against known shortest paths. They measure completion, redundant language-model calls, and message errors under structured and free-text communication in synchronous, noiseless synthetic settings (2026 preprint).
 
 - **[Recursive Collective Intelligence: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems](https://arxiv.org/abs/2611.32606)**: He et al. compare interacting agent groups with compute-matched majority-vote and pass@n baselines. They study distributed information sharing and training successive agent generations from group-produced data on controlled tasks, PlanBench, HiddenBench, and Hanabi (2026 preprint).
