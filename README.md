@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Automated Negotiation: Prospects, Methods and Challenges](https://jmvidal.cse.sc.edu/library/jennings01a.pdf)**: N. R. Jennings, P. Faratin, A. R. Lomuscio, S. Parsons, M. Wooldridge, and C. Sierra organize automated negotiation around interaction protocols, negotiation objects, and agents’ decision models. They assess game-theoretic, heuristic, and argumentation-based approaches, with emphasis on their own research (Group Decision and Negotiation, 2001).
+
 - **[Self-Organization in Biological Systems](https://press.princeton.edu/books/paperback/9780691116242/self-organization-in-biological-systems)**: Scott Camazine, Jean-Louis Deneubourg, Nigel R. Franks, James Sneyd, Guy Theraulaz, and Eric Bonabeau examine how local interactions produce collective biological structures and behavior, including schooling, synchronization, foraging, and nest construction. This is biological background for self-organizing systems (Princeton University Press, 2001; linked paperback edition, 2003).
 
 - **[Swarm Intelligence: From Natural to Artificial Systems](https://academic.oup.com/book/40811)**: Eric Bonabeau, Marco Dorigo, and Guy Theraulaz connect social-insect coordination with algorithms, multiagent systems, and robotics. Topics include foraging, task allocation, sorting, construction, and cooperative transport (Oxford University Press, 1999).
