@@ -836,6 +836,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[INMS: Memory Sharing for Large Language Model based Agents](https://aclanthology.org/2026.aacl-long.108/)**: Hang Gao and Yongfeng Zhang share filtered prompt–answer pairs through a common memory pool and update a retrieval mediator from accumulated interactions. Evaluation uses three-agent groups on literary creation, logical problems, and planning tasks (AACL-IJCNLP, 2026).
+
 - **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640)**: Sijie Li, Weiwei Sun, Shanda Li, Ameet Talwalkar, and Yiming Yang combine coordinating, analyzing, proposing, coding, and evaluating agents for machine-learning competitions. MLE-Live evaluates use of time-stamped community discussions and shared code in past and ongoing Kaggle competitions (ICLR, 2026).
 
 - **[GenoMAS: Guided Multi-Agent Programming for Scientific Discovery from Genomic Data](https://aclanthology.org/2026.findings-emnlp.1395/)**: Haoyang Liu, Yijiang Li, and Haohan Wang coordinate specialized programming agents through typed messages and revisable Action Units for gene-expression analysis. Evaluation uses GenoTEX, ScienceAgentBench, and DiscoveryBench; reported gene–trait associations do not establish causality (Findings of EMNLP, 2026).
