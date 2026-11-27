@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Autonomous agents modelling other agents: A comprehensive survey and open problems](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AIJ18-Albrecht.pdf)**: Stefano V. Albrecht and Peter Stone survey methods for modelling other agents’ actions, goals, and beliefs. They compare assumptions across policy reconstruction, type-based reasoning, plan recognition, recursive reasoning, graphical models, and group modelling (Artificial Intelligence, 2018).
+
 - **[Empirical Game-Theoretic Analysis: A Survey](https://arxiv.org/abs/2403.04018)**: Michael P. Wellman, Karl Tuyls, and Amy Greenwald survey empirical game-theoretic analysis, which estimates game models through interaction with procedural environments. They organize methods for analyzing complex strategic settings, including markets, games, and cybersecurity (JAIR, 2025).
 
 - **[A Survey on One-To-Many Negotiation: A Taxonomy of Interdependency](https://ijcai.org/proceedings/2025/1159)**: Tamara C.P. Florijn, Pınar Yolum, and Tim Baarslag survey one-to-many negotiation through a common message-and-utility model. Their taxonomy classifies dependencies among bilateral subnegotiations, including constraints across deals and shared budgets (IJCAI, 2025).
@@ -555,6 +557,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[An Algorithm for Optimal Winner Determination in Combinatorial Auctions](https://ijcai.org/proceedings/1999/78)**: Tuomas Sandholm develops optimal search over submitted bundle bids using selective expansion, heuristics, and preprocessing. Experiments compare performance across several bid distributions (IJCAI, 1999).
 
 - **[Efficient Computation of Equilibria for Extensive Two-Person Games](https://ai.stanford.edu/~koller/Papers/Koller%2Bal%3AGEB96.pdf)**: Daphne Koller, Nimrod Megiddo, and Bernhard von Stengel formulate equilibrium computation for two-player extensive games with perfect recall using the sequence form. This representation has size linear in the game tree and supports a complementary-pivoting method for finding an equilibrium (Games and Economic Behavior, 1996).
 
