@@ -538,6 +538,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[An Efficient Ascending-Bid Auction for Multiple Objects](https://www.aeaweb.org/articles?id=10.1257/0002828043052330)**: Lawrence M. Ausubel introduces an ascending-price auction for homogeneous goods with multi-unit demands. Bidders report quantities at each price; units are awarded at that price when competing demand makes them available to a bidder (American Economic Review, 2004).
+
 - **[Coupled Replicator Equations for the Dynamics of Learning in Multiagent Systems](https://arxiv.org/abs/nlin/0204057)**: Yuzuru Sato and James P. Crutchfield derive coupled replicator equations from a specified reinforcement-learning model in a continuous-time limit. Rock–scissors–paper examples exhibit cycles, intermittency, and chaos under different memory and payoff settings (2002 preprint; Physical Review E, 2003).
 
 - **[Adaptive Game Playing Using Multiplicative Weights](https://www.schapire.net/papers/FreundScYY.pdf)**: Yoav Freund and Robert E. Schapire analyze multiplicative-weight learning in finite repeated matrix games, with finite-time loss bounds relative to the best fixed strategy. The model assumes bounded losses and observation of every available action’s loss each round (Games and Economic Behavior, 1999).
