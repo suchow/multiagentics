@@ -618,6 +618,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Hysteretic Q-Learning: an algorithm for Decentralized Reinforcement Learning in Cooperative Multi-Agent Teams](https://gjlaurent.github.io/assets/papers/Matignon2007hysteretic.pdf)**: Laëtitia Matignon, Guillaume J. Laurent, and Nadine Le Fort-Piat introduce separate learning rates for positive and negative Q-value updates in independent cooperative learners without additional inter-agent communication. Evaluation uses repeated matrix games, collaborative ball balancing, and pursuit tasks (IROS, 2007).
+
 - **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f597e0347e5a1e756422fbc18a026b32-Abstract-Conference.html)**: Elena Zamaraeva, Christopher Collins, George Darling, Matthew S Dyer, Bei Peng, Rahul Savani, Dmytro Antypov, Vladimir Gusev, Judith Clymo, Paul Spirakis, and Matthew Rosseinsky model periodic crystal optimization as a partially observable Markov game, with atoms adjusting their positions as agents. Evaluation compares optimization methods and tests larger structures and unseen material compositions (NeurIPS, 2025).
 
 - **[s³: Simple Scaling of Swarms via Cooperative Multi-agent RL](https://arxiv.org/abs/2611.08615)**: Jha et al. train asynchronous agent teams with shared rewards for task actions and communication. Evaluation compares private-information aggregation and decentralized exploration against independent agents with matched training and inference budgets (2026 preprint).
