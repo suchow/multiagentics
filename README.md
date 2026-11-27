@@ -275,6 +275,8 @@
 
 ### Agent foundations and architectures
 
+- **[Artifacts in the A&A meta-model for multi-agent systems](https://link.springer.com/article/10.1007/s10458-008-9053-x)**: Andrea Omicini, Alessandro Ricci, and Mirko Viroli define the agents-and-artifacts meta-model. Goal-directed agents use reactive artifacts that provide services and structure their shared environment (Autonomous Agents and Multi-Agent Systems, 2008).
+
 - **[2APL: a practical agent programming language](https://link.springer.com/article/10.1007/s10458-008-9036-y)**: Mehdi Dastani defines a BDI-based multi-agent programming language combining declarative beliefs and goals with events and plans. It provides constructs for plan generation, repair, and execution, with formal syntax and semantics (Autonomous Agents and Multi-Agent Systems, 2008).
 
 - **[Prometheus: A Methodology for Developing Intelligent Agents](https://winikoff.github.io/pdf/aose02.pdf)**: Lin Padgham and Michael Winikoff organize agent development into system specification, architectural design, and detailed design. Prometheus supplies iterative processes and design artifacts for BDI-like agents (AOSE 2002; revised proceedings published 2003).
@@ -867,6 +869,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[IntersectionZoo: Eco-driving for Benchmarking Multi-Agent Contextual Reinforcement Learning](https://proceedings.iclr.cc/paper_files/paper/2025/hash/bb63841e1ad12370a34504f15c60db4f-Abstract-Conference.html)**: Jayawardana et al. benchmark cooperative vehicle control in data-informed traffic simulations with varied intersection layouts, demand, and environmental conditions. Evaluation tests within-task eco-driving generalization under an unsaturated-traffic assumption, including conditions outside the training distribution (ICLR, 2025).
 
 - **[POGEMA: A Benchmark Platform for Cooperative Multi-Agent Pathfinding](https://proceedings.iclr.cc/paper_files/paper/2025/hash/10d19888a94f390e58f922ab3937e1cb-Abstract-Conference.html)**: Skrynnik et al. provide generated and predefined discrete pathfinding instances, a simulation environment, and a shared evaluation protocol. They compare reinforcement-learning, search-based, and hybrid solvers through success, path length, generalization, and scaling measures (ICLR, 2025).
 
