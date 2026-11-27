@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Self-Organization in Biological Systems](https://press.princeton.edu/books/paperback/9780691116242/self-organization-in-biological-systems)**: Scott Camazine, Jean-Louis Deneubourg, Nigel R. Franks, James Sneyd, Guy Theraulaz, and Eric Bonabeau examine how local interactions produce collective biological structures and behavior, including schooling, synchronization, foraging, and nest construction. This is biological background for self-organizing systems (Princeton University Press, 2001; linked paperback edition, 2003).
+
 - **[Swarm Intelligence: From Natural to Artificial Systems](https://academic.oup.com/book/40811)**: Eric Bonabeau, Marco Dorigo, and Guy Theraulaz connect social-insect coordination with algorithms, multiagent systems, and robotics. Topics include foraging, task allocation, sorting, construction, and cooperative transport (Oxford University Press, 1999).
 
 - **[Mechanism design meets large language models: Foundations and frontiers](https://www.sciencedirect.com/science/article/pii/S3051390126000334)**: Baiting Chen, Tong Zhu, Xuanang Li, Yichi Zhang, and Xiaowu Dai survey language models as participants and interfaces in economic mechanisms, alongside incentive-aware evaluation, alignment, and training of language models. Topics include negotiation, preference elicitation, and markets for model services (Statistical Learning and Data Science, 2026 journal pre-proof).
