@@ -816,6 +816,10 @@
 
 ### LLM team architectures and orchestration
 
+- **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640)**: Sijie Li, Weiwei Sun, Shanda Li, Ameet Talwalkar, and Yiming Yang combine coordinating, analyzing, proposing, coding, and evaluating agents for machine-learning competitions. MLE-Live evaluates use of time-stamped community discussions and shared code in past and ongoing Kaggle competitions (ICLR, 2026).
+
+- **[GenoMAS: Guided Multi-Agent Programming for Scientific Discovery from Genomic Data](https://aclanthology.org/2026.findings-emnlp.1395/)**: Haoyang Liu, Yijiang Li, and Haohan Wang coordinate specialized programming agents through typed messages and revisable Action Units for gene-expression analysis. Evaluation uses GenoTEX, ScienceAgentBench, and DiscoveryBench; reported gene–trait associations do not establish causality (Findings of EMNLP, 2026).
+
 - **[The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies](https://www.nature.com/articles/s41586-025-09442-9)**: Swanson et al. combine a principal-investigator agent, specialist agents, and human feedback to develop a nanobody-design pipeline. Human researchers experimentally test designs against SARS-CoV-2 variants (Nature, 2025).
 
 - **[AgenticSciML: collaborative multi-agent systems for emergent discovery in scientific machine learning](https://www.nature.com/articles/s44387-026-00102-5)**: Qile Jiang and George Karniadakis coordinate proposing, criticizing, retrieving, and evaluating agents to develop scientific-machine-learning models. Executed evaluations cover function approximation, physics-informed PDE solvers, and operator learning (npj Artificial Intelligence, 2026).
