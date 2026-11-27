@@ -1212,6 +1212,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[Reciprocal n-body Collision Avoidance](https://gamma.cs.unc.edu/ORCA/publications/ORCA.pdf)**: Jur van den Berg, Stephen J. Guy, Ming Lin, and Dinesh Manocha introduce ORCA, which selects robot velocities through local linear programs without inter-agent communication. Its local collision-avoidance conditions assume holonomic motion, exact sensing, feasible velocity constraints, and other robots following the same protocol (Robotics Research, 2011).
+
 - **[Stop Signals Provide Cross Inhibition in Collective Decision-Making by Honeybee Swarms](https://www.science.org/doi/10.1126/science.1210361)**: Thomas D. Seeley, P. Kirk Visscher, Thomas Schlegel, Patrick M. Hogan, Nigel R. Franks, and James A. R. Marshall study inhibitory stop signals directed at scouts advertising competing nest sites. Their analytical model examines how cross inhibition resolves deadlock between equal alternatives. This is biological collective-decision evidence (Science, 2012).
 
 - **[COMBO: Compositional World Models for Embodied Multi-Agent Cooperation](https://proceedings.iclr.cc/paper_files/paper/2025/file/7d03c6bf9f07acb4038eea96c63db52d-Paper-Conference.pdf)**: Hongxin Zhang, Zeyuan Wang, Qiushi Lyu, Zheyuan Zhang, Sunli Chen, Tianmin Shu, Behzad Dariush, Kwonjoon Lee, Yilun Du, and Chuang Gan combine learned world-state estimation, compositional video prediction, and tree search for decentralized cooperative planning. Evaluation uses three simulated benchmarks with two to four agents receiving partial egocentric observations (ICLR, 2025).
