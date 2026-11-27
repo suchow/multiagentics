@@ -858,6 +858,8 @@
 
 ### Communication and emergent language
 
+- **[Logic and Conversation](https://lawandlogic.org/wp-content/uploads/2018/07/grice1975logic-and-conversation.pdf)**: H. P. Grice analyzes conversational implicature through a cooperative principle and maxims concerning quantity, quality, relation, and manner. This is conceptual background on how participants infer meaning beyond what is explicitly said (1975).
+
 - **[EGG: a toolkit for research on Emergence of lanGuage in Games](https://aclanthology.org/D19-3010/)**: Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, and Marco Baroni introduce a modular toolkit for training neural agents in discrete-channel communication games. It provides components for comparing game designs, agent architectures, and optimization methods (EMNLP-IJCNLP System Demonstrations, 2019).
 
 - **[Multi-Agent Graph-Attention Communication and Teaming](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p964.pdf)**: Yaru Niu, Rohan Paleja, and Matthew Gombolay learn communication scheduling and message processing through graph attention. Evaluation uses predator–prey, traffic-junction, and football environments (AAMAS, 2021).
