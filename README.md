@@ -485,6 +485,8 @@
 
 ### Distributed systems and consensus
 
+- **[Linearizability: A Correctness Condition for Concurrent Objects](https://www.cs.columbia.edu/~wing/publications/HerlihyWing90.pdf)**: Maurice P. Herlihy and Jeannette M. Wing define linearizability for concurrent objects: operations appear to take effect between invocation and response, preserving the order of non-overlapping operations. They provide methods for reasoning about implementations using sequential specifications (ACM Transactions on Programming Languages and Systems, 1990).
+
 - **[Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial](https://ilyasergey.net/CS6213/_static/02-consensus/smsurvey.pdf)**: Fred B. Schneider explains replicated state-machine services, request agreement and ordering, and system reconfiguration under Byzantine and fail-stop models. The approach requires deterministic service commands and explicit failure-model assumptions (ACM Computing Surveys, 1990).
 
 - **[Communicating Sequential Processes](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)**: C. A. R. Hoare introduces parallel composition, guarded commands, and synchronous message passing for coordinating sequential processes. The original model uses a statically bounded process network and unbuffered communication (Communications of the ACM, 1978).
@@ -611,6 +613,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f597e0347e5a1e756422fbc18a026b32-Abstract-Conference.html)**: Elena Zamaraeva, Christopher Collins, George Darling, Matthew S Dyer, Bei Peng, Rahul Savani, Dmytro Antypov, Vladimir Gusev, Judith Clymo, Paul Spirakis, and Matthew Rosseinsky model periodic crystal optimization as a partially observable Markov game, with atoms adjusting their positions as agents. Evaluation compares optimization methods and tests larger structures and unseen material compositions (NeurIPS, 2025).
 
 - **[s³: Simple Scaling of Swarms via Cooperative Multi-agent RL](https://arxiv.org/abs/2611.08615)**: Jha et al. train asynchronous agent teams with shared rewards for task actions and communication. Evaluation compares private-information aggregation and decentralized exploration against independent agents with matched training and inference budgets (2026 preprint).
 
