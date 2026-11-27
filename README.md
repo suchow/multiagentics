@@ -1040,6 +1040,8 @@
 
 ### Evaluation and failure analysis
 
+- **[TEACh: Task-Driven Embodied Agents That Chat](https://www.amazon.science/publications/teach-task-driven-embodied-agents-that-chat)**: Padmakumar et al. introduce over 3,000 human–human dialogues for completing household tasks in simulation. An informed Commander communicates with a Follower that navigates and manipulates objects. Three benchmarks evaluate dialogue understanding, language grounding, and task execution (AAAI, 2022).
+
 - **[The StarCraft Multi-Agent Challenge](https://arxiv.org/abs/1902.04043)**: Samvelyan et al. introduce StarCraft II micromanagement tasks in which each allied unit acts from local observations. SMAC provides cooperative challenge maps, evaluation recommendations, and the PyMARL learning framework (AAMAS extended abstract, 2019; expanded preprint).
 
 - **[The SocialAI school: a framework leveraging developmental psychology toward artificial socio-cultural agents](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1396359/full)**: Grgur Kovač, Rémy Portelas, Peter Ford Dominey, and Pierre-Yves Oudeyer introduce procedural environments for studying perspective taking, joint attention, communication, and social learning through interaction with other agents. Case studies evaluate reinforcement-learning agents and language models in controlled tasks (Frontiers in Neurorobotics, 2024).
@@ -1243,6 +1245,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Social learning strategies](https://lalandlab.wp.st-andrews.ac.uk/files/2015/08/laland_LB_2004.pdf)**: Kevin N. Laland reviews when individuals copy others and whom they copy, including uncertainty-, majority-, and payoff-based strategies. He compares theoretical predictions with animal and human evidence, including limits in direct experimental support. Transfer to AI teams is unverified (Learning & Behavior, 2004).
 
 - **[Absorptive Capacity: A New Perspective on Learning and Innovation](https://josephmahoney.web.illinois.edu/BA545_Fall%202013/Cohen%20and%20Levinthal%20%281990%29.pdf)**: Wesley M. Cohen and Daniel A. Levinthal analyze how prior related knowledge and organizational expertise affect the recognition, assimilation, and use of external information. They develop an R&D-investment model and test predictions using firm data; transfer to AI-agent organizations is unverified (Administrative Science Quarterly, 1990).
 
