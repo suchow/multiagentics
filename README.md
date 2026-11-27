@@ -441,6 +441,8 @@
 
 ### Distributed systems and consensus
 
+- **[Generative Communication in Linda](https://cseweb.ucsd.edu/groups/csag/html/teaching/cse291s03/Readings/p80-gelernter.pdf)**: David Gelernter introduces a shared tuple-space model with atomic operations for adding, withdrawing, and reading tuples. Blocking retrieval coordinates distributed processes; this is an adjacent distributed-programming foundation (ACM Transactions on Programming Languages and Systems, 1985).
+
 - **[Spawn: A Distributed Computational Economy](https://www.waldspurger.org/carl/papers/spawn-ieee-tse-feb92.pdf)**: Waldspurger et al. implement Spawn, a computational market that allocates idle resources across heterogeneous workstations. Concurrent Monte Carlo applications support experiments on resource distribution, prices, and market dynamics (IEEE Transactions on Software Engineering, 1992).
 
 - **[In Search of an Understandable Consensus Algorithm](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)**: Diego Ongaro and John Ousterhout introduce Raft, a replicated-log consensus algorithm organized around leader election, log replication, and safety. Membership changes use overlapping majorities (USENIX ATC, 2014).
@@ -851,6 +853,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[When 20 Agents Fail to Sort: The Distributed Sorting Benchmark for Scalable Multi-Agent Systems](https://aclanthology.org/2026.findings-acl.1698/)**: Xin Yang, Junhao Wang, Bintao Tang, Xuxin Cheng, Cao Liu, Ke Zeng, and Wenyuan Jiang introduce MAS-BENCH, distributed sorting with local observations and broadcast, peer-to-peer, or shared-store communication. They evaluate collective correctness and coordination costs across agent counts and introduce the CAMOC coordination protocol (Findings of ACL, 2026).
 
 - **[MA-Mesh: Resilient Multi-Agent Collaboration via Role-based Self-Healing](https://aclanthology.org/2026.emnlp-main.1443/)**: Lee, Kim, and Woo combine peer-output evaluation with role reassignment after detected degradation or response timeouts. MA-Mesh is evaluated on software development, tool use, and scientific reasoning under injected agent, prompt, and communication faults (EMNLP, 2026).
 
