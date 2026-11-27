@@ -453,6 +453,8 @@
 
 ### Distributed systems and consensus
 
+- **[From tuple spaces to tuple centres](https://lia.disi.unibo.it/~ao/pubs/pdf/2001/scico.pdf)**: Andrea Omicini and Enrico Denti define tuple centres, shared tuple spaces with programmable reactions to communication events. ReSpecT expresses coordination rules in the communication medium; a dining-philosophers example illustrates the model (Science of Computer Programming, 2001).
+
 - **[Generative Communication in Linda](https://cseweb.ucsd.edu/groups/csag/html/teaching/cse291s03/Readings/p80-gelernter.pdf)**: David Gelernter introduces a shared tuple-space model with atomic operations for adding, withdrawing, and reading tuples. Blocking retrieval coordinates distributed processes; this is an adjacent distributed-programming foundation (ACM Transactions on Programming Languages and Systems, 1985).
 
 - **[Spawn: A Distributed Computational Economy](https://www.waldspurger.org/carl/papers/spawn-ieee-tse-feb92.pdf)**: Waldspurger et al. implement Spawn, a computational market that allocates idle resources across heterogeneous workstations. Concurrent Monte Carlo applications support experiments on resource distribution, prices, and market dynamics (IEEE Transactions on Software Engineering, 1992).
