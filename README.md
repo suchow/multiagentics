@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[The Theory of Learning in Games](https://mitpress.mit.edu/9780262061940/the-theory-of-learning-in-games/)**: Drew Fudenberg and David K. Levine examine learning processes in games and their relationship to equilibrium. The book develops models in which players adapt their behavior over time under limited rationality (MIT Press, 1998).
+
 - **[Autonomous agents modelling other agents: A comprehensive survey and open problems](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AIJ18-Albrecht.pdf)**: Stefano V. Albrecht and Peter Stone survey methods for modelling other agents’ actions, goals, and beliefs. They compare assumptions across policy reconstruction, type-based reasoning, plan recognition, recursive reasoning, graphical models, and group modelling (Artificial Intelligence, 2018).
 
 - **[Empirical Game-Theoretic Analysis: A Survey](https://arxiv.org/abs/2403.04018)**: Michael P. Wellman, Karl Tuyls, and Amy Greenwald survey empirical game-theoretic analysis, which estimates game models through interaction with procedural environments. They organize methods for analyzing complex strategic settings, including markets, games, and cybersecurity (JAIR, 2025).
