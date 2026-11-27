@@ -812,6 +812,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[A multi-agent system for automating scientific discovery](https://www.nature.com/articles/s41586-026-10652-y)**: Ghareeb et al. coordinate literature-search and data-analysis agents through Robin in an iterative in-vitro biological investigation. Human scientists review candidates, write protocols, conduct laboratory experiments, and return data for analysis and follow-up hypothesis generation (Nature, 2026).
+
 - **[Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://aclanthology.org/2025.acl-long.1368/)**: Su et al. organize simulated scientist teams to select collaborators, discuss topics, and refine research ideas. Evaluation compares generated abstracts through publication-based proxy metrics, model reviews, and blinded human ratings; the proposed research is not executed (ACL, 2025).
 
 - **[Fork-and-Flush: Escaping Idea Basins in Autoresearch Agents](https://arxiv.org/abs/2610.07447)**: Cai et al. periodically branch research agents from a shared workspace with fresh conversational contexts, then continue from the highest-scoring branch. Evaluation compares sequential and independent parallel search under matched budgets across 13 research and engineering tasks (2026 preprint).
