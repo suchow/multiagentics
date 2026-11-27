@@ -275,6 +275,8 @@
 
 ### Agent foundations and architectures
 
+- **[Environment as a first class abstraction in multiagent systems](https://link.springer.com/article/10.1007/s10458-006-0012-0)**: Danny Weyns, Andrea Omicini, and James Odell define the environment as an explicit multi-agent design abstraction and present a reference model of its responsibilities (Autonomous Agents and Multi-Agent Systems, 2007; published online 2006).
+
 - **[On Acting Together](https://cdn.aaai.org/AAAI/1990/AAAI90-014.pdf)**: Levesque, Cohen, and Nunes formalize joint commitment and joint intention through beliefs, goals, actions, and time. Their two-agent model assumes consistent beliefs and goals and perfect introspection about them (AAAI, 1990).
 
 - **[Artifacts in the A&A meta-model for multi-agent systems](https://link.springer.com/article/10.1007/s10458-008-9053-x)**: Andrea Omicini, Alessandro Ricci, and Mirko Viroli define the agents-and-artifacts meta-model. Goal-directed agents use reactive artifacts that provide services and structure their shared environment (Autonomous Agents and Multi-Agent Systems, 2008).
@@ -1001,6 +1003,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[Market-Bench: Benchmarking Large Language Models on Economic and Trade Competition](https://aclanthology.org/2026.acl-long.1853/)**: Yushuo Zheng, Huiyu Duan, Zicheng Zhang, Yucheng Zhu, Xiongkuo Min, and Guangtao Zhai evaluate competing retailer agents that procure scarce inventory, set prices, and generate marketing slogans. The simulated supply chain combines budget constraints with a designed buyer-selection mechanism based on hidden personas (ACL, 2026).
 
 - **[InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5401bede0941e568fa42b7b5910fa72c-Abstract-Conference.html)**: Xiaoxuan Hou, Jiayi Yuan, Joel Z. Leibo, and Natasha Jaques simulate companies allocating capital to climate mitigation, greenwashing, and resilience alongside investors with ESG preferences. The benchmark studies long-term cooperation under disclosure rules and competing financial incentives within this economic model (ICLR, 2025).
 
