@@ -1222,6 +1222,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[Programmable self-assembly in a thousand-robot swarm](https://ssr.princeton.edu/sites/g/files/toruqf2946/files/documents/science2014-rubenstein.pdf)**: Michael Rubenstein, Alejandro Cornejo, and Radhika Nagpal demonstrate two-dimensional shape formation with 1,024 Kilobots using local communication and distance sensing. Robots receive the target shape in advance, and four manually placed seed robots establish its position and orientation (Science, 2014).
+
 - **[Reciprocal n-body Collision Avoidance](https://gamma.cs.unc.edu/ORCA/publications/ORCA.pdf)**: Jur van den Berg, Stephen J. Guy, Ming Lin, and Dinesh Manocha introduce ORCA, which selects robot velocities through local linear programs without inter-agent communication. Its local collision-avoidance conditions assume holonomic motion, exact sensing, feasible velocity constraints, and other robots following the same protocol (Robotics Research, 2011).
 
 - **[Stop Signals Provide Cross Inhibition in Collective Decision-Making by Honeybee Swarms](https://www.science.org/doi/10.1126/science.1210361)**: Thomas D. Seeley, P. Kirk Visscher, Thomas Schlegel, Patrick M. Hogan, Nigel R. Franks, and James A. R. Marshall study inhibitory stop signals directed at scouts advertising competing nest sites. Their analytical model examines how cross inhibition resolves deadlock between equal alternatives. This is biological collective-decision evidence (Science, 2012).
