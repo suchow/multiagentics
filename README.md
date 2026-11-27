@@ -1038,6 +1038,8 @@
 
 ### Evaluation and failure analysis
 
+- **[SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?](https://proceedings.colm.cc/paper_files/paper/2025/hash/5bf234ecf83cd77bc5b77a24ba9338b0-Abstract-Conference.html)**: Yao et al. introduce SPIN-Bench, combining classical planning, competitive board games, cooperative card games, and negotiation scenarios. They vary action spaces, state complexity, and agent counts to evaluate strategic planning and social reasoning (COLM, 2025 pre-proceedings).
+
 - **[BARK: Open Behavior Benchmarking in Multi-Agent Environments](https://arxiv.org/abs/2003.02604)**: Julian Bernhard, Klemens Esterle, Patrick Hart, and Tobias Kessler introduce BARK for benchmarking interacting behavior models in traffic simulations. Models serve planning, prediction, and simulation roles. Evaluation uses dataset-derived and sampled scenarios to examine robustness when behavior models change (IROS, 2020).
 
 - **[Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://arxiv.org/abs/2010.09890)**: Puig et al. introduce Watch-And-Help, where an agent infers a household-task goal from one demonstration and helps a partner complete it in an unfamiliar simulated environment. VirtualHome-Social provides planning and learning baselines, with evaluations involving simulated partners and humans (ICLR, 2021).
@@ -1323,6 +1325,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- **[Designing Collective Behavior in a Termite-Inspired Robot Construction Team](https://ssr.princeton.edu/sites/g/files/toruqf2946/files/documents/science2014-termes.pdf)**: Justin Werfel, Kirstin Petersen, and Radhika Nagpal compile target structures into rules for decentralized construction through local sensing and environmental coordination. They demonstrate the approach with three autonomous climbing robots using prefabricated bricks (Science, 2014).
 
 - **[Assistax: A Multi-Agent Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics](https://rlj.org/papers/hinckeldey2026assistax)**: Hinckeldey et al. introduce GPU-accelerated assistive-robotics simulations with jointly trained robot and humanoid agents. Their ad hoc teamwork pipeline evaluates robot policies with withheld simulated humanoid policies representing unfamiliar preference combinations (Reinforcement Learning Journal, 2026).
 
