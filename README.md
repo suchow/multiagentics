@@ -273,6 +273,8 @@
 
 ### Agent foundations and architectures
 
+- **[Specifying and Verifying Distributed Intelligent Systems](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/epia93.pdf)**: Michael Fisher and Michael Wooldridge develop temporal belief logic for specifying and verifying Concurrent METATEM programs. Agents execute temporal rules and communicate through asynchronous broadcasts; examples use propositional specifications (EPIA, 1993).
+
 - **[GOLOG: A logic programming language for dynamic domains](https://www.cs.toronto.edu/kr/papers/GOLOGlang.pdf)**: Hector J. Levesque, Raymond Reiter, Yves Lespérance, Fangzhen Lin, and Richard B. Scherl introduce a situation-calculus language for high-level agent programs. Execution relies on supplied axioms for initial conditions, action preconditions, and effects. The paper describes a Prolog prototype (Journal of Logic Programming, 1997; linked author draft).
 
 - **[Strategies of Cooperation in Distributed Problem Solving](https://ijcai.org/proceedings/1983/0185.pdf)**: Cammarata, McArthur, and Steeb distinguish organizational policies from information-distribution policies in cooperative problem solving. They compare strategies in simulated air-traffic collision avoidance (IJCAI, 1983).
@@ -703,6 +705,8 @@
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 
 ### Communication and emergent language
+
+- **[G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks](https://proceedings.mlr.press/v267/zhang25cu.html)**: Guibin Zhang, Yanwei Yue, Xiangguo Sun, Guancheng Wan, Miao Yu, Junfeng Fang, Kun Wang, Tianlong Chen, and Dawei Cheng generate task-specific communication topologies with a variational graph autoencoder over agent nodes and a task node. Evaluation covers six benchmarks, including MMLU and HumanEval (ICML, 2025).
 
 - **[Learning Communication Skills in Multi-task Multi-agent Deep Reinforcement Learning](https://arxiv.org/abs/2511.03348)**: Changxi Zhu, Mehdi Dastani, and Shihan Wang learn shared message representations and communication graphs across cooperative tasks. Evaluation uses multi-task versions of AliceBob, SMAC, and Google Research Football with varying agent counts and observation/action spaces (2025 preprint).
 
