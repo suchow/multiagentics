@@ -485,6 +485,8 @@
 
 ### Distributed systems and consensus
 
+- **[Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial](https://ilyasergey.net/CS6213/_static/02-consensus/smsurvey.pdf)**: Fred B. Schneider explains replicated state-machine services, request agreement and ordering, and system reconfiguration under Byzantine and fail-stop models. The approach requires deterministic service commands and explicit failure-model assumptions (ACM Computing Surveys, 1990).
+
 - **[Communicating Sequential Processes](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)**: C. A. R. Hoare introduces parallel composition, guarded commands, and synchronous message passing for coordinating sequential processes. The original model uses a statically bounded process network and unbuffered communication (Communications of the ACM, 1978).
 
 - **[Law-governed interaction: a coordination and control mechanism for heterogeneous distributed systems](https://people.cs.rutgers.edu/~minsky/papers/coordination-and-control.pdf)**: Naftaly H. Minsky and Victoria Ungureanu specify coordination policies as local laws enforced by trusted controllers for participating agents. Their Moses toolkit implements this model of regulated interactions in heterogeneous distributed systems (ACM Transactions on Software Engineering and Methodology, 2000).
