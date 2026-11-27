@@ -1142,6 +1142,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Altruistic punishment in humans](https://www.econ.uzh.ch/dam/jcr:ffffffff-9758-127f-ffff-fffffd123b6f/AltruisticPunishment.pdf)**: Ernst Fehr and Simon Gächter compare anonymous public-goods games with and without opportunities for costly punishment. Contributions were higher with punishment despite changing group membership and no repeated pairings. This is human experimental evidence about cooperation (Nature, 2002).
+
 - **[Crowdsourcing Systems on the World-Wide Web](https://sfu-db.github.io/cmpt884-fall16/Papers/Crowdsourcing%20systems%20on%20the%20world-wide%20web.pdf)**: AnHai Doan, Raghu Ramakrishnan, and Alon Y. Halevy classify Web crowdsourcing applications and examine contributor recruitment, contribution types, aggregation, and evaluation. Their non-exhaustive survey includes explicit and implicit human collaboration (Communications of the ACM, 2011).
 
 - **[The Future of Crowd Work](https://hci.stanford.edu/publications/paper.php?id=247)**: Aniket Kittur, Jeffrey V. Nickerson, Michael S. Bernstein, Elizabeth M. Gerber, Aaron Shaw, John Zimmerman, Matthew Lease, and John J. Horton synthesize organizational research, distributed-computing ideas, and worker feedback into a research agenda for paid online crowd work. Topics include workflows, task assignment, hierarchy, collaboration, quality control, reputation, and motivation (CSCW, 2013).
