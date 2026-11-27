@@ -554,6 +554,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[How Bad is Selfish Routing?](https://theory.stanford.edu/~tim/papers/routing.pdf)**: Tim Roughgarden and Éva Tardos bound equilibrium inefficiency in congested networks with infinitesimal users. For nonnegative linear edge-latency functions, equilibrium total latency is at most four-thirds of the minimum possible total latency (Journal of the ACM, 2002; linked author manuscript).
+
 - **[Dynamics of computational ecosystems](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.40.404)**: Kephart, Hogg, and Huberman analyze and simulate decentralized resource allocation with asynchronous decisions, incomplete knowledge, and delayed information. Their models exhibit persistent oscillations and chaos and examine how heterogeneous resource requirements affect stability (Physical Review A, 1989).
 
 - **[Emergence of Cooperation and Organization in an Evolutionary Game](https://arxiv.org/abs/adap-org/9708006)**: Damien Challet and Yi-Cheng Zhang introduce the minority game, where agents independently choose between two options and minority members win. Simulations examine collective coordination using finite strategy sets and limited public histories (1997 manuscript).
