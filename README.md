@@ -273,6 +273,8 @@
 
 ### Agent foundations and architectures
 
+- **[Tropos: An Agent-Oriented Software Development Methodology](https://link.springer.com/article/10.1023/B:AGNT.0000018806.20944.ef)**: Paolo Bresciani, Anna Perini, Paolo Giorgini, Fausto Giunchiglia, and John Mylopoulos use agents, goals, and plans throughout software development, including early requirements analysis. Tropos defines a UML-based conceptual metamodel and illustrates the methodology through a case study (Autonomous Agents and Multi-Agent Systems, 2004).
+
 - **[Specifying and Verifying Distributed Intelligent Systems](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/epia93.pdf)**: Michael Fisher and Michael Wooldridge develop temporal belief logic for specifying and verifying Concurrent METATEM programs. Agents execute temporal rules and communicate through asynchronous broadcasts; examples use propositional specifications (EPIA, 1993).
 
 - **[GOLOG: A logic programming language for dynamic domains](https://www.cs.toronto.edu/kr/papers/GOLOGlang.pdf)**: Hector J. Levesque, Raymond Reiter, Yves Lespérance, Fangzhen Lin, and Richard B. Scherl introduce a situation-calculus language for high-level agent programs. Execution relies on supplied axioms for initial conditions, action preconditions, and effects. The paper describes a Prolog prototype (Journal of Logic Programming, 1997; linked author draft).
@@ -707,6 +709,8 @@
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 
 ### Communication and emergent language
+
+- **[Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue](https://aclanthology.org/2026.sigdial-1.21/)**: Vardhan Dongre and Dilek Hakkani-Tür extend PARTNR with dialogue between two partially observing agents. They measure world-graph alignment, message novelty, and partner-sensitive communication in simulated household tasks with oracle motor skills and different messaging costs (SIGDIAL, 2026).
 
 - **[G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks](https://proceedings.mlr.press/v267/zhang25cu.html)**: Guibin Zhang, Yanwei Yue, Xiangguo Sun, Guancheng Wan, Miao Yu, Junfeng Fang, Kun Wang, Tianlong Chen, and Dawei Cheng generate task-specific communication topologies with a variational graph autoencoder over agent nodes and a task node. Evaluation covers six benchmarks, including MMLU and HumanEval (ICML, 2025).
 
