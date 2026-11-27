@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Dynamic Epistemic Logic](https://link.springer.com/book/10.1007/978-1-4020-5839-4)**: Hans van Ditmarsch, Wiebe van der Hoek, and Barteld Kooi develop logics for knowledge change in multi-agent systems, including public announcements, epistemic actions, and belief revision. The book presents proof systems, completeness results, and expressivity comparisons (Springer, published 2007; copyright 2008).
+
 - **[The Uses of Argument](https://www.cambridge.org/core/books/the-uses-of-argument/26CF801BC12004587B66778297D5567C)**: Stephen E. Toulmin analyzes the structure and justification of arguments, including data, warrants, and backing, and examines how standards of assessment vary across fields. This is conceptual argumentation background (1958; updated edition, 2003; [publisher frontmatter](https://assets.cambridge.org/97805218/27485/frontmatter/9780521827485_frontmatter.pdf)).
 
 - **[The Theory of Learning in Games](https://mitpress.mit.edu/9780262061940/the-theory-of-learning-in-games/)**: Drew Fudenberg and David K. Levine examine learning processes in games and their relationship to equilibrium. The book develops models in which players adapt their behavior over time under limited rationality (MIT Press, 1998).
@@ -1051,6 +1053,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[GoBigger: A Scalable Platform for Cooperative-Competitive Multi-Agent Interactive Simulation](https://github.com/opendilab/GoBigger#citation)**: Zhang et al. introduce an Agar-like simulation platform with cooperation within teams and competition among multiple teams. GoBigger provides challenge scenarios, built-in opponents, and visualization tools for evaluating multi-agent reinforcement learning (ICLR, 2023; accepted PDF title ends *Cooperative-Competitive Multi-Agent Reinforcement Learning*).
 
 - **[FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions](https://aclanthology.org/2023.emnlp-main.890/)**: Kim et al. evaluate question answering about information access and beliefs in generated multiparty conversations. FANToM uses several question formats for the same underlying situation to test consistency as characters enter and leave discussions. Models receive full transcripts as observers (EMNLP, 2023).
 
