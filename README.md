@@ -806,6 +806,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[Scaling Swarms to Thousands of Agents](https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms)**: Carlos Miguel Patiño, Lewis Tunstall, Ben Burtenshaw, and Leandro von Werra report a nine-day chatbot-development run that grew to 1,000 agents. They examine task lanes, review requirements, message delivery, workspace recovery, and infrastructure bottlenecks. Companion tools are the [Legion](https://github.com/huggingface/legion) orchestration framework and [msgboard](https://github.com/huggingface/msgboard) communication tool (Hugging Face field report, November 25, 2026).
+
 - **[AutoData: A Multi-Agent System for Open Web Data Collection](https://proceedings.nips.cc/paper_files/paper/2025/hash/fd489a44f3bcb9f122e4931ef21d0c43-Abstract-Conference.html)**: Ma et al. coordinate specialized research and development agents through a central manager and a message/artifact cache. They introduce Instruct2DS for instruction-driven live-web data collection across academic, finance, and sports domains (NeurIPS, 2025).
 
 - **[AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://aclanthology.org/2025.findings-acl.466/)**: Jia et al. integrate heterogeneous computer-use agents through a MetaAgent and an AgentToken selection strategy. Evaluation covers three interactive computer-task benchmarks (Findings of ACL, 2025).
