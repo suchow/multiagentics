@@ -978,6 +978,8 @@
 
 ### Evaluation and failure analysis
 
+- **[CypherMAS: Benchmarking Routing Reliability in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2611.33242)**: Danil Kostromin, Andrey Sakhovskiy, and Semen Budennyy evaluate request–response routing in fixed agent graphs against known shortest paths. They measure completion, redundant language-model calls, and message errors under structured and free-text communication in synchronous, noiseless synthetic settings (2026 preprint).
+
 - **[Recursive Collective Intelligence: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems](https://arxiv.org/abs/2611.32606)**: He et al. compare interacting agent groups with compute-matched majority-vote and pass@n baselines. They study distributed information sharing and training successive agent generations from group-produced data on controlled tasks, PlanBench, HiddenBench, and Hanabi (2026 preprint).
 
 - **[When Are Parallel Subagents Effective for Coding? An Empirical Study on Repository Construction](https://arxiv.org/abs/2611.33893)**: Zhiheng Lyu, Chengyu Yin, and Lingming Zhang compare single-agent and parallel-subagent repository construction at equal time and equal cost on NL2Repo and ProgramBench. Interventions examine self-checking, fresh contexts, and code modularity (2026 preprint).
