@@ -370,6 +370,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Cooperative Solution of Constraint Satisfaction Problems](https://web.mit.edu/2.717/www/oct_fujimoto_91.pdf)**: Scott H. Clearwater, Bernardo A. Huberman, and Tad Hogg compare cooperating computational agents on constraint-satisfaction problems. Their experiments test quantitative predictions about the benefits of cooperation within this problem class (Science, 1991).
+
 - **[Decentralized Control of Cooperative Systems: Categorization and Complexity Analysis](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume22/goldman04a.pdf)**: Claudia V. Goldman and Shlomo Zilberstein classify decentralized cooperative control problems by transition, observation, and objective structure, including communication cost. Their analysis assumes a shared objective and full information sharing during offline planning (JAIR, 2004).
 
 - **[MB-DPOP: A New Memory-Bounded Algorithm for Distributed Optimization](https://ijcai.org/proceedings/2007/234)**: Adrian Petcu and Boi Faltings combine DPOP utility propagation with cycle-cutset search to bound message dimensionality and memory use. Their discrete constraint-optimization model uses finite variable domains and summed utilities (IJCAI, 2007).
@@ -811,6 +813,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[AgenticSciML: collaborative multi-agent systems for emergent discovery in scientific machine learning](https://www.nature.com/articles/s44387-026-00102-5)**: Qile Jiang and George Karniadakis coordinate proposing, criticizing, retrieving, and evaluating agents to develop scientific-machine-learning models. Executed evaluations cover function approximation, physics-informed PDE solvers, and operator learning (npj Artificial Intelligence, 2026).
 
 - **[A multi-agent system for automating scientific discovery](https://www.nature.com/articles/s41586-026-10652-y)**: Ghareeb et al. coordinate literature-search and data-analysis agents through Robin in an iterative in-vitro biological investigation. Human scientists review candidates, write protocols, conduct laboratory experiments, and return data for analysis and follow-up hypothesis generation (Nature, 2026).
 
