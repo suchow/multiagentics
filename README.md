@@ -289,6 +289,8 @@
 
 ### Agent foundations and architectures
 
+- **[Implementing Distributed AI Systems Using MACE](https://experts.illinois.edu/en/publications/implementing-distributed-ai-systems-using-mace/)**: Les Gasser, Carl Braganza, and Nava Herman describe an instrumented environment for parallel agents with message passing, agent descriptions, execution tracing, and monitoring. Demonstrations include distributed production systems, blackboards, and Contract Net architectures (1987; institutional abstract).
+
 - **[TouringMachines: an architecture for dynamic, rational, mobile agents](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-273.html)**: Innes A. Ferguson develops a layered architecture combining reactive control, planning, and models of other agents’ goals and intentions. Evaluation uses a simulated multi-agent world with configurable agent capabilities and environmental conditions (Cambridge technical report, 1992).
 
 - **[Intelligent Agents for Interactive Simulation Environments](https://onlinelibrary.wiley.com/doi/abs/10.1609/aimag.v16i1.1121)**: Tambe et al. describe TacAir-Soar, integrated pilot agents built within Soar for dynamic multi-agent battlefield simulations. The article examines agent capabilities and reports participation in constrained air-combat simulations against expert human pilots (AI Magazine, 1995).
@@ -391,6 +393,8 @@
 - **[BDI Agents: From Theory to Practice](https://cdn.aaai.org/ICMAS/1995/ICMAS95-042.pdf)**: Rao and Georgeff connect belief–desire–intention theory with practical agent implementations and an air-traffic-management application (ICMAS, 1995).
 
 ### Planning, task allocation, and constraints
+
+- **[Single-Agent Planning in a Multi-Agent System: A Unified Framework for Type-Based Planners](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2382.pdf)**: Fengming Zhu and Fangzhen Lin unify exact and approximate type-based planners through layered lookahead and compare 13 implementations in multi-agent route planning. The model assumes observed states and actions, perfect recall, and stationary opponent-policy types (AAMAS, 2025).
 
 - **[A Hierarchical Protocol for Coordinating Multiagent Behaviors](https://cdn.aaai.org/AAAI/1990/AAAI90-013.pdf)**: Edmund H. Durfee and Thomas A. Montgomery coordinate agents through abstract descriptions of anticipated behavior, followed by detailed exchanges when potential interactions are detected. Their prototype assumes a shared language for behavioral dimensions and supports changes that avoid conflicts or promote cooperation (AAAI, 1990).
 
