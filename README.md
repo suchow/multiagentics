@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[The Uses of Argument](https://www.cambridge.org/core/books/the-uses-of-argument/26CF801BC12004587B66778297D5567C)**: Stephen E. Toulmin analyzes the structure and justification of arguments, including data, warrants, and backing, and examines how standards of assessment vary across fields. This is conceptual argumentation background (1958; updated edition, 2003; [publisher frontmatter](https://assets.cambridge.org/97805218/27485/frontmatter/9780521827485_frontmatter.pdf)).
+
 - **[The Theory of Learning in Games](https://mitpress.mit.edu/9780262061940/the-theory-of-learning-in-games/)**: Drew Fudenberg and David K. Levine examine learning processes in games and their relationship to equilibrium. The book develops models in which players adapt their behavior over time under limited rationality (MIT Press, 1998).
 
 - **[Autonomous agents modelling other agents: A comprehensive survey and open problems](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AIJ18-Albrecht.pdf)**: Stefano V. Albrecht and Peter Stone survey methods for modelling other agents’ actions, goals, and beliefs. They compare assumptions across policy reconstruction, type-based reasoning, plan recognition, recursive reasoning, graphical models, and group modelling (Artificial Intelligence, 2018).
@@ -933,6 +935,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[Agent Laboratory: Using LLM Agents as Research Assistants](https://aclanthology.org/2025.findings-emnlp.320/)**: Schmidgall et al. coordinate specialized agents for literature review, experimental planning, code execution, and report writing from human-provided research ideas. Evaluation includes automated assessments and researcher feedback, with optional human guidance between workflow stages (Findings of EMNLP, 2025).
 
 - **[Accelerating scientific discovery with Co-Scientist](https://www.nature.com/articles/s41586-026-10644-y)**: Gottweis et al. coordinate hypothesis generation, reflection, ranking, and refinement through asynchronous agents and tournaments. Scientists guide research goals and feedback. Selected biomedical hypotheses undergo separate in-vitro validation (Nature, 2026).
 
