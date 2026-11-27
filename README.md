@@ -632,6 +632,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Improving Elevator Performance Using Reinforcement Learning](https://papers.nips.cc/paper_files/paper/1995/hash/390e982518a50e280d8e2b535462ec1f-Abstract.html)**: Robert H. Crites and Andrew G. Barto train a team of reinforcement-learning agents, one per elevator car, using a shared reinforcement signal. Simulation evaluates dispatching under partial observability, changing passenger-arrival rates, and interactions between controllers (NIPS, 1995; proceedings, 1996).
+
 - **[Multiagent Reinforcement Learning in the Iterated Prisoner’s Dilemma](https://mas.cs.umass.edu/Documents/lesser/biosystems95.pdf)**: Tuomas W. Sandholm and Robert H. Crites compare Q-learning agents with different history windows, memory representations, and exploration schedules against Tit-for-Tat and other learners. Their experiments examine the difficulties of simultaneous adaptation in a mixed-payoff repeated game (Biosystems, 1996).
 
 - **[BenchMARL: Benchmarking Multi-Agent Reinforcement Learning](https://www.jmlr.org/papers/v25/23-1612.html)**: Matteo Bettini, Amanda Prorok, and Vincent Moens introduce a TorchRL-based training library for comparing multi-agent algorithms, models, and environments through standardized configuration and reporting (JMLR, 2024).
