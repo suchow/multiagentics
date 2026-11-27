@@ -700,6 +700,8 @@
 
 ### Communication and emergent language
 
+- [Thought Communication in Multiagent Collaboration](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b2b502c3629beadda06311386d2c6f73-Abstract-Conference.html) — Yujia Zheng, Zhuokai Zhao, Zijian Li, Yaqi Xie, Mingze Gao, Lizhu Zhang, and Kun Zhang extract latent representations from agent hidden states with a sparsity-regularized autoencoder and inject adapted representations during communication. The method requires model-internal access and additional training. Evaluation uses synthetic data and multi-agent debate on MATH and GSM8K (NeurIPS, 2025).
+
 - **[DebUnc: Improving Large Language Model Agent Communication With Uncertainty Metrics](https://aclanthology.org/2025.findings-emnlp.1265/)**: Yoffe, Amayuelas, and Wang communicate uncertainty estimates through prompts or attention scaling during multi-agent debate. They compare these mechanisms on reasoning and factual-question benchmarks. Attention scaling requires access to model internals; some comparisons use a correct-answer oracle for uncertainty (Findings of EMNLP, 2025).
 
 - **[Desiderata for Agent Communication Languages](https://research.cs.umbc.edu/kqml/papers/desiderata-acl/root.html)**: Mayfield, Labrou, and Finin propose requirements for agent communication languages across syntax, content, semantics, implementation, networking, environment, and reliability. They assess KQML against these requirements (AAAI Spring Symposium, 1995).
@@ -1047,6 +1049,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- [Self-organized shortcuts in the Argentine ant](https://link.springer.com/article/10.1007/BF00462870) — S. Goss, S. Aron, J. L. Deneubourg, and J. M. Pasteels combine laboratory bridge experiments with a pheromone-feedback model of Argentine-ant route selection. The model also predicts persistence on an established longer route when a shortcut appears later (Naturwissenschaften, 1989).
 
 - **[Quorum sensing during nest-site selection by honeybee swarms](https://link.springer.com/article/10.1007/s00265-004-0814-5)**: Seeley and Visscher test quorum sensing during honeybee nest-site selection. Paired trials with four swarms compare one nest box with five nearby boxes and measure preparation signals and takeoff timing. This is biological collective-decision evidence (Behavioral Ecology and Sociobiology, 2004).
 
