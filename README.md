@@ -764,6 +764,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://aclanthology.org/2025.findings-acl.466/)**: Jia et al. integrate heterogeneous computer-use agents through a MetaAgent and an AgentToken selection strategy. Evaluation covers three interactive computer-task benchmarks (Findings of ACL, 2025).
+
 - **[AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction](https://aclanthology.org/2025.emnlp-main.584/)**: Wang et al. introduce AnyMAC, which selects the next agent role and relevant prior messages at each step of a collaboration sequence. Evaluation covers general reasoning, mathematical problems, and code generation (EMNLP, 2025).
 
 - **[AFlow: Automating Agentic Workflow Generation](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5492ecbce4439401798dcd2c90be94cd-Abstract-Conference.html)**: Zhang et al. use Monte Carlo tree search to generate code-defined workflows of language-model calls. AFlow refines candidate workflows through code changes and execution feedback. Evaluation uses six benchmarks (ICLR, 2025).
