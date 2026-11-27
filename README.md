@@ -273,6 +273,8 @@
 
 ### Agent foundations and architectures
 
+- **[ConGolog, a concurrent programming language based on the situation calculus](https://www.cs.toronto.edu/cogrobo/Papers/ConGologAIJ.pdf)**: Giuseppe De Giacomo, Yves Lespérance, and Hector J. Levesque define concurrent agent programs with priorities, interrupts, and exogenous actions in the situation calculus. Primitive actions require supplied axioms, and initial states may be incompletely specified (Artificial Intelligence, 2000).
+
 - **[Tropos: An Agent-Oriented Software Development Methodology](https://link.springer.com/article/10.1023/B:AGNT.0000018806.20944.ef)**: Paolo Bresciani, Anna Perini, Paolo Giorgini, Fausto Giunchiglia, and John Mylopoulos use agents, goals, and plans throughout software development, including early requirements analysis. Tropos defines a UML-based conceptual metamodel and illustrates the methodology through a case study (Autonomous Agents and Multi-Agent Systems, 2004).
 
 - **[Specifying and Verifying Distributed Intelligent Systems](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/epia93.pdf)**: Michael Fisher and Michael Wooldridge develop temporal belief logic for specifying and verifying Concurrent METATEM programs. Agents execute temporal rules and communicate through asynchronous broadcasts; examples use propositional specifications (EPIA, 1993).
@@ -781,6 +783,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[AutoData: A Multi-Agent System for Open Web Data Collection](https://proceedings.nips.cc/paper_files/paper/2025/hash/fd489a44f3bcb9f122e4931ef21d0c43-Abstract-Conference.html)**: Ma et al. coordinate specialized research and development agents through a central manager and a message/artifact cache. They introduce Instruct2DS for instruction-driven live-web data collection across academic, finance, and sports domains (NeurIPS, 2025).
 
 - **[AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://aclanthology.org/2025.findings-acl.466/)**: Jia et al. integrate heterogeneous computer-use agents through a MetaAgent and an AgentToken selection strategy. Evaluation covers three interactive computer-task benchmarks (Findings of ACL, 2025).
 
