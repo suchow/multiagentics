@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Empirical Game-Theoretic Analysis: A Survey](https://arxiv.org/abs/2403.04018)**: Michael P. Wellman, Karl Tuyls, and Amy Greenwald survey empirical game-theoretic analysis, which estimates game models through interaction with procedural environments. They organize methods for analyzing complex strategic settings, including markets, games, and cybersecurity (JAIR, 2025).
+
 - **[A Survey on One-To-Many Negotiation: A Taxonomy of Interdependency](https://ijcai.org/proceedings/2025/1159)**: Tamara C.P. Florijn, Pınar Yolum, and Tim Baarslag survey one-to-many negotiation through a common message-and-utility model. Their taxonomy classifies dependencies among bilateral subnegotiations, including constraints across deals and shared budgets (IJCAI, 2025).
 
 - **[Growing Artificial Societies: Social Science from the Bottom Up](https://www.brookings.edu/books/growing-artificial-societies/)**: Joshua M. Epstein and Robert L. Axtell develop Sugarscape, an agent-based simulation of resource gathering, population change, cultural transmission, and trade. The book studies aggregate social patterns produced by specified local rules (Brookings Institution Press and MIT Press, 1996; publisher description).
@@ -553,6 +555,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[The Complexity of Computing a Nash Equilibrium](https://www.cs.ox.ac.uk/people/paul.goldberg/papers/SICOMP-dgp09.pdf)**: Daskalakis, Goldberg, and Papadimitriou establish PPAD-completeness for computing approximate Nash equilibria in three-player normal-form games with accuracy specified as part of the input. Their hardness reduction uses inverse-exponential additive accuracy and connects equilibrium computation with Brouwer fixed-point computation (SIAM Journal on Computing, 2009).
 
 - **[How Bad is Selfish Routing?](https://theory.stanford.edu/~tim/papers/routing.pdf)**: Tim Roughgarden and Éva Tardos bound equilibrium inefficiency in congested networks with infinitesimal users. For nonnegative linear edge-latency functions, equilibrium total latency is at most four-thirds of the minimum possible total latency (Journal of the ACM, 2002; linked author manuscript).
 
