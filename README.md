@@ -844,6 +844,8 @@
 
 ### Communication and emergent language
 
+- **[EGG: a toolkit for research on Emergence of lanGuage in Games](https://aclanthology.org/D19-3010/)**: Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, and Marco Baroni introduce a modular toolkit for training neural agents in discrete-channel communication games. It provides components for comparing game designs, agent architectures, and optimization methods (EMNLP-IJCNLP System Demonstrations, 2019).
+
 - **[Multi-Agent Graph-Attention Communication and Teaming](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p964.pdf)**: Yaru Niu, Rohan Paleja, and Matthew Gombolay learn communication scheduling and message processing through graph attention. Evaluation uses predator–prey, traffic-junction, and football environments (AAMAS, 2021).
 
 - **[Learning Multi-Agent Communication from Graph Modeling Perspective](https://arxiv.org/abs/2405.08550)**: Shengchao Hu, Li Shen, Ya Zhang, and Dacheng Tao introduce CommFormer, which jointly learns a communication graph and cooperative policies through bilevel optimization. The graph is fixed before inference, with attention applied to received messages. The method uses centralized training and distributed execution in bandwidth-limited cooperative reinforcement learning (ICLR, 2024).
@@ -1225,6 +1227,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Productivity Loss in Brainstorming Groups: Toward the Solution of a Riddle](https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/wintersemester2011-12/seminarthemenfelderdersozialpsychologie/08_diehl_stoebe_productivityloss-brainstorming_jpsp1987.pdf)**: Michael Diehl and Wolfgang Stroebe investigate why interacting human brainstorming groups generate fewer ideas than pooled individuals. Four experiments identify production blocking as the main explanation in the studied conditions; transfer to AI teams is unverified (Journal of Personality and Social Psychology, 1987).
 
 - **[An Evolutionary Approach to Norms](https://websites.umich.edu/axe/Axelrod%20Norms%20APSR%201986%20%282%29.pdf)**: Robert Axelrod simulates the evolution of defection, punishment, and punishment of nonpunishers. His metanorm model examines norm maintenance under linked punishment propensities and specified initial conditions (American Political Science Review, 1986).
 
