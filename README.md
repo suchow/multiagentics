@@ -1092,6 +1092,10 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Understanding and sharing intentions: The origins of cultural cognition](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/understanding-and-sharing-intentions-the-origins-of-cultural-cognition/F9C40BF73A68B30B8EB713F2F947F7E2)**: Michael Tomasello, Malinda Carpenter, Josep Call, Tanya Behne, and Henrike Moll propose shared intentionality as an account of human cultural cognition based on developmental and comparative research. The account concerns collaborative activities with shared goals and intentions; transfer to AI teams is unverified (Behavioral and Brain Sciences, 2005).
+
+- **[Multi-Round Human–AI Collaboration with User-Specified Requirements](https://proceedings.mlr.press/v306/noorani26a.html)**: Sima Noorani, Shayan Kiyani, Hamed Hassani, and George J. Pappas formalize user-defined constraints on harmful advice and complementary assistance during repeated interaction. Evaluation includes simulated medical-diagnosis conversations and a human crowdsourcing study of pictorial reasoning (ICML, 2026).
+
 - **[Joint action: Bodies and minds moving together](https://research.ceu.edu/en/publications/joint-action-bodies-and-minds-moving-together/)**: Natalie Sebanz, Harold Bekkering, and Günther Knoblich review human joint attention, action observation, task sharing, action coordination, and agency. They discuss mechanisms for shared representations and action prediction as adjacent cognitive foundations (Trends in Cognitive Sciences, 2006).
 
 - **[Robust Human-AI Complementarity under Uncertainty](https://proceedings.mlr.press/v306/byun26b.html)**: Yewon Byun and Bryan Wilder study human–AI decision-making with asymmetric information about prediction quality. Their analysis relates complementary value to error correlations and examines those conditions on forecasting benchmarks (ICML, 2026).
