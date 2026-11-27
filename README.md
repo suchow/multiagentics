@@ -370,6 +370,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Decentralized Control of Cooperative Systems: Categorization and Complexity Analysis](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume22/goldman04a.pdf)**: Claudia V. Goldman and Shlomo Zilberstein classify decentralized cooperative control problems by transition, observation, and objective structure, including communication cost. Their analysis assumes a shared objective and full information sharing during offline planning (JAIR, 2004).
+
 - **[MB-DPOP: A New Memory-Bounded Algorithm for Distributed Optimization](https://ijcai.org/proceedings/2007/234)**: Adrian Petcu and Boi Faltings combine DPOP utility propagation with cycle-cutset search to bound message dimensionality and memory use. Their discrete constraint-optimization model uses finite variable domains and summed utilities (IJCAI, 2007).
 
 - **[Multi-Agent Planning as a Dynamic Search for Social Consensus](https://ijcai.org/proceedings/1993/0060.pdf)**: Ephrati and Rosenschein construct joint plans through iterative voting and aggregation of agents’ goal constraints. Their formal procedure uses explicit utility functions and a search-gap bound, with examples in a blocks world (IJCAI, 1993).
@@ -583,6 +585,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[s³: Simple Scaling of Swarms via Cooperative Multi-agent RL](https://arxiv.org/abs/2611.08615)**: Jha et al. train asynchronous agent teams with shared rewards for task actions and communication. Evaluation compares private-information aggregation and decentralized exploration against independent agents with matched training and inference budgets (2026 preprint).
 
 - **[COGNAC: Cooperative Graph-based Networked Agent Challenges for Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/089ae994919488e764ed271a132124f1-Abstract-Datasets_and_Benchmarks_Track.html)**: Sintes and Busic introduce cooperative graph-structured environments for evaluating multi-agent reinforcement learning across network sizes and topologies. They compare independent, centralized, and centralized-training/decentralized-execution methods on these network-control problems (NeurIPS Datasets and Benchmarks, 2025).
 
