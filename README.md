@@ -289,6 +289,8 @@
 
 ### Agent foundations and architectures
 
+- **[Intelligent Agents for Interactive Simulation Environments](https://onlinelibrary.wiley.com/doi/abs/10.1609/aimag.v16i1.1121)**: Tambe et al. describe TacAir-Soar, integrated pilot agents built within Soar for dynamic multi-agent battlefield simulations. The article examines agent capabilities and reports participation in constrained air-combat simulations against expert human pilots (AI Magazine, 1995).
+
 - **[Frameworks for Cooperation in Distributed Problem Solving](https://www.reidgsmith.com/Frameworks_for_Cooperation_in_Distributed_Problem_Solving_Jan-1981.pdf)**: Reid G. Smith and Randall Davis distinguish task sharing from exchanging partial results and compare their communication and control requirements. Their framework assumes cooperative, loosely coupled asynchronous nodes with message passing and no shared memory (IEEE Transactions on Systems, Man, and Cybernetics, 1981).
 
 - **[Part One: The Blackboard Model of Problem Solving and the Evolution of Blackboard Architectures](https://onlinelibrary.wiley.com/doi/full/10.1609/aimag.v7i2.537)**: H. Penny Nii explains blackboard problem solving through independent knowledge sources, shared solution-state data, and opportunistic control. The survey traces architectural variants and distinguishes the conceptual model from computational implementations (AI Magazine, 1986).
