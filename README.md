@@ -273,6 +273,8 @@
 
 ### Agent foundations and architectures
 
+- **[2APL: a practical agent programming language](https://link.springer.com/article/10.1007/s10458-008-9036-y)**: Mehdi Dastani defines a BDI-based multi-agent programming language combining declarative beliefs and goals with events and plans. It provides constructs for plan generation, repair, and execution, with formal syntax and semantics (Autonomous Agents and Multi-Agent Systems, 2008).
+
 - **[Prometheus: A Methodology for Developing Intelligent Agents](https://winikoff.github.io/pdf/aose02.pdf)**: Lin Padgham and Michael Winikoff organize agent development into system specification, architectural design, and detailed design. Prometheus supplies iterative processes and design artifacts for BDI-like agents (AOSE 2002; revised proceedings published 2003).
 
 - **[ConGolog, a concurrent programming language based on the situation calculus](https://www.cs.toronto.edu/cogrobo/Papers/ConGologAIJ.pdf)**: Giuseppe De Giacomo, Yves Lespérance, and Hector J. Levesque define concurrent agent programs with priorities, interrupts, and exogenous actions in the situation calculus. Primitive actions require supplied axioms, and initial states may be incompletely specified (Artificial Intelligence, 2000).
