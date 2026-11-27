@@ -376,6 +376,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving](https://ijcai.org/proceedings/1971/63)**: Richard E. Fikes and Nils J. Nilsson introduce STRIPS, which combines means–ends search with theorem proving over world models and action preconditions and effects. This centralized planning foundation supplies representations used in later multi-agent planning (IJCAI, 1971).
+
 - **[Cooperative Solution of Constraint Satisfaction Problems](https://web.mit.edu/2.717/www/oct_fujimoto_91.pdf)**: Scott H. Clearwater, Bernardo A. Huberman, and Tad Hogg compare cooperating computational agents on constraint-satisfaction problems. Their experiments test quantitative predictions about the benefits of cooperation within this problem class (Science, 1991).
 
 - **[Decentralized Control of Cooperative Systems: Categorization and Complexity Analysis](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume22/goldman04a.pdf)**: Claudia V. Goldman and Shlomo Zilberstein classify decentralized cooperative control problems by transition, observation, and objective structure, including communication cost. Their analysis assumes a shared objective and full information sharing during offline planning (JAIR, 2004).
@@ -747,6 +749,8 @@
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 
 ### Communication and emergent language
+
+- **[Multi-Agent Graph-Attention Communication and Teaming](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p964.pdf)**: Yaru Niu, Rohan Paleja, and Matthew Gombolay learn communication scheduling and message processing through graph attention. Evaluation uses predator–prey, traffic-junction, and football environments (AAMAS, 2021).
 
 - **[Learning Multi-Agent Communication from Graph Modeling Perspective](https://arxiv.org/abs/2405.08550)**: Shengchao Hu, Li Shen, Ya Zhang, and Dacheng Tao introduce CommFormer, which jointly learns a communication graph and cooperative policies through bilevel optimization. The graph is fixed before inference, with attention applied to received messages. The method uses centralized training and distributed execution in bandwidth-limited cooperative reinforcement learning (ICLR, 2024).
 
