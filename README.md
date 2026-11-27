@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[A Survey on One-To-Many Negotiation: A Taxonomy of Interdependency](https://ijcai.org/proceedings/2025/1159)**: Tamara C.P. Florijn, Pınar Yolum, and Tim Baarslag survey one-to-many negotiation through a common message-and-utility model. Their taxonomy classifies dependencies among bilateral subnegotiations, including constraints across deals and shared budgets (IJCAI, 2025).
+
 - **[Growing Artificial Societies: Social Science from the Bottom Up](https://www.brookings.edu/books/growing-artificial-societies/)**: Joshua M. Epstein and Robert L. Axtell develop Sugarscape, an agent-based simulation of resource gathering, population change, cultural transmission, and trade. The book studies aggregate social patterns produced by specified local rules (Brookings Institution Press and MIT Press, 1996; publisher description).
 
 - **[Automated Negotiation: Prospects, Methods and Challenges](https://jmvidal.cse.sc.edu/library/jennings01a.pdf)**: N. R. Jennings, P. Faratin, A. R. Lomuscio, S. Parsons, M. Wooldridge, and C. Sierra organize automated negotiation around interaction protocols, negotiation objects, and agents’ decision models. They assess game-theoretic, heuristic, and argumentation-based approaches, with emphasis on their own research (Group Decision and Negotiation, 2001).
@@ -549,6 +551,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[Evolutionarily Stable Strategies and Game Dynamics](https://public.ek-cer.hu/~szabo/EGT20/library/taylor_mbs78.pdf)**: Peter D. Taylor and Leo B. Jonker derive population dynamics in which strategy frequencies change with reproductive fitness. They relate evolutionarily stable strategies to continuous-time stability under a nondegeneracy condition and examine differences in discrete-time dynamics (Mathematical Biosciences, 1978).
 
 - **[On the Complexity of Learning to Cooperate in Populations of Socially Rational Agents](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p233.pdf)**: Bandyopadhyay, Çelikok, and Loftin analyze learning cooperation from observed interactions in finitely repeated two-player general-sum games with private utilities. They derive impossibility and sample-complexity results under individual no-regret and pairwise cooperation assumptions (AAMAS, 2025).
 
