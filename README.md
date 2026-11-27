@@ -1176,6 +1176,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Socratic: Enhancing Human Teamwork via AI-enabled Coaching](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1876.pdf)**: Seo et al. introduce an AI coach that models team behavior from demonstrations and recommends interventions during task execution. A randomized validation study evaluates dyadic teams in partially observable box-moving and flood-response simulations (AAMAS, 2025).
+
 - **[Altruistic punishment in humans](https://www.econ.uzh.ch/dam/jcr:ffffffff-9758-127f-ffff-fffffd123b6f/AltruisticPunishment.pdf)**: Ernst Fehr and Simon Gächter compare anonymous public-goods games with and without opportunities for costly punishment. Contributions were higher with punishment despite changing group membership and no repeated pairings. This is human experimental evidence about cooperation (Nature, 2002).
 
 - **[Crowdsourcing Systems on the World-Wide Web](https://sfu-db.github.io/cmpt884-fall16/Papers/Crowdsourcing%20systems%20on%20the%20world-wide%20web.pdf)**: AnHai Doan, Raghu Ramakrishnan, and Alon Y. Halevy classify Web crowdsourcing applications and examine contributor recruitment, contribution types, aggregation, and evaluation. Their non-exhaustive survey includes explicit and implicit human collaboration (Communications of the ACM, 2011).
