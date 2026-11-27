@@ -511,6 +511,8 @@
 
 ### Distributed systems and consensus
 
+- **[Consensus on Transaction Commit](https://lamport.azurewebsites.net/video/consensus-on-transaction-commit.pdf)**: Jim Gray and Leslie Lamport derive Paxos Commit by applying consensus to each transaction participant’s commit-or-abort decision. They compare it with Two-Phase Commit, including coordinator failures, message costs, and conditional progress under benign failures and stable storage (ACM Transactions on Database Systems, 2006; linked author version corrected in 2017).
+
 - **[Wait-Free Synchronization](https://cs.brown.edu/people/mph/Herlihy91/p124-herlihy.pdf)**: Maurice Herlihy classifies concurrent objects by their ability to solve consensus and establishes impossibility and universality results for wait-free implementations. Completion requires finitely many local steps regardless of other processes’ execution speeds (ACM Transactions on Programming Languages and Systems, 1991).
 
 - **[Conflict-free Replicated Data Types](https://www.lip6.fr/Marc.Shapiro/papers/2011/CRDTs_SSS-2011.pdf)**: Marc Shapiro, Nuno Preguiça, Carlos Baquero, and Marek Zawirski formalize strong eventual consistency and give sufficient convergence conditions for state-based and operation-based replicated data types. Their model assumes non-Byzantine replicas and eventual update delivery (SSS, 2011).
@@ -1047,6 +1049,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[PettingZoo: A Standard API for Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/803f7c4c3ff61b71be53a0c803bfb57f-Paper.pdf)**: Terry et al. introduce the Agent Environment Cycle game model and a shared Python interface for multi-agent environments. They relate the model to partially observable stochastic games and examine implementation bugs caused by ambiguous environment-step semantics (NeurIPS, 2021; proceedings record titled *PettingZoo: Gym for Multi-Agent Reinforcement Learning*).
 
 - **[TEACh: Task-Driven Embodied Agents That Chat](https://www.amazon.science/publications/teach-task-driven-embodied-agents-that-chat)**: Padmakumar et al. introduce over 3,000 human–human dialogues for completing household tasks in simulation. An informed Commander communicates with a Follower that navigates and manipulates objects. Three benchmarks evaluate dialogue understanding, language grounding, and task execution (AAAI, 2022).
 
