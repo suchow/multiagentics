@@ -640,6 +640,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[CityLearn v2: energy-flexible, resilient, occupant-centric, and carbon-aware management of grid-interactive communities](https://www.tandfonline.com/doi/abs/10.1080/19401493.2024.2418813)**: Nweye et al. introduce simulation environments for distributed building-energy control with community objectives and occupant feedback. Examples evaluate battery storage, vehicle-to-grid operation, and heat-pump control (Journal of Building Performance Simulation, 2025; online 2024).
+
 - **[IMP-MARL: a Suite of Environments for Large-scale Infrastructure Management Planning via MARL](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a7a7c0c92f195cce85f99768621ac6c0-Abstract-Datasets_and_Benchmarks.html)**: Leroy et al. introduce cooperative infrastructure-maintenance simulations where agents inspect and repair individual components under uncertain damage conditions. They compare learning methods with expert heuristics across systems with up to 100 agents, including offshore-wind structures (NeurIPS Datasets and Benchmarks, 2023).
 
 - **[Learning to Cooperate via Policy Search](https://arxiv.org/abs/cs/0105032)**: Leonid Peshkin, Kee-Eung Kim, Nicolas Meuleau, and Leslie Pack Kaelbling develop distributed gradient-based policy search for cooperative agents with partial observations and a shared reward. They analyze local optima and Nash equilibria and evaluate the method in simulated soccer (UAI, 2000).
@@ -1179,6 +1181,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[An Evolutionary Approach to Norms](https://websites.umich.edu/axe/Axelrod%20Norms%20APSR%201986%20%282%29.pdf)**: Robert Axelrod simulates the evolution of defection, punishment, and punishment of nonpunishers. His metanorm model examines norm maintenance under linked punishment propensities and specified initial conditions (American Political Science Review, 1986).
 
 - **[The Dissemination of Culture: A Model with Local Convergence and Global Polarization](https://journals.sagepub.com/doi/10.1177/0022002797041002001)**: Robert Axelrod models cultural influence among fixed neighboring agents with multiple discrete traits. Similarity-dependent interaction produces local convergence and, under studied parameter settings, persistent differences between regions. This is theoretical simulation; transfer to AI teams is unverified (Journal of Conflict Resolution, 1997).
 
