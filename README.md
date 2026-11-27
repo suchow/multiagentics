@@ -1152,6 +1152,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints](https://openaccess.thecvf.com/content/ICCV2025/html/Qin_RoboFactory_Exploring_Embodied_Agent_Collaboration_with_Compositional_Constraints_ICCV_2025_paper.html)**: Yiran Qin, Li Kang, Xiufeng Song, Zhenfei Yin, Xiaohong Liu, Xihui Liu, Ruimao Zhang, and Lei Bai combine logical, spatial, and temporal constraints to generate multiagent manipulation demonstrations. RoboFactory evaluates imitation-learning architectures and training strategies on collaborative manipulation tasks (ICCV, 2025).
+
 - [Self-organized shortcuts in the Argentine ant](https://link.springer.com/article/10.1007/BF00462870) — S. Goss, S. Aron, J. L. Deneubourg, and J. M. Pasteels combine laboratory bridge experiments with a pheromone-feedback model of Argentine-ant route selection. The model also predicts persistence on an established longer route when a shortcut appears later (Naturwissenschaften, 1989).
 
 - **[Quorum sensing during nest-site selection by honeybee swarms](https://link.springer.com/article/10.1007/s00265-004-0814-5)**: Seeley and Visscher test quorum sensing during honeybee nest-site selection. Paired trials with four swarms compare one nest box with five nearby boxes and measure preparation signals and takeoff timing. This is biological collective-decision evidence (Behavioral Ecology and Sociobiology, 2004).
