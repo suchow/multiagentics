@@ -457,6 +457,8 @@
 
 ### Distributed systems and consensus
 
+- **[Law-governed interaction: a coordination and control mechanism for heterogeneous distributed systems](https://people.cs.rutgers.edu/~minsky/papers/coordination-and-control.pdf)**: Naftaly H. Minsky and Victoria Ungureanu specify coordination policies as local laws enforced by trusted controllers for participating agents. Their Moses toolkit implements this model of regulated interactions in heterogeneous distributed systems (ACM Transactions on Software Engineering and Methodology, 2000).
+
 - **[Reo: a channel-based coordination model for component composition](https://ir.cwi.nl/pub/17309)**: Farhad Arbab defines connectors by composing channels with specified behavior. These connectors express coordination patterns over component input/output operations, with examples built from five primitive channel types. This is an adjacent coordination-language foundation (Mathematical Structures in Computer Science, 2004).
 
 - **[From tuple spaces to tuple centres](https://lia.disi.unibo.it/~ao/pubs/pdf/2001/scico.pdf)**: Andrea Omicini and Enrico Denti define tuple centres, shared tuple spaces with programmable reactions to communication events. ReSpecT expresses coordination rules in the communication medium; a dining-philosophers example illustrates the model (Science of Computer Programming, 2001).
@@ -1003,6 +1005,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[EconGym: A Scalable AI Testbed with Diverse Economic Tasks](https://proceedings.neurips.cc/paper_files/paper/2025/hash/40d45b1e23d00d5895e65778e85cf8ee-Abstract-Datasets_and_Benchmarks_Track.html)**: Mi et al. compose household, firm, bank, and government agents into economic simulations, including coordination among fiscal, pension, and monetary authorities. Outcomes depend on the selected economic models and behavioral assumptions (NeurIPS Datasets and Benchmarks, 2025).
 
 - **[Market-Bench: Benchmarking Large Language Models on Economic and Trade Competition](https://aclanthology.org/2026.acl-long.1853/)**: Yushuo Zheng, Huiyu Duan, Zicheng Zhang, Yucheng Zhu, Xiongkuo Min, and Guangtao Zhai evaluate competing retailer agents that procure scarce inventory, set prices, and generate marketing slogans. The simulated supply chain combines budget constraints with a designed buyer-selection mechanism based on hidden personas (ACL, 2026).
 
