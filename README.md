@@ -552,6 +552,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Emergence of Cooperation and Organization in an Evolutionary Game](https://arxiv.org/abs/adap-org/9708006)**: Damien Challet and Yi-Cheng Zhang introduce the minority game, where agents independently choose between two options and minority members win. Simulations examine collective coordination using finite strategy sets and limited public histories (1997 manuscript).
+
 - **[Evolutionarily Stable Strategies and Game Dynamics](https://public.ek-cer.hu/~szabo/EGT20/library/taylor_mbs78.pdf)**: Peter D. Taylor and Leo B. Jonker derive population dynamics in which strategy frequencies change with reproductive fitness. They relate evolutionarily stable strategies to continuous-time stability under a nondegeneracy condition and examine differences in discrete-time dynamics (Mathematical Biosciences, 1978).
 
 - **[On the Complexity of Learning to Cooperate in Populations of Socially Rational Agents](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p233.pdf)**: Bandyopadhyay, Çelikok, and Loftin analyze learning cooperation from observed interactions in finitely repeated two-player general-sum games with private utilities. They derive impossibility and sample-complexity results under individual no-regret and pairwise cooperation assumptions (AAMAS, 2025).
@@ -1147,6 +1149,8 @@
 - **[PEAR: Planner-Executor Agent Robustness Benchmark](https://aclanthology.org/2026.findings-eacl.237/)**: Dong et al. evaluate clean-task performance and adversarial robustness in planner–executor systems, comparing component capabilities, memory placement, and attack targets across tested configurations (Findings of EACL, 2026).
 
 ### Social simulation and negotiation
+
+- **[NegMAS: A Platform for Automated Negotiations](https://link.springer.com/chapter/10.1007/978-3-030-69322-0_23)**: Yasser Mohammad, Shinji Nakadai, and Amy Greenwald introduce NegMAS for agents negotiating in dynamic simulations with interdependent utility functions. Agents manage negotiation decisions within the surrounding simulation (PRIMA 2020; published 2021).
 
 - **[EconGym: A Scalable AI Testbed with Diverse Economic Tasks](https://proceedings.neurips.cc/paper_files/paper/2025/hash/40d45b1e23d00d5895e65778e85cf8ee-Abstract-Datasets_and_Benchmarks_Track.html)**: Mi et al. compose household, firm, bank, and government agents into economic simulations, including coordination among fiscal, pension, and monetary authorities. Outcomes depend on the selected economic models and behavioral assumptions (NeurIPS Datasets and Benchmarks, 2025).
 
