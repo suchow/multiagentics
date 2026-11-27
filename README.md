@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Multiagent Systems: A Survey from a Machine Learning Perspective](https://www.cs.cmu.edu/~mmv/papers/MASsurvey.pdf)**: Peter Stone and Manuela Veloso organize multiagent systems by agent heterogeneity and communication, with an emphasis on machine-learning approaches. Pursuit and robotic-soccer examples illustrate the survey’s non-exhaustive framework (Autonomous Robots, 2000).
+
 - **[On agent-based software engineering](https://jmvidal.cse.sc.edu/library/abse.pdf)**: Nicholas R. Jennings analyzes agent-based software engineering through autonomous components, high-level interactions, and explicit organizational relationships. The qualitative account also discusses disadvantages of the approach (Artificial Intelligence, 2000).
 
 - **[A Review of Norms and Normative Multiagent Systems](https://onlinelibrary.wiley.com/doi/10.1155/2014/684587)**: Mahmoud et al. review norm definitions, classifications, agent architectures, and processes for norm creation, enforcement, emergence, and adoption. They propose a norm life-cycle model based on this literature (The Scientific World Journal, 2014).
@@ -813,6 +815,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
 
 ### LLM team architectures and orchestration
+
+- **[The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies](https://www.nature.com/articles/s41586-025-09442-9)**: Swanson et al. combine a principal-investigator agent, specialist agents, and human feedback to develop a nanobody-design pipeline. Human researchers experimentally test designs against SARS-CoV-2 variants (Nature, 2025).
 
 - **[AgenticSciML: collaborative multi-agent systems for emergent discovery in scientific machine learning](https://www.nature.com/articles/s44387-026-00102-5)**: Qile Jiang and George Karniadakis coordinate proposing, criticizing, retrieving, and evaluating agents to develop scientific-machine-learning models. Executed evaluations cover function approximation, physics-informed PDE solvers, and operator learning (npj Artificial Intelligence, 2026).
 
