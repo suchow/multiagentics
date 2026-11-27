@@ -722,6 +722,8 @@
 
 ### Communication and emergent language
 
+- **[A Social Semantics for Agent Communication Languages](https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/ijcai-99-acl.pdf)**: Munindar P. Singh formalizes agent communication through public social commitments in temporal logic, with autonomous, heterogeneous agents as the intended setting (Issues in Agent Communication, 2000).
+
 - **[Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue](https://aclanthology.org/2026.sigdial-1.21/)**: Vardhan Dongre and Dilek Hakkani-Tür extend PARTNR with dialogue between two partially observing agents. They measure world-graph alignment, message novelty, and partner-sensitive communication in simulated household tasks with oracle motor skills and different messaging costs (SIGDIAL, 2026).
 
 - **[G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks](https://proceedings.mlr.press/v267/zhang25cu.html)**: Guibin Zhang, Yanwei Yue, Xiangguo Sun, Guancheng Wan, Miao Yu, Junfeng Fang, Kun Wang, Tianlong Chen, and Dawei Cheng generate task-specific communication topologies with a variational graph autoencoder over agent nodes and a task node. Evaluation covers six benchmarks, including MMLU and HumanEval (ICML, 2025).
@@ -871,6 +873,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[CoEmbod: A Long-Horizon Benchmark for Multi-Agent Embodied Cooperation with Diverse Inter-Agent Dependencies](https://aclanthology.org/2026.emnlp-main.2247/)**: Dong et al. evaluate two-agent embodied cooperation through 155 simulated tasks involving spatial division, synchronized actions, and assisted failure recovery. Process metrics assess goal completion, cooperation requirements, and execution budgets (EMNLP, 2026).
 
 - **[IntersectionZoo: Eco-driving for Benchmarking Multi-Agent Contextual Reinforcement Learning](https://proceedings.iclr.cc/paper_files/paper/2025/hash/bb63841e1ad12370a34504f15c60db4f-Abstract-Conference.html)**: Jayawardana et al. benchmark cooperative vehicle control in data-informed traffic simulations with varied intersection layouts, demand, and environmental conditions. Evaluation tests within-task eco-driving generalization under an unsaturated-traffic assumption, including conditions outside the training distribution (ICLR, 2025).
 
