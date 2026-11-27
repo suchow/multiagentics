@@ -1092,6 +1092,10 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Joint action: Bodies and minds moving together](https://research.ceu.edu/en/publications/joint-action-bodies-and-minds-moving-together/)**: Natalie Sebanz, Harold Bekkering, and Günther Knoblich review human joint attention, action observation, task sharing, action coordination, and agency. They discuss mechanisms for shared representations and action prediction as adjacent cognitive foundations (Trends in Cognitive Sciences, 2006).
+
+- **[Robust Human-AI Complementarity under Uncertainty](https://proceedings.mlr.press/v306/byun26b.html)**: Yewon Byun and Bryan Wilder study human–AI decision-making with asymmetric information about prediction quality. Their analysis relates complementary value to error correlations and examines those conditions on forecasting benchmarks (ICML, 2026).
+
 - **[CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://aclanthology.org/2025.naacl-demo.17/)**: Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, Shuyan Zhou, Jeffrey P. Bigham, and Graham Neubig support collaborative web navigation in which users can pause, reject, or override agent actions and resume automation. Case studies compare autonomous, human-only, and collaborative task completion across five websites (NAACL System Demonstrations, 2025).
 
 - **[When combinations of humans and AI are useful: A systematic review and meta-analysis](https://www.nature.com/articles/s41562-024-02024-1)**: Michelle Vaccaro, Abdullah Almaatouq, and Thomas Malone synthesize 106 experiments comparing human–AI combinations with humans and AI alone. They distinguish improvement over humans alone from improvement over the stronger individual component (Nature Human Behaviour, 2024; [author manuscript](https://arxiv.org/html/2405.06087)).
