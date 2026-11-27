@@ -469,6 +469,8 @@
 
 ### Distributed systems and consensus
 
+- **[Communicating Sequential Processes](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)**: C. A. R. Hoare introduces parallel composition, guarded commands, and synchronous message passing for coordinating sequential processes. The original model uses a statically bounded process network and unbuffered communication (Communications of the ACM, 1978).
+
 - **[Law-governed interaction: a coordination and control mechanism for heterogeneous distributed systems](https://people.cs.rutgers.edu/~minsky/papers/coordination-and-control.pdf)**: Naftaly H. Minsky and Victoria Ungureanu specify coordination policies as local laws enforced by trusted controllers for participating agents. Their Moses toolkit implements this model of regulated interactions in heterogeneous distributed systems (ACM Transactions on Software Engineering and Methodology, 2000).
 
 - **[Reo: a channel-based coordination model for component composition](https://ir.cwi.nl/pub/17309)**: Farhad Arbab defines connectors by composing channels with specified behavior. These connectors express coordination patterns over component input/output operations, with examples built from five primitive channel types. This is an adjacent coordination-language foundation (Mathematical Structures in Computer Science, 2004).
@@ -1089,6 +1091,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://aclanthology.org/2025.naacl-demo.17/)**: Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, Shuyan Zhou, Jeffrey P. Bigham, and Graham Neubig support collaborative web navigation in which users can pause, reject, or override agent actions and resume automation. Case studies compare autonomous, human-only, and collaborative task completion across five websites (NAACL System Demonstrations, 2025).
 
 - **[When combinations of humans and AI are useful: A systematic review and meta-analysis](https://www.nature.com/articles/s41562-024-02024-1)**: Michelle Vaccaro, Abdullah Almaatouq, and Thomas Malone synthesize 106 experiments comparing human–AI combinations with humans and AI alone. They distinguish improvement over humans alone from improvement over the stronger individual component (Nature Human Behaviour, 2024; [author manuscript](https://arxiv.org/html/2405.06087)).
 
