@@ -275,6 +275,8 @@
 
 ### Agent foundations and architectures
 
+- **[On Acting Together](https://cdn.aaai.org/AAAI/1990/AAAI90-014.pdf)**: Levesque, Cohen, and Nunes formalize joint commitment and joint intention through beliefs, goals, actions, and time. Their two-agent model assumes consistent beliefs and goals and perfect introspection about them (AAAI, 1990).
+
 - **[Artifacts in the A&A meta-model for multi-agent systems](https://link.springer.com/article/10.1007/s10458-008-9053-x)**: Andrea Omicini, Alessandro Ricci, and Mirko Viroli define the agents-and-artifacts meta-model. Goal-directed agents use reactive artifacts that provide services and structure their shared environment (Autonomous Agents and Multi-Agent Systems, 2008).
 
 - **[2APL: a practical agent programming language](https://link.springer.com/article/10.1007/s10458-008-9036-y)**: Mehdi Dastani defines a BDI-based multi-agent programming language combining declarative beliefs and goals with events and plans. It provides constructs for plan generation, repair, and execution, with formal syntax and semantics (Autonomous Agents and Multi-Agent Systems, 2008).
@@ -873,6 +875,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[AVA: Attentive VLM Agent for Mastering StarCraft II](https://aclanthology.org/2026.findings-acl.208/)**: Weiyu Ma, Yuqian Fu, Zecheng Zhang, Bernard Ghanem, and Guohao Li introduce AVACraft, 21 StarCraft II scenarios spanning micromanagement, coordination, and strategic planning. RGB images, language observations, and structured states support comparisons of trained multiagent policies and zero-shot vision-language methods (Findings of ACL, 2026).
 
 - **[CoEmbod: A Long-Horizon Benchmark for Multi-Agent Embodied Cooperation with Diverse Inter-Agent Dependencies](https://aclanthology.org/2026.emnlp-main.2247/)**: Dong et al. evaluate two-agent embodied cooperation through 155 simulated tasks involving spatial division, synchronized actions, and assisted failure recovery. Process metrics assess goal completion, cooperation requirements, and execution budgets (EMNLP, 2026).
 
