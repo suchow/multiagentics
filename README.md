@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Swarm Intelligence: From Natural to Artificial Systems](https://academic.oup.com/book/40811)**: Eric Bonabeau, Marco Dorigo, and Guy Theraulaz connect social-insect coordination with algorithms, multiagent systems, and robotics. Topics include foraging, task allocation, sorting, construction, and cooperative transport (Oxford University Press, 1999).
+
 - **[Mechanism design meets large language models: Foundations and frontiers](https://www.sciencedirect.com/science/article/pii/S3051390126000334)**: Baiting Chen, Tong Zhu, Xuanang Li, Yichi Zhang, and Xiaowu Dai survey language models as participants and interfaces in economic mechanisms, alongside incentive-aware evaluation, alignment, and training of language models. Topics include negotiation, preference elicitation, and markets for model services (Statistical Learning and Data Science, 2026 journal pre-proof).
 
 - **[Multiagent Systems: A Survey from a Machine Learning Perspective](https://www.cs.cmu.edu/~mmv/papers/MASsurvey.pdf)**: Peter Stone and Manuela Veloso organize multiagent systems by agent heterogeneity and communication, with an emphasis on machine-learning approaches. Pursuit and robotic-soccer examples illustrate the survey’s non-exhaustive framework (Autonomous Robots, 2000).
@@ -1179,6 +1181,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- **[Stop Signals Provide Cross Inhibition in Collective Decision-Making by Honeybee Swarms](https://www.science.org/doi/10.1126/science.1210361)**: Thomas D. Seeley, P. Kirk Visscher, Thomas Schlegel, Patrick M. Hogan, Nigel R. Franks, and James A. R. Marshall study inhibitory stop signals directed at scouts advertising competing nest sites. Their analytical model examines how cross inhibition resolves deadlock between equal alternatives. This is biological collective-decision evidence (Science, 2012).
 
 - **[COMBO: Compositional World Models for Embodied Multi-Agent Cooperation](https://proceedings.iclr.cc/paper_files/paper/2025/file/7d03c6bf9f07acb4038eea96c63db52d-Paper-Conference.pdf)**: Hongxin Zhang, Zeyuan Wang, Qiushi Lyu, Zheyuan Zhang, Sunli Chen, Tianmin Shu, Behzad Dariush, Kwonjoon Lee, Yilun Du, and Chuang Gan combine learned world-state estimation, compositional video prediction, and tree search for decentralized cooperative planning. Evaluation uses three simulated benchmarks with two to four agents receiving partial egocentric observations (ICLR, 2025).
 
