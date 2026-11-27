@@ -1000,6 +1000,8 @@
 
 ### Social simulation and negotiation
 
+- **[InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5401bede0941e568fa42b7b5910fa72c-Abstract-Conference.html)**: Xiaoxuan Hou, Jiayi Yuan, Joel Z. Leibo, and Natasha Jaques simulate companies allocating capital to climate mitigation, greenwashing, and resilience alongside investors with ESG preferences. The benchmark studies long-term cooperation under disclosure rules and competing financial incentives within this economic model (ICLR, 2025).
+
 - **[A Domain Theory for Task Oriented Negotiation](https://ijcai.org/proceedings/1993/0059.pdf)**: Zlotkin and Rosenschein classify task-oriented negotiation domains by subadditivity, concavity, and modularity. They analyze how domain properties and deal types affect incentives to misreport tasks, assuming execution of agreed deals (IJCAI, 1993).
 
 - **[Deals Among Rational Agents](https://ijcai.org/proceedings/1985/17)**: Jeffrey S. Rosenschein and Michael R. Genesereth formalize communication, offers, and binding promises among agents with different goals. Their payoff-based model considers the current encounter and assumes that agreed joint actions are enforced (IJCAI, 1985).
