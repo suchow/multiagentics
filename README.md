@@ -936,6 +936,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d1f02132ef51602adf07000ca5b6138-Abstract-Conference.html)**: Wei Tao, Yucheng Zhou, Yanlin Wang, Wenqiang Zhang, Hongyu Zhang, and Yu Cheng coordinate manager, repository-custodian, developer, and quality-assurance agents for repository-level issue resolution. Evaluation uses SWE-bench to examine planning and code changes in existing repositories (NeurIPS, 2024).
+
 - **[Agent Laboratory: Using LLM Agents as Research Assistants](https://aclanthology.org/2025.findings-emnlp.320/)**: Schmidgall et al. coordinate specialized agents for literature review, experimental planning, code execution, and report writing from human-provided research ideas. Evaluation includes automated assessments and researcher feedback, with optional human guidance between workflow stages (Findings of EMNLP, 2025).
 
 - **[Accelerating scientific discovery with Co-Scientist](https://www.nature.com/articles/s41586-026-10644-y)**: Gottweis et al. coordinate hypothesis generation, reflection, ranking, and refinement through asynchronous agents and tournaments. Scientists guide research goals and feedback. Selected biomedical hypotheses undergo separate in-vitro validation (Nature, 2026).
@@ -1251,6 +1253,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Organizational Information Requirements, Media Richness and Structural Design](https://pubsonline.informs.org/doi/10.1287/mnsc.32.5.554)**: Richard L. Daft and Robert H. Lengel distinguish uncertainty from conflicting interpretations in organizational information processing. Their conceptual models relate information amount, communication richness, and organizational structure to these different needs. Transfer from human organizations to AI teams is unverified (Management Science, 1986).
 
 - **[Social learning strategies](https://lalandlab.wp.st-andrews.ac.uk/files/2015/08/laland_LB_2004.pdf)**: Kevin N. Laland reviews when individuals copy others and whom they copy, including uncertainty-, majority-, and payoff-based strategies. He compares theoretical predictions with animal and human evidence, including limits in direct experimental support. Transfer to AI teams is unverified (Learning & Behavior, 2004).
 
