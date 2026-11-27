@@ -289,6 +289,8 @@
 
 ### Agent foundations and architectures
 
+- **[TouringMachines: an architecture for dynamic, rational, mobile agents](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-273.html)**: Innes A. Ferguson develops a layered architecture combining reactive control, planning, and models of other agents’ goals and intentions. Evaluation uses a simulated multi-agent world with configurable agent capabilities and environmental conditions (Cambridge technical report, 1992).
+
 - **[Intelligent Agents for Interactive Simulation Environments](https://onlinelibrary.wiley.com/doi/abs/10.1609/aimag.v16i1.1121)**: Tambe et al. describe TacAir-Soar, integrated pilot agents built within Soar for dynamic multi-agent battlefield simulations. The article examines agent capabilities and reports participation in constrained air-combat simulations against expert human pilots (AI Magazine, 1995).
 
 - **[Frameworks for Cooperation in Distributed Problem Solving](https://www.reidgsmith.com/Frameworks_for_Cooperation_in_Distributed_Problem_Solving_Jan-1981.pdf)**: Reid G. Smith and Randall Davis distinguish task sharing from exchanging partial results and compare their communication and control requirements. Their framework assumes cooperative, loosely coupled asynchronous nodes with message passing and no shared memory (IEEE Transactions on Systems, Man, and Cybernetics, 1981).
@@ -975,6 +977,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[Recursive Collective Intelligence: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems](https://arxiv.org/abs/2611.32606)**: He et al. compare interacting agent groups with compute-matched majority-vote and pass@n baselines. They study distributed information sharing and training successive agent generations from group-produced data on controlled tasks, PlanBench, HiddenBench, and Hanabi (2026 preprint).
 
 - **[When Are Parallel Subagents Effective for Coding? An Empirical Study on Repository Construction](https://arxiv.org/abs/2611.33893)**: Zhiheng Lyu, Chengyu Yin, and Lingming Zhang compare single-agent and parallel-subagent repository construction at equal time and equal cost on NL2Repo and ProgramBench. Interventions examine self-checking, fresh contexts, and code modularity (2026 preprint).
 
