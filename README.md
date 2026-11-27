@@ -558,6 +558,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Incentive Compatibility and the Bargaining Problem](https://www.jstor.org/stable/1912346)**: Roger B. Myerson studies Bayesian collective choice with finite choice and type sets. He shows that equilibrium expected-utility allocations from indirect mechanisms are attainable through incentive-compatible direct mechanisms, then defines a bargaining solution over feasible allocations. Truthful reporting is a Bayesian-equilibrium property (Econometrica, 1979; [original-paper scan](https://captgouda24.github.io/nicholas-decker.github.io/pdfs/Myerson_Incentive_Compatibility_And.pdf)).
+
 - **[An Algorithm for Optimal Winner Determination in Combinatorial Auctions](https://ijcai.org/proceedings/1999/78)**: Tuomas Sandholm develops optimal search over submitted bundle bids using selective expansion, heuristics, and preprocessing. Experiments compare performance across several bid distributions (IJCAI, 1999).
 
 - **[Efficient Computation of Equilibria for Extensive Two-Person Games](https://ai.stanford.edu/~koller/Papers/Koller%2Bal%3AGEB96.pdf)**: Daphne Koller, Nimrod Megiddo, and Bernhard von Stengel formulate equilibrium computation for two-player extensive games with perfect recall using the sequence form. This representation has size linear in the game tree and supports a complementary-pivoting method for finding an equilibrium (Games and Economic Behavior, 1996).
