@@ -485,6 +485,8 @@
 
 ### Distributed systems and consensus
 
+- **[Wait-Free Synchronization](https://cs.brown.edu/people/mph/Herlihy91/p124-herlihy.pdf)**: Maurice Herlihy classifies concurrent objects by their ability to solve consensus and establishes impossibility and universality results for wait-free implementations. Completion requires finitely many local steps regardless of other processes’ execution speeds (ACM Transactions on Programming Languages and Systems, 1991).
+
 - **[Conflict-free Replicated Data Types](https://www.lip6.fr/Marc.Shapiro/papers/2011/CRDTs_SSS-2011.pdf)**: Marc Shapiro, Nuno Preguiça, Carlos Baquero, and Marek Zawirski formalize strong eventual consistency and give sufficient convergence conditions for state-based and operation-based replicated data types. Their model assumes non-Byzantine replicas and eventual update delivery (SSS, 2011).
 
 - **[Linearizability: A Correctness Condition for Concurrent Objects](https://www.cs.columbia.edu/~wing/publications/HerlihyWing90.pdf)**: Maurice P. Herlihy and Jeannette M. Wing define linearizability for concurrent objects: operations appear to take effect between invocation and response, preserving the order of non-overlapping operations. They provide methods for reasoning about implementations using sequential specifications (ACM Transactions on Programming Languages and Systems, 1990).
@@ -1049,7 +1051,7 @@
 - **[Melting Pot](https://arxiv.org/abs/2107.06857)**: Leibo et al. introduce a multi-agent reinforcement learning evaluation suite of test scenarios measuring generalization to novel social situations (2021).
 - **[Agent-as-a-Judge: Evaluate Agents with Agents](https://proceedings.mlr.press/v267/zhuge25a.html)**: Zhuge et al. introduce agentic evaluators that provide intermediate feedback during task solving. Evaluation uses DevAI’s 55 AI code-generation tasks and 365 hierarchical solution requirements (ICML, 2025; [preprint](https://arxiv.org/abs/2410.10934)).
 - **[MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://aclanthology.org/2025.acl-long.421/)**: Zhu et al. introduce a benchmark with milestone-based metrics across collaborative and competitive scenarios and coordination topologies (ACL, 2025; [preprint](https://arxiv.org/abs/2503.01935)).
-- **[Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems](https://arxiv.org/abs/2505.00212)**: Zhang et al. introduce the Who&When dataset and evaluate methods for identifying the agents and steps responsible for failures (2025).
+- **[Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems](https://proceedings.mlr.press/v267/zhang25cq.html)**: Zhang et al. introduce the Who&When dataset and evaluate methods for identifying the agents and steps responsible for failures (ICML, 2025; [preprint](https://arxiv.org/abs/2505.00212)).
 - **[Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y)**: Kim et al. compare single-agent and multi-agent architectures under controlled prompts, tools, and compute budgets across six benchmarks. They examine when coordination improves performance or adds overhead (Nature Machine Intelligence, 2026; [preprint](https://arxiv.org/abs/2512.08296)).
 
 ### Safety, security, and verification
