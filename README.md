@@ -1046,6 +1046,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[Quorum sensing during nest-site selection by honeybee swarms](https://link.springer.com/article/10.1007/s00265-004-0814-5)**: Seeley and Visscher test quorum sensing during honeybee nest-site selection. Paired trials with four swarms compare one nest box with five nearby boxes and measure preparation signals and takeoff timing. This is biological collective-decision evidence (Behavioral Ecology and Sociobiology, 2004).
+
 - **[Building Cooperative Embodied Agents Modularly with Large Language Models](https://proceedings.iclr.cc/paper_files/paper/2024/hash/54b8b4e0b4ba4aad112e84f32e3b5dbb-Abstract-Conference.html)**: Zhang et al. introduce CoELA, which combines perception, memory, communication, planning, and execution modules for decentralized embodied cooperation with costly communication. Evaluation uses C-WAH and TDW-MAT and includes a human–agent user study (ICLR, 2024).
 
 - **[Synchronization of Pulse-Coupled Biological Oscillators](https://epubs.siam.org/doi/10.1137/0150098)**: Renato E. Mirollo and Steven H. Strogatz study identical integrate-and-fire oscillators with pulse coupling. A firing oscillator raises others’ states toward their thresholds in this mathematical model (SIAM Journal on Applied Mathematics, 1990; adjacent collective-dynamics theory).
