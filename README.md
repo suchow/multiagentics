@@ -632,6 +632,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Multiagent Reinforcement Learning in the Iterated Prisoner’s Dilemma](https://mas.cs.umass.edu/Documents/lesser/biosystems95.pdf)**: Tuomas W. Sandholm and Robert H. Crites compare Q-learning agents with different history windows, memory representations, and exploration schedules against Tit-for-Tat and other learners. Their experiments examine the difficulties of simultaneous adaptation in a mixed-payoff repeated game (Biosystems, 1996).
+
 - **[BenchMARL: Benchmarking Multi-Agent Reinforcement Learning](https://www.jmlr.org/papers/v25/23-1612.html)**: Matteo Bettini, Amanda Prorok, and Vincent Moens introduce a TorchRL-based training library for comparing multi-agent algorithms, models, and environments through standardized configuration and reporting (JMLR, 2024).
 
 - **[AWESOME: A General Multiagent Learning Algorithm that Converges in Self-Play and Learns a Best Response Against Stationary Opponents](https://arxiv.org/abs/cs/0307002)**: Vincent Conitzer and Tuomas Sandholm introduce an algorithm with self-play Nash-convergence and stationary-opponent best-response guarantees in finite repeated games. The method assumes a known game, observed actions, and a common precomputed equilibrium for self-play (ICML, 2003; [journal extension](https://www.cs.cmu.edu/~sandholm/www/awesome.ml07.pdf), Machine Learning, 2007).
