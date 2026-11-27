@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[A Review of Norms and Normative Multiagent Systems](https://onlinelibrary.wiley.com/doi/10.1155/2014/684587)**: Mahmoud et al. review norm definitions, classifications, agent architectures, and processes for norm creation, enforcement, emergence, and adoption. They propose a norm life-cycle model based on this literature (The Scientific World Journal, 2014).
+
 - **[Programming Multi-Agent Systems in AgentSpeak using Jason](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470061848)**: Rafael H. Bordini, Jomi Fred Hübner, and Michael Wooldridge explain Jason’s AgentSpeak language, BDI reasoning cycle, environments, communication, and formal semantics, with programming examples and two case studies (Wiley, 2007).
 
 - **[A survey of multi-agent organizational paradigms](https://mas.cs.umass.edu/Documents/bhorling/horling-paradigms.pdf)**: Bryan Horling and Victor Lesser survey hierarchies, holarchies, coalitions, teams, congregations, societies, federations, markets, and matrix organizations. They compare organizational characteristics and describe construction and maintenance approaches (The Knowledge Engineering Review, 2004 issue; linked May 2005 author version).
