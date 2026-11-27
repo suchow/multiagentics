@@ -1030,6 +1030,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://arxiv.org/abs/2010.09890)**: Puig et al. introduce Watch-And-Help, where an agent infers a household-task goal from one demonstration and helps a partner complete it in an unfamiliar simulated environment. VirtualHome-Social provides planning and learning baselines, with evaluations involving simulated partners and humans (ICLR, 2021).
+
 - **[Reproducibility Study of Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation](https://arxiv.org/abs/2502.16242)**: Garcia et al. reproduce LLM-Stakeholders negotiation experiments and add single-agent controls, Pareto analysis, and formatting-leakage diagnostics. Their controls examine what a negotiator can infer from public game descriptions (2025 preprint).
 
 - **[Aligning simulation models: A case study and results](https://link.springer.com/article/10.1007/BF01299065)**: Robert Axtell, Robert Axelrod, Joshua M. Epstein, and Michael D. Cohen develop methods for comparing distinct computational models. They modify Sugarscape to reproduce Axelrod’s cultural-transmission model and examine statistical equivalence and sensitivity to model design (Computational & Mathematical Organization Theory, 1996).
