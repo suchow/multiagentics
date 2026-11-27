@@ -1000,6 +1000,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Aligning simulation models: A case study and results](https://link.springer.com/article/10.1007/BF01299065)**: Robert Axtell, Robert Axelrod, Joshua M. Epstein, and Michael D. Cohen develop methods for comparing distinct computational models. They modify Sugarscape to reproduce Axelrod’s cultural-transmission model and examine statistical equivalence and sensitivity to model design (Computational & Mathematical Organization Theory, 1996).
+
 - **[Evolutionary Games and Computer Simulations](https://arxiv.org/abs/chao-dyn/9307017)**: Bernardo A. Huberman and Natalie S. Glance demonstrate that changing update timing alters cooperation outcomes in a spatial prisoner’s-dilemma model. Their experiments compare simultaneous updates with random individual updates and examine delayed payoff information (PNAS, 1993).
 
 - **[Testing for Coordination Failures in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2611.27368)**: Dennis Gross, Jørn Eirik Betten, and Helge Spieker filter initial test states using disagreements among agents’ maximal Q-values, with a calibrated threshold and access to per-agent value estimates. Evaluation compares random and genetic testing of deep-Q cooperative policies in four simulated environments (2026 preprint).
