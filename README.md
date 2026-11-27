@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Programming Multi-Agent Systems in AgentSpeak using Jason](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470061848)**: Rafael H. Bordini, Jomi Fred Hübner, and Michael Wooldridge explain Jason’s AgentSpeak language, BDI reasoning cycle, environments, communication, and formal semantics, with programming examples and two case studies (Wiley, 2007).
+
 - **[A survey of multi-agent organizational paradigms](https://mas.cs.umass.edu/Documents/bhorling/horling-paradigms.pdf)**: Bryan Horling and Victor Lesser survey hierarchies, holarchies, coalitions, teams, congregations, societies, federations, markets, and matrix organizations. They compare organizational characteristics and describe construction and maintenance approaches (The Knowledge Engineering Review, 2004 issue; linked May 2005 author version).
 
 - **[Enabling Technology for Knowledge Sharing](https://userpages.cs.umbc.edu/finin/papers/aim91/)**: Neches et al. outline infrastructure for sharing knowledge and reasoning services across systems, including interchange languages, communication protocols, and shared ontologies. The article presents the Knowledge-Sharing Effort’s research agenda (AI Magazine, 1991).
@@ -865,6 +867,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[POGEMA: A Benchmark Platform for Cooperative Multi-Agent Pathfinding](https://proceedings.iclr.cc/paper_files/paper/2025/hash/10d19888a94f390e58f922ab3937e1cb-Abstract-Conference.html)**: Skrynnik et al. provide generated and predefined discrete pathfinding instances, a simulation environment, and a shared evaluation protocol. They compare reinforcement-learning, search-based, and hybrid solvers through success, path length, generalization, and scaling measures (ICLR, 2025).
 
 - **[When 20 Agents Fail to Sort: The Distributed Sorting Benchmark for Scalable Multi-Agent Systems](https://aclanthology.org/2026.findings-acl.1698/)**: Xin Yang, Junhao Wang, Bintao Tang, Xuxin Cheng, Cao Liu, Ke Zeng, and Wenyuan Jiang introduce MAS-BENCH, distributed sorting with local observations and broadcast, peer-to-peer, or shared-store communication. They evaluate collective correctness and coordination costs across agent counts and introduce the CAMOC coordination protocol (Findings of ACL, 2026).
 
