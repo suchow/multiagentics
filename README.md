@@ -808,6 +808,8 @@
 
 ### LLM team architectures and orchestration
 
+- **[What it Takes for Coding Agents to Complete Large Software Tasks](https://factory.com/news/what-it-takes-for-coding-agents-to-complete-large-software-tasks)**: Factory Research and Theo Luan compare single coding agents with orchestrator, implementer, and validator roles on 24 selected ProgramBench tasks. The validator constructs private behavioral checks before implementation and reports findings through the orchestrator. Campaigns are not compute-matched (Factory research report, August 27, 2026).
+
 - **[Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/research/building-c-compiler)**: Nicholas Carlini reports a compiler-development experiment with 16 parallel agents using task locks and a shared repository. The account examines test-harness design, specialized roles, coordination bottlenecks, and compiler limitations (Anthropic engineering report, February 5, 2026).
 
 - **[Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost](https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents)**: Keenan Samway, Daniel D’souza, and Nouha Dziri compare coding-agent team designs through task reward, cost, and elapsed time on ProgramBench and Commit0-Lite. Experiments vary delegation stages, waiting behavior, model assignments, team size, and direct messaging (Cohere research report, October 14, 2026).
