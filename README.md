@@ -273,6 +273,8 @@
 
 ### Agent foundations and architectures
 
+- **[Prometheus: A Methodology for Developing Intelligent Agents](https://winikoff.github.io/pdf/aose02.pdf)**: Lin Padgham and Michael Winikoff organize agent development into system specification, architectural design, and detailed design. Prometheus supplies iterative processes and design artifacts for BDI-like agents (AOSE 2002; revised proceedings published 2003).
+
 - **[ConGolog, a concurrent programming language based on the situation calculus](https://www.cs.toronto.edu/cogrobo/Papers/ConGologAIJ.pdf)**: Giuseppe De Giacomo, Yves Lespérance, and Hector J. Levesque define concurrent agent programs with priorities, interrupts, and exogenous actions in the situation calculus. Primitive actions require supplied axioms, and initial states may be incompletely specified (Artificial Intelligence, 2000).
 
 - **[Tropos: An Agent-Oriented Software Development Methodology](https://link.springer.com/article/10.1023/B:AGNT.0000018806.20944.ef)**: Paolo Bresciani, Anna Perini, Paolo Giorgini, Fausto Giunchiglia, and John Mylopoulos use agents, goals, and plans throughout software development, including early requirements analysis. Tropos defines a UML-based conceptual metamodel and illustrates the methodology through a case study (Autonomous Agents and Multi-Agent Systems, 2004).
