@@ -636,6 +636,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[BusEnv: A Multi-agent Reinforcement Learning Environment and Benchmark for Urban Public Transportation](https://aamas.csc.liv.ac.uk/Proceedings/aamas2026/pdfs/CYHA2042.pdf)**: Silva e Silva et al. introduce a public-transport simulation grounded in Salvador transit data. Bus agents choose waiting, route progression, or maintenance actions under partial observations. Objectives include service quality, operational efficiency, maintenance adherence, and traffic regularity (AAMAS, 2026).
+
 - **[A Minimax Approach to Ad Hoc Teamwork](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2105.pdf)**: Victor Villin, Thomas Kleine Buening, and Christos Dimitrakakis train ad hoc teamwork policies against an adversarial distribution over partner scenarios, using utility or regret objectives. Evaluation includes coordination games and partially observable cooking tasks from Melting Pot (AAMAS, 2025).
 
 - **[Improving Elevator Performance Using Reinforcement Learning](https://papers.nips.cc/paper_files/paper/1995/hash/390e982518a50e280d8e2b535462ec1f-Abstract.html)**: Robert H. Crites and Andrew G. Barto train a team of reinforcement-learning agents, one per elevator car, using a shared reinforcement signal. Simulation evaluates dispatching under partial observability, changing passenger-arrival rates, and interactions between controllers (NIPS, 1995; proceedings, 1996).
