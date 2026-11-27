@@ -560,6 +560,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Evolution of indirect reciprocity by image scoring](https://homepage.univie.ac.at/karl.sigmund/Nature98.pdf)**: Martin A. Nowak and Karl Sigmund model cooperation based on recipients’ histories of helping others, without requiring repeated encounters between the same pair. Simulations and analysis relate cooperation to information about reputation and the cost-to-benefit ratio within specified evolutionary models (Nature, 1998).
+
 - **[Incentive Compatibility and the Bargaining Problem](https://www.jstor.org/stable/1912346)**: Roger B. Myerson studies Bayesian collective choice with finite choice and type sets. He shows that equilibrium expected-utility allocations from indirect mechanisms are attainable through incentive-compatible direct mechanisms, then defines a bargaining solution over feasible allocations. Truthful reporting is a Bayesian-equilibrium property (Econometrica, 1979; [original-paper scan](https://captgouda24.github.io/nicholas-decker.github.io/pdfs/Myerson_Incentive_Compatibility_And.pdf)).
 
 - **[An Algorithm for Optimal Winner Determination in Combinatorial Auctions](https://ijcai.org/proceedings/1999/78)**: Tuomas Sandholm develops optimal search over submitted bundle bids using selective expansion, heuristics, and preprocessing. Experiments compare performance across several bid distributions (IJCAI, 1999).
