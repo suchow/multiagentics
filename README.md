@@ -548,6 +548,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[On the Complexity of Learning to Cooperate in Populations of Socially Rational Agents](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p233.pdf)**: Bandyopadhyay, Çelikok, and Loftin analyze learning cooperation from observed interactions in finitely repeated two-player general-sum games with private utilities. They derive impossibility and sample-complexity results under individual no-regret and pairwise cooperation assumptions (AAMAS, 2025).
+
 - **[An Efficient Ascending-Bid Auction for Multiple Objects](https://www.aeaweb.org/articles?id=10.1257/0002828043052330)**: Lawrence M. Ausubel introduces an ascending-price auction for homogeneous goods with multi-unit demands. Bidders report quantities at each price; units are awarded at that price when competing demand makes them available to a bidder (American Economic Review, 2004).
 
 - **[Coupled Replicator Equations for the Dynamics of Learning in Multiagent Systems](https://arxiv.org/abs/nlin/0204057)**: Yuzuru Sato and James P. Crutchfield derive coupled replicator equations from a specified reinforcement-learning model in a continuous-time limit. Rock–scissors–paper examples exhibit cycles, intermittency, and chaos under different memory and payoff settings (2002 preprint; Physical Review E, 2003).
@@ -635,6 +637,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Learning to Cooperate via Policy Search](https://arxiv.org/abs/cs/0105032)**: Leonid Peshkin, Kee-Eung Kim, Nicolas Meuleau, and Leslie Pack Kaelbling develop distributed gradient-based policy search for cooperative agents with partial observations and a shared reward. They analyze local optima and Nash equilibria and evaluate the method in simulated soccer (UAI, 2000).
 
 - **[BusEnv: A Multi-agent Reinforcement Learning Environment and Benchmark for Urban Public Transportation](https://aamas.csc.liv.ac.uk/Proceedings/aamas2026/pdfs/CYHA2042.pdf)**: Silva e Silva et al. introduce a public-transport simulation grounded in Salvador transit data. Bus agents choose waiting, route progression, or maintenance actions under partial observations. Objectives include service quality, operational efficiency, maintenance adherence, and traffic regularity (AAMAS, 2026).
 
