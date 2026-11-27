@@ -281,6 +281,8 @@
 
 ### Agent foundations and architectures
 
+- **[Plans and resource-bounded practical reasoning](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1988.tb00284.x)**: Michael E. Bratman, David J. Israel, and Martha E. Pollack specify a practical-reasoning architecture in which plans constrain further deliberation under limited computational resources. This is an individual-agent architectural foundation (Computational Intelligence, 1988).
+
 - **[Environment as a first class abstraction in multiagent systems](https://link.springer.com/article/10.1007/s10458-006-0012-0)**: Danny Weyns, Andrea Omicini, and James Odell define the environment as an explicit multi-agent design abstraction and present a reference model of its responsibilities (Autonomous Agents and Multi-Agent Systems, 2007; published online 2006).
 
 - **[On Acting Together](https://cdn.aaai.org/AAAI/1990/AAAI90-014.pdf)**: Levesque, Cohen, and Nunes formalize joint commitment and joint intention through beliefs, goals, actions, and time. Their two-agent model assumes consistent beliefs and goals and perfect introspection about them (AAAI, 1990).
@@ -1087,6 +1089,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[When combinations of humans and AI are useful: A systematic review and meta-analysis](https://www.nature.com/articles/s41562-024-02024-1)**: Michelle Vaccaro, Abdullah Almaatouq, and Thomas Malone synthesize 106 experiments comparing human–AI combinations with humans and AI alone. They distinguish improvement over humans alone from improvement over the stronger individual component (Nature Human Behaviour, 2024; [author manuscript](https://arxiv.org/html/2405.06087)).
 
 - **[Modeling Coordination in Organizations and Markets](https://pubsonline.informs.org/doi/10.1287/mnsc.33.10.1317)**: Thomas W. Malone models product hierarchies, functional hierarchies, centralized markets, and decentralized markets. He compares production, coordination, and vulnerability costs within these formal structures (Management Science, 1987).
 
