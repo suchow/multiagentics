@@ -538,6 +538,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Coupled Replicator Equations for the Dynamics of Learning in Multiagent Systems](https://arxiv.org/abs/nlin/0204057)**: Yuzuru Sato and James P. Crutchfield derive coupled replicator equations from a specified reinforcement-learning model in a continuous-time limit. Rock–scissors–paper examples exhibit cycles, intermittency, and chaos under different memory and payoff settings (2002 preprint; Physical Review E, 2003).
+
 - **[Adaptive Game Playing Using Multiplicative Weights](https://www.schapire.net/papers/FreundScYY.pdf)**: Yoav Freund and Robert E. Schapire analyze multiplicative-weight learning in finite repeated matrix games, with finite-time loss bounds relative to the best fixed strategy. The model assumes bounded losses and observation of every available action’s loss each round (Games and Economic Behavior, 1999).
 
 - **[On the emergence of social conventions: modeling, analysis, and simulations](https://www.sciencedirect.com/science/article/pii/S0004370297000283)**: Yoav Shoham and Moshe Tennenholtz introduce highest cumulative reward, a strategy-selection rule for agents learning conventions through repeated random interactions. They analyze convergence for a specified class of games and simulate a basic coordination game (Artificial Intelligence, 1997).
