@@ -1038,6 +1038,8 @@
 
 ### Evaluation and failure analysis
 
+- **[The StarCraft Multi-Agent Challenge](https://arxiv.org/abs/1902.04043)**: Samvelyan et al. introduce StarCraft II micromanagement tasks in which each allied unit acts from local observations. SMAC provides cooperative challenge maps, evaluation recommendations, and the PyMARL learning framework (AAMAS extended abstract, 2019; expanded preprint).
+
 - **[The SocialAI school: a framework leveraging developmental psychology toward artificial socio-cultural agents](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1396359/full)**: Grgur Kovač, Rémy Portelas, Peter Ford Dominey, and Pierre-Yves Oudeyer introduce procedural environments for studying perspective taking, joint attention, communication, and social learning through interaction with other agents. Case studies evaluate reinforcement-learning agents and language models in controlled tasks (Frontiers in Neurorobotics, 2024).
 
 - **[SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?](https://proceedings.colm.cc/paper_files/paper/2025/hash/5bf234ecf83cd77bc5b77a24ba9338b0-Abstract-Conference.html)**: Yao et al. introduce SPIN-Bench, combining classical planning, competitive board games, cooperative card games, and negotiation scenarios. They vary action spaces, state complexity, and agent counts to evaluate strategic planning and social reasoning (COLM, 2025 pre-proceedings).
