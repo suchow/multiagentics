@@ -1258,6 +1258,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Real-time Crowd Control of Existing Interfaces](https://people.csail.mit.edu/kylem/pubs/legion.pdf)**: Walter S. Lasecki, Kyle I. Murray, Samuel White, Robert C. Miller, and Jeffrey P. Bigham introduce Legion, which combines human crowd workers’ keyboard and mouse input to control existing interfaces in real time. They compare five mediation strategies across selected applications (UIST, 2011).
+
 - **[Organizational Information Requirements, Media Richness and Structural Design](https://pubsonline.informs.org/doi/10.1287/mnsc.32.5.554)**: Richard L. Daft and Robert H. Lengel distinguish uncertainty from conflicting interpretations in organizational information processing. Their conceptual models relate information amount, communication richness, and organizational structure to these different needs. Transfer from human organizations to AI teams is unverified (Management Science, 1986).
 
 - **[Social learning strategies](https://lalandlab.wp.st-andrews.ac.uk/files/2015/08/laland_LB_2004.pdf)**: Kevin N. Laland reviews when individuals copy others and whom they copy, including uncertainty-, majority-, and payoff-based strategies. He compares theoretical predictions with animal and human evidence, including limits in direct experimental support. Transfer to AI teams is unverified (Learning & Behavior, 2004).
