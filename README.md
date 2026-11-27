@@ -916,6 +916,10 @@
 
 ### Evaluation and failure analysis
 
+- **[Benchmarks, Test Beds, Controlled Experimentation, and the Design of Agent Architectures](https://paulrcohen.github.io/papers/Hanks-1993.pdf)**: Steve Hanks, Martha E. Pollack, and Paul R. Cohen survey agent test beds and examine experimental control, representative tasks, and generalization from performance comparisons. The article presents differing views on experimental methodology for planning agents (AI Magazine, 1993).
+
+- **[Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2412.15701)**: Yijia Shao, Vinay Samuel, Yucheng Jiang, John Yang, and Diyi Yang provide shared task environments with asynchronous human–agent communication and actions. Evaluation covers travel planning, related-work writing, and tabular analysis with simulated users and human participants (ICLR, 2026).
+
 - **[AVA: Attentive VLM Agent for Mastering StarCraft II](https://aclanthology.org/2026.findings-acl.208/)**: Weiyu Ma, Yuqian Fu, Zecheng Zhang, Bernard Ghanem, and Guohao Li introduce AVACraft, 21 StarCraft II scenarios spanning micromanagement, coordination, and strategic planning. RGB images, language observations, and structured states support comparisons of trained multiagent policies and zero-shot vision-language methods (Findings of ACL, 2026).
 
 - **[CoEmbod: A Long-Horizon Benchmark for Multi-Agent Embodied Cooperation with Diverse Inter-Agent Dependencies](https://aclanthology.org/2026.emnlp-main.2247/)**: Dong et al. evaluate two-agent embodied cooperation through 155 simulated tasks involving spatial division, synchronized actions, and assisted failure recovery. Process metrics assess goal completion, cooperation requirements, and execution budgets (EMNLP, 2026).
