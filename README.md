@@ -376,6 +376,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[The Nonlinear Nature of Plans](https://ijcai.org/proceedings/1975/31)**: Earl D. Sacerdoti introduces procedural nets for representing hierarchical plans with partially ordered actions. NOAH analyzes subplan interactions and adds ordering constraints within a centralized planner supplied with domain-specific procedures (IJCAI, 1975).
+
 - **[STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving](https://ijcai.org/proceedings/1971/63)**: Richard E. Fikes and Nils J. Nilsson introduce STRIPS, which combines means–ends search with theorem proving over world models and action preconditions and effects. This centralized planning foundation supplies representations used in later multi-agent planning (IJCAI, 1971).
 
 - **[Cooperative Solution of Constraint Satisfaction Problems](https://web.mit.edu/2.717/www/oct_fujimoto_91.pdf)**: Scott H. Clearwater, Bernardo A. Huberman, and Tad Hogg compare cooperating computational agents on constraint-satisfaction problems. Their experiments test quantitative predictions about the benefits of cooperation within this problem class (Science, 1991).
