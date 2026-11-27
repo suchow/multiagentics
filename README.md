@@ -928,6 +928,8 @@
 
 ### Debate, reasoning, and aggregation
 
+- **[Defeasible Logic Programming: An Argumentative Approach](https://arxiv.org/abs/cs/0302029)**: Alejandro Javier García and Guillermo Ricardo Simari introduce DeLP, a formalism combining defeasible rules with argument construction and dialectical analysis of counterarguments. Queries succeed when their supporting arguments are warranted under this procedure (2003 preprint; Theory and Practice of Logic Programming, 2004).
+
 - **[Reinforce LLM Reasoning through Multi-Agent Reflection](https://proceedings.mlr.press/v267/yuan25l.html)**: Yuan and Xie introduce DPSDP, which trains actor and critic language models to refine answers through direct preference learning on self-generated data. They model refinement as a Markov decision process and evaluate reasoning across training and held-out distributions (ICML, 2025).
 
 - **[Improving Multi-Agent Debate with Sparse Communication Topology](https://aclanthology.org/2024.findings-emnlp.427/)**: Li et al. compare sparse and fully connected communication graphs in multi-agent debate. They measure performance and input-token cost with GPT and Mistral models on text reasoning, multimodal reasoning, and alignment-labeling tasks (Findings of EMNLP, 2024).
