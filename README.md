@@ -1038,6 +1038,8 @@
 
 ### Evaluation and failure analysis
 
+- **[The SocialAI school: a framework leveraging developmental psychology toward artificial socio-cultural agents](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1396359/full)**: Grgur Kovač, Rémy Portelas, Peter Ford Dominey, and Pierre-Yves Oudeyer introduce procedural environments for studying perspective taking, joint attention, communication, and social learning through interaction with other agents. Case studies evaluate reinforcement-learning agents and language models in controlled tasks (Frontiers in Neurorobotics, 2024).
+
 - **[SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?](https://proceedings.colm.cc/paper_files/paper/2025/hash/5bf234ecf83cd77bc5b77a24ba9338b0-Abstract-Conference.html)**: Yao et al. introduce SPIN-Bench, combining classical planning, competitive board games, cooperative card games, and negotiation scenarios. They vary action spaces, state complexity, and agent counts to evaluate strategic planning and social reasoning (COLM, 2025 pre-proceedings).
 
 - **[BARK: Open Behavior Benchmarking in Multi-Agent Environments](https://arxiv.org/abs/2003.02604)**: Julian Bernhard, Klemens Esterle, Patrick Hart, and Tobias Kessler introduce BARK for benchmarking interacting behavior models in traffic simulations. Models serve planning, prediction, and simulation roles. Evaluation uses dataset-derived and sampled scenarios to examine robustness when behavior models change (IROS, 2020).
