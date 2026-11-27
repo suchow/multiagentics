@@ -932,6 +932,8 @@
 
 ### Debate, reasoning, and aggregation
 
+- **[An abstract framework for argumentation with structured arguments](https://webspace.science.uu.nl/~prakk101/pubs/aspicAF.pdf)**: Henry Prakken defines arguments built from strict and defeasible inference rules, with attacks on premises, conclusions, and inferences. Preferences contribute to the defeat relation. The author provides a [correction to Definition 6.8](https://webspace.science.uu.nl/~prakk101/corr.html), which affects some formal results (Argument & Computation, 2010).
+
 - **[Defeasible Logic Programming: An Argumentative Approach](https://arxiv.org/abs/cs/0302029)**: Alejandro Javier García and Guillermo Ricardo Simari introduce DeLP, a formalism combining defeasible rules with argument construction and dialectical analysis of counterarguments. Queries succeed when their supporting arguments are warranted under this procedure (2003 preprint; Theory and Practice of Logic Programming, 2004).
 
 - **[Reinforce LLM Reasoning through Multi-Agent Reflection](https://proceedings.mlr.press/v267/yuan25l.html)**: Yuan and Xie introduce DPSDP, which trains actor and critic language models to refine answers through direct preference learning on self-generated data. They model refinement as a Markov decision process and evaluate reasoning across training and held-out distributions (ICML, 2025).
