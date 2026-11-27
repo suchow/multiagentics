@@ -1176,6 +1176,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[The Dissemination of Culture: A Model with Local Convergence and Global Polarization](https://journals.sagepub.com/doi/10.1177/0022002797041002001)**: Robert Axelrod models cultural influence among fixed neighboring agents with multiple discrete traits. Similarity-dependent interaction produces local convergence and, under studied parameter settings, persistent differences between regions. This is theoretical simulation; transfer to AI teams is unverified (Journal of Conflict Resolution, 1997).
+
 - **[Social influence and opinions](https://escholarship.org/content/qt2r82w1vs/qt2r82w1vs.pdf)**: Noah E. Friedkin and Eugene C. Johnsen model opinion change through interpersonal influence and continuing external influences. Their linear framework derives earlier models as special cases and analyzes conditions for settled opinions. This is adjacent human social-network theory; transfer to AI teams is unverified (Journal of Mathematical Sociology, 1990).
 
 - **[Socratic: Enhancing Human Teamwork via AI-enabled Coaching](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1876.pdf)**: Seo et al. introduce an AI coach that models team behavior from demonstrations and recommends interventions during task execution. A randomized validation study evaluates dyadic teams in partially observable box-moving and flood-response simulations (AAMAS, 2025).
@@ -1255,6 +1257,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- **[Assistax: A Multi-Agent Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics](https://rlj.org/papers/hinckeldey2026assistax)**: Hinckeldey et al. introduce GPU-accelerated assistive-robotics simulations with jointly trained robot and humanoid agents. Their ad hoc teamwork pipeline evaluates robot policies with withheld simulated humanoid policies representing unfamiliar preference combinations (Reinforcement Learning Journal, 2026).
 
 - **[Programmable self-assembly in a thousand-robot swarm](https://ssr.princeton.edu/sites/g/files/toruqf2946/files/documents/science2014-rubenstein.pdf)**: Michael Rubenstein, Alejandro Cornejo, and Radhika Nagpal demonstrate two-dimensional shape formation with 1,024 Kilobots using local communication and distance sensing. Robots receive the target shape in advance, and four manually placed seed robots establish its position and orientation (Science, 2014).
 
