@@ -666,6 +666,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[On the Utility of Learning about Humans for Human-AI Coordination](https://proceedings.neurips.cc/paper/2019/hash/f5b1b89d98b7286673128a5fb112cb9a-Abstract.html)**: Carroll et al. compare self-play and population-based training with agents trained to coordinate with a learned human model in Overcooked. A human user study also favors human-aware training, with a weaker effect than the model-based comparison (NeurIPS, 2019).
+
 - **[Open-ended learning in symmetric zero-sum games](https://proceedings.mlr.press/v97/balduzzi19a.html)**: Balduzzi et al. develop a geometric framework for evaluating populations in nontransitive symmetric zero-sum games. Their rectified Nash-response algorithm uses game-theoretic niches to construct diverse populations. Evaluation uses two resource-allocation games (ICML, 2019).
 
 - **[DeepStack: Expert-level artificial intelligence in heads-up no-limit poker](https://poker.cs.ualberta.ca/publications/17science.pdf)**: Moravčík et al. introduce DeepStack, combining continual re-solving with depth-limited search and learned counterfactual values for imperfect-information games. Evaluation uses 44,000 hands against professional players in two-player no-limit Texas hold’em (Science, 2017).
