@@ -1364,6 +1364,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[Illuminating search spaces by mapping elites](https://arxiv.org/abs/1504.04909)**: Jean-Baptiste Mouret and Jeff Clune introduce MAP-Elites, which maintains high-performing solutions across user-defined dimensions of variation. Evaluation spans modular neural networks and simulated and physical soft robots. This is an adjacent foundation for diversity-preserving search (2015 preprint, early draft).
+
 - **[Designing Collective Behavior in a Termite-Inspired Robot Construction Team](https://ssr.princeton.edu/sites/g/files/toruqf2946/files/documents/science2014-termes.pdf)**: Justin Werfel, Kirstin Petersen, and Radhika Nagpal compile target structures into rules for decentralized construction through local sensing and environmental coordination. They demonstrate the approach with three autonomous climbing robots using prefabricated bricks (Science, 2014).
 
 - **[Assistax: A Multi-Agent Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics](https://rlj.org/papers/hinckeldey2026assistax)**: Hinckeldey et al. introduce GPU-accelerated assistive-robotics simulations with jointly trained robot and humanoid agents. Their ad hoc teamwork pipeline evaluates robot policies with withheld simulated humanoid policies representing unfamiliar preference combinations (Reinforcement Learning Journal, 2026).
