@@ -1124,6 +1124,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[The Future of Crowd Work](https://hci.stanford.edu/publications/paper.php?id=247)**: Aniket Kittur, Jeffrey V. Nickerson, Michael S. Bernstein, Elizabeth M. Gerber, Aaron Shaw, John Zimmerman, Matthew Lease, and John J. Horton synthesize organizational research, distributed-computing ideas, and worker feedback into a research agenda for paid online crowd work. Topics include workflows, task assignment, hierarchy, collaboration, quality control, reputation, and motivation (CSCW, 2013).
+
 - **[Cognition in the Wild](https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/)**: Edwin Hutchins analyzes ship navigation as cognition distributed across a human team, its instruments, and its organizational practices. The book develops an ethnographic account of collective cognition (MIT Press, 1995; linked paperback edition, 1996).
 
 - **[Understanding and sharing intentions: The origins of cultural cognition](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/understanding-and-sharing-intentions-the-origins-of-cultural-cognition/F9C40BF73A68B30B8EB713F2F947F7E2)**: Michael Tomasello, Malinda Carpenter, Josep Call, Tanya Behne, and Henrike Moll propose shared intentionality as an account of human cultural cognition based on developmental and comparative research. The account concerns collaborative activities with shared goals and intentions; transfer to AI teams is unverified (Behavioral and Brain Sciences, 2005).
