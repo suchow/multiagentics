@@ -662,6 +662,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Open-ended learning in symmetric zero-sum games](https://proceedings.mlr.press/v97/balduzzi19a.html)**: Balduzzi et al. develop a geometric framework for evaluating populations in nontransitive symmetric zero-sum games. Their rectified Nash-response algorithm uses game-theoretic niches to construct diverse populations. Evaluation uses two resource-allocation games (ICML, 2019).
+
 - **[DeepStack: Expert-level artificial intelligence in heads-up no-limit poker](https://poker.cs.ualberta.ca/publications/17science.pdf)**: Moravčík et al. introduce DeepStack, combining continual re-solving with depth-limited search and learned counterfactual values for imperfect-information games. Evaluation uses 44,000 hands against professional players in two-player no-limit Texas hold’em (Science, 2017).
 
 - **[Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z)**: Vinyals et al. combine human-replay initialization with league training against evolving strategies and counter-strategies. AlphaStar is evaluated in anonymous online StarCraft II matches across all three races (Nature, 2019).
@@ -1227,6 +1229,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Absorptive Capacity: A New Perspective on Learning and Innovation](https://josephmahoney.web.illinois.edu/BA545_Fall%202013/Cohen%20and%20Levinthal%20%281990%29.pdf)**: Wesley M. Cohen and Daniel A. Levinthal analyze how prior related knowledge and organizational expertise affect the recognition, assimilation, and use of external information. They develop an R&D-investment model and test predictions using firm data; transfer to AI-agent organizations is unverified (Administrative Science Quarterly, 1990).
 
 - **[Productivity Loss in Brainstorming Groups: Toward the Solution of a Riddle](https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/wintersemester2011-12/seminarthemenfelderdersozialpsychologie/08_diehl_stoebe_productivityloss-brainstorming_jpsp1987.pdf)**: Michael Diehl and Wolfgang Stroebe investigate why interacting human brainstorming groups generate fewer ideas than pooled individuals. Four experiments identify production blocking as the main explanation in the studied conditions; transfer to AI teams is unverified (Journal of Personality and Social Psychology, 1987).
 
