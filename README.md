@@ -346,6 +346,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[MB-DPOP: A New Memory-Bounded Algorithm for Distributed Optimization](https://ijcai.org/proceedings/2007/234)**: Adrian Petcu and Boi Faltings combine DPOP utility propagation with cycle-cutset search to bound message dimensionality and memory use. Their discrete constraint-optimization model uses finite variable domains and summed utilities (IJCAI, 2007).
+
 - **[Multi-Agent Planning as a Dynamic Search for Social Consensus](https://ijcai.org/proceedings/1993/0060.pdf)**: Ephrati and Rosenschein construct joint plans through iterative voting and aggregation of agents’ goal constraints. Their formal procedure uses explicit utility functions and a search-gap bound, with examples in a blocks world (IJCAI, 1993).
 
 - **[VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft](https://aclanthology.org/2024.findings-acl.964/)**: Dong et al. represent task dependencies as directed acyclic graphs and coordinate assignment and state tracking through VillagerAgent. Their Minecraft benchmark, VillagerBench, tests construction, cooking, and escape-room tasks with spatial, causal, and temporal constraints (Findings of ACL, 2024).
@@ -699,6 +701,8 @@
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 
 ### Communication and emergent language
+
+- **[Learning Communication Skills in Multi-task Multi-agent Deep Reinforcement Learning](https://arxiv.org/abs/2511.03348)**: Changxi Zhu, Mehdi Dastani, and Shihan Wang learn shared message representations and communication graphs across cooperative tasks. Evaluation uses multi-task versions of AliceBob, SMAC, and Google Research Football with varying agent counts and observation/action spaces (2025 preprint).
 
 - [Thought Communication in Multiagent Collaboration](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b2b502c3629beadda06311386d2c6f73-Abstract-Conference.html) — Yujia Zheng, Zhuokai Zhao, Zijian Li, Yaqi Xie, Mingze Gao, Lizhu Zhang, and Kun Zhang extract latent representations from agent hidden states with a sparsity-regularized autoencoder and inject adapted representations during communication. The method requires model-internal access and additional training. Evaluation uses synthetic data and multi-agent debate on MATH and GSM8K (NeurIPS, 2025).
 
