@@ -426,6 +426,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Algorithm portfolios](https://www.cs.cornell.edu/gomes/pdf/2001_gomes_ai_portfolios.pdf)**: Carla P. Gomes and Bart Selman study combinations of randomized search procedures executed in parallel or interleaved on one processor. Experiments analyze how runtime variability and resource allocation affect performance on hard combinatorial problems. This is an adjacent foundation for heterogeneous collective search (Artificial Intelligence, 2001).
+
 - **[A comprehensive taxonomy for multi-robot task allocation](https://publications.ri.cmu.edu/a-comprehensive-taxonomy-for-multi-robot-task-allocation)**: G. Ayorkor Korsah, Anthony Stentz, and M. Bernardine Dias introduce iTax, which classifies robot-task allocation with interrelated utilities and constraints. The taxonomy maps problem classes to models from combinatorial optimization and operations research (The International Journal of Robotics Research, 2013).
 
 - **[The MADP Toolbox: An Open Source Library for Planning and Learning in (Multi-)Agent Systems](https://www.jmlr.org/papers/v18/17-156.html)**: Frans A. Oliehoek, Matthijs T. J. Spaan, Bas Terwijn, Philipp Robbel, and João V. Messias describe a C++ library for decision-theoretic planning and learning. It includes Dec-POMDP and POSG models, problem parsers, and algorithms for single-agent and multi-agent systems under partial observability and stochastic transitions (JMLR, 2017).
@@ -903,6 +905,8 @@
 - **[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)**: Rashid et al. train decentralized policies with a centralized value function (2018).
 
 ### Communication and emergent language
+
+- **[Learning Efficient Multi-agent Communication: An Information Bottleneck Approach](https://proceedings.mlr.press/v119/wang20i.html)**: Wang et al. introduce IMAC, combining an information-bottleneck objective for compact messages with a learned communication scheduler. Evaluation varies agent counts and bandwidth in cooperative and competitive multi-agent tasks (ICML, 2020).
 
 - **[Emergent Communication at Scale](https://github.com/google-deepmind/emergent_communication_at_scale)**: Chaabouni et al. study neural-agent communication across dataset size, task complexity, and population size. They release referential-game experiments using image-derived representations and measure transmission of learned protocols to new listeners (ICLR, 2022).
 
