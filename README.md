@@ -870,6 +870,8 @@
 
 ### Communication and emergent language
 
+- **[Emergent Communication at Scale](https://github.com/google-deepmind/emergent_communication_at_scale)**: Chaabouni et al. study neural-agent communication across dataset size, task complexity, and population size. They release referential-game experiments using image-derived representations and measure transmission of learned protocols to new listeners (ICLR, 2022).
+
 - **[Logic and Conversation](https://lawandlogic.org/wp-content/uploads/2018/07/grice1975logic-and-conversation.pdf)**: H. P. Grice analyzes conversational implicature through a cooperative principle and maxims concerning quantity, quality, relation, and manner. This is conceptual background on how participants infer meaning beyond what is explicitly said (1975).
 
 - **[EGG: a toolkit for research on Emergence of lanGuage in Games](https://aclanthology.org/D19-3010/)**: Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, and Marco Baroni introduce a modular toolkit for training neural agents in discrete-channel communication games. It provides components for comparing game designs, agent architectures, and optimization methods (EMNLP-IJCNLP System Demonstrations, 2019).
@@ -1281,6 +1283,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[Team mental models and team performance: A field study of the effects of team mental model similarity and accuracy](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/05/Lim_Klein_Team_mental_models_2006.pdf)**: Beng-Chong Lim and Katherine J. Klein study 71 human action teams and find that taskwork and teamwork mental-model similarity, alongside model accuracy, predict assessed team performance. This is observational human-team evidence; transfer to AI teams is unverified (Journal of Organizational Behavior, 2006).
 
 - **[Why Copy Others? Insights from the Social Learning Strategies Tournament](https://lalandlab.wp.st-andrews.ac.uk/files/2015/08/rendell_et-al_2010.pdf)**: Rendell et al. compare submitted social-learning strategies in a changing simulated multiarmed-bandit environment. Successful strategies frequently copied other agents, whose demonstrated actions filtered available information toward higher-payoff behavior (Science, 2010).
 
