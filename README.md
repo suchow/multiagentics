@@ -582,6 +582,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Non-manipulability and Approachability Beyond Two-Player Games](https://arxiv.org/abs/2611.33562)**: Natalie Collina, Elijah Journey Fullerton, Jingyi Liu, and S. Matthew Weinberg analyze independent learners facing one strategic optimizer in repeated multiplayer games without shared randomness. Their algorithms combine individual sublinear swap regret with joint non-manipulability and require Nash-equilibrium computation at each step (2026 preprint).
+
 - **[Monte Carlo Sampling for Regret Minimization in Extensive Games](https://proceedings.neurips.cc/paper/2009/hash/00411460f7c92d2124a67ea0f4cb5f85-Abstract.html)**: Marc Lanctot, Kevin Waugh, Martin Zinkevich, and Michael Bowling introduce Monte Carlo counterfactual regret minimization, including outcome and external sampling. The paper analyzes sampled regret updates and compares convergence with full-tree CFR in two-player zero-sum extensive games (NIPS, 2009).
 
 - **[On strategy-proofness and single peakedness](https://link.springer.com/article/10.1007/BF00128122)**: Hervé Moulin characterizes strategy-proof, anonymous, and efficient voting rules when agents report only their preferred points and preferences are single-peaked over the real line. The characterization uses median voting with fixed additional ballots (Public Choice, 1980).
@@ -1411,6 +1413,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- **[MRBench: Benchmarking Physical Necessity Reasoning in Heterogeneous Multi-Robot Manipulation](https://arxiv.org/abs/2611.32803)**: Yanzhe Chen, Zhijun Cao, Ruihe An, Chang Gong, and Mike Zheng Shou evaluate robot-team necessity across eight manipulation tasks and five resource configurations per task. Their MRScissors method separates task requirements from measured capabilities and searches for minimal feasible teams (2026 preprint).
 
 - **[A Characterization of Convex Problems in Decentralized Control](https://mcrotk.github.io/publications/tac06_repub.pdf)**: Michael Rotkowitz and Sanjay Lall introduce quadratic invariance, a condition relating controller constraints to system dynamics that permits convex formulations of structured optimal-control problems. The analysis concerns linear systems and structural subspace constraints; its unstable-plant formulation assumes a controller exists that is both stable and stabilizing (IEEE Transactions on Automatic Control, 2005; corrected republication, 2006).
 
