@@ -1318,6 +1318,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Human-AI Collaboration in Cooperative Games: A Study of Playing Codenames with an LLM Assistant](https://www.matthewsidji.com/my-work)**: Matthew Sidji, Wally Smith, and Melissa J. Rogerson observe 54 participants in ten groups playing Codenames with AI-assisted cluegivers and conduct post-game focus groups. Their qualitative findings examine idea generation, team mental models, and social connections within this setting (PACM HCI, CHI PLAY, 2024; author abstract).
+
 - **[A Garbage Can Model of Organizational Choice](https://perguntasaopo.wordpress.com/wp-content/uploads/2012/02/cohen_olsen_1972_a-garbage-can-model-of-organizational-choice.pdf)**: Michael D. Cohen, James G. March, and Johan P. Olsen simulate organizational decisions through interacting streams of problems, solutions, participants, and choice opportunities. Their model concerns ambiguous preferences, unclear processes, and changing participation, drawing on university studies. Transfer to AI teams is unverified (Administrative Science Quarterly, 1972).
 
 - **[Team mental models and team performance: A field study of the effects of team mental model similarity and accuracy](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/05/Lim_Klein_Team_mental_models_2006.pdf)**: Beng-Chong Lim and Katherine J. Klein study 71 human action teams and find that taskwork and teamwork mental-model similarity, alongside model accuracy, predict assessed team performance. This is observational human-team evidence; transfer to AI teams is unverified (Journal of Organizational Behavior, 2006).
