@@ -1100,6 +1100,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Measuring AI Agents as Teammates with Collaborative Intelligence](https://arxiv.org/abs/2611.02633)**: Wu et al. evaluate individual LLM teammates across eight dimensions using 240 tasks, scripted teammate problems, and live LLM partners. Scores include only tasks each model solves alone with full information. Code checks outcomes; LLM message labels control scripted branches (2026 preprint).
+
 - **[Measuring Counterfactual Credit in a Replayable Wildfire-Suppression Benchmark](https://arxiv.org/abs/2611.31499)**: Alireza Moghaddasi introduces FLARE, a stochastic wildfire-suppression benchmark for evaluating multiagent credit assignment. Experiments compare MAPPO feedback signals and audit COMA-style critics against simulator replay estimates. Action rankings remain unresolved because of replay noise at the tested budgets (2026 preprint).
 
 - **[SocialVeil: Probing Social Intelligence of Language Agents under Communication Barriers](https://proceedings.colm.cc/paper_files/paper/2026/hash/ca7355ce51a94e905d2c7f2b7c84e17d-Abstract-Conference.html)**: Xuan et al. simulate semantic vagueness, sociocultural mismatch, and emotional interference in agent interactions. Evaluation measures confusion resolution and mutual understanding across 720 scenarios, with human assessment of the simulated barriers (COLM, 2026 pre-proceedings).
