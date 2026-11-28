@@ -1292,6 +1292,8 @@
 
 ### Social simulation and negotiation
 
+- **[ThreadBench: Benchmarking Realism in Agentic Simulation of Real-world Discussions](https://arxiv.org/abs/2606.14715v2)**: Yu et al. introduce 9,817 Reddit discussion threads and twelve metrics spanning uniformity, expression, tone, and interaction. Evaluation compares generated and real metric distributions. Statistical non-rejection does not establish distributional equivalence or general simulation realism (2026 preprint, revised October 2026).
+
 - **[MERIT Feedback Elicits Better Bargaining in LLM Negotiators](https://aclanthology.org/2026.acl-long.1155/)**: Jihwan Oh, Murad Aghazada, Yooju Shin, Se-Young Yun, and Taehyeon Kim introduce AgoraBench, covering nine bargaining settings including deception and monopoly, alongside utility-based evaluation metrics. They evaluate utility-feedback prompting and fine-tuning within these negotiation settings (ACL, 2026).
 
 - **[Genius: An Integrated Environment for Supporting the Design of Generic Automated Negotiators](https://doi.org/10.1111/j.1467-8640.2012.00463.x)**: Lin et al. introduce Genius for designing and evaluating automated negotiators across negotiation domains. It combines analysis tools with repositories of domains, utility functions, and agent strategies (Computational Intelligence, 2014; online 2012).
