@@ -1418,6 +1418,8 @@
 
 ### Robotics, swarms, and collective control
 
+- **[Safety Barrier Certificates for Collisions-Free Multirobot Systems](https://liwanggt.github.io/files/A2_Safe_Swarm.pdf)**: Li Wang, Aaron D. Ames, and Magnus Egerstedt modify nominal multirobot controllers through quadratic programs enforcing collision-avoidance constraints, with decentralized constraints based on nearby robots. Guarantees use modeled double-integrator dynamics and admissible initial states. Experiments use differential-drive robots (IEEE Transactions on Robotics, 2017).
+
 - **[MRBench: Benchmarking Physical Necessity Reasoning in Heterogeneous Multi-Robot Manipulation](https://arxiv.org/abs/2611.32803)**: Yanzhe Chen, Zhijun Cao, Ruihe An, Chang Gong, and Mike Zheng Shou evaluate robot-team necessity across eight manipulation tasks and five resource configurations per task. Their MRScissors method separates task requirements from measured capabilities and searches for minimal feasible teams (2026 preprint).
 
 - **[A Characterization of Convex Problems in Decentralized Control](https://mcrotk.github.io/publications/tac06_repub.pdf)**: Michael Rotkowitz and Sanjay Lall introduce quadratic invariance, a condition relating controller constraints to system dynamics that permits convex formulations of structured optimal-control problems. The analysis concerns linear systems and structural subspace constraints; its unstable-plant formulation assumes a controller exists that is both stable and stabilizing (IEEE Transactions on Automatic Control, 2005; corrected republication, 2006).
