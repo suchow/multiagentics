@@ -582,6 +582,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Monte Carlo Sampling for Regret Minimization in Extensive Games](https://proceedings.neurips.cc/paper/2009/hash/00411460f7c92d2124a67ea0f4cb5f85-Abstract.html)**: Marc Lanctot, Kevin Waugh, Martin Zinkevich, and Michael Bowling introduce Monte Carlo counterfactual regret minimization, including outcome and external sampling. The paper analyzes sampled regret updates and compares convergence with full-tree CFR in two-player zero-sum extensive games (NIPS, 2009).
+
 - **[On strategy-proofness and single peakedness](https://link.springer.com/article/10.1007/BF00128122)**: Hervé Moulin characterizes strategy-proof, anonymous, and efficient voting rules when agents report only their preferred points and preferences are single-peaked over the real line. The characterization uses median voting with fixed additional ballots (Public Choice, 1980).
 
 - **[Evolution of indirect reciprocity by image scoring](https://homepage.univie.ac.at/karl.sigmund/Nature98.pdf)**: Martin A. Nowak and Karl Sigmund model cooperation based on recipients’ histories of helping others, without requiring repeated encounters between the same pair. Simulations and analysis relate cooperation to information about reputation and the cost-to-benefit ratio within specified evolutionary models (Nature, 1998).
