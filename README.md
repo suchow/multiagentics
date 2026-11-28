@@ -588,6 +588,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Non-Bayesian social learning](https://pooyamolavi.com/non_Bayesian_GEB.pdf)**: Ali Jadbabaie, Pooya Molavi, Alvaro Sandroni, and Alireza Tahbaz-Salehi combine Bayesian updates from ongoing private signals with weighted averaging of neighbors’ beliefs. Their learning result assumes strong network connectivity, positive self-reliance, some positive prior probability on the truth, and collective identifiability within the specified signal model (Games and Economic Behavior, 2012).
+
 - **[From External to Internal Regret](https://www.jmlr.org/papers/v8/blum07a.html)**: Avrim Blum and Yishay Mansour give generic reductions from external-regret algorithms to internal-regret algorithms. Their methods cover full-information feedback and bandit feedback, where only the selected action’s loss is observed (JMLR, 2007).
 
 - **[Non-manipulability and Approachability Beyond Two-Player Games](https://arxiv.org/abs/2611.33562)**: Natalie Collina, Elijah Journey Fullerton, Jingyi Liu, and S. Matthew Weinberg analyze independent learners facing one strategic optimizer in repeated multiplayer games without shared randomness. Their algorithms combine individual sublinear swap regret with joint non-manipulability and require Nash-equilibrium computation at each step (2026 preprint).
@@ -1093,6 +1095,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[SocialVeil: Probing Social Intelligence of Language Agents under Communication Barriers](https://proceedings.colm.cc/paper_files/paper/2026/hash/ca7355ce51a94e905d2c7f2b7c84e17d-Abstract-Conference.html)**: Xuan et al. simulate semantic vagueness, sociocultural mismatch, and emotional interference in agent interactions. Evaluation measures confusion resolution and mutual understanding across 720 scenarios, with human assessment of the simulated barriers (COLM, 2026 pre-proceedings).
 
 - **[Run the GAMUT: A Comprehensive Approach to Evaluating Game-Theoretic Algorithms](https://www.cs.ubc.ca/~kevinlb/papers/gamut.pdf)**: Eugene Nudelman, Jennifer Wortman, Yoav Shoham, and Kevin Leyton-Brown introduce a suite of game generators and a taxonomy for selecting test distributions. Experiments compare Nash-equilibrium computation and multi-agent learning in repeated games across different game families (AAMAS, 2004).
 
