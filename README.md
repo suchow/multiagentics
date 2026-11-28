@@ -420,6 +420,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[A comprehensive taxonomy for multi-robot task allocation](https://publications.ri.cmu.edu/a-comprehensive-taxonomy-for-multi-robot-task-allocation)**: G. Ayorkor Korsah, Anthony Stentz, and M. Bernardine Dias introduce iTax, which classifies robot-task allocation with interrelated utilities and constraints. The taxonomy maps problem classes to models from combinatorial optimization and operations research (The International Journal of Robotics Research, 2013).
+
 - **[The MADP Toolbox: An Open Source Library for Planning and Learning in (Multi-)Agent Systems](https://www.jmlr.org/papers/v18/17-156.html)**: Frans A. Oliehoek, Matthijs T. J. Spaan, Bas Terwijn, Philipp Robbel, and João V. Messias describe a C++ library for decision-theoretic planning and learning. It includes Dec-POMDP and POSG models, problem parsers, and algorithms for single-agent and multi-agent systems under partial observability and stochastic transitions (JMLR, 2017).
 
 - **[Temporal constraint networks](https://ics.uci.edu/~csp/r10.pdf)**: Rina Dechter, Itay Meiri, and Judea Pearl represent event times through unary and binary interval constraints. Their simple temporal problem permits a single interval for each constrained time difference and admits polynomial-time solution. This is a centralized temporal-reasoning foundation (Artificial Intelligence, 1991).
@@ -581,6 +583,8 @@
 - **[Knowledge and Common Knowledge in a Distributed Environment](https://groups.csail.mit.edu/tds/papers/Halpern/JACM90.pdf)**: Halpern and Moses formalize group knowledge and its role in coordinated action, including attainable weaker forms of common knowledge under specified communication and timing models (JACM, 1990).
 
 ### Game theory, mechanisms, and learning dynamics
+
+- **[From External to Internal Regret](https://www.jmlr.org/papers/v8/blum07a.html)**: Avrim Blum and Yishay Mansour give generic reductions from external-regret algorithms to internal-regret algorithms. Their methods cover full-information feedback and bandit feedback, where only the selected action’s loss is observed (JMLR, 2007).
 
 - **[Non-manipulability and Approachability Beyond Two-Player Games](https://arxiv.org/abs/2611.33562)**: Natalie Collina, Elijah Journey Fullerton, Jingyi Liu, and S. Matthew Weinberg analyze independent learners facing one strategic optimizer in repeated multiplayer games without shared randomness. Their algorithms combine individual sublinear swap regret with joint non-manipulability and require Nash-equilibrium computation at each step (2026 preprint).
 
