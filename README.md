@@ -1060,6 +1060,8 @@
 
 ### Evaluation and failure analysis
 
+- **[OpenDGO: Benchmarking Multi-Agent Organizations Across Diverse Application Domains](https://arxiv.org/abs/2610.17143)**: Li et al. compare fixed and learned agent organizations across six domains and three imposed collaboration settings: sequential dependency, parallel decomposition, and information integration. Separate comparisons vary communication graphs, role and input assignments, nominal resource caps, and component failures (2026 preprint).
+
 - **[τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://proceedings.mlr.press/v306/barres26a.html)**: Victor Barres, Honghua Dong, Soham Ray, Xujie Si, and Karthik R. Narasimhan introduce a telecom support environment where both an agent and a constrained simulated user operate tools that change shared state. Compositional tasks and ablations distinguish reasoning errors from communication and coordination failures (ICML, 2026; 2025 preprint).
 
 - **[GoBigger: A Scalable Platform for Cooperative-Competitive Multi-Agent Interactive Simulation](https://github.com/opendilab/GoBigger#citation)**: Zhang et al. introduce an Agar-like simulation platform with cooperation within teams and competition among multiple teams. GoBigger provides challenge scenarios, built-in opponents, and visualization tools for evaluating multi-agent reinforcement learning (ICLR, 2023; accepted PDF title ends *Cooperative-Competitive Multi-Agent Reinforcement Learning*).
