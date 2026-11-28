@@ -313,6 +313,8 @@
 
 ### Agent foundations and architectures
 
+- **[Decentralized Stochastic Control with Partial History Sharing: A Common Information Approach](https://web.eecs.umich.edu/~teneket/pubs/ASHUTOSH%2CPARTIAL-HIST-SHAR-IEEE-TAC.pdf)**: Ashutosh Nayyar, Aditya Mahajan, and Demosthenis Teneketzis reformulate decentralized control with partial history sharing as a coordinator’s POMDP over prescriptions mapping local information to actions. Their dynamic program uses specified memory-sharing protocols and perfect recall of shared information, with finite state, observation, and control sets in the exposition (IEEE Transactions on Automatic Control, 2013).
+
 - **[Team Decision Theory and Information Structures in Optimal Control Problems—Part I](https://mcrotk.github.io/courses/references/ho_chu.pdf)**: Yu-Chi Ho and K’ai-Ching Chu analyze dynamic cooperative control with partially nested information: each decision maker receives the information of predecessors whose actions affect its observations. Under the paper’s linear-information, Gaussian, and quadratic-cost assumptions, optimal control laws are linear (IEEE Transactions on Automatic Control, 1972).
 
 - **[Markets and Computation: Agoric Open Systems](https://papers.agoric.com/papers/markets-and-computation-agoric-open-systems/full-text/)**: Mark S. Miller and K. Eric Drexler propose coordinating software objects through prices and trade in computational resources. Their architectural account requires protected ownership and transfer of information, access, and resources (The Ecology of Computation, 1988).
