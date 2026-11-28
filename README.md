@@ -694,6 +694,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[LLM-Assisted Semantically Diverse Teammate Generation for Efficient Multi-agent Coordination](https://proceedings.mlr.press/v267/li25dq.html)**: Lihe Li, Lei Yuan, Pengsen Liu, Tao Jiang, and Yang Yu introduce SemDiv, which generates natural-language coordination behaviors and converts them into reward functions for training teammate policies. Language-based reasoning selects specialized coordination policies. Evaluation uses four MARL environments, each with five unseen representative teammates (ICML, 2025).
+
 - **[Reinforcement Learning for RoboCup-Soccer Keepaway](https://www.cs.utexas.edu/~AustinVilla/details/AB05.html)**: Peter Stone, Richard S. Sutton, and Gregory Kuhlmann study decentralized learning in simulated soccer keepaway, where agents choose when to hold or pass the ball. Evaluation compares benchmark policies across field sizes and team compositions (Adaptive Behavior, 2005).
 
 - **[Open-Ended Learning Leads to Generally Capable Agents](https://arxiv.org/abs/2107.12808)**: The Open Ended Learning Team trains agents across procedurally generated 3D cooperative, competitive, and independent games. Training adapts task distributions and objectives across generations. Evaluation uses held-out games and hand-authored probes within the environment domain (2021 preprint).
@@ -965,6 +967,8 @@
 - **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2016/hash/c7635bfd99248a2cdef8249ef7bfbef4-Abstract.html)**: Foerster et al. introduce Reinforced Inter-Agent Learning (RIAL), which uses deep Q-learning, and Differentiable Inter-Agent Learning (DIAL), which propagates training gradients through noisy communication channels. Evaluation concerns shared-reward, partially observable tasks. DIAL uses centralized training and decentralized execution (NIPS, 2016).
 
 ### LLM team architectures and orchestration
+
+- **[SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly](https://proceedings.neurips.cc/paper_files/paper/2025/hash/537d89d08145ce0432bdb7e0bc9759e1-Abstract-Conference.html)**: Wei Zhu, Zhiwen Tang, and Kun Yue schedule heterogeneous language-model agents within Monte Carlo tree search. Evaluation uses HotpotQA, WebShop, and MBPP (NeurIPS, 2025).
 
 - **[MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d1f02132ef51602adf07000ca5b6138-Abstract-Conference.html)**: Wei Tao, Yucheng Zhou, Yanlin Wang, Wenqiang Zhang, Hongyu Zhang, and Yu Cheng coordinate manager, repository-custodian, developer, and quality-assurance agents for repository-level issue resolution. Evaluation uses SWE-bench to examine planning and code changes in existing repositories (NeurIPS, 2024).
 
