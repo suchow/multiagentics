@@ -1266,6 +1266,8 @@
 
 ### Safety, security, and verification
 
+- **[WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks](https://aclanthology.org/2026.findings-emnlp.1424/)**: Wang et al. evaluate collaboration across simulated personal workspaces using 124 base tasks and matched benign and attack scenarios. WeClawArena separates task utility from LLM-judged attack success and records messages, tool operations, approvals, and final workspace states (Findings of EMNLP, 2026).
+
 - **[GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal Graph Modeling](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0bc795afae289ed465a65a3b4b1f4eb7-Abstract-Conference.html)**: Zhou, Wang, and Yang model agent responses and communication as temporal graphs and detect anomalies through graph reconstruction. Evaluation examines hallucination propagation and injected agent or message errors on MMLU, MATH, FEVER, and Biographies (NeurIPS, 2025).
 
 - **[Strategy logic](https://research-explorer.ista.ac.at/record/3861)**: Chatterjee, Henzinger, and Piterman introduce a logic with explicit quantification over strategies in two-player games. Its one-alternation fragment can express the existence of Nash and secure equilibria (Information and Computation, 2010).
