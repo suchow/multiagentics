@@ -1066,6 +1066,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Habitat 3.0: A Co-Habitat for Humans, Avatars, and Robots](https://proceedings.iclr.cc/paper_files/paper/2024/hash/430894999584d0bd358611e2ecf00b15-Abstract-Conference.html)**: Puig et al. introduce humanoid simulation, human interaction interfaces, and Social Navigation and Social Rearrangement tasks for studying human–robot collaboration in simulated homes. Evaluation includes learned and heuristic policies with simulated humanoids and human participants (ICLR, 2024).
+
 - **[Multiagent Evaluation under Incomplete Information](https://arxiv.org/abs/1909.09849)**: Rowland et al. study agent ranking from noisy match outcomes in general-sum, many-player games. They develop adaptive sampling methods and relate uncertainty in outcomes to uncertainty in rankings. Evaluation uses Bernoulli games, a soccer meta-game, and Kuhn poker (NeurIPS, 2019).
 
 - **[OpenDGO: Benchmarking Multi-Agent Organizations Across Diverse Application Domains](https://arxiv.org/abs/2610.17143)**: Li et al. compare fixed and learned agent organizations across six domains and three imposed collaboration settings: sequential dependency, parallel decomposition, and information integration. Separate comparisons vary communication graphs, role and input assignments, nominal resource caps, and component failures (2026 preprint).
