@@ -590,6 +590,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[Marginal Contribution Nets: A Compact Representation Scheme for Coalitional Games](https://ai.stanford.edu/~shoham/www%20papers/IeongShohamEC05.pdf)**: Samuel Ieong and Yoav Shoham introduce a rule-based representation of transferable-utility coalitional games. Shapley-value computation is linear in representation size; their core algorithms have exponential dependence on the representation graph’s treewidth. Some games require exponential representation space (ACM EC, 2005).
+
 - **[Non-Bayesian social learning](https://pooyamolavi.com/non_Bayesian_GEB.pdf)**: Ali Jadbabaie, Pooya Molavi, Alvaro Sandroni, and Alireza Tahbaz-Salehi combine Bayesian updates from ongoing private signals with weighted averaging of neighbors’ beliefs. Their learning result assumes strong network connectivity, positive self-reliance, some positive prior probability on the truth, and collective identifiability within the specified signal model (Games and Economic Behavior, 2012).
 
 - **[From External to Internal Regret](https://www.jmlr.org/papers/v8/blum07a.html)**: Avrim Blum and Yishay Mansour give generic reductions from external-regret algorithms to internal-regret algorithms. Their methods cover full-information feedback and bandit feedback, where only the selected action’s loss is observed (JMLR, 2007).
