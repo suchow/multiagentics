@@ -1070,6 +1070,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world](https://proceedings.nips.cc/paper_files/paper/2022/hash/191e9e721a2748a860714fb23aaf7c5d-Abstract-Datasets_and_Benchmarks.html)**: Eugene Vinitsky, Nathan Lichtlé, Xiaomeng Yang, Brandon Amos, and Jakob Foerster introduce a two-dimensional simulator for multi-agent driving coordination under partial observability, using recorded trajectories and maps. They benchmark reinforcement-learning and imitation-learning agents with vectorized visible-scene features (NeurIPS Datasets and Benchmarks, 2022).
+
 - **[Habitat 3.0: A Co-Habitat for Humans, Avatars, and Robots](https://proceedings.iclr.cc/paper_files/paper/2024/hash/430894999584d0bd358611e2ecf00b15-Abstract-Conference.html)**: Puig et al. introduce humanoid simulation, human interaction interfaces, and Social Navigation and Social Rearrangement tasks for studying human–robot collaboration in simulated homes. Evaluation includes learned and heuristic policies with simulated humanoids and human participants (ICLR, 2024).
 
 - **[Multiagent Evaluation under Incomplete Information](https://arxiv.org/abs/1909.09849)**: Rowland et al. study agent ranking from noisy match outcomes in general-sum, many-player games. They develop adaptive sampling methods and relate uncertainty in outcomes to uncertainty in rankings. Evaluation uses Bernoulli games, a soccer meta-game, and Kuhn poker (NeurIPS, 2019).
