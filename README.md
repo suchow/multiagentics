@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Distributed Algorithms](https://groups.csail.mit.edu/tds/distalgs.html)**: Nancy A. Lynch develops automata-based models for distributed algorithms, including consensus, communication, resource allocation, and synchronization. Results are organized by timing assumptions and by shared-memory or message-passing communication (Morgan Kaufmann, 1996).
+
 - **[Dynamic Epistemic Logic](https://link.springer.com/book/10.1007/978-1-4020-5839-4)**: Hans van Ditmarsch, Wiebe van der Hoek, and Barteld Kooi develop logics for knowledge change in multi-agent systems, including public announcements, epistemic actions, and belief revision. The book presents proof systems, completeness results, and expressivity comparisons (Springer, published 2007; copyright 2008).
 
 - **[The Uses of Argument](https://www.cambridge.org/core/books/the-uses-of-argument/26CF801BC12004587B66778297D5567C)**: Stephen E. Toulmin analyzes the structure and justification of arguments, including data, warrants, and backing, and examines how standards of assessment vary across fields. This is conceptual argumentation background (1958; updated edition, 2003; [publisher frontmatter](https://assets.cambridge.org/97805218/27485/frontmatter/9780521827485_frontmatter.pdf)).
@@ -1053,6 +1055,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://proceedings.mlr.press/v306/barres26a.html)**: Victor Barres, Honghua Dong, Soham Ray, Xujie Si, and Karthik R. Narasimhan introduce a telecom support environment where both an agent and a constrained simulated user operate tools that change shared state. Compositional tasks and ablations distinguish reasoning errors from communication and coordination failures (ICML, 2026; 2025 preprint).
 
 - **[GoBigger: A Scalable Platform for Cooperative-Competitive Multi-Agent Interactive Simulation](https://github.com/opendilab/GoBigger#citation)**: Zhang et al. introduce an Agar-like simulation platform with cooperation within teams and competition among multiple teams. GoBigger provides challenge scenarios, built-in opponents, and visualization tools for evaluating multi-agent reinforcement learning (ICLR, 2023; accepted PDF title ends *Cooperative-Competitive Multi-Agent Reinforcement Learning*).
 
