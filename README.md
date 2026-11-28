@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Multiagent Systems: A Modern Approach to Distributed Artificial Intelligence](https://mitpress.mit.edu/9780262232036/multiagent-systems/)**: Edited by Gerhard Weiss, this collection introduces multiagent systems and distributed artificial intelligence through theoretical and applied contributions from multiple researchers. It is intended for teaching, self-study, and reference (MIT Press, 1999).
+
 - **[Distributed Algorithms](https://groups.csail.mit.edu/tds/distalgs.html)**: Nancy A. Lynch develops automata-based models for distributed algorithms, including consensus, communication, resource allocation, and synchronization. Results are organized by timing assumptions and by shared-memory or message-passing communication (Morgan Kaufmann, 1996).
 
 - **[Dynamic Epistemic Logic](https://link.springer.com/book/10.1007/978-1-4020-5839-4)**: Hans van Ditmarsch, Wiebe van der Hoek, and Barteld Kooi develop logics for knowledge change in multi-agent systems, including public announcements, epistemic actions, and belief revision. The book presents proof systems, completeness results, and expressivity comparisons (Springer, published 2007; copyright 2008).
@@ -675,6 +677,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Open-Ended Learning Leads to Generally Capable Agents](https://arxiv.org/abs/2107.12808)**: The Open Ended Learning Team trains agents across procedurally generated 3D cooperative, competitive, and independent games. Training adapts task distributions and objectives across generations. Evaluation uses held-out games and hand-authored probes within the environment domain (2021 preprint).
 
 - **[On the Utility of Learning about Humans for Human-AI Coordination](https://proceedings.neurips.cc/paper/2019/hash/f5b1b89d98b7286673128a5fb112cb9a-Abstract.html)**: Carroll et al. compare self-play and population-based training with agents trained to coordinate with a learned human model in Overcooked. A human user study also favors human-aware training, with a weaker effect than the model-based comparison (NeurIPS, 2019).
 
