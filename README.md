@@ -132,6 +132,8 @@
 
 ## Environments & simulation
 
+- **[RLCard: A Platform for Reinforcement Learning in Card Games](https://ijcai.org/proceedings/2020/764)**: Daochen Zha et al. provide unified card-game interfaces with configurable state representations, action encodings, and rewards, alongside baseline algorithms and visualization tools (IJCAI Demonstrations, 2020).
+
 - **[Google Research Football: A Novel Reinforcement Learning Environment](https://cdn.aaai.org/ojs/5878/5878-13-9103-1-10-20200513.pdf)**: Kurach et al. provide a football simulator with multiplayer and multi-agent support, full-game benchmarks, and simpler Football Academy scenarios (AAAI, 2020).
 - **[The Neural MMO Platform for Massively Multiagent Research](https://arxiv.org/abs/2110.07594)**: Suarez, Du, Zhu, Mordatch, and Isola describe the 2021 MMO-inspired platform combining large agent populations, long horizons, open-ended tasks, and modular game systems (2021).
 
@@ -1305,6 +1307,8 @@
 - **[Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318)**: Smith et al. evaluate cooperation across unfamiliar partners and scenarios in the Concordia Contest (2025).
 
 ### Human teamwork and collective intelligence
+
+- **[A Garbage Can Model of Organizational Choice](https://perguntasaopo.wordpress.com/wp-content/uploads/2012/02/cohen_olsen_1972_a-garbage-can-model-of-organizational-choice.pdf)**: Michael D. Cohen, James G. March, and Johan P. Olsen simulate organizational decisions through interacting streams of problems, solutions, participants, and choice opportunities. Their model concerns ambiguous preferences, unclear processes, and changing participation, drawing on university studies. Transfer to AI teams is unverified (Administrative Science Quarterly, 1972).
 
 - **[Team mental models and team performance: A field study of the effects of team mental model similarity and accuracy](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/05/Lim_Klein_Team_mental_models_2006.pdf)**: Beng-Chong Lim and Katherine J. Klein study 71 human action teams and find that taskwork and teamwork mental-model similarity, alongside model accuracy, predict assessed team performance. This is observational human-team evidence; transfer to AI teams is unverified (Journal of Organizational Behavior, 2006).
 
