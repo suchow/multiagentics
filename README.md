@@ -1318,6 +1318,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[Collaboratively Crowdsourcing Workflows with Turkomatic](https://people.eecs.berkeley.edu/~bjoern/projects/turkomatic/)**: Anand Kulkarni, Matthew Can, and Björn Hartmann introduce Turkomatic, where human crowd workers decompose and execute complex tasks while requesters inspect and revise the resulting workflows. Two evaluations examine crowd planning and requester intervention (CSCW, 2012; author project page).
+
 - **[The Hidden Rules of Hanabi: How Humans Outperform AI Agents](https://www.matthewsidji.com/my-work)**: Matthew Sidji, Wally Smith, and Melissa J. Rogerson observe three mixed-skill human Hanabi groups and analyze physical artifact manipulation, coordination, role establishment, and ongoing rule negotiation. This qualitative study examines human cooperative practices in a partially observable game with restricted communication (CHI, 2023; author abstract).
 
 - **[Human-AI Collaboration in Cooperative Games: A Study of Playing Codenames with an LLM Assistant](https://www.matthewsidji.com/my-work)**: Matthew Sidji, Wally Smith, and Melissa J. Rogerson observe 54 participants in ten groups playing Codenames with AI-assisted cluegivers and conduct post-game focus groups. Their qualitative findings examine idea generation, team mental models, and social connections within this setting (PACM HCI, CHI PLAY, 2024; author abstract).
