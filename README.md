@@ -578,6 +578,8 @@
 
 ### Game theory, mechanisms, and learning dynamics
 
+- **[On strategy-proofness and single peakedness](https://link.springer.com/article/10.1007/BF00128122)**: Hervé Moulin characterizes strategy-proof, anonymous, and efficient voting rules when agents report only their preferred points and preferences are single-peaked over the real line. The characterization uses median voting with fixed additional ballots (Public Choice, 1980).
+
 - **[Evolution of indirect reciprocity by image scoring](https://homepage.univie.ac.at/karl.sigmund/Nature98.pdf)**: Martin A. Nowak and Karl Sigmund model cooperation based on recipients’ histories of helping others, without requiring repeated encounters between the same pair. Simulations and analysis relate cooperation to information about reputation and the cost-to-benefit ratio within specified evolutionary models (Nature, 1998).
 
 - **[Incentive Compatibility and the Bargaining Problem](https://www.jstor.org/stable/1912346)**: Roger B. Myerson studies Bayesian collective choice with finite choice and type sets. He shows that equilibrium expected-utility allocations from indirect mechanisms are attainable through incentive-compatible direct mechanisms, then defines a bargaining solution over feasible allocations. Truthful reporting is a Bayesian-equilibrium property (Econometrica, 1979; [original-paper scan](https://captgouda24.github.io/nicholas-decker.github.io/pdfs/Myerson_Incentive_Compatibility_And.pdf)).
@@ -685,6 +687,8 @@
 - **[Strategy-Proofness and Arrow’s Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions](https://www.kellogg.northwestern.edu/~/media/Files/Faculty/Research/ArticlesBookChaptersWorkingPapers/Strategy%20Proofness.ashx)**: Mark Allen Satterthwaite establishes limits on truthful preference aggregation under formal voting assumptions (1975).
 
 ### Multi-agent reinforcement learning
+
+- **[Reinforcement Learning for RoboCup-Soccer Keepaway](https://www.cs.utexas.edu/~AustinVilla/details/AB05.html)**: Peter Stone, Richard S. Sutton, and Gregory Kuhlmann study decentralized learning in simulated soccer keepaway, where agents choose when to hold or pass the ball. Evaluation compares benchmark policies across field sizes and team compositions (Adaptive Behavior, 2005).
 
 - **[Open-Ended Learning Leads to Generally Capable Agents](https://arxiv.org/abs/2107.12808)**: The Open Ended Learning Team trains agents across procedurally generated 3D cooperative, competitive, and independent games. Training adapts task distributions and objectives across generations. Evaluation uses held-out games and hand-authored probes within the environment domain (2021 preprint).
 
