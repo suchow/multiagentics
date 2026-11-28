@@ -1066,6 +1066,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Multiagent Evaluation under Incomplete Information](https://arxiv.org/abs/1909.09849)**: Rowland et al. study agent ranking from noisy match outcomes in general-sum, many-player games. They develop adaptive sampling methods and relate uncertainty in outcomes to uncertainty in rankings. Evaluation uses Bernoulli games, a soccer meta-game, and Kuhn poker (NeurIPS, 2019).
+
 - **[OpenDGO: Benchmarking Multi-Agent Organizations Across Diverse Application Domains](https://arxiv.org/abs/2610.17143)**: Li et al. compare fixed and learned agent organizations across six domains and three imposed collaboration settings: sequential dependency, parallel decomposition, and information integration. Separate comparisons vary communication graphs, role and input assignments, nominal resource caps, and component failures (2026 preprint).
 
 - **[τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://proceedings.mlr.press/v306/barres26a.html)**: Victor Barres, Honghua Dong, Soham Ray, Xujie Si, and Karthik R. Narasimhan introduce a telecom support environment where both an agent and a constrained simulated user operate tools that change shared state. Compositional tasks and ablations distinguish reasoning errors from communication and coordination failures (ICML, 2026; 2025 preprint).
