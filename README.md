@@ -1076,6 +1076,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Run the GAMUT: A Comprehensive Approach to Evaluating Game-Theoretic Algorithms](https://www.cs.ubc.ca/~kevinlb/papers/gamut.pdf)**: Eugene Nudelman, Jennifer Wortman, Yoav Shoham, and Kevin Leyton-Brown introduce a suite of game generators and a taxonomy for selecting test distributions. Experiments compare Nash-equilibrium computation and multi-agent learning in repeated games across different game families (AAMAS, 2004).
+
 - **[TrueSkill™: A Bayesian Skill Rating System](https://proceedings.neurips.cc/paper/2006/hash/f44ee263952e65b3610b8ba51229d1f9-Abstract.html)**: Ralf Herbrich, Tom Minka, and Thore Graepel introduce Bayesian skill estimation from multiplayer and team outcomes, including draws and uncertainty in individual ratings. The model assumes Gaussian player performances and additive team performance. Experiments use human online-game results (NIPS, 2006).
 
 - **[Dispelling the Mirage of Progress in Offline MARL through Standardised Baselines and Evaluation](https://papers.nips.cc/paper_files/paper/2024/hash/fc6247c33cff077a3910d0c28463f445-Abstract-Datasets_and_Benchmarks_Track.html)**: Claude Formanek, Callum Rhys Tilbury, Louise Beyers, Jonathan Shock, and Arnu Pretorius examine baseline and evaluation inconsistencies in offline multi-agent reinforcement learning. They release standardized evaluation methods and baseline implementations, with comparisons across datasets used in prior work (NeurIPS Datasets and Benchmarks, 2024).
@@ -1401,6 +1403,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- **[A Characterization of Convex Problems in Decentralized Control](https://mcrotk.github.io/publications/tac06_repub.pdf)**: Michael Rotkowitz and Sanjay Lall introduce quadratic invariance, a condition relating controller constraints to system dynamics that permits convex formulations of structured optimal-control problems. The analysis concerns linear systems and structural subspace constraints; its unstable-plant formulation assumes a controller exists that is both stable and stabilizing (IEEE Transactions on Automatic Control, 2005; corrected republication, 2006).
 
 - **[Illuminating search spaces by mapping elites](https://arxiv.org/abs/1504.04909)**: Jean-Baptiste Mouret and Jeff Clune introduce MAP-Elites, which maintains high-performing solutions across user-defined dimensions of variation. Evaluation spans modular neural networks and simulated and physical soft robots. This is an adjacent foundation for diversity-preserving search (2015 preprint, early draft).
 
