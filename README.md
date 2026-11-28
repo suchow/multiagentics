@@ -414,6 +414,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Generalized Plan Recognition](https://cdn.aaai.org/AAAI/1986/AAAI86-006.pdf)**: Henry A. Kautz and James F. Allen formulate plan recognition as deductive inference over observed actions and an action taxonomy, supporting concurrent actions, shared steps, and disjunctive explanations. Recognition depends on a supplied action library and explicit closed-world assumptions (AAAI, 1986).
+
 - **[Single-Agent Planning in a Multi-Agent System: A Unified Framework for Type-Based Planners](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2382.pdf)**: Fengming Zhu and Fangzhen Lin unify exact and approximate type-based planners through layered lookahead and compare 13 implementations in multi-agent route planning. The model assumes observed states and actions, perfect recall, and stationary opponent-policy types (AAMAS, 2025).
 
 - **[A Hierarchical Protocol for Coordinating Multiagent Behaviors](https://cdn.aaai.org/AAAI/1990/AAAI90-013.pdf)**: Edmund H. Durfee and Thomas A. Montgomery coordinate agents through abstract descriptions of anticipated behavior, followed by detailed exchanges when potential interactions are detected. Their prototype assumes a shared language for behavioral dimensions and supports changes that avoid conflicts or promote cooperation (AAAI, 1990).
