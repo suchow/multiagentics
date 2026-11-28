@@ -1274,6 +1274,8 @@
 
 ### Social simulation and negotiation
 
+- **[MERIT Feedback Elicits Better Bargaining in LLM Negotiators](https://aclanthology.org/2026.acl-long.1155/)**: Jihwan Oh, Murad Aghazada, Yooju Shin, Se-Young Yun, and Taehyeon Kim introduce AgoraBench, covering nine bargaining settings including deception and monopoly, alongside utility-based evaluation metrics. They evaluate utility-feedback prompting and fine-tuning within these negotiation settings (ACL, 2026).
+
 - **[Genius: An Integrated Environment for Supporting the Design of Generic Automated Negotiators](https://doi.org/10.1111/j.1467-8640.2012.00463.x)**: Lin et al. introduce Genius for designing and evaluating automated negotiators across negotiation domains. It combines analysis tools with repositories of domains, utility functions, and agent strategies (Computational Intelligence, 2014; online 2012).
 
 - **[Supply Chain Management World: A Benchmark Environment for Situated Negotiations](https://link.springer.com/chapter/10.1007/978-3-030-33792-6_10)**: Mohammad et al. introduce Supply Chain Management World to evaluate situated negotiation strategies. Agents decide whom to negotiate with and what to negotiate about within a dynamic supply-chain simulation. The paper compares baseline strategies (PRIMA, 2019).
