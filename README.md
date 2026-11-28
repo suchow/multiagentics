@@ -22,6 +22,8 @@
 
 ## Foundations & surveys
 
+- **[Culture and the Evolutionary Process](https://press.uchicago.edu/ucp/books/book/chicago/C/bo5970597.html)**: Robert Boyd and Peter J. Richerson develop mathematical models of cultural transmission, including guided variation, biased copying, conformity, and the evolution of cooperation. This is human cultural-evolution theory; transfer to AI teams is unverified (University of Chicago Press, 1985).
+
 - **[Multiagent Systems: A Modern Approach to Distributed Artificial Intelligence](https://mitpress.mit.edu/9780262232036/multiagent-systems/)**: Edited by Gerhard Weiss, this collection introduces multiagent systems and distributed artificial intelligence through theoretical and applied contributions from multiple researchers. It is intended for teaching, self-study, and reference (MIT Press, 1999).
 
 - **[Distributed Algorithms](https://groups.csail.mit.edu/tds/distalgs.html)**: Nancy A. Lynch develops automata-based models for distributed algorithms, including consensus, communication, resource allocation, and synchronization. Results are organized by timing assumptions and by shared-memory or message-passing communication (Morgan Kaufmann, 1996).
