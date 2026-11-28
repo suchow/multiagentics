@@ -1074,6 +1074,8 @@
 
 ### Evaluation and failure analysis
 
+- **[Dispelling the Mirage of Progress in Offline MARL through Standardised Baselines and Evaluation](https://papers.nips.cc/paper_files/paper/2024/hash/fc6247c33cff077a3910d0c28463f445-Abstract-Datasets_and_Benchmarks_Track.html)**: Claude Formanek, Callum Rhys Tilbury, Louise Beyers, Jonathan Shock, and Arnu Pretorius examine baseline and evaluation inconsistencies in offline multi-agent reinforcement learning. They release standardized evaluation methods and baseline implementations, with comparisons across datasets used in prior work (NeurIPS Datasets and Benchmarks, 2024).
+
 - **[Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world](https://proceedings.nips.cc/paper_files/paper/2022/hash/191e9e721a2748a860714fb23aaf7c5d-Abstract-Datasets_and_Benchmarks.html)**: Eugene Vinitsky, Nathan Lichtlé, Xiaomeng Yang, Brandon Amos, and Jakob Foerster introduce a two-dimensional simulator for multi-agent driving coordination under partial observability, using recorded trajectories and maps. They benchmark reinforcement-learning and imitation-learning agents with vectorized visible-scene features (NeurIPS Datasets and Benchmarks, 2022).
 
 - **[Habitat 3.0: A Co-Habitat for Humans, Avatars, and Robots](https://proceedings.iclr.cc/paper_files/paper/2024/hash/430894999584d0bd358611e2ecf00b15-Abstract-Conference.html)**: Puig et al. introduce humanoid simulation, human interaction interfaces, and Social Navigation and Social Rearrangement tasks for studying human–robot collaboration in simulated homes. Evaluation includes learned and heuristic policies with simulated humanoids and human participants (ICLR, 2024).
