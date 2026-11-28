@@ -416,6 +416,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[Temporal constraint networks](https://ics.uci.edu/~csp/r10.pdf)**: Rina Dechter, Itay Meiri, and Judea Pearl represent event times through unary and binary interval constraints. Their simple temporal problem permits a single interval for each constrained time difference and admits polynomial-time solution. This is a centralized temporal-reasoning foundation (Artificial Intelligence, 1991).
+
 - **[Generalized Plan Recognition](https://cdn.aaai.org/AAAI/1986/AAAI86-006.pdf)**: Henry A. Kautz and James F. Allen formulate plan recognition as deductive inference over observed actions and an action taxonomy, supporting concurrent actions, shared steps, and disjunctive explanations. Recognition depends on a supplied action library and explicit closed-world assumptions (AAAI, 1986).
 
 - **[Single-Agent Planning in a Multi-Agent System: A Unified Framework for Type-Based Planners](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2382.pdf)**: Fengming Zhu and Fangzhen Lin unify exact and approximate type-based planners through layered lookahead and compare 13 implementations in multi-agent route planning. The model assumes observed states and actions, perfect recall, and stationary opponent-policy types (AAMAS, 2025).
