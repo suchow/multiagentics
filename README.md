@@ -416,6 +416,8 @@
 
 ### Planning, task allocation, and constraints
 
+- **[The MADP Toolbox: An Open Source Library for Planning and Learning in (Multi-)Agent Systems](https://www.jmlr.org/papers/v18/17-156.html)**: Frans A. Oliehoek, Matthijs T. J. Spaan, Bas Terwijn, Philipp Robbel, and João V. Messias describe a C++ library for decision-theoretic planning and learning. It includes Dec-POMDP and POSG models, problem parsers, and algorithms for single-agent and multi-agent systems under partial observability and stochastic transitions (JMLR, 2017).
+
 - **[Temporal constraint networks](https://ics.uci.edu/~csp/r10.pdf)**: Rina Dechter, Itay Meiri, and Judea Pearl represent event times through unary and binary interval constraints. Their simple temporal problem permits a single interval for each constrained time difference and admits polynomial-time solution. This is a centralized temporal-reasoning foundation (Artificial Intelligence, 1991).
 
 - **[Generalized Plan Recognition](https://cdn.aaai.org/AAAI/1986/AAAI86-006.pdf)**: Henry A. Kautz and James F. Allen formulate plan recognition as deductive inference over observed actions and an action taxonomy, supporting concurrent actions, shared steps, and disjunctive explanations. Recognition depends on a supplied action library and explicit closed-world assumptions (AAAI, 1986).
