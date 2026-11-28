@@ -121,6 +121,8 @@
 
 ## Communication protocols & standards
 
+- **[Information-Driven Interaction-Oriented Programming: BSPL, the Blindingly Simple Protocol Language](https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/AAMAS-11-IBIOP.pdf)**: Munindar P. Singh specifies multiagent communication protocols through message schemas, information dependencies, and protocol composition. The model assumes unique enactment keys, required parameter bindings, and immutable bindings within an enactment. Evaluation uses protocol examples from the literature (AAMAS, 2011).
+
 - **[Agent Communication Languages: Rethinking the Principles](https://www.csc2.ncsu.edu/faculty/mpsingh/papers/mas/computer-acl-98.pdf)**: Munindar P. Singh argues for communication semantics grounded in public social interaction and commitments (Computer, 1998).
 - **[Verifiable Semantics for Agent Communication Languages](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/icmas98.pdf)**: Michael Wooldridge defines a formal framework for determining whether an independent observer can verify semantic conformance in specified agent communication systems (ICMAS, 1998).
 
