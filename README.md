@@ -309,6 +309,8 @@
 
 ### Agent foundations and architectures
 
+- **[Team Decision Theory and Information Structures in Optimal Control Problems—Part I](https://mcrotk.github.io/courses/references/ho_chu.pdf)**: Yu-Chi Ho and K’ai-Ching Chu analyze dynamic cooperative control with partially nested information: each decision maker receives the information of predecessors whose actions affect its observations. Under the paper’s linear-information, Gaussian, and quadratic-cost assumptions, optimal control laws are linear (IEEE Transactions on Automatic Control, 1972).
+
 - **[Markets and Computation: Agoric Open Systems](https://papers.agoric.com/papers/markets-and-computation-agoric-open-systems/full-text/)**: Mark S. Miller and K. Eric Drexler propose coordinating software objects through prices and trade in computational resources. Their architectural account requires protected ownership and transfer of information, access, and resources (The Ecology of Computation, 1988).
 
 - **[Implementing Distributed AI Systems Using MACE](https://experts.illinois.edu/en/publications/implementing-distributed-ai-systems-using-mace/)**: Les Gasser, Carl Braganza, and Nava Herman describe an instrumented environment for parallel agents with message passing, agent descriptions, execution tracing, and monitoring. Demonstrations include distributed production systems, blackboards, and Contract Net architectures (1987; institutional abstract).
@@ -1073,6 +1075,8 @@
 - **[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)**: Khan et al. study multi-agent debate between LLMs as a method for scalable oversight and for eliciting more truthful answers from non-expert judges (ICML 2024).
 
 ### Evaluation and failure analysis
+
+- **[TrueSkill™: A Bayesian Skill Rating System](https://proceedings.neurips.cc/paper/2006/hash/f44ee263952e65b3610b8ba51229d1f9-Abstract.html)**: Ralf Herbrich, Tom Minka, and Thore Graepel introduce Bayesian skill estimation from multiplayer and team outcomes, including draws and uncertainty in individual ratings. The model assumes Gaussian player performances and additive team performance. Experiments use human online-game results (NIPS, 2006).
 
 - **[Dispelling the Mirage of Progress in Offline MARL through Standardised Baselines and Evaluation](https://papers.nips.cc/paper_files/paper/2024/hash/fc6247c33cff077a3910d0c28463f445-Abstract-Datasets_and_Benchmarks_Track.html)**: Claude Formanek, Callum Rhys Tilbury, Louise Beyers, Jonathan Shock, and Arnu Pretorius examine baseline and evaluation inconsistencies in offline multi-agent reinforcement learning. They release standardized evaluation methods and baseline implementations, with comparisons across datasets used in prior work (NeurIPS Datasets and Benchmarks, 2024).
 
