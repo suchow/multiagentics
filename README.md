@@ -933,8 +933,6 @@
 
 - **[Emergent Communication through Negotiation](https://arxiv.org/abs/1804.03980)**: Cao et al. compare grounded offer channels with learned cheap talk in a semi-cooperative negotiation game. They examine how prosocial rewards and identifiable partners affect communication within that game (ICLR, 2018).
 
-- **[EGG: a toolkit for research on Emergence of lanGuage in Games](https://aclanthology.org/D19-3010/)**: Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, and Marco Baroni introduce modular building blocks for neural-agent communication games with discrete channels. The paper describes research infrastructure for varying architectures and optimization methods (EMNLP-IJCNLP System Demonstrations, 2019).
-
 - **[Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input](https://arxiv.org/abs/1804.03984)**: Angeliki Lazaridou, Karl Moritz Hermann, Karl Tuyls, and Stephen Clark compare communication learned from symbolic representations and raw pixels in referential games. They examine how input structure affects the learned protocols (ICLR, 2018).
 
 - **[Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://arxiv.org/abs/1705.11192)**: Serhii Havrylov and Ivan Titov train two agents to exchange discrete symbol sequences in a referential game. They compare reinforcement learning with a straight-through Gumbel-softmax relaxation and examine compositionality in the learned protocol (NIPS, 2017).
@@ -964,7 +962,7 @@
 - **[Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182)**: Lazaridou, Peysakhovich, and Baroni study learned communication in image referential games and methods for grounding the resulting symbols in natural language (2017).
 - **[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://cdn.aaai.org/ojs/11492/11492-13-15020-1-2-20201228.pdf)**: Mordatch and Abbeel study discrete compositional communication and nonverbal coordination in a physically situated cooperative environment (AAAI, 2018).
 - **[Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2410.02506)**: Zhang et al. introduce AgentPrune, which prunes message-passing graphs to reduce communication overhead in multi-agent systems (2024 preprint; ICLR, 2025).
-- **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)**: Foerster et al. introduce two methods for learning communication protocols among agents (2016).
+- **[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2016/hash/c7635bfd99248a2cdef8249ef7bfbef4-Abstract.html)**: Foerster et al. introduce Reinforced Inter-Agent Learning (RIAL), which uses deep Q-learning, and Differentiable Inter-Agent Learning (DIAL), which propagates training gradients through noisy communication channels. Evaluation concerns shared-reward, partially observable tasks. DIAL uses centralized training and decentralized execution (NIPS, 2016).
 
 ### LLM team architectures and orchestration
 
