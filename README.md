@@ -1318,6 +1318,8 @@
 
 ### Human teamwork and collective intelligence
 
+- **[The Hidden Rules of Hanabi: How Humans Outperform AI Agents](https://www.matthewsidji.com/my-work)**: Matthew Sidji, Wally Smith, and Melissa J. Rogerson observe three mixed-skill human Hanabi groups and analyze physical artifact manipulation, coordination, role establishment, and ongoing rule negotiation. This qualitative study examines human cooperative practices in a partially observable game with restricted communication (CHI, 2023; author abstract).
+
 - **[Human-AI Collaboration in Cooperative Games: A Study of Playing Codenames with an LLM Assistant](https://www.matthewsidji.com/my-work)**: Matthew Sidji, Wally Smith, and Melissa J. Rogerson observe 54 participants in ten groups playing Codenames with AI-assisted cluegivers and conduct post-game focus groups. Their qualitative findings examine idea generation, team mental models, and social connections within this setting (PACM HCI, CHI PLAY, 2024; author abstract).
 
 - **[A Garbage Can Model of Organizational Choice](https://perguntasaopo.wordpress.com/wp-content/uploads/2012/02/cohen_olsen_1972_a-garbage-can-model-of-organizational-choice.pdf)**: Michael D. Cohen, James G. March, and Johan P. Olsen simulate organizational decisions through interacting streams of problems, solutions, participants, and choice opportunities. Their model concerns ambiguous preferences, unclear processes, and changing participation, drawing on university studies. Transfer to AI teams is unverified (Administrative Science Quarterly, 1972).
@@ -1419,6 +1421,8 @@
 - **[Maximum Likelihood Estimation of Observer Error-Rates Using the EM Algorithm](https://crowdsourcing-class.org/readings/downloads/ml/EM.pdf)**: Dawid and Skene estimate observer-specific errors without known true labels, providing a statistical model for aggregating fallible judgments (1979).
 
 ### Robotics, swarms, and collective control
+
+- **[Flocking for Multi-Agent Dynamic Systems: Algorithms and Theory](https://hal.elte.hu/~vicsek/downloads/papers/flocking_tac06-engineering.pdf)**: Reza Olfati-Saber combines collective potentials, velocity alignment, and virtual agents in distributed flocking algorithms. Analysis concerns specified particle dynamics and initial conditions. Simulations demonstrate free-space flocking and obstacle maneuvers in two and three dimensions (IEEE Transactions on Automatic Control, 2006).
 
 - **[Safety Barrier Certificates for Collisions-Free Multirobot Systems](https://liwanggt.github.io/files/A2_Safe_Swarm.pdf)**: Li Wang, Aaron D. Ames, and Magnus Egerstedt modify nominal multirobot controllers through quadratic programs enforcing collision-avoidance constraints, with decentralized constraints based on nearby robots. Guarantees use modeled double-integrator dynamics and admissible initial states. Experiments use differential-drive robots (IEEE Transactions on Robotics, 2017).
 
