@@ -700,6 +700,8 @@
 
 ### Multi-agent reinforcement learning
 
+- **[Malthusian Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1099.pdf)**: Leibo et al. adapt species distributions across simulated islands according to reinforcement-learning returns, varying local population sizes while preserving the total population. Experiments examine exploration and specialist mutualism in partially observed resource environments (AAMAS, 2019).
+
 - **[LLM-Assisted Semantically Diverse Teammate Generation for Efficient Multi-agent Coordination](https://proceedings.mlr.press/v267/li25dq.html)**: Lihe Li, Lei Yuan, Pengsen Liu, Tao Jiang, and Yang Yu introduce SemDiv, which generates natural-language coordination behaviors and converts them into reward functions for training teammate policies. Language-based reasoning selects specialized coordination policies. Evaluation uses four MARL environments, each with five unseen representative teammates (ICML, 2025).
 
 - **[Reinforcement Learning for RoboCup-Soccer Keepaway](https://www.cs.utexas.edu/~AustinVilla/details/AB05.html)**: Peter Stone, Richard S. Sutton, and Gregory Kuhlmann study decentralized learning in simulated soccer keepaway, where agents choose when to hold or pass the ball. Evaluation compares benchmark policies across field sizes and team compositions (Adaptive Behavior, 2005).
